@@ -1,0 +1,1572 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_aerospace_engineering", 
+    "words": [
+        {
+            "def": "Ablative laser propulsion \u2014", 
+            "link": null, 
+            "name": "Ablative laser propulsion"
+        }, 
+        {
+            "def": "Absolute value \u2014", 
+            "link": null, 
+            "name": "Absolute value"
+        }, 
+        {
+            "def": "Acceleration \u2014", 
+            "link": null, 
+            "name": "Acceleration"
+        }, 
+        {
+            "def": "Action \u2014", 
+            "link": null, 
+            "name": "Action"
+        }, 
+        {
+            "def": "Advanced Space Vision System \u2014", 
+            "link": null, 
+            "name": "Advanced Space Vision System"
+        }, 
+        {
+            "def": "Aeroacoustics \u2014", 
+            "link": null, 
+            "name": "Aeroacoustics"
+        }, 
+        {
+            "def": "Aerobrake \u2014", 
+            "link": null, 
+            "name": "Aerobrake"
+        }, 
+        {
+            "def": "Aerobraking \u2014", 
+            "link": null, 
+            "name": "Aerobraking"
+        }, 
+        {
+            "def": "Aerocapture \u2014", 
+            "link": null, 
+            "name": "Aerocapture"
+        }, 
+        {
+            "def": "Aerodynamics \u2014", 
+            "link": null, 
+            "name": "Aerodynamics"
+        }, 
+        {
+            "def": "Aeroelasticity \u2014", 
+            "link": null, 
+            "name": "Aeroelasticity"
+        }, 
+        {
+            "def": "Aeronautical abbreviations \u2014", 
+            "link": null, 
+            "name": "Aeronautical abbreviations"
+        }, 
+        {
+            "def": "Aeronautics \u2014", 
+            "link": null, 
+            "name": "Aeronautics"
+        }, 
+        {
+            "def": "Aerospace engineering \u2014", 
+            "link": null, 
+            "name": "Aerospace engineering"
+        }, 
+        {
+            "def": "Aerospike engine \u2014", 
+            "link": null, 
+            "name": "Aerospike engine"
+        }, 
+        {
+            "def": "Aerostat \u2014", 
+            "link": null, 
+            "name": "Aerostat"
+        }, 
+        {
+            "def": "Aft-crossing trajectory \u2014", 
+            "link": null, 
+            "name": "Aft-crossing trajectory"
+        }, 
+        {
+            "def": "Aileron \u2014", 
+            "link": null, 
+            "name": "Aileron"
+        }, 
+        {
+            "def": "Air-augmented rocket \u2014", 
+            "link": null, 
+            "name": "Air-augmented rocket"
+        }, 
+        {
+            "def": "Aircraft \u2014", 
+            "link": null, 
+            "name": "Aircraft"
+        }, 
+        {
+            "def": "Aircraft flight control systems \u2014", 
+            "link": null, 
+            "name": "Aircraft flight control systems"
+        }, 
+        {
+            "def": "Aircraft flight mechanics \u2014", 
+            "link": null, 
+            "name": "Aircraft flight mechanics"
+        }, 
+        {
+            "def": "Airfoil \u2014", 
+            "link": null, 
+            "name": "Airfoil"
+        }, 
+        {
+            "def": "Airlock \u2014", 
+            "link": null, 
+            "name": "Airlock"
+        }, 
+        {
+            "def": "Airship \u2014", 
+            "link": null, 
+            "name": "Airship"
+        }, 
+        {
+            "def": "Alcubierre drive \u2014", 
+            "link": null, 
+            "name": "Alcubierre drive"
+        }, 
+        {
+            "def": "Angle of attack \u2014", 
+            "link": null, 
+            "name": "Angle of attack"
+        }, 
+        {
+            "def": "Angular momentum \u2014", 
+            "link": null, 
+            "name": "Angular momentum"
+        }, 
+        {
+            "def": "Angular velocity \u2014", 
+            "link": null, 
+            "name": "Angular velocity"
+        }, 
+        {
+            "def": "Antimatter rocket \u2014", 
+            "link": null, 
+            "name": "Antimatter rocket"
+        }, 
+        {
+            "def": "Apsis \u2014", 
+            "link": null, 
+            "name": "Apsis"
+        }, 
+        {
+            "def": "Arcjet rocket \u2014", 
+            "link": null, 
+            "name": "Arcjet rocket"
+        }, 
+        {
+            "def": "Areal velocity \u2014", 
+            "link": null, 
+            "name": "Areal velocity"
+        }, 
+        {
+            "def": "ARP4761 \u2014", 
+            "link": null, 
+            "name": "ARP4761"
+        }, 
+        {
+            "def": "Aspect ratio (wing) \u2014", 
+            "link": null, 
+            "name": "Aspect ratio (wing)"
+        }, 
+        {
+            "def": "Astrodynamics \u2014", 
+            "link": null, 
+            "name": "Astrodynamics"
+        }, 
+        {
+            "def": "Atmospheric reentry \u2014", 
+            "link": null, 
+            "name": "Atmospheric reentry"
+        }, 
+        {
+            "def": "Attitude control \u2014", 
+            "link": null, 
+            "name": "Attitude control"
+        }, 
+        {
+            "def": "Avionics \u2014", 
+            "link": null, 
+            "name": "Avionics"
+        }, 
+        {
+            "def": "Balloon \u2014", 
+            "link": null, 
+            "name": "Balloon"
+        }, 
+        {
+            "def": "Ballute \u2014", 
+            "link": null, 
+            "name": "Ballute"
+        }, 
+        {
+            "def": "Beam-powered propulsion \u2014", 
+            "link": null, 
+            "name": "Beam-powered propulsion"
+        }, 
+        {
+            "def": "Bernoulli's equation \u2014", 
+            "link": null, 
+            "name": "Bernoulli's equation"
+        }, 
+        {
+            "def": "Bi-elliptic transfer \u2014", 
+            "link": null, 
+            "name": "Bi-elliptic transfer"
+        }, 
+        {
+            "def": "Big dumb booster \u2014", 
+            "link": null, 
+            "name": "Big dumb booster"
+        }, 
+        {
+            "def": "Bipropellant rocket \u2014", 
+            "link": null, 
+            "name": "Bipropellant rocket"
+        }, 
+        {
+            "def": "Bleed air \u2014", 
+            "link": null, 
+            "name": "Bleed air"
+        }, 
+        {
+            "def": "Booster rocket \u2014", 
+            "link": null, 
+            "name": "Booster rocket"
+        }, 
+        {
+            "def": "Breakthrough Propulsion Physics Program \u2014", 
+            "link": null, 
+            "name": "Breakthrough Propulsion Physics Program"
+        }, 
+        {
+            "def": "Buoyancy \u2014", 
+            "link": null, 
+            "name": "Buoyancy"
+        }, 
+        {
+            "def": "Bussard ramjet \u2014", 
+            "link": null, 
+            "name": "Bussard ramjet"
+        }, 
+        {
+            "def": "Canard \u2014", 
+            "link": null, 
+            "name": "Canard"
+        }, 
+        {
+            "def": "Centennial challenges \u2014", 
+            "link": null, 
+            "name": "Centennial challenges"
+        }, 
+        {
+            "def": "Center of gravity \u2014", 
+            "link": null, 
+            "name": "Center of gravity"
+        }, 
+        {
+            "def": "Center of mass \u2014", 
+            "link": null, 
+            "name": "Center of mass"
+        }, 
+        {
+            "def": "Center of pressure \u2014", 
+            "link": null, 
+            "name": "Center of pressure"
+        }, 
+        {
+            "def": "Chord \u2014", 
+            "link": null, 
+            "name": "Chord"
+        }, 
+        {
+            "def": "Collimated light \u2014", 
+            "link": null, 
+            "name": "Collimated light"
+        }, 
+        {
+            "def": "Compressibility \u2014", 
+            "link": null, 
+            "name": "Compressibility"
+        }, 
+        {
+            "def": "Computational fluid dynamics \u2014", 
+            "link": null, 
+            "name": "Computational fluid dynamics"
+        }, 
+        {
+            "def": "Computing \u2014", 
+            "link": null, 
+            "name": "Computing"
+        }, 
+        {
+            "def": "Control engineering \u2014", 
+            "link": null, 
+            "name": "Control engineering"
+        }, 
+        {
+            "def": "Conservation of momentum \u2014", 
+            "link": null, 
+            "name": "Conservation of momentum"
+        }, 
+        {
+            "def": "Crew Exploration Vehicle \u2014", 
+            "link": null, 
+            "name": "Crew Exploration Vehicle"
+        }, 
+        {
+            "def": "Critical mach \u2014", 
+            "link": null, 
+            "name": "Critical mach"
+        }, 
+        {
+            "def": "Centrifugal compressor \u2014", 
+            "link": null, 
+            "name": "Centrifugal compressor"
+        }, 
+        {
+            "def": "Constant speed drive \u2014", 
+            "link": null, 
+            "name": "Constant speed drive"
+        }, 
+        {
+            "def": "Corrected flow \u2014", 
+            "link": null, 
+            "name": "Corrected flow"
+        }, 
+        {
+            "def": "De Laval nozzle \u2014", 
+            "link": null, 
+            "name": "De Laval nozzle"
+        }, 
+        {
+            "def": "Deflection \u2014", 
+            "link": null, 
+            "name": "Deflection"
+        }, 
+        {
+            "def": "Delta-v \u2014", 
+            "link": null, 
+            "name": "Delta-v"
+        }, 
+        {
+            "def": "Delta-v budget \u2014", 
+            "link": null, 
+            "name": "Delta-v budget"
+        }, 
+        {
+            "def": "Density \u2014", 
+            "link": null, 
+            "name": "Density"
+        }, 
+        {
+            "def": "Derivative \u2014", 
+            "link": null, 
+            "name": "Derivative"
+        }, 
+        {
+            "def": "Digital Datcom \u2014", 
+            "link": null, 
+            "name": "Digital Datcom"
+        }, 
+        {
+            "def": "Displacement (vector) \u2014", 
+            "link": null, 
+            "name": "Displacement (vector)"
+        }, 
+        {
+            "def": "DO-178B \u2014", 
+            "link": null, 
+            "name": "DO-178B"
+        }, 
+        {
+            "def": "DO-254 \u2014", 
+            "link": null, 
+            "name": "DO-254"
+        }, 
+        {
+            "def": "Drag (physics) \u2014", 
+            "link": null, 
+            "name": "Drag (physics)"
+        }, 
+        {
+            "def": "Drag coefficient \u2014", 
+            "link": null, 
+            "name": "Drag coefficient"
+        }, 
+        {
+            "def": "Drag equation \u2014", 
+            "link": null, 
+            "name": "Drag equation"
+        }, 
+        {
+            "def": "Dual mode propulsion rocket \u2014", 
+            "link": null, 
+            "name": "Dual mode propulsion rocket"
+        }, 
+        {
+            "def": "Delta wing\u2014", 
+            "link": null, 
+            "name": "Delta wing"
+        }, 
+        {
+            "def": "Earth's atmosphere \u2014", 
+            "link": null, 
+            "name": "Earth's atmosphere"
+        }, 
+        {
+            "def": "Electrostatic ion thruster \u2014", 
+            "link": null, 
+            "name": "Electrostatic ion thruster"
+        }, 
+        {
+            "def": "Elliptic partial differential equation \u2014", 
+            "link": null, 
+            "name": "Elliptic partial differential equation"
+        }, 
+        {
+            "def": "Energy \u2014", 
+            "link": null, 
+            "name": "Energy"
+        }, 
+        {
+            "def": "Engineering \u2014", 
+            "link": null, 
+            "name": "Engineering"
+        }, 
+        {
+            "def": "Engineering economics \u2014", 
+            "link": null, 
+            "name": "Engineering economics"
+        }, 
+        {
+            "def": "Enstrophy \u2014", 
+            "link": null, 
+            "name": "Enstrophy"
+        }, 
+        {
+            "def": "Equation of motion \u2014", 
+            "link": null, 
+            "name": "Equation of motion"
+        }, 
+        {
+            "def": "Euler angles \u2014", 
+            "link": null, 
+            "name": "Euler angles"
+        }, 
+        {
+            "def": "European Space Agency \u2014", 
+            "link": null, 
+            "name": "European Space Agency"
+        }, 
+        {
+            "def": "Expander cycle (rocket) \u2014", 
+            "link": null, 
+            "name": "Expander cycle (rocket)"
+        }, 
+        {
+            "def": "Field Emission Electric Propulsion \u2014", 
+            "link": null, 
+            "name": "Field Emission Electric Propulsion"
+        }, 
+        {
+            "def": "Fixed-wing aircraft \u2014", 
+            "link": null, 
+            "name": "Fixed-wing aircraft"
+        }, 
+        {
+            "def": "Flight control surfaces \u2014", 
+            "link": null, 
+            "name": "Flight control surfaces"
+        }, 
+        {
+            "def": "Flight control system (aircraft) \u2014", 
+            "link": null, 
+            "name": "Flight control system (aircraft)"
+        }, 
+        {
+            "def": "Flight control system (helicopter) \u2014", 
+            "link": null, 
+            "name": "Flight control system (helicopter)"
+        }, 
+        {
+            "def": "Flight dynamics \u2014", 
+            "link": null, 
+            "name": "Flight dynamics"
+        }, 
+        {
+            "def": "Floatstick \u2014", 
+            "link": null, 
+            "name": "Floatstick"
+        }, 
+        {
+            "def": "Fluid \u2014", 
+            "link": null, 
+            "name": "Fluid"
+        }, 
+        {
+            "def": "Fluid dynamics \u2014", 
+            "link": null, 
+            "name": "Fluid dynamics"
+        }, 
+        {
+            "def": "Fluid mechanics \u2014", 
+            "link": null, 
+            "name": "Fluid mechanics"
+        }, 
+        {
+            "def": "Fluid statics \u2014", 
+            "link": null, 
+            "name": "Fluid statics"
+        }, 
+        {
+            "def": "Force \u2014", 
+            "link": null, 
+            "name": "Force"
+        }, 
+        {
+            "def": "Freefall \u2014", 
+            "link": null, 
+            "name": "Freefall"
+        }, 
+        {
+            "def": "Future Air Navigation System \u2014", 
+            "link": null, 
+            "name": "Future Air Navigation System"
+        }, 
+        {
+            "def": "Flying wing \u2014", 
+            "link": null, 
+            "name": "Flying wing"
+        }, 
+        {
+            "def": "Gas-generator cycle (rocket) \u2014", 
+            "link": null, 
+            "name": "Gas-generator cycle (rocket)"
+        }, 
+        {
+            "def": "Geostationary orbit \u2014", 
+            "link": null, 
+            "name": "Geostationary orbit"
+        }, 
+        {
+            "def": "Geosynchronous orbit\u2014", 
+            "link": null, 
+            "name": "Geosynchronous orbit"
+        }, 
+        {
+            "def": "Glide ratio \u2014", 
+            "link": null, 
+            "name": "Glide ratio"
+        }, 
+        {
+            "def": "GPS \u2014", 
+            "link": null, 
+            "name": "GPS"
+        }, 
+        {
+            "def": "Gravitational constant \u2014", 
+            "link": null, 
+            "name": "Gravitational constant"
+        }, 
+        {
+            "def": "Gravitational slingshot \u2014", 
+            "link": null, 
+            "name": "Gravitational slingshot"
+        }, 
+        {
+            "def": "Gravity \u2014", 
+            "link": null, 
+            "name": "Gravity"
+        }, 
+        {
+            "def": "Hall effect thruster \u2014", 
+            "link": null, 
+            "name": "Hall effect thruster"
+        }, 
+        {
+            "def": "Heat shield \u2014", 
+            "link": null, 
+            "name": "Heat shield"
+        }, 
+        {
+            "def": "Helicopter \u2014", 
+            "link": null, 
+            "name": "Helicopter"
+        }, 
+        {
+            "def": "Hohmann transfer orbit \u2014", 
+            "link": null, 
+            "name": "Hohmann transfer orbit"
+        }, 
+        {
+            "def": "Hybrid rocket \u2014", 
+            "link": null, 
+            "name": "Hybrid rocket"
+        }, 
+        {
+            "def": "Hydrodynamics \u2014", 
+            "link": null, 
+            "name": "Hydrodynamics"
+        }, 
+        {
+            "def": "Hydrostatics \u2014", 
+            "link": null, 
+            "name": "Hydrostatics"
+        }, 
+        {
+            "def": "Hyperbolic partial differential equation \u2014", 
+            "link": null, 
+            "name": "Hyperbolic partial differential equation"
+        }, 
+        {
+            "def": "Hypersonic \u2014", 
+            "link": null, 
+            "name": "Hypersonic"
+        }, 
+        {
+            "def": "HyShot \u2014", 
+            "link": null, 
+            "name": "HyShot"
+        }, 
+        {
+            "def": "Impulse \u2014", 
+            "link": null, 
+            "name": "Impulse"
+        }, 
+        {
+            "def": "Instrument landing system \u2014", 
+            "link": null, 
+            "name": "Instrument landing system"
+        }, 
+        {
+            "def": "Integral \u2014", 
+            "link": null, 
+            "name": "Integral"
+        }, 
+        {
+            "def": "Internal combustion \u2014", 
+            "link": null, 
+            "name": "Internal combustion"
+        }, 
+        {
+            "def": "Interplanetary Transport Network \u2014", 
+            "link": null, 
+            "name": "Interplanetary Transport Network"
+        }, 
+        {
+            "def": "Interplanetary travel \u2014", 
+            "link": null, 
+            "name": "Interplanetary travel"
+        }, 
+        {
+            "def": "Interstellar travel \u2014", 
+            "link": null, 
+            "name": "Interstellar travel"
+        }, 
+        {
+            "def": "Ion thruster \u2014", 
+            "link": null, 
+            "name": "Ion thruster"
+        }, 
+        {
+            "def": "Jet engine \u2014", 
+            "link": null, 
+            "name": "Jet engine"
+        }, 
+        {
+            "def": "Kepler's laws of planetary motion \u2014", 
+            "link": null, 
+            "name": "Kepler's laws of planetary motion"
+        }, 
+        {
+            "def": "Kessler syndrome \u2014", 
+            "link": null, 
+            "name": "Kessler syndrome"
+        }, 
+        {
+            "def": "Kestrel rocket engine \u2014", 
+            "link": null, 
+            "name": "Kestrel rocket engine"
+        }, 
+        {
+            "def": "Kinetic energy \u2014", 
+            "link": null, 
+            "name": "Kinetic energy"
+        }, 
+        {
+            "def": "Kite \u2014", 
+            "link": null, 
+            "name": "Kite"
+        }, 
+        {
+            "def": "Kutta condition \u2014", 
+            "link": null, 
+            "name": "Kutta condition"
+        }, 
+        {
+            "def": "Kutta\u2013Joukowski theorem \u2014", 
+            "link": null, 
+            "name": "Kutta\u2013Joukowski theorem"
+        }, 
+        {
+            "def": "Landing \u2014", 
+            "link": null, 
+            "name": "Landing"
+        }, 
+        {
+            "def": "Landing gear \u2014", 
+            "link": null, 
+            "name": "Landing gear"
+        }, 
+        {
+            "def": "Lagrangian \u2014", 
+            "link": null, 
+            "name": "Lagrangian"
+        }, 
+        {
+            "def": "Lagrangian point \u2014", 
+            "link": null, 
+            "name": "Lagrangian point"
+        }, 
+        {
+            "def": "Laser broom \u2014", 
+            "link": null, 
+            "name": "Laser broom"
+        }, 
+        {
+            "def": "Laser Camera System \u2014", 
+            "link": null, 
+            "name": "Laser Camera System"
+        }, 
+        {
+            "def": "Latus rectum \u2014", 
+            "link": null, 
+            "name": "Latus rectum"
+        }, 
+        {
+            "def": "Launch window \u2014", 
+            "link": null, 
+            "name": "Launch window"
+        }, 
+        {
+            "def": "Law of universal gravitation \u2014", 
+            "link": null, 
+            "name": "Law of universal gravitation"
+        }, 
+        {
+            "def": "Leading edge \u2014", 
+            "link": null, 
+            "name": "Leading edge"
+        }, 
+        {
+            "def": "Lift \u2014", 
+            "link": null, 
+            "name": "Lift"
+        }, 
+        {
+            "def": "Lift coefficient \u2014", 
+            "link": null, 
+            "name": "Lift coefficient"
+        }, 
+        {
+            "def": "Lightcraft \u2014", 
+            "link": null, 
+            "name": "Lightcraft"
+        }, 
+        {
+            "def": "Lighter than air \u2014", 
+            "link": null, 
+            "name": "Lighter than air"
+        }, 
+        {
+            "def": "Liquid air cycle engine \u2014", 
+            "link": null, 
+            "name": "Liquid air cycle engine"
+        }, 
+        {
+            "def": "Liquid fuels \u2014", 
+            "link": null, 
+            "name": "Liquid fuels"
+        }, 
+        {
+            "def": "Liquid rocket propellants \u2014", 
+            "link": null, 
+            "name": "Liquid rocket propellants"
+        }, 
+        {
+            "def": "Lithobraking \u2014", 
+            "link": null, 
+            "name": "Lithobraking"
+        }, 
+        {
+            "def": "Loiter \u2014", 
+            "link": null, 
+            "name": "Loiter"
+        }, 
+        {
+            "def": "Low Earth orbit \u2014", 
+            "link": null, 
+            "name": "Low Earth orbit"
+        }, 
+        {
+            "def": "Lunar space elevator \u2014", 
+            "link": null, 
+            "name": "Lunar space elevator"
+        }, 
+        {
+            "def": "Mach number \u2014", 
+            "link": null, 
+            "name": "Mach number"
+        }, 
+        {
+            "def": "Magnetic sail \u2014", 
+            "link": null, 
+            "name": "Magnetic sail"
+        }, 
+        {
+            "def": "Magnetoplasmadynamic thruster \u2014", 
+            "link": null, 
+            "name": "Magnetoplasmadynamic thruster"
+        }, 
+        {
+            "def": "Mass \u2014", 
+            "link": null, 
+            "name": "Mass"
+        }, 
+        {
+            "def": "Mass driver \u2014", 
+            "link": null, 
+            "name": "Mass driver"
+        }, 
+        {
+            "def": "Mechanics of fluids \u2014", 
+            "link": null, 
+            "name": "Mechanics of fluids"
+        }, 
+        {
+            "def": "Membrane mirror \u2014", 
+            "link": null, 
+            "name": "Membrane mirror"
+        }, 
+        {
+            "def": "Metre per second \u2014", 
+            "link": null, 
+            "name": "Metre per second"
+        }, 
+        {
+            "def": "Microwave landing system \u2014", 
+            "link": null, 
+            "name": "Microwave landing system"
+        }, 
+        {
+            "def": "Mini-magnetospheric plasma propulsion \u2014", 
+            "link": null, 
+            "name": "Mini-magnetospheric plasma propulsion"
+        }, 
+        {
+            "def": "Moment of inertia \u2014", 
+            "link": null, 
+            "name": "Moment of inertia"
+        }, 
+        {
+            "def": "Momentum \u2014", 
+            "link": null, 
+            "name": "Momentum"
+        }, 
+        {
+            "def": "Momentum wheel \u2014", 
+            "link": null, 
+            "name": "Momentum wheel"
+        }, 
+        {
+            "def": "Monopropellant rocket \u2014", 
+            "link": null, 
+            "name": "Monopropellant rocket"
+        }, 
+        {
+            "def": "Motion \u2014", 
+            "link": null, 
+            "name": "Motion"
+        }, 
+        {
+            "def": "Multistage rocket \u2014", 
+            "link": null, 
+            "name": "Multistage rocket"
+        }, 
+        {
+            "def": "Nanotechnology \u2014", 
+            "link": null, 
+            "name": "Nanotechnology"
+        }, 
+        {
+            "def": "NASA \u2014", 
+            "link": null, 
+            "name": "NASA"
+        }, 
+        {
+            "def": "Navier-Stokes equations \u2014", 
+            "link": null, 
+            "name": "Navier-Stokes equations"
+        }, 
+        {
+            "def": "Newton (unit) \u2014", 
+            "link": null, 
+            "name": "Newton (unit)"
+        }, 
+        {
+            "def": "Newton's laws of motion \u2014", 
+            "link": null, 
+            "name": "Newton's laws of motion"
+        }, 
+        {
+            "def": "Nose cone design \u2014", 
+            "link": null, 
+            "name": "Nose cone design"
+        }, 
+        {
+            "def": "Nozzle \u2014", 
+            "link": null, 
+            "name": "Nozzle"
+        }, 
+        {
+            "def": "Orbit \u2014", 
+            "link": null, 
+            "name": "Orbit"
+        }, 
+        {
+            "def": "Orbit phasing \u2014", 
+            "link": null, 
+            "name": "Orbit phasing"
+        }, 
+        {
+            "def": "Orbiter Boom Sensor System \u2014", 
+            "link": null, 
+            "name": "Orbiter Boom Sensor System"
+        }, 
+        {
+            "def": "Orbital elements \u2014", 
+            "link": null, 
+            "name": "Orbital elements"
+        }, 
+        {
+            "def": "Orbital inclination change \u2014", 
+            "link": null, 
+            "name": "Orbital inclination change"
+        }, 
+        {
+            "def": "Orbital maneuver \u2014", 
+            "link": null, 
+            "name": "Orbital maneuver"
+        }, 
+        {
+            "def": "Orbital node \u2014", 
+            "link": null, 
+            "name": "Orbital node"
+        }, 
+        {
+            "def": "Orbital period \u2014", 
+            "link": null, 
+            "name": "Orbital period"
+        }, 
+        {
+            "def": "Orbital stationkeeping \u2014", 
+            "link": null, 
+            "name": "Orbital stationkeeping"
+        }, 
+        {
+            "def": "Osculating orbit \u2014", 
+            "link": null, 
+            "name": "Osculating orbit"
+        }, 
+        {
+            "def": "Parallel axes rule \u2014", 
+            "link": null, 
+            "name": "Parallel axes rule"
+        }, 
+        {
+            "def": "Parasitic drag \u2014", 
+            "link": null, 
+            "name": "Parasitic drag"
+        }, 
+        {
+            "def": "Parawing \u2014", 
+            "link": null, 
+            "name": "Parawing"
+        }, 
+        {
+            "def": "Perpendicular axes rule \u2014", 
+            "link": null, 
+            "name": "Perpendicular axes rule"
+        }, 
+        {
+            "def": "Physics \u2014", 
+            "link": null, 
+            "name": "Physics"
+        }, 
+        {
+            "def": "Planetary orbit \u2014", 
+            "link": null, 
+            "name": "Planetary orbit"
+        }, 
+        {
+            "def": "Plasma (physics) \u2014", 
+            "link": null, 
+            "name": "Plasma (physics)"
+        }, 
+        {
+            "def": "Plug nozzle \u2014", 
+            "link": null, 
+            "name": "Plug nozzle"
+        }, 
+        {
+            "def": "Pogo oscillation \u2014", 
+            "link": null, 
+            "name": "Pogo oscillation"
+        }, 
+        {
+            "def": "Prandtl-Glauert singularity \u2014", 
+            "link": null, 
+            "name": "Prandtl-Glauert singularity"
+        }, 
+        {
+            "def": "Precession \u2014", 
+            "link": null, 
+            "name": "Precession"
+        }, 
+        {
+            "def": "Pressure \u2014", 
+            "link": null, 
+            "name": "Pressure"
+        }, 
+        {
+            "def": "Pressure altitude \u2014", 
+            "link": null, 
+            "name": "Pressure altitude"
+        }, 
+        {
+            "def": "Pressure-fed engine \u2014", 
+            "link": null, 
+            "name": "Pressure-fed engine"
+        }, 
+        {
+            "def": "Propeller \u2014", 
+            "link": null, 
+            "name": "Propeller"
+        }, 
+        {
+            "def": "Proper orbital elements \u2014", 
+            "link": null, 
+            "name": "Proper orbital elements"
+        }, 
+        {
+            "def": "Pulsed inductive thruster \u2014", 
+            "link": null, 
+            "name": "Pulsed inductive thruster"
+        }, 
+        {
+            "def": "Pulsed plasma thruster \u2014", 
+            "link": null, 
+            "name": "Pulsed plasma thruster"
+        }, 
+        {
+            "def": "Propulsion \u2014", 
+            "link": null, 
+            "name": "Propulsion"
+        }, 
+        {
+            "def": "Radar \u2014", 
+            "link": null, 
+            "name": "Radar"
+        }, 
+        {
+            "def": "Railgun \u2014", 
+            "link": null, 
+            "name": "Railgun"
+        }, 
+        {
+            "def": "Ram accelerator \u2014", 
+            "link": null, 
+            "name": "Ram accelerator"
+        }, 
+        {
+            "def": "Ramjet \u2014", 
+            "link": null, 
+            "name": "Ramjet"
+        }, 
+        {
+            "def": "Reaction control system \u2014", 
+            "link": null, 
+            "name": "Reaction control system"
+        }, 
+        {
+            "def": "Redshift rocket \u2014", 
+            "link": null, 
+            "name": "Redshift rocket"
+        }, 
+        {
+            "def": "Reentry \u2014", 
+            "link": null, 
+            "name": "Reentry"
+        }, 
+        {
+            "def": "Reflection \u2014", 
+            "link": null, 
+            "name": "Reflection"
+        }, 
+        {
+            "def": "Relativistic rocket \u2014", 
+            "link": null, 
+            "name": "Relativistic rocket"
+        }, 
+        {
+            "def": "Remote Manipulator System \u2014", 
+            "link": null, 
+            "name": "Remote Manipulator System"
+        }, 
+        {
+            "def": "Resistojet rocket \u2014", 
+            "link": null, 
+            "name": "Resistojet rocket"
+        }, 
+        {
+            "def": "Reusable launch system \u2014", 
+            "link": null, 
+            "name": "Reusable launch system"
+        }, 
+        {
+            "def": "Reynolds number \u2014", 
+            "link": null, 
+            "name": "Reynolds number"
+        }, 
+        {
+            "def": "RL-10 (rocket engine) \u2014", 
+            "link": null, 
+            "name": "RL-10 (rocket engine)"
+        }, 
+        {
+            "def": "Rocket \u2014", 
+            "link": null, 
+            "name": "Rocket"
+        }, 
+        {
+            "def": "Rocket engine nozzle \u2014", 
+            "link": null, 
+            "name": "Rocket engine nozzle"
+        }, 
+        {
+            "def": "Rocket fuel \u2014", 
+            "link": null, 
+            "name": "Rocket fuel"
+        }, 
+        {
+            "def": "Rocket launch \u2014", 
+            "link": null, 
+            "name": "Rocket launch"
+        }, 
+        {
+            "def": "Rudder \u2014", 
+            "link": null, 
+            "name": "Rudder"
+        }, 
+        {
+            "def": "SABRE \u2014", 
+            "link": null, 
+            "name": "SABRE"
+        }, 
+        {
+            "def": "Satellite \u2014", 
+            "link": null, 
+            "name": "Satellite"
+        }, 
+        {
+            "def": "Saturn (rocket family) \u2014", 
+            "link": null, 
+            "name": "Saturn (rocket family)"
+        }, 
+        {
+            "def": "Scalar (physics) \u2014", 
+            "link": null, 
+            "name": "Scalar (physics)"
+        }, 
+        {
+            "def": "Schlieren \u2014", 
+            "link": null, 
+            "name": "Schlieren"
+        }, 
+        {
+            "def": "Schlieren photography \u2014", 
+            "link": null, 
+            "name": "Schlieren photography"
+        }, 
+        {
+            "def": "Scramjet \u2014", 
+            "link": null, 
+            "name": "Scramjet"
+        }, 
+        {
+            "def": "Second moment of area \u2014", 
+            "link": null, 
+            "name": "Second moment of area"
+        }, 
+        {
+            "def": "Shock wave \u2014", 
+            "link": null, 
+            "name": "Shock wave"
+        }, 
+        {
+            "def": "SI \u2014", 
+            "link": null, 
+            "name": "SI"
+        }, 
+        {
+            "def": "Single-stage to orbit \u2014", 
+            "link": null, 
+            "name": "Single-stage to orbit"
+        }, 
+        {
+            "def": "Skyhook (structure) \u2014", 
+            "link": null, 
+            "name": "Skyhook (structure)"
+        }, 
+        {
+            "def": "Stream function \u2014", 
+            "link": null, 
+            "name": "Stream function"
+        }, 
+        {
+            "def": "Streamline \u2014", 
+            "link": null, 
+            "name": "Streamline"
+        }, 
+        {
+            "def": "Solar panel \u2014", 
+            "link": null, 
+            "name": "Solar panel"
+        }, 
+        {
+            "def": "Solar sail \u2014", 
+            "link": null, 
+            "name": "Solar sail"
+        }, 
+        {
+            "def": "Solar thermal rocket \u2014", 
+            "link": null, 
+            "name": "Solar thermal rocket"
+        }, 
+        {
+            "def": "Solid of revolution \u2014", 
+            "link": null, 
+            "name": "Solid of revolution"
+        }, 
+        {
+            "def": "Solid rocket \u2014", 
+            "link": null, 
+            "name": "Solid rocket"
+        }, 
+        {
+            "def": "Sound barrier \u2014", 
+            "link": null, 
+            "name": "Sound barrier"
+        }, 
+        {
+            "def": "Space activity suit \u2014", 
+            "link": null, 
+            "name": "Space activity suit"
+        }, 
+        {
+            "def": "Space elevator \u2014", 
+            "link": null, 
+            "name": "Space elevator"
+        }, 
+        {
+            "def": "Space fountain \u2014", 
+            "link": null, 
+            "name": "Space fountain"
+        }, 
+        {
+            "def": "Space plane \u2014", 
+            "link": null, 
+            "name": "Space plane"
+        }, 
+        {
+            "def": "Space Shuttle \u2014", 
+            "link": null, 
+            "name": "Space Shuttle"
+        }, 
+        {
+            "def": "Space Shuttle external tank \u2014", 
+            "link": null, 
+            "name": "Space Shuttle external tank"
+        }, 
+        {
+            "def": "Space Shuttle Main Engine \u2014", 
+            "link": null, 
+            "name": "Space Shuttle Main Engine"
+        }, 
+        {
+            "def": "Space station \u2014", 
+            "link": null, 
+            "name": "Space station"
+        }, 
+        {
+            "def": "Space suit \u2014", 
+            "link": null, 
+            "name": "Space suit"
+        }, 
+        {
+            "def": "Space technology \u2014", 
+            "link": null, 
+            "name": "Space technology"
+        }, 
+        {
+            "def": "Space transport \u2014", 
+            "link": null, 
+            "name": "Space transport"
+        }, 
+        {
+            "def": "Spacecraft \u2014", 
+            "link": null, 
+            "name": "Spacecraft"
+        }, 
+        {
+            "def": "Spacecraft design \u2014", 
+            "link": null, 
+            "name": "Spacecraft design"
+        }, 
+        {
+            "def": "Spacecraft propulsion \u2014", 
+            "link": null, 
+            "name": "Spacecraft propulsion"
+        }, 
+        {
+            "def": "Special relativity \u2014", 
+            "link": null, 
+            "name": "Special relativity"
+        }, 
+        {
+            "def": "Specific impulse \u2014", 
+            "link": null, 
+            "name": "Specific impulse"
+        }, 
+        {
+            "def": "Speed of sound \u2014", 
+            "link": null, 
+            "name": "Speed of sound"
+        }, 
+        {
+            "def": "Staged combustion cycle (rocket) \u2014", 
+            "link": null, 
+            "name": "Staged combustion cycle (rocket)"
+        }, 
+        {
+            "def": "Subsonic \u2014", 
+            "link": null, 
+            "name": "Subsonic"
+        }, 
+        {
+            "def": "Supersonic \u2014", 
+            "link": null, 
+            "name": "Supersonic"
+        }, 
+        {
+            "def": "Surface of revolution \u2014", 
+            "link": null, 
+            "name": "Surface of revolution"
+        }, 
+        {
+            "def": "Sweep theory \u2014", 
+            "link": null, 
+            "name": "Sweep theory"
+        }, 
+        {
+            "def": "Tait\u2013Bryan rotations \u2014", 
+            "link": null, 
+            "name": "Tait\u2013Bryan rotations"
+        }, 
+        {
+            "def": "Temperature \u2014", 
+            "link": null, 
+            "name": "Temperature"
+        }, 
+        {
+            "def": "Terminal velocity \u2014", 
+            "link": null, 
+            "name": "Terminal velocity"
+        }, 
+        {
+            "def": "Test target \u2014", 
+            "link": null, 
+            "name": "Test target"
+        }, 
+        {
+            "def": "Tether propulsion \u2014", 
+            "link": null, 
+            "name": "Tether propulsion"
+        }, 
+        {
+            "def": "Thermal protection system \u2014", 
+            "link": null, 
+            "name": "Thermal protection system"
+        }, 
+        {
+            "def": "Thermodynamics \u2014", 
+            "link": null, 
+            "name": "Thermodynamics"
+        }, 
+        {
+            "def": "Thrust \u2014", 
+            "link": null, 
+            "name": "Thrust"
+        }, 
+        {
+            "def": "Thruster \u2014", 
+            "link": null, 
+            "name": "Thruster"
+        }, 
+        {
+            "def": "Torricelli's equation \u2014", 
+            "link": null, 
+            "name": "Torricelli's equation"
+        }, 
+        {
+            "def": "Trajectory \u2014", 
+            "link": null, 
+            "name": "Trajectory"
+        }, 
+        {
+            "def": "Trailing edge \u2014", 
+            "link": null, 
+            "name": "Trailing edge"
+        }, 
+        {
+            "def": "Trans Lunar Injection \u2014", 
+            "link": null, 
+            "name": "Trans Lunar Injection"
+        }, 
+        {
+            "def": "Transonic \u2014", 
+            "link": null, 
+            "name": "Transonic"
+        }, 
+        {
+            "def": "Transverse wave \u2014", 
+            "link": null, 
+            "name": "Transverse wave"
+        }, 
+        {
+            "def": "Tripropellant rocket \u2014", 
+            "link": null, 
+            "name": "Tripropellant rocket"
+        }, 
+        {
+            "def": "Tsiolkovsky rocket equation \u2014", 
+            "link": null, 
+            "name": "Tsiolkovsky rocket equation"
+        }, 
+        {
+            "def": "Turbomachinery \u2014", 
+            "link": null, 
+            "name": "Turbomachinery"
+        }, 
+        {
+            "def": "Two stage to orbit \u2014", 
+            "link": null, 
+            "name": "Two stage to orbit"
+        }, 
+        {
+            "def": "V-2 rocket \u2014", 
+            "link": null, 
+            "name": "V-2 rocket"
+        }, 
+        {
+            "def": "Variable specific impulse magnetoplasma rocket \u2014", 
+            "link": null, 
+            "name": "Variable specific impulse magnetoplasma rocket"
+        }, 
+        {
+            "def": "Velocity \u2014", 
+            "link": null, 
+            "name": "Velocity"
+        }, 
+        {
+            "def": "Viscometer \u2014", 
+            "link": null, 
+            "name": "Viscometer"
+        }, 
+        {
+            "def": "Viscosity \u2014", 
+            "link": null, 
+            "name": "Viscosity"
+        }, 
+        {
+            "def": "Vortex generator \u2014", 
+            "link": null, 
+            "name": "Vortex generator"
+        }, 
+        {
+            "def": "Wave drag \u2014", 
+            "link": null, 
+            "name": "Wave drag"
+        }, 
+        {
+            "def": "Weight \u2014", 
+            "link": null, 
+            "name": "Weight"
+        }, 
+        {
+            "def": "Weight function \u2014", 
+            "link": null, 
+            "name": "Weight function"
+        }, 
+        {
+            "def": "Wind tunnel \u2014", 
+            "link": null, 
+            "name": "Wind tunnel"
+        }, 
+        {
+            "def": "Wing \u2014", 
+            "link": null, 
+            "name": "Wing"
+        }, 
+        {
+            "def": "Woodward effect \u2014", 
+            "link": null, 
+            "name": "Woodward effect"
+        }, 
+        {
+            "def": "Wright Flyer \u2014", 
+            "link": null, 
+            "name": "Wright Flyer"
+        }, 
+        {
+            "def": "Wright Glider of 1902 \u2014", 
+            "link": null, 
+            "name": "Wright Glider of 1902"
+        }, 
+        {
+            "def": "National Council of Examiners for Engineering and Surveying (NCEES)", 
+            "link": null, 
+            "name": "National Council of Examiners for Engineering and Surveying"
+        }, 
+        {
+            "def": "Principles and Practice of Engineering Examination (PE exam)", 
+            "link": null, 
+            "name": "Principles and Practice of Engineering Examination"
+        }, 
+        {
+            "def": "Graduate Aptitude Test in Engineering (GATE)", 
+            "link": null, 
+            "name": "Graduate Aptitude Test in Engineering"
+        }
+    ]
+}

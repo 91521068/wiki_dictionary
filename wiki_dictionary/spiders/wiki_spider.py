@@ -7,12 +7,18 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
+        'https://en.wikipedia.org/wiki/List_of_legal_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_machine_vision',
         'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
         'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
         'https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_engineering',
+        'https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering',
+        'https://en.wiktionary.org/wiki/Appendix:Glossary_of_legal_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_fuel_cell_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_firefighting',
         'https://en.wikipedia.org/wiki/Glossary_of_firefighting_equipment',
         'https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms',
@@ -122,12 +128,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_Islam',
         'https://en.wikipedia.org/wiki/Glossary_of_spirituality_terms',
         'https://en.wikipedia.org/wiki/List_of_Latin_legal_terms',
-        'https://en.wikipedia.org/wiki/List_of_legal_abbreviations',
-        'https://en.wiktionary.org/wiki/Appendix:Glossary_of_legal_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_engineering',
-        'https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering',
-        'https://en.wikipedia.org/wiki/Glossary_of_fuel_cell_terms',
 
     ]
 
@@ -176,6 +176,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_Internet-related_terms",
             "Glossary_of_firefighting_equipment",
             "Glossary_of_HVAC_terms",
+            "Glossary_of_broadcasting_terms",
 
         ]):
 
@@ -189,6 +190,7 @@ class QuotesSpider(scrapy.Spider):
 
         elif self.is_in(response.url, [
             "Glossary_of_dance_moves",
+
         ]):
             rule_name_main = '//h3'
             rule_name_sub = './span[@class="mw-headline"]'
@@ -230,6 +232,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_woodworking",
             "Glossary_of_fishery_terms",
             "Glossary_of_firefighting",
+            "Glossary_of_engineering",
+
         ]):
             rule_name_main = './b'
             rule_name_sub = '.'
@@ -260,6 +264,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_blogging",
             "Glossary_of_computer_hardware_terms",
             "Glossary_of_textile_manufacturing",
+            "Appendix:Glossary_of_legal_terms",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'
@@ -272,6 +277,7 @@ class QuotesSpider(scrapy.Spider):
         elif self.is_in(response.url, [
             "Glossary_of_sculpting",
             "Glossary_of_baseball",
+            "Glossary_of_fuel_cell_terms",
         ]):
             rule_name_main = '//h3'
             rule_name_sub = './span[@class="mw-headline"]'
@@ -289,6 +295,18 @@ class QuotesSpider(scrapy.Spider):
             rule_name_sub = '.'
 
             rule_def_main = './child::td[2]'
+            rule_def_sub = '.'
+
+            rule_word = '//tr'
+            type_of_algo = 1
+
+        elif self.is_in(response.url, [
+            "List_of_Latin_legal_terms",
+        ]):
+            rule_name_main = './child::td[1]'
+            rule_name_sub = '.'
+
+            rule_def_main = './child::td[3]'
             rule_def_sub = '.'
 
             rule_word = '//tr'
@@ -318,7 +336,8 @@ class QuotesSpider(scrapy.Spider):
 
         elif self.is_in(response.url, [
             "Glossary_of_firelighting",
-
+            "Glossary_of_aerospace_engineering",
+            "List_of_legal_abbreviations",
         ]):
             rule_name_main = './child::a[1]'
             rule_name_sub = '.'
@@ -379,6 +398,10 @@ class QuotesSpider(scrapy.Spider):
         file_name = result['c3']
         if "Glossary_of_aviation" in file_name:
             file_name = "Glossary_of_aviation"
+
+        if "Glossary_of_legal_terms" in file_name:
+            file_name = "Glossary_of_legal_terms"
+
         file = open(file_name + ".json", 'w')
         file.write(result_json)
         file.close()
