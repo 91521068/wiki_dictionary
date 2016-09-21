@@ -1,0 +1,827 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_basketball_terms", 
+    "words": [
+        {
+            "def": "The top professional league in Spain; often regarded as the second-strongest domestic league in the world, behind the NBA. Initialism for the Spanish Asociaci\u00f3n de Clubes de Baloncesto (\"Association of Basketball Clubs\").", 
+            "link": "/wiki/Liga_ACB", 
+            "name": "ACB"
+        }, 
+        {
+            "def": "A step in which the defender's lead foot steps toward their man and the back foot slides forward.", 
+            "link": null, 
+            "name": "advance step"
+        }, 
+        {
+            "def": "is what happens when you pull your back in the middle of the game. Ex: Ah damn I think I pulled an Anthony", 
+            "link": null, 
+            "name": "Anthony morales"
+        }, 
+        {
+            "def": "An unblocked shot that fails to hit the rim or backboard.", 
+            "link": "/wiki/Air_ball", 
+            "name": "air ball\u00a0"
+        }, 
+        {
+            "def": "An offensive play in which a player throws the ball up near the basket to a teammate (or, more rarely, to himself) who jumps, catches the ball in mid air and immediately scores a basket, usually with a slam dunk.", 
+            "link": "/wiki/Alley_oop_(basketball)", 
+            "name": "alley oop\u00a0"
+        }, 
+        {
+            "def": "The free throw awarded to a shooter who is fouled while scoring.", 
+            "link": null, 
+            "name": "and-one"
+        }, 
+        {
+            "def": "A pass to a teammate who scores a basket immediately or after one dribble.", 
+            "link": "/wiki/Assist_(basketball)", 
+            "name": "assist\u00a0"
+        }, 
+        {
+            "def": "An offensive play in which a player on the perimeter steps away from the basket, drawing the defender along, then suddenly cuts to the basket behind the defender for a pass. The opposite of a V cut.", 
+            "link": null, 
+            "name": "backdoor cut"
+        }, 
+        {
+            "def": "A player who does not pass the ball", 
+            "link": "/wiki/Ball_hog", 
+            "name": "ball hog\u00a0"
+        }, 
+        {
+            "def": "The rectangular platform behind the rim that supports it", 
+            "link": "/wiki/Backboard_(basketball)", 
+            "name": "backboard\u00a0"
+        }, 
+        {
+            "def": "An offensive play in which a player comes from the low post to set a screen for a player on the perimeter.", 
+            "link": null, 
+            "name": "back screen"
+        }, 
+        {
+            "def": "A sudden movement by the player with the ball intended to cause the defender to move in one direction, allowing the passer to pass in another direction. Also called \"pass fake.\"", 
+            "link": null, 
+            "name": "ball fake"
+        }, 
+        {
+            "def": "Passing of the ball from one side of the court to the other.", 
+            "link": null, 
+            "name": "ball reversal"
+        }, 
+        {
+            "def": "An offensive play in which a player sets a screen on the defender guarding the player with the ball.", 
+            "link": null, 
+            "name": "ball screen"
+        }, 
+        {
+            "def": "The half of the court (divided lengthwise) that the ball is on. Also called the \"strong side.\" The opposite of the help side.", 
+            "link": null, 
+            "name": "ball side"
+        }, 
+        {
+            "def": "A wide, curving cut, as opposed to a cut that is a straight line. Also known as a 'C' cut", 
+            "link": null, 
+            "name": "banana cut"
+        }, 
+        {
+            "def": "A shot that hits the backboard before hitting the rim or going through the net.", 
+            "link": null, 
+            "name": "bank shot"
+        }, 
+        {
+            "def": "Passing the basketball using an overhand throw with one hand similar to a baseball pitch.", 
+            "link": null, 
+            "name": "baseball pass"
+        }, 
+        {
+            "def": "The line that marks the playing boundary at either end of the court. Also called the \"end line.\"", 
+            "link": null, 
+            "name": "baseline"
+        }, 
+        {
+            "def": "The play used to return the ball to the court from outside the baseline along the opponent's basket.", 
+            "link": null, 
+            "name": "baseline out-of-bounds play"
+        }, 
+        {
+            "def": "A cut toward the basket.Balance, Eyes, Elbow, Follow Through \u2014 A mnemonic used to teach proper shooting form.", 
+            "link": null, 
+            "name": "basket cutBEEFbench"
+        }, 
+        {
+            "def": "A player who sits on the bench for most if not all of the game.", 
+            "link": null, 
+            "name": "benchwarmer"
+        }, 
+        {
+            "def": "A low post player who is typically physically large for a basketball player and generally either a center or power forward.[1]", 
+            "link": null, 
+            "name": "big man"
+        }, 
+        {
+            "def": "A screen set directly behind a defender where the player can't see it.", 
+            "link": null, 
+            "name": "blindside screen"
+        }, 
+        {
+            "def": "To maintain better rebounding position than an opposing player by widening your stance and arms and using your body as a barrier. Also called \"box out.\"", 
+            "link": null, 
+            "name": "block out"
+        }, 
+        {
+            "def": "A rebound", 
+            "link": null, 
+            "name": "board"
+        }, 
+        {
+            "def": "Under NCAA men's and NFHS rules, a team is \"in the bonus\" when its opponent has seven, eight or nine team fouls in a half and so gains a one and one opportunity on each non-shooting foul. The opposing team is \"over the limit.\" Under NCAA women's rules, the bonus takes effect on the fifth team foul in a quarter, but the \"one and one\" no longer exists; all subsequent non-shooting fouls result in two free throws. In the NCAA rule book, free throws in this situation are officially called bonus free throws. See also double bonus and penalty.", 
+            "link": "/wiki/Bonus_(basketball)", 
+            "name": "bonus"
+        }, 
+        {
+            "def": "A pass that bounces once before reaching the receiver.", 
+            "link": null, 
+            "name": "bounce pass"
+        }, 
+        {
+            "def": "A combination defense in which four defenders play zone in a box formation and the fifth defender guards one player man-to-man.", 
+            "link": null, 
+            "name": "box-and-one"
+        }, 
+        {
+            "def": "See block out.", 
+            "link": null, 
+            "name": "box out"
+        }, 
+        {
+            "def": "A formation in which four players align themselves as the four corners of a box. Often used for baseline out-of-bounds plays.", 
+            "link": null, 
+            "name": "box set"
+        }, 
+        {
+            "def": "A shot attempt that hits the rim and bounces off.", 
+            "link": null, 
+            "name": "brick"
+        }, 
+        {
+            "def": "One who repeatedly shoots bricks.", 
+            "link": null, 
+            "name": "bricklayer"
+        }, 
+        {
+            "def": "To step in the way of a player who is trying to cut to the ball for a pass.", 
+            "link": null, 
+            "name": "bump the cutter"
+        }, 
+        {
+            "def": "A basket in the final seconds of a game (right before the buzzer sounds) that in itself results in a win or overtime.", 
+            "link": "/wiki/Buzzer_beater", 
+            "name": "buzzer beater\u00a0"
+        }, 
+        {
+            "def": "A penalty in formal play or slang for when an offensive player is deemed to have held the ball excessively at the ball's apex while dribbling. Also referred to as palming. In formal play this penalty is considered either a carry or a double dribble.", 
+            "link": null, 
+            "name": "carry"
+        }, 
+        {
+            "def": "The ball is passed from one player to another player's chest.", 
+            "link": null, 
+            "name": "chest pass"
+        }, 
+        {
+            "def": "An offensive foul when the person with the ball rushes into a non-moving defender. See also offensive foulOne of the three standard player positions. Centers are generally the tallest players on the floor, responsible mainly for scoring, rebounding, and defense near the basket.", 
+            "link": "/wiki/Center_(basketball)", 
+            "name": "chargecenter\u00a0"
+        }, 
+        {
+            "def": "A player who takes frequent, and often imprudent, shot attempts.[2] The term was popularized by the television series Seinfeld.[3]", 
+            "link": null, 
+            "name": "chucker"
+        }, 
+        {
+            "def": "A foul whenever a defender fouls an opponent when the opponent has nobody in front of him. The foul results in 2 free-throws and possession.", 
+            "link": null, 
+            "name": "clear-path foul"
+        }, 
+        {
+            "def": "See stretch four.", 
+            "link": null, 
+            "name": "cornerman"
+        }, 
+        {
+            "def": "a rebound not credited towards either team's total rebounds, such as the rebound that (technically) occurs after a miss on the first free throw of a two-shot foul. It ensures that every missed shot has a corresponding rebound, and was introduced for the purposes of box score statistical error detection.[4]", 
+            "link": null, 
+            "name": "dead-ball rebound"
+        }, 
+        {
+            "def": "See drop a dime.", 
+            "link": null, 
+            "name": "dime"
+        }, 
+        {
+            "def": "An assist.", 
+            "link": null, 
+            "name": "dish"
+        }, 
+        {
+            "def": "(FIBA) an especially egregious foul, almost always involving violence or other excessive physical contact, that is punished by immediate ejection. Equivalent to the NBA's flagrant-2.", 
+            "link": null, 
+            "name": "disqualifying foul"
+        }, 
+        {
+            "def": "(NCAA men's and NFHS) When a team accumulates 10 or more fouls in a half in NCAA men's or NFHS play, the other team is \"in the double bonus\", earning two free throws on each subsequent non-shooting foul by the defense. Before 2015\u201316, this rule was also part of NCAA women's play, but the change from playing in halves to quarters resulted in the elimination of the \"one-and-one\" free throw situation. The term \"double bonus\" is widely used by the media and fans, but does not appear in any official rule book. See also bonus and penalty.", 
+            "link": null, 
+            "name": "double bonus"
+        }, 
+        {
+            "def": "Double-digit figures in two positive statistical categories (example: 12 points, 14 rebounds)", 
+            "link": "/wiki/Double_(basketball)#Double-double", 
+            "name": "double-double"
+        }, 
+        {
+            "def": "To accumulate 55 points.", 
+            "link": null, 
+            "name": "double nickel"
+        }, 
+        {
+            "def": "Well outside the three-point line.", 
+            "link": null, 
+            "name": "downtown"
+        }, 
+        {
+            "def": "An offense that spreads the players to open up the lane for driving player to make a layup or kick out for a three-pointer.", 
+            "link": "/wiki/Dribble_drive_motion", 
+            "name": "dribble drive motion\u00a0"
+        }, 
+        {
+            "def": "To bounce the ball continuously with one hand. Required in order to take steps with the ball.", 
+            "link": null, 
+            "name": "dribble"
+        }, 
+        {
+            "def": "To make an assist without looking.", 
+            "link": null, 
+            "name": "drop a dime"
+        }, 
+        {
+            "def": "A post up move where the ballhandler picks up his dribble and at the same time extends a leg back on one side of his defender and then turns toward the basket, using that leg as leverage to get between his defender and the basket.", 
+            "link": null, 
+            "name": "drop step"
+        }, 
+        {
+            "def": "(v) To score by putting the ball directly through the basket with one or both hands. (n) A shot made by dunking.", 
+            "link": "/wiki/Slam_dunk", 
+            "name": "dunk"
+        }, 
+        {
+            "def": "when a quarter ends", 
+            "link": null, 
+            "name": "end of quarter\u00a0"
+        }, 
+        {
+            "def": "Europe's second-level transnational club competition; the qualifying rounds are operated by FIBA Europe, while the competition proper is operated by the Euroleague Basketball Company. Analogous to the UEFA Europa League in football.", 
+            "link": "/wiki/Eurocup_Basketball", 
+            "name": "Eurocup\u00a0"
+        }, 
+        {
+            "def": "Europe's top transnational club competition, also operated by the Euroleague Basketball Company. Analogous to the UEFA Champions League in football.", 
+            "link": "/wiki/Euroleague", 
+            "name": "Euroleague\u00a0"
+        }, 
+        {
+            "def": "European international tournament, held every two years for both men and women. Analogous to the UEFA European Championship (men) and UEFA Women's Championship.", 
+            "link": "/wiki/EuroBasket", 
+            "name": "EuroBasket\u00a0"
+        }, 
+        {
+            "def": "A fadeaway or fall-away in basketball is a jump shot taken while jumping backwards, away from the basket but still facing it. The goal is to create space between the shooter and the defender, making the shot much harder to block.", 
+            "link": "/wiki/Fadeaway", 
+            "name": "fadeaway\u00a0"
+        }, 
+        {
+            "def": "An offensive tactic in which a team attempts to advance the ball and score as quickly as possible, giving the other team no time to defend effectively. Often the result of a steal or blocked shot. See also secondary break.", 
+            "link": "/wiki/Fast_break", 
+            "name": "fast break\u00a0"
+        }, 
+        {
+            "def": "The International Basketball Federation, known as FIBA from its French name F\u00e9d\u00e9ration Internationale de Basketball. An association of national organizations which governs international competitions.", 
+            "link": "/wiki/FIBA", 
+            "name": "FIBA\u00a0"
+        }, 
+        {
+            "def": "The original name of what is now called 3x3.", 
+            "link": "/wiki/3x3_(basketball)", 
+            "name": "FIBA 33\u00a0"
+        }, 
+        {
+            "def": "A shot made from anywhere on the court, does not include free throws.", 
+            "link": "/wiki/Field_goal_(basketball)", 
+            "name": "field goal\u00a0"
+        }, 
+        {
+            "def": "A specialized type of layup shot where the ball is rolled off the tips of the player's fingers using the momentum of the jump. The advantage of the finger roll is that the ball can travel in a higher arc over a defender that might otherwise block the shot.", 
+            "link": "/wiki/Finger_roll", 
+            "name": "Finger roll\u00a0"
+        }, 
+        {
+            "def": "An unsportsmanlike foul in which there is no serious attempt to play the ball. The NBA classifies these types of fouls as flagrant-1 and flagrant-2; NFHS (high school) uses flagrant personal foul and flagrant technical foul; the NCAA uses both sets of terms interchangeably. At all North American levels, the latter type of foul results in the immediate ejection of the offender. FIBA does not use the term \"flagrant foul\", instead using unsportsmanlike foul and disqualifying foul (which roughly correspond to the two North American subcategories).", 
+            "link": "/wiki/Flagrant_foul", 
+            "name": "flagrant foul\u00a0"
+        }, 
+        {
+            "def": "A type of shot typically utilized by smaller guards. It is characterized by shooting the ball with an extremely high arc in order to prevent taller defenders from blocking the shot.", 
+            "link": null, 
+            "name": "floater\u00a0"
+        }, 
+        {
+            "def": "An intentional fall by a player after little or no physical contact from an opponent, with the goal of drawing a personal foul call against the opponent.", 
+            "link": "/wiki/Flop_(basketball)", 
+            "name": "flop\u00a0"
+        }, 
+        {
+            "def": "One of the three standard player positions. Forwards are primarily responsible for scoring and rebounding. See Small forward and Power forward. An individual capable of playing both types of forward is often called a cornerman or stretch four.", 
+            "link": null, 
+            "name": "forward\u00a0"
+        }, 
+        {
+            "def": "Violations of the rules other than floor violations, generally attempts to gain advantage by physical contact; penalized by a change in possession or free-throw opportunities; see personal foul, technical foul, flagrant foul, unsportsmanlike foul, and disqualifying foul.", 
+            "link": "/wiki/Foul_(basketball)", 
+            "name": "foul\u00a0"
+        }, 
+        {
+            "def": "A rare play in which a player is fouled while making a three-point shot and then makes the resulting free throw.", 
+            "link": "/wiki/Four-point_play", 
+            "name": "four-point play\u00a0"
+        }, 
+        {
+            "def": "An unopposed attempt to score a basket, worth one point, from the free throw line. Generally, two attempts are awarded when the player is fouled in the act of shooting (three attempts are awarded in the case of three-point shot), fouled flagrantly, or when the opposing team fouls while over the foul limit. For technical fouls, one free throw is awarded under FIBA rules; the NBA and NFHS award two free throws for all technical fouls; and NCAA rules award either one or two free throws, depending on the specific type of technical foul. In 3x3, where regular baskets are worth 1\u00a0point and shots from behind the arc worth 2\u00a0points, one attempt is normally awarded. Two attempts are awarded when a player is fouled on a missed shot from behind the arc, the opposing team has committed more than six fouls in a game, and on any technical foul.", 
+            "link": "/wiki/Free_throw", 
+            "name": "free throw\u00a0"
+        }, 
+        {
+            "def": "An underhand shot taken using only one hand, usually thrown by older women.(lame)", 
+            "link": null, 
+            "name": "granny shot\u00a0"
+        }, 
+        {
+            "def": "A combined offensive and defensive system created by David Arseneault, head coach at Grinnell College. A variation of the run-and-gun style, its most unusual feature is that entire five-player units are usually substituted every 45 to 90 seconds, as in an ice hockey shift.", 
+            "link": "/wiki/Grinnell_System", 
+            "name": "Grinnell System\u00a0"
+        }, 
+        {
+            "def": "One of the three standard player positions. Today, guards are typically classified in two broad categories. Point guards have strong ballhandling and passing skills and are typically used to run the offense. Shooting guards, as the name implies, are generally the team's best shooters, and are very often the leading scorers on their teams. Some players, often referred to as combo guards, combine the features of both.", 
+            "link": null, 
+            "name": "guard\u00a0"
+        }, 
+        {
+            "def": "Someone who shoots the ball too many times.", 
+            "link": null, 
+            "name": "gunner"
+        }, 
+        {
+            "def": "To retreat back across the halfcourt line after either a made or missed shot attempt. Usually called out by players or coaches to let team know to hustle back and set up on defense.", 
+            "link": null, 
+            "name": "get back"
+        }, 
+        {
+            "def": "The portion of a team's defensive play conducted with both teams having established positions. See also transition defense.", 
+            "link": null, 
+            "name": "halfcourt defense"
+        }, 
+        {
+            "def": "The portion of a team's offensive play conducted with both teams having established positions. See also transition offense.", 
+            "link": null, 
+            "name": "halfcourt offense"
+        }, 
+        {
+            "def": "A kind of foul wherein a player used his hands illegally to impede or slow the movement of his opponent.", 
+            "link": null, 
+            "name": "Hand-check foul"
+        }, 
+        {
+            "def": "When a player starts to make the majority of their shots and takes over the game.", 
+            "link": null, 
+            "name": "Heating Up"
+        }, 
+        {
+            "def": "A shot that appears to be going in, but instead goes back out.", 
+            "link": null, 
+            "name": "in-n-out\u00a0"
+        }, 
+        {
+            "def": "See Performance Index Rating.", 
+            "link": null, 
+            "name": "index rating\u00a0"
+        }, 
+        {
+            "def": "to be in the back of the court ready to block or shoot.", 
+            "link": null, 
+            "name": "I got back"
+        }, 
+        {
+            "def": "An overhead shot taken while jumping, sometimes abbreviated as J.[5]The jump ball is what starts every basketball game. Takes place in the center of the court.", 
+            "link": "/wiki/Jump_shot_(basketball)", 
+            "name": "jump shot\u00a0jump ball\u00a0"
+        }, 
+        {
+            "def": "The free-throw lane and free-throw circle together (originally, the lane was narrower than the circle's diameter, giving the area the appearance of a skeleton key hole)", 
+            "link": "/wiki/Key_(basketball)", 
+            "name": "key\u00a0"
+        }, 
+        {
+            "def": "A violation called when a player intentionally uses his or her foot or leg to contact the ball. Play is stopped and the ball is given to the non-violating team to inbound.", 
+            "link": null, 
+            "name": "kicking\u00a0"
+        }, 
+        {
+            "def": "The free-throw lane.", 
+            "link": null, 
+            "name": "lane\u00a0"
+        }, 
+        {
+            "def": "A close-range shot using one hand to tip the ball over the rim", 
+            "link": null, 
+            "name": "lay-in"
+        }, 
+        {
+            "def": "A close-range shot using one hand to bank the ball off the backboard", 
+            "link": null, 
+            "name": "layup\u00a0"
+        }, 
+        {
+            "def": "A defense in which each player guards a single opposing player. See also zone defense.", 
+            "link": null, 
+            "name": "Man-to-man defense\u00a0"
+        }, 
+        {
+            "def": "Another name for dribble drive motion; the offense was popularized in the early 2000s at the University of Memphis under their then-head coach, John Calipari.", 
+            "link": null, 
+            "name": "Memphis Attack\u00a0"
+        }, 
+        {
+            "def": "Describes a shot taken from outside the paint but inside the three-point arc.", 
+            "link": null, 
+            "name": "mid-range\u00a0"
+        }, 
+        {
+            "def": "Offense created through a series of cuts and screens to create the best possible shot, with most or all offensive players moving simultaneously.", 
+            "link": "/wiki/Motion_offense", 
+            "name": "motion offense\u00a0"
+        }, 
+        {
+            "def": "a traveling violation", 
+            "link": null, 
+            "name": "moving violation\u00a0"
+        }, 
+        {
+            "def": "The National Basketball Association, the largest professional league in the United States, also with one team in Canada.", 
+            "link": "/wiki/National_Basketball_Association", 
+            "name": "NBA\u00a0"
+        }, 
+        {
+            "def": "The National Collegiate Athletic Association, the primary governing body for intercollegiate sports in the United States. Also used to describe national tournaments operated by this body, especially the Division I men's and women's tournaments. An unrelated body with the same name exists in the Philippines.", 
+            "link": "/wiki/National_Collegiate_Athletic_Association", 
+            "name": "NCAA\u00a0"
+        }, 
+        {
+            "def": "An unconventional offensive strategy developed by NBA head coach Don Nelson. It is an offense that relies on 2 things: 1. Smaller, more athletic players who can create mismatches by outrunning their opponents. 2. A strong emphasis on three-point shooting, which is generally a staple of the offense. A true center is not needed to run Nellie Ball, although this strategy is most effective against teams that do not have the athleticism or shooting ability to keep up with the fast pace of the offense.", 
+            "link": "/wiki/Nellie_Ball", 
+            "name": "Nellie Ball\u00a0"
+        }, 
+        {
+            "def": "The National Federation of State High School Associations, the body that sets rules for high school sports in the U.S., including basketball.", 
+            "link": "/wiki/National_Federation_of_State_High_School_Associations", 
+            "name": "NFHS\u00a0"
+        }, 
+        {
+            "def": "The National Invitation Tournament, a postseason tournament for NCAA Division I men's basketball teams that do not qualify for the NCAA Tournament. Founded in 1938, a year before the NCAA Tournament, it is closely identified with New York City; all games were originally held at the third Madison Square Garden, and to this day the semifinals and final are held at today's Madison Square Garden. In its early years, it was considered more prestigious than the NCAA Tournament, but this changed starting in the 1950s. The tournament has been directly operated by the NCAA since 2006.", 
+            "link": "/wiki/National_Invitation_Tournament", 
+            "name": "NIT\u00a0"
+        }, 
+        {
+            "def": "A foul committed by a member of the team playing offense.", 
+            "link": null, 
+            "name": "offensive foul"
+        }, 
+        {
+            "def": "(NCAA men's and NFHS) A free-throw attempt which, if made, allows the player a second free-throw attempt. This also existed in NCAA women's play, but was removed starting with the 2015\u201316 season. See also bonus.", 
+            "link": null, 
+            "name": "one-and-one"
+        }, 
+        {
+            "def": "A box score showing one minute played and zero for all other statistics, resulting in a one followed by twelve zeros \u2013 the conventional American rendering of \"one trillion.\"", 
+            "link": null, 
+            "name": "one trillion"
+        }, 
+        {
+            "def": "A pass thrown by a rebounder to start a fast break.", 
+            "link": null, 
+            "name": "outlet pass"
+        }, 
+        {
+            "def": "See backcourt violation (1).", 
+            "link": null, 
+            "name": "over-and-back"
+        }, 
+        {
+            "def": "a foul committed by a player who tries to rebound the ball by pushing, moving or climbing on a player's back who is already in position to rebound the ball.", 
+            "link": null, 
+            "name": "over the back"
+        }, 
+        {
+            "def": "when the score is tied at the end of regulation play, the teams play a five-minute overtime period.", 
+            "link": null, 
+            "name": "overtime"
+        }, 
+        {
+            "def": "To roughly hit down a ball that an opposing player has just released for a shot. (See also, swat.)", 
+            "link": null, 
+            "name": "pack"
+        }, 
+        {
+            "def": "A man-to-man defensive system in which one player pressures the ball and the other four \"pack\" down within an imaginary \"line\" extending to about 2 feet (60\u00a0cm) inside the three-point arc, with the intent of preventing dribble penetration. The system, derived from a number of other man-to-man systems, was developed by Dick Bennett, and has been popularized in the 21st century by coaches including his son Tony, Chris Mack, and Sean Miller.[6]", 
+            "link": null, 
+            "name": "pack-line defense"
+        }, 
+        {
+            "def": "the key.", 
+            "link": null, 
+            "name": "paint"
+        }, 
+        {
+            "def": "Specifically referring to the habit of an offensive player to hold the ball at the apex of its bounce while dribbling, usually by gripping the ball firmly in the dribbling hand. In organized play this is always considered a dribbling penalty, often called a carry or double dribble. In non-organized play this is typically considered rude and is generally discouraged by the defensive players.", 
+            "link": null, 
+            "name": "palming"
+        }, 
+        {
+            "def": "(v) To throw the ball to a teammate. (n) The act of passing to an open teammate", 
+            "link": null, 
+            "name": "pass"
+        }, 
+        {
+            "def": "once a team reaches a set number of team fouls in a playing period, varying by governing body, the fouled team gets free throws instead of possession of the ball. The fouling team is \"over the limit.\" See also bonus and double bonus.", 
+            "link": "/wiki/Bonus_(basketball)", 
+            "name": "penalty"
+        }, 
+        {
+            "def": "A player rating originally used by Liga ACB to determine weekly and season MVPs; later adopted by the Euroleague Company to determine the same awards in the Euroleague and Eurocup. No longer used to determine season MVPs in the Euroleague and Eurocup, but still used for weekly awards, and also used by many other European domestic leagues. It is calculated from statistics available in standard European box scores as follows:\n\nAdd the following statistics\u2014points, assists, rebounds, blocks, steals, fouls drawn, free throws made, 2-point field goals made, 3-point field goals made.\nSubtract turnovers, own shots blocked, fouls committed, free throw attempts, 2-point field goal attempts, and 3-point field goal attempts.\n\n", 
+            "link": "/wiki/Performance_Index_Rating", 
+            "name": "Performance Index Rating\u00a0"
+        }, 
+        {
+            "def": "the area outside the key but well inside the three-point arc.", 
+            "link": null, 
+            "name": "perimeter"
+        }, 
+        {
+            "def": "or colloquially known as PBA is a basketball league in the Philippines. It is the second oldest professional basketball league in the world after NBA.", 
+            "link": "/wiki/Philippine_Basketball_Association", 
+            "name": "Philippine Basketball Association\u00a0"
+        }, 
+        {
+            "def": "see \"screen\"", 
+            "link": null, 
+            "name": "pick"
+        }, 
+        {
+            "def": "an offensive play in which a player sets a screen (pick) for a teammate handling the ball and then slips behind the defender (rolls) to accept a pass.", 
+            "link": "/wiki/Pick_and_roll", 
+            "name": "pick and roll"
+        }, 
+        {
+            "def": "The pivot center.", 
+            "link": null, 
+            "name": "pivot"
+        }, 
+        {
+            "def": "The foot that must remain touching the floor to avoid traveling", 
+            "link": null, 
+            "name": "pivot foot"
+        }, 
+        {
+            "def": "player with the ball crashes into a defender; incorrectly referred to as a charge", 
+            "link": "/wiki/Personal_foul_(basketball)", 
+            "name": "player control foul"
+        }, 
+        {
+            "def": "A forward with strong ballhandling and passing skills who can be called on to direct the team's offense.", 
+            "link": "/wiki/Point_forward", 
+            "name": "point forward\u00a0"
+        }, 
+        {
+            "def": "Field goals made in the painted area below the free-throw line", 
+            "link": null, 
+            "name": "points in the paint\u00a0"
+        }, 
+        {
+            "def": "To go in or near the key, turn so that you are facing away from the basket but towards a teammate who has the ball, and try to establish position to receive a pass.", 
+            "link": null, 
+            "name": "post up\u00a0"
+        }, 
+        {
+            "def": "A shot that has very little probability of being made.", 
+            "link": null, 
+            "name": "prayer\u00a0"
+        }, 
+        {
+            "def": "an offensive basketball strategy which emphasizes constant motion, passing, back-door cuts, picks on and off the ball, and disciplined teamwork. Used and perfected at Princeton University, it's an offense designed for a unit of 5 players who can each pass, shoot and dribble at an above average level.", 
+            "link": "/wiki/Princeton_offense", 
+            "name": "Princeton offense\u00a0"
+        }, 
+        {
+            "def": "Double-digit figures in four positive statistical categories (example: 10 points, 11 rebounds, 12 assists, 13 steals)", 
+            "link": "/wiki/Quadruple-double", 
+            "name": "quadruple-double\u00a0"
+        }, 
+        {
+            "def": "A perfect high shot arc on a shot that goes in, usually resulting from a fluent shooting motion and usually on a long shot attempt.", 
+            "link": null, 
+            "name": "Rainbow\u00a0"
+        }, 
+        {
+            "def": "(v) To obtain the ball after a missed field goal attempt (n) An act of rebounding.", 
+            "link": "/wiki/Rebound_(basketball)", 
+            "name": "Rebound\u00a0"
+        }, 
+        {
+            "def": "To have one's shot blocked.", 
+            "link": null, 
+            "name": "Rejected\u00a0"
+        }, 
+        {
+            "def": "a toss in which the ball hits the rim of the basket [7][8]", 
+            "link": null, 
+            "name": "Rimshot\u00a0"
+        }, 
+        {
+            "def": "A motion used while chinning the ball to create space during a pivot between an offensive player and a defensive player. Pivot towards the defender and rips the ball in a C-shape away from the pressure to create a passing lane.", 
+            "link": null, 
+            "name": "Rip a C"
+        }, 
+        {
+            "def": "An interval in which one team heavily outscores the other.", 
+            "link": null, 
+            "name": "Run\u00a0"
+        }, 
+        {
+            "def": "the ball", 
+            "link": null, 
+            "name": "Rock\u00a0"
+        }, 
+        {
+            "def": "A combined offensive and defensive system devoted to increasing the pace of the game. On offense, the ball is moved upcourt as fast as possible, with the goal of taking the first shot available (often a three-pointer). The defense uses full-court pressure in an attempt to cause turnovers. See also Grinnell System.", 
+            "link": "/wiki/Run_and_gun_(basketball)", 
+            "name": "Run and Gun\u00a0"
+        }, 
+        {
+            "def": "(v) To attempt to prevent a defender from guarding a teammate by standing in the defender's way. The screening player must remain stationary; a moving screen is an offensive foul. (n) The tactic of setting a screen. Also called a \"pick\".", 
+            "link": "/wiki/Screen_(sports)", 
+            "name": "screen, set a screen\u00a0"
+        }, 
+        {
+            "def": "An offensive phase after a fast break is initially stopped, but before the opponent can enter into its set defense.", 
+            "link": null, 
+            "name": "secondary break"
+        }, 
+        {
+            "def": "A shot taken without leaving the floor.", 
+            "link": null, 
+            "name": "set shot"
+        }, 
+        {
+            "def": "A timer designed to increase the pace (and subsequently, the score) by requiring a shot to be released before the timer expires; if the ball does not touch the rim or enter the basket, it results in a loss of possession for the shooting team. The time limit is 24 seconds in the NBA, WNBA, and FIBA play, and 30 in NCAA play for both sexes. See also airball.", 
+            "link": "/wiki/Shot_clock", 
+            "name": "shot clock"
+        }, 
+        {
+            "def": "a power forward (\"4\") capable of \"stretching\" a defense with his or her outside shooting ability.", 
+            "link": "/wiki/Stretch_four", 
+            "name": "stretch four"
+        }, 
+        {
+            "def": "A player capable of playing either shooting guard or small forward.", 
+            "link": "/wiki/Swingman", 
+            "name": "swingman\u00a0"
+        }, 
+        {
+            "def": "To hit a ball that an opposing player just shot off course so that it misses completely. (See also, pack.)", 
+            "link": null, 
+            "name": "swat"
+        }, 
+        {
+            "def": "(n) A shot which goes through the net without hitting the rim. The backboard may be used so long as the shot does not hit the rim. (v) To make a swish.", 
+            "link": null, 
+            "name": "swish\u00a0"
+        }, 
+        {
+            "def": "Occurs when someone makes a Nothing-but-net, and the net hangs over the rim as a result", 
+            "link": null, 
+            "name": "splash\u00a0"
+        }, 
+        {
+            "def": "A foul assessed for unsportsmanlike non-contact behavior and for some procedural violations (for example, having too many players on the floor or calling timeout when none remains). Penalized by loss of possession after a free throw which may be taken by any member of the opposing team. Frequently abbreviated as \"technical\" or \"T.\"", 
+            "link": "/wiki/Technical_foul", 
+            "name": "technical foul\u00a0"
+        }, 
+        {
+            "def": "A shot, worth three points, attempted with both feet behind the three-point line.", 
+            "link": "/wiki/Three-point_field_goal", 
+            "name": "three-point field goal\u00a0"
+        }, 
+        {
+            "def": "A three-point field goal", 
+            "link": null, 
+            "name": "three-pointer"
+        }, 
+        {
+            "def": "A three-point field goal", 
+            "link": null, 
+            "name": "trey"
+        }, 
+        {
+            "def": "When the ball hits the rim on a certain angle and then circles around it, can go in or out.", 
+            "link": null, 
+            "name": "toilet bowl\u00a0"
+        }, 
+        {
+            "def": "The portion of a team's defensive play conducted when the other team has first gained possession and is moving up the court, before both teams have established positions. Includes defense against fast breaks. See also halfcourt defense.", 
+            "link": null, 
+            "name": "transition defense"
+        }, 
+        {
+            "def": "The portion of a team's offensive play conducted when first obtaining possession from the other team and moving up the court, before both teams have established positions. Includes fast breaks. See also halfcourt offense.", 
+            "link": null, 
+            "name": "transition offense"
+        }, 
+        {
+            "def": "To move one's pivot foot illegally or to fall to the floor without maintaining a pivot foot (exact rules vary \u2014 see Traveling (basketball)) or takes 3 steps without dribbling the ball.", 
+            "link": "/wiki/Traveling_(basketball)", 
+            "name": "travel\u00a0"
+        }, 
+        {
+            "def": "An offensive strategy with the goal of exchanging three (sometimes all five) positions, creating spacing among players and allowing each one to pass to four teammates. The triangle offense's most important feature is the sideline triangle created by the center, who stands in the low post, the forward at the wing, and the guard at the corner. Meanwhile, the other guard stands at the top of the key and the weak-side forward is on the weak-side high post, together forming the \"two-man game.\" Every pass and cut has a purpose, and everything is dictated by the defense.", 
+            "link": "/wiki/Triangle_offense", 
+            "name": "triangle offense\u00a0"
+        }, 
+        {
+            "def": "Double-digit figures in three positive statistical categories (example: 12 points, 14 rebounds, 10 assists)", 
+            "link": "/wiki/Triple-double", 
+            "name": "triple-double\u00a0"
+        }, 
+        {
+            "def": "Term used in U.S. college basketball to refer to games played by a particular team on an opponent's home court, or sometimes a larger venue in that opponent's home area in which the opponent controls ticket sales. This distinction has been drawn in the 21st century because of an increasing number of early-season events\u2014both individual games and tournaments\u2014at neutral sites.", 
+            "link": null, 
+            "name": "true road game"
+        }, 
+        {
+            "def": "A loss of possession.", 
+            "link": "/wiki/Turnover_(basketball)", 
+            "name": "turnover\u00a0"
+        }, 
+        {
+            "def": "The organization that operated the Euroleague and Eurocup before handing responsibility to the Euroleague Basketball Company. It is a cooperative organization of European professional basketball leagues; the name is a French acronym for \"Union of European Leagues of Basketball\".", 
+            "link": "/wiki/Euroleague_Basketball_Company", 
+            "name": "ULEB"
+        }, 
+        {
+            "def": "(FIBA) an egregious foul, involving excessive physical contact, fouling with no intention to make a play on the ball, or fouling an opponent on a breakaway from behind. Roughly equivalent to the NBA's flagrant-1.", 
+            "link": null, 
+            "name": "unsportsmanlike foul"
+        }, 
+        {
+            "def": "A travelling violation when the ball carrier jumps vertically into the air and does not get rid of it before landing.", 
+            "link": null, 
+            "name": "Up and down\u00a0"
+        }, 
+        {
+            "def": "An infraction of the rules other than a foul, such as traveling or a three-second violation.", 
+            "link": null, 
+            "name": "violation\u00a0"
+        }, 
+        {
+            "def": "A move where a player moves to the player defending him/her, then quickly turn and receive the ball. Used to fake the defender.", 
+            "link": null, 
+            "name": "V-cut\u00a0"
+        }, 
+        {
+            "def": "\n\nWhen the basketball gets stuck between the rim and backboard.\n\n", 
+            "link": null, 
+            "name": "wedgiewing"
+        }, 
+        {
+            "def": "The Women's National Basketball Association, the largest professional basketball league for women in the United States.", 
+            "link": "/wiki/Women%27s_National_Basketball_Association", 
+            "name": "WNBA\u00a0"
+        }, 
+        {
+            "def": "The Women's National Invitation Tournament, a postseason tournament founded in 1998 for NCAA Division I women's basketball teams that do not qualify for the NCAA Tournament. In its first year of operation, it was known as the National Women's Invitational Tournament, inheriting the name of a similar event that operated from 1969 to 1996. Despite the name, it has no relation to the men's NIT\u2014it is not operated by the NCAA, and was never under the control of any of the bodies that ran the men's NIT before 2006.", 
+            "link": "/wiki/Women%27s_National_Invitation_Tournament", 
+            "name": "WNIT\u00a0"
+        }, 
+        {
+            "def": "A defense in which each player is responsible for an area of the court. See also man-to-man defense.", 
+            "link": null, 
+            "name": "zone defense"
+        }
+    ]
+}
