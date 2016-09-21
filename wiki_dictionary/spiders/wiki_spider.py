@@ -13,7 +13,13 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_machine_vision',
         'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
         'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
+        'https://en.wikipedia.org/wiki/Glossary_of_Buddhism',
+        'https://en.wikipedia.org/wiki/Glossary_of_Christianity',
         'https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_Hinduism_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_Islam',
+        'https://en.wikipedia.org/wiki/Glossary_of_spirituality_terms',
+        'https://en.wikipedia.org/wiki/List_of_Latin_legal_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_engineering',
         'https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering',
         'https://en.wiktionary.org/wiki/Appendix:Glossary_of_legal_terms',
@@ -122,12 +128,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Heideggerian_terminology',
         'https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)',
         'https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion',
-        'https://en.wikipedia.org/wiki/Glossary_of_Buddhism',
-        'https://en.wikipedia.org/wiki/Glossary_of_Christianity',
-        'https://en.wikipedia.org/wiki/Glossary_of_Hinduism_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_Islam',
-        'https://en.wikipedia.org/wiki/Glossary_of_spirituality_terms',
-        'https://en.wikipedia.org/wiki/List_of_Latin_legal_terms',
 
     ]
 
@@ -201,6 +201,18 @@ class QuotesSpider(scrapy.Spider):
             type_of_algo = 0
 
         elif self.is_in(response.url, [
+            "Glossary_of_ancient_Roman_religion",
+
+        ]):
+            rule_name_main = '//h4'
+            rule_name_sub = './span[@class="mw-headline"]'
+
+            rule_def_main = 'p'
+            rule_def_sub = '.'
+
+            type_of_algo = 0
+
+        elif self.is_in(response.url, [
             "Glossary_of_graffiti",
             "Glossary_of_basketball_terms",
             "Glossary_of_contract_bridge_terms",
@@ -233,6 +245,9 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_fishery_terms",
             "Glossary_of_firefighting",
             "Glossary_of_engineering",
+            "Glossary_of_spirituality_terms",
+            "Glossary_of_Hinduism_terms",
+            "Glossary_of_Christianity",
 
         ]):
             rule_name_main = './b'
@@ -265,6 +280,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_computer_hardware_terms",
             "Glossary_of_textile_manufacturing",
             "Appendix:Glossary_of_legal_terms",
+            "Glossary_of_Islam",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'
@@ -347,6 +363,18 @@ class QuotesSpider(scrapy.Spider):
 
             rule_word = '//li'
             type_of_algo = 1
+
+        elif self.is_in(response.url, [
+            "Glossary_of_Buddhism",
+        ]):
+            rule_name_main = './child::td[1]'
+            rule_name_sub = './b'
+
+            rule_def_main = 'child::td[1]'
+            rule_def_sub = '.'
+
+            rule_word = '//tr'
+            type_of_algo = 1
         else:
             print '\033[91m' + response.url + '\033[0m'
             return
@@ -385,7 +413,8 @@ class QuotesSpider(scrapy.Spider):
             word['name'] = words[i][0]
             word['def'] = definitions[i]
             word['link'] = words[i][1]
-            if word['name'] != "" and word['link'] != "":
+            if word['name'] != "" and word['link'] != "" and \
+                    ((word['name'] != None and ("portal" not in word['name'])) or (word['link'] != None and ("Portal" not in word['link']))):
                 words_json_array.append(word)
 
         result['words'] = words_json_array;

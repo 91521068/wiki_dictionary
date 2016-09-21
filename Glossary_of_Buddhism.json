@@ -1,0 +1,892 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_Buddhism", 
+    "words": [
+        {
+            "def": "abhidhamma A category of scriptures that attempts to use Buddhist teachings to create a systematic, abstract description of all worldly phenomena", 
+            "link": "/wiki/Abhidhamma", 
+            "name": "abhidhamma"
+        }, 
+        {
+            "def": "Abhidhamma Pitaka The third basket of the Tripitaka canon, the reorganization of all doctrines in a systematic way", 
+            "link": "/wiki/Abhidhamma", 
+            "name": "Abhidhamma Pitaka"
+        }, 
+        {
+            "def": "acariya, lit. \"teacher\", One of the two teachers of a novice monk - the other one is called up\u0101dhy\u0101ya", 
+            "link": "/wiki/Acariya", 
+            "name": "acariya"
+        }, 
+        {
+            "def": "adhitthana Determination, to pray, to wish", 
+            "link": "/wiki/Adhitthana", 
+            "name": "adhitthana"
+        }, 
+        {
+            "def": "Agama The non-Mahayana divisions of the Sutra Pitaka", 
+            "link": "/wiki/Nikaya", 
+            "name": "Agama"
+        }, 
+        {
+            "def": "ahimsa The devotion to non-violence and respect for all forms of life. Practicers of ahimsa are often vegetarians or vegans", 
+            "link": "/wiki/Ahimsa", 
+            "name": "ahimsa"
+        }, 
+        {
+            "def": "alayavijnana, see store consciousness", 
+            "link": null, 
+            "name": "alayavijnana"
+        }, 
+        {
+            "def": "Amitabha Lit. \"The Buddha of Infinite Light\". The main buddha of the Pure Land school, but is popular in other Mahayana sects as well. The image is of light as the form of wisdom, which has no form. Also interpreted as the Tathagata of Unhindered Light that Penetrates the Ten Quarters by Tan Luan, Shinran and others", 
+            "link": "/wiki/Amitabha", 
+            "name": "Amitabha"
+        }, 
+        {
+            "def": "anagarika A white-robed student in the Theravada tradition who, for a few months, awaits being considered for Samaneras ordination", 
+            "link": "/wiki/Anagarika", 
+            "name": "anagarika"
+        }, 
+        {
+            "def": "anapanasati Mindfulness of the breath meditation", 
+            "link": "/wiki/Anapanasati", 
+            "name": "anapanasati"
+        }, 
+        {
+            "def": "anatta The principle denial of the soul in any phenomena. See also negative theology.", 
+            "link": "/wiki/Anatta", 
+            "name": "anatta"
+        }, 
+        {
+            "def": "anicca Impermanence", 
+            "link": "/wiki/Anicca", 
+            "name": "anicca"
+        }, 
+        {
+            "def": "anuttara Unsurpassing", 
+            "link": "/w/index.php?title=Anuttara&action=edit&redlink=1", 
+            "name": "anuttara"
+        }, 
+        {
+            "def": "arhat, lit. \"the Worthy One\", A living person who has reached Enlightenment", 
+            "link": "/wiki/Arhat", 
+            "name": "arhat"
+        }, 
+        {
+            "def": "anuttara samyak sambodhi, unsurpassable, complete, perfect enlightenment; unsurpassable, right, and full enlightenment", 
+            "link": "/wiki/Enlightenment_in_Buddhism", 
+            "name": "anuttara samyak sambodhi"
+        }, 
+        {
+            "def": "atman literally \"self\", sometimes \"soul\" or \"ego\". In Buddhism, the predominant teaching is the negating doctrine of anatman, that there is no permanent, persisting atman, and that belief in atman is the prime consequence of ignorance, the foundation of samsara", 
+            "link": "/wiki/Atman_(Buddhism)", 
+            "name": "atman"
+        }, 
+        {
+            "def": "Avalokitesvara, lit. \"One Who Hears the Suffering Cries of the World\", The bodhisattva of compassion (see also Guan Yin)", 
+            "link": "/wiki/Avalokitesvara", 
+            "name": "Avalokitesvara"
+        }, 
+        {
+            "def": "avidya \"ignorance\" or \"delusion\"", 
+            "link": "/wiki/Avidya_(Buddhism)", 
+            "name": "avidya"
+        }, 
+        {
+            "def": "bardo, lit. \"intermediate state\" or \"in-between state\", According to Tibetan tradition, the state of existence intermediate between two lives", 
+            "link": "/wiki/Bardo", 
+            "name": "bardo"
+        }, 
+        {
+            "def": "bhavacakra/bhavacakka A circular symbolic representation of samsara, also known as Wheel of becoming", 
+            "link": "/wiki/Bhavacakra", 
+            "name": "bhavacakra/bhavacakka"
+        }, 
+        {
+            "def": "bhante The polite particle used to refer to Buddhist monks in the Theravada tradition. Bhante literally means \"Venerable Sir.\"", 
+            "link": null, 
+            "name": "bhante"
+        }, 
+        {
+            "def": "bhava Becoming, being, existing; the 10th link of Pratitya-samutpada", 
+            "link": "/wiki/Bhava", 
+            "name": "bhava"
+        }, 
+        {
+            "def": "bhikkhu/bhikshu, lit. \"beggar\", A Buddhist monk", 
+            "link": "/wiki/Bhikkhu", 
+            "name": "bhikkhu/bhikshu"
+        }, 
+        {
+            "def": "bhikkhuni/bhikshuni A Buddhist nun", 
+            "link": "/wiki/Bhikkhuni", 
+            "name": "bhikkhuni/bhikshuni"
+        }, 
+        {
+            "def": "bija, lit. \"seed\", A metaphor for the origin or cause of things, used in the teachings of the Yogacara school", 
+            "link": "/wiki/Bija", 
+            "name": "bija"
+        }, 
+        {
+            "def": "bodhi Awakening or Enlightenment", 
+            "link": "/wiki/Bodhi", 
+            "name": "bodhi"
+        }, 
+        {
+            "def": "Bodhi tree The Sacred Fig (Ficus religiosa) tree under which Gautama reached Enlightenment", 
+            "link": "/wiki/Bodhi_tree", 
+            "name": "Bodhi tree"
+        }, 
+        {
+            "def": "bodhicitta The motivation of a bodhisattva", 
+            "link": "/wiki/Bodhicitta", 
+            "name": "bodhicitta"
+        }, 
+        {
+            "def": "bodhisattva One with the intention to become a Buddha in order to liberate all other sentient beings from suffering", 
+            "link": "/wiki/Bodhisattva", 
+            "name": "bodhisattva"
+        }, 
+        {
+            "def": "Boghda Holy, living Buddha, living Boddhisattva. The title of Jebtsundamba Khutuktu; also title used with the names of highest Buddhist masters, e.g. boghda Tsongkhapa, Panchen boghda", 
+            "link": "/wiki/Jebtsundamba_Khutuktu", 
+            "name": "Boghda"
+        }, 
+        {
+            "def": "Buddha A Buddha; also, the Buddha Siddh\u0101rtha Gautama.", 
+            "link": "/wiki/Buddhahood", 
+            "name": "Buddha"
+        }, 
+        {
+            "def": "buddha nature The uncreated and deathless Buddhic element or principle concealed within all sentient beings to achieve Awakening; the innate (latent) Buddha essence (esp. in the Tathagatagarbha sutras, Tendai/Tiantai, Nichiren thought)", 
+            "link": "/wiki/Buddha_nature", 
+            "name": "buddha nature"
+        }, 
+        {
+            "def": "cetana Volition", 
+            "link": "/wiki/Cetana", 
+            "name": "cetana"
+        }, 
+        {
+            "def": "Cetiya A reliquary holding holy objects of veneration", 
+            "link": "/wiki/Cetiya", 
+            "name": "Cetiya"
+        }, 
+        {
+            "def": "dakini A supernatural female with volatile temperament who serves as a muse for spiritual practice. Dakinis are often depicted naked to represent the truth", 
+            "link": "/wiki/Dakini", 
+            "name": "dakini"
+        }, 
+        {
+            "def": "Dalai Lama, lit. \"the lama with wisdom like an ocean\", secular and spiritual leader of Tibet as nominated by the Mongols", 
+            "link": "/wiki/Dalai_Lama", 
+            "name": "Dalai Lama"
+        }, 
+        {
+            "def": "dana Generosity or giving; in Buddhism, it also refers to the practice of cultivating generosity", 
+            "link": "/wiki/Dana_(Buddhism)", 
+            "name": "dana"
+        }, 
+        {
+            "def": "deva many different types of non-human beings who share the characteristics of being more powerful, longer-lived, and, in general, living more contentedly than the average human being", 
+            "link": "/wiki/Deva_(Buddhism)", 
+            "name": "deva"
+        }, 
+        {
+            "def": "dependent origination, see Pratityasamutpada", 
+            "link": "/wiki/Dependent_origination", 
+            "name": "dependent origination"
+        }, 
+        {
+            "def": "dhamma/dharma Often refers to the doctrines and teachings of the faith, but it may have broader uses. Also, it is an important technical term meaning something like \"phenomenological constituent.\" This leads to the potential for confusion, puns, and double entendres, as the latter meaning often has negative connotations", 
+            "link": "/wiki/Dharma_(Buddhism)", 
+            "name": "dhamma/dharma"
+        }, 
+        {
+            "def": "dhammavinaya The dharma and vinaya (roughly \"doctrine and discipline\") considered together. This term essentially means the whole teachings of Buddhism as taught to monks", 
+            "link": null, 
+            "name": "dhammavinaya"
+        }, 
+        {
+            "def": "dhammacakka/dharmacakra A symbolic representation of the dharma, also known as the Wheel of Dharma", 
+            "link": "/wiki/Dharmacakra", 
+            "name": "dhammacakka/dharmacakra"
+        }, 
+        {
+            "def": "Dhammapada a versified Buddhist scripture traditionally ascribed to the Buddha", 
+            "link": "/wiki/Dhammapada", 
+            "name": "Dhammapada"
+        }, 
+        {
+            "def": "dhammapala/dharmapala A fearsome deity, known as protector of the Dharma", 
+            "link": "/wiki/Dharmapala", 
+            "name": "dhammapala/dharmapala"
+        }, 
+        {
+            "def": "Dhyana, see jhana", 
+            "link": "/wiki/Dhy%C4%81na_in_Buddhism", 
+            "name": "Dhyana"
+        }, 
+        {
+            "def": "doan In Zen, a term for person sounding the bell that marks the beginning and end of Zazen", 
+            "link": null, 
+            "name": "doan"
+        }, 
+        {
+            "def": "dokusan A private meeting between a Zen student and the master. It is an important element in Rinzai Zen training, as it provides an opportunity for the student to demonstrate understanding", 
+            "link": null, 
+            "name": "dokusan"
+        }, 
+        {
+            "def": "dudie official certificate for monks and nuns issued by government", 
+            "link": null, 
+            "name": "dudie"
+        }, 
+        {
+            "def": "dukkha Suffering, dissatisfaction, stress", 
+            "link": "/wiki/Dukkha", 
+            "name": "dukkha"
+        }, 
+        {
+            "def": "dzogchen The natural, intrinsic state of every sentient being", 
+            "link": "/wiki/Dzogchen", 
+            "name": "dzogchen"
+        }, 
+        {
+            "def": "Five Five-Hundred-Year Periods Five sub-divisions of the three periods following the Buddha's passing (\u4e09\u6642\u7e6b\u5ff5 Cn: s\u0101nsh\u00ed; Jp: sanji; Vi: tam th\u1eddi), significant for many Mahayana adherents:\n\nAge of enlightenment (\u89e3\u8131\u5805\u56fa Cn: ji\u011btu\u014d ji\u0101ng\u00f9; Jp: gedatsu kengo)\nAge of meditation (\u7985\u5b9a\u5805\u56fa Cn: ch\u00e1nd\u00ecng ji\u0101ng\u00f9; Jp: zenj\u014d kengo)\nThese two ages comprise the Former Day of the Law (\u6b63\u6cd5\u6642\u671f Cn: zh\u00e8ngf\u01ce; Jp: sh\u014db\u014d)\nAge of reading, reciting, and listening (\u8aad\u8aa6\u591a\u805e\u5805\u56fa Cn: s\u00f2ngdu\u014dw\u00e9n ji\u0101ng\u00f9; Jp: dokuju tamon kengo)\nAge of building temples and stupas (\u591a\u9020\u5854\u5bfa\u5805\u56fa Cn: du\u014dz\u00e0o t\u01ces\u00ec ji\u0101ng\u00f9; Jp: taz\u014d t\u014dji kengo)\nThese two ages comprise the Middle Day of the Law (\u50cf\u6cd5\u6642\u671f Cn: xi\u00e0ngf\u01ce; Jp: z\u014dh\u014d)\nAge of conflict (\u95d8\u8acd\u5805\u56fa Cn: zh\u0113ng ji\u0101ng\u00f9; Jp: t\u014dj\u014d kengo), an age characterized by unrest, strife, famine, and other natural and human-made disasters.\nThis age corresponds to the beginning of the Latter Day of the Law (\u672b\u6cd5\u6642\u671f Cn: m\u00f2f\u01ce; Jp: mapp\u014d) when the (historical) Buddha's teachings would lose all power of salvation and perish (\u767d\u6cd5\u96a0\u6ca1 Cn: b\u00e1if\u01cem\u00e9i; Jp: byakuh\u014d onmotsu) and a new Buddha would appear to save the people.\n\n\nThe three periods and the five five-hundred year periods are described in the Sutra of the Great Assembly (\u5927\u96c6 Cn: d\u00e0j\u00ed; Jp: Daishutu-ky\u014d, Daijuku-ky\u014d, Daijikky\u014d, or Daishukky\u014d).\n\n", 
+            "link": null, 
+            "name": "Five Five-Hundred-Year Periods"
+        }, 
+        {
+            "def": "Four Noble Truths\n\nTruth of dukkha (suffering, anxiety, stress) (Sanskrit: du\u1e25kh\u0101ryasatya; Bur: \u1012\u102f\u1000\u1039\u1001 dokkha; Thai: \u0e17\u0e38\u0e01\u0e02\u0e4c; \u82e6\u8ae6 Cn: k\u01d4d\u00ec; Jp: kutai; Vi: kh\u1ed5 \u0111\u1ebf; Mn: \u0437\u043e\u0432\u043b\u043e\u043d, zovlon)\nTruth of the origin (samudaya) of dukkha (Sanskrit: samuday\u0101ryasatya; Bur: \u101e\u1019\u102f\u1012\u101a thamodaya; Thai: \u0e2a\u0e21\u0e38\u0e17\u0e31\u0e22; \u96c6\u8ae6 Cn: j\u00edd\u00ec; Jp: jittai; Vi: t\u1eadp kh\u1ed5 \u0111\u1ebf;\u00a0; Mn: \u0437\u043e\u0432\u043b\u043e\u043d\u0433\u0438\u0439\u043d \u0448\u0430\u043b\u0442\u0433\u0430\u0430\u043d, zovlongiin shaltgaan)\nTruth of the cessation (nirodha) of dukkha (Sanskrit: du\u1e25khanirodh\u0101ryasatya; Bur: \u1014\u102d\u101b\u1031\u102c\u1013 niyawdha; Thai: \u0e19\u0e34\u0e42\u0e23\u0e18; \u6ec5\u8ae6 Cn: mi\u00e8d\u00ec; Jp: mettai; Vi: di\u1ec7t kh\u1ed5 \u0111\u1ebf; Mn: \u0433\u044d\u0442\u043b\u044d\u0445, getlekh)\nThe path (marga) that leads out of dukkha (Sanskrit: du\u1e25khanirodhag\u0101min\u012b pratipad; Bur: \u1019\u1002\u103a meg; Thai: \u0e21\u0e23\u0e23\u0e04; \u9053\u8ae6 Cn: d\u00e0od\u00ec; Jp: d\u014dtai; Vi: \u0111\u1ea1o \u0111\u1ebf; Mn: \u043c\u04e9\u0440, m\u00f6r)\n\n", 
+            "link": "/wiki/Four_Noble_Truths", 
+            "name": "Four Noble Truths"
+        }, 
+        {
+            "def": "fukudo In Zen, term for person who strikes the han", 
+            "link": null, 
+            "name": "fukudo"
+        }, 
+        {
+            "def": "gassho A position used for greeting, with the palms together and fingers pointing upwards in prayer position; used in various Buddhist traditions, but also used in numerous cultures throughout Asia. It expresses greeting, request, thankfulness, reverence and prayer. Also considered a mudra or inkei of Japanese Shingon. See also: A\u00f1jali Mudr\u0101, Namaste, Sampeah and Wai.", 
+            "link": null, 
+            "name": "gassho"
+        }, 
+        {
+            "def": "geshe A Tibetan Buddhist academic degree in the Gelug tradition, awarded at the conclusion of lengthy studies often lasting nine years or more", 
+            "link": "/wiki/Geshe", 
+            "name": "geshe"
+        }, 
+        {
+            "def": "gongan, lit. \"public case\", A meditative method developed in the Ch\u00e1n/Seon/Zen traditions, generally consisting of a problem that defies solution by means of rational thought; see koan", 
+            "link": null, 
+            "name": "gongan"
+        }, 
+        {
+            "def": "Guan Yin The bodhisattva of compassion in East Asian Buddhism, with full name being Guan Shi Yin. Guan Yin is considered to be the female form of Avalokiteshvara but has been given many more distinctive characteristics.", 
+            "link": "/wiki/Guan_Yin", 
+            "name": "Guan Yin"
+        }, 
+        {
+            "def": "han In Zen monasteries, wooden board that is struck announcing sunrise, sunset and the end of the day", 
+            "link": null, 
+            "name": "han"
+        }, 
+        {
+            "def": "Hinayana, lit. \"small vehicle\", A coinage by the Mahayana for the Buddhist doctrines concerned with the achievement of Nirvana as a \u015ar\u0101vakabuddha or a Pratyekabuddha, as opposed to a Samyaksambuddha. While sometime thought as derogatory, it means in fact that the Hinayana doctrine is made to save but 1 individual, the one who follows its teachings, just like a 1 place vehicle, while the Mahayana allow the monk to take other people along with him, like a bus or a great plane.", 
+            "link": "/wiki/Hinayana", 
+            "name": "Hinayana"
+        }, 
+        {
+            "def": "Ino, Jp. lit. \"bringer of joy to the assembly.\" Originally from Sanskrit karmadana, lit. bestower of conduct [karma]. In Zen, the supervisor of the meditation hall [sodo]. One of the six senior temple administrators.", 
+            "link": null, 
+            "name": "Ino"
+        }, 
+        {
+            "def": "jhana Meditative contemplation; more often associated with \u015bamatha practices than vipa\u015byana. See also: shamata, samadhi, samapatti", 
+            "link": "/wiki/Jhana", 
+            "name": "jhana"
+        }, 
+        {
+            "def": "jisha In Zen, a senior priest's attendant", 
+            "link": "/wiki/Jisha", 
+            "name": "jisha"
+        }, 
+        {
+            "def": "jukai Zen public ordination ceremony wherein a lay student receives certain Buddhist precepts.", 
+            "link": "/wiki/Buddhist_Initiation_Ritual", 
+            "name": "jukai"
+        }, 
+        {
+            "def": "karma, lit. \"action\", The law of cause and effect in Buddhism", 
+            "link": "/wiki/Karma_in_Buddhism", 
+            "name": "karma"
+        }, 
+        {
+            "def": "kensho In Zen, enlightenment; has the same meaning as sat\u014dri, but is customary used for an initial awakening experience", 
+            "link": "/wiki/Kensho", 
+            "name": "kensho"
+        }, 
+        {
+            "def": "khyenpo, also khenpo, An academic degree similar to a doctorate in theology, philosophy, and psychology", 
+            "link": "/wiki/Khyenpo", 
+            "name": "khyenpo"
+        }, 
+        {
+            "def": "khanti patience", 
+            "link": "/wiki/Khanti", 
+            "name": "khanti"
+        }, 
+        {
+            "def": "kinhin Zen walking meditation", 
+            "link": "/wiki/Kinhin", 
+            "name": "kinhin"
+        }, 
+        {
+            "def": "koan A story, question, problem or statement generally inaccessible to rational understanding, yet may be accessible to Intuition", 
+            "link": "/wiki/Koan", 
+            "name": "koan"
+        }, 
+        {
+            "def": "ksanti The practice of exercising patience toward behaviour or situations that might not necessarily deserve it\u2014it is seen as a conscious choice to actively give patience as a gift, rather than being in a state of oppression in which one feels obligated to act in such a way.", 
+            "link": "/wiki/Ksanti", 
+            "name": "ksanti"
+        }, 
+        {
+            "def": "kyosaku In Zen, a flattened stick used to strike the shoulders during zazen, to help overcome fatigue or reach satori", 
+            "link": "/wiki/Kyosaku", 
+            "name": "kyosaku"
+        }, 
+        {
+            "def": "lama A Tibetan teacher or master; equivalent to Sanskrit \"guru\"", 
+            "link": "/wiki/Lama", 
+            "name": "lama"
+        }, 
+        {
+            "def": "lineage The official record of the historical descent of dharma teachings from one teacher to another; by extension, may refer to a tradition", 
+            "link": "/wiki/Lineage_(Buddhism)", 
+            "name": "lineage"
+        }, 
+        {
+            "def": "Madhyamaka Buddhist philosophical school, founded by Nagarjuna. Members of this school are called Madhyamikas", 
+            "link": "/wiki/Madhyamaka", 
+            "name": "Madhyamaka"
+        }, 
+        {
+            "def": "mahabhuta four great elements in traditional Buddhist thought", 
+            "link": "/wiki/Mahabhuta", 
+            "name": "mahabhuta"
+        }, 
+        {
+            "def": "mahamudra A method of direct introduction the understanding of sunyata, of samsara and that the two are inseparable", 
+            "link": "/wiki/Mahamudra", 
+            "name": "mahamudra"
+        }, 
+        {
+            "def": "mahasiddha litt. great spiritual accomplishment. A yogi in Tantric Buddhism, often associated with the highest levels of enlightenment", 
+            "link": "/wiki/Mahasiddha", 
+            "name": "mahasiddha"
+        }, 
+        {
+            "def": "Mahayana, lit. \"great vehicle\", A major branch of Buddhism practiced in China, Tibet, Japan, Korea, Vietnam, and Taiwan. Main goal is to achieve buddhahood or samyaksambuddha", 
+            "link": null, 
+            "name": "Mahayana"
+        }, 
+        {
+            "def": "Maitreya The Buddha of the future epoch", 
+            "link": "/wiki/Maitreya", 
+            "name": "Maitreya"
+        }, 
+        {
+            "def": "makyo In Zen, unpleasant or distracting thoughts or illusions that occur during zazen", 
+            "link": "/wiki/Makyo", 
+            "name": "makyo"
+        }, 
+        {
+            "def": "M\u0101na conceit, arrogance, misconception", 
+            "link": "/wiki/M%C4%81na", 
+            "name": "M\u0101na"
+        }, 
+        {
+            "def": "mandala a spiritual and ritual symbol representing the Universe", 
+            "link": "/wiki/Mandala", 
+            "name": "mandala"
+        }, 
+        {
+            "def": "mantra Chant used primarily to aid concentration, to reach enlightenment. The best-known Buddhist mantra is possibly Om mani padme hum", 
+            "link": "/wiki/Mantra", 
+            "name": "mantra"
+        }, 
+        {
+            "def": "Mappo The \"degenerate\" Latter Day of the Law. A time period supposed to begin 2,000 years after Sakyamuni Buddha's passing and last for \"10,000 years\"; follows the two 1,000-year periods of Former Day of the Law (\u6b63\u6cd5 Cn: zh\u00e8ngf\u01ce; Jp: sh\u014db\u014d) and of Middle Day of the Law (\u50cf\u6cd5 Cn: xi\u00e0ngf\u01ce; Jp: z\u014dh\u014d). During this degenerate age, chaos will prevail and the people will be unable to attain enlightenment through the word of Sakyamuni Buddha. See the Three periods", 
+            "link": "/wiki/Mappo", 
+            "name": "Mappo"
+        }, 
+        {
+            "def": "metta loving kindness", 
+            "link": "/wiki/Metta", 
+            "name": "metta"
+        }, 
+        {
+            "def": "Middle Way The practice of avoidance of extreme views and lifestyle choices", 
+            "link": "/wiki/Middle_Way", 
+            "name": "Middle Way"
+        }, 
+        {
+            "def": "(right) mindfulness The practice whereby a person is intentionally aware of his or her thoughts and actions in the present moment, non-judgmentally. The 7th step of the Noble Eightfold Path", 
+            "link": "/wiki/Mindfulness_(Buddhism)", 
+            "name": "(right) mindfulness"
+        }, 
+        {
+            "def": "moksha Liberation", 
+            "link": "/wiki/Moksha", 
+            "name": "moksha"
+        }, 
+        {
+            "def": "mokugyo A wooden drum carved from one piece, usually in the form of a fish", 
+            "link": "/wiki/Mokugyo", 
+            "name": "mokugyo"
+        }, 
+        {
+            "def": "mondo In Zen, a short dialogue between teacher and student", 
+            "link": "/wiki/Mondo_(scripture)", 
+            "name": "mondo"
+        }, 
+        {
+            "def": "mudra lit. \"seal\", A gesture made with hands and fingers in meditation", 
+            "link": "/wiki/Mudra", 
+            "name": "mudra"
+        }, 
+        {
+            "def": "namo An exclamation showing reverence; devotion. Often placed in front of the name of an object of veneration, e.g., a Buddha's name or a sutra (Nam(u) My\u014dh\u014d Renge Ky\u014d), to express devotion to it. Defined in Sino-Japanese as \u5e30\u547d kimy\u014d: to base one's life upon, to devote (or submit) one's life to\nDerivatives:\n\nNamo Amitabha\n\n", 
+            "link": null, 
+            "name": "namo"
+        }, 
+        {
+            "def": "nekkhamma renunciation", 
+            "link": "/wiki/Nekkhamma", 
+            "name": "nekkhamma"
+        }, 
+        {
+            "def": "Nirvana/Nibbana Extinction or extinguishing; ultimate enlightenment in the Buddhist tradition", 
+            "link": "/wiki/Nirvana_(Buddhism)", 
+            "name": "Nirvana/Nibbana"
+        }, 
+        {
+            "def": "Nikaya, lit. \"volume\", The Buddhist texts in P\u0101li", 
+            "link": "/wiki/Nikaya", 
+            "name": "Nikaya"
+        }, 
+        {
+            "def": "Noble Eightfold Path\n\nRight View (P\u0101li: samm\u0101-di\u1e6d\u1e6dhi; Sanskrit: samyag-d\u1e5b\u1e63\u1e6di; \u6b63\u898b Cn: zh\u00e8ngji\u00e0n; Vi: ch\u00ednh ki\u1ebfn)\nRight Thought (P\u0101li: samm\u0101-sa\u1e45kappa; Sanskrit: samyak-sa\u1e43kalpa; \u6b63\u601d\u552f Cn: zh\u00e8ngs\u012bw\u00e9i; Vi: ch\u00ednh t\u01b0 duy)\nThese 2 constitute the path of Wisdom (P\u0101li: pa\u00f1\u00f1\u0101; Sanskrit: praj\u00f1\u0101)\nRight Speech (P\u0101li: samm\u0101-v\u0101c\u0101; Sanskrit: samyag-v\u0101k; \u6b63\u8a9e Cn: zh\u00e8ngy\u01d4; Vi: ch\u00ednh ng\u1eef)\nRight Action (P\u0101li: samm\u0101-kammanta; Sanskrit: samyak-karm\u0101nta; \u6b63\u696d Cn: zh\u00e8ngy\u00e8; Vi: ch\u00ednh nghi\u1ec7p)\nRight Living (P\u0101li: samm\u0101-\u0101j\u012bva; Sanskrit: samyag-\u0101j\u012bva; \u6b63\u547d Cn: zh\u00e8ngm\u00ecng; Vi: ch\u00ednh m\u1ec7nh)\nThese 3 constitute the path of Virtue (P\u0101li: s\u012bla; Sanskrit: \u015b\u012bla)\nRight Effort (P\u0101li: samm\u0101-v\u0101y\u0101ma; Sanskrit: samyag-vy\u0101y\u0101ma; \u6b63\u7cbe\u9032 Cn: zh\u00e8ngj\u012bngj\u00ecn; Vi: ch\u00ednh tinh ti\u1ebfn)\nRight Mindfulness (P\u0101li: samm\u0101-sati; Sanskrit: samyag-sm\u1e5bti; \u6b63\u5ff5 Cn: zh\u00e8ngni\u00e0n; Vi: ch\u00ednh ni\u1ec7m)\nRight Concentration (P\u0101li: samm\u0101-sam\u0101dhi; Sanskrit: samyak-sam\u0101dhi; \u6b63\u5b9a Cn: zh\u00e8ngd\u00ecng; Vi: ch\u00ednh \u0111\u1ecbnh)\nThe last 3 constitute the path of Concentration (P\u0101li, Sanskrit: sam\u0101dhi)\n\n", 
+            "link": "/wiki/Noble_Eightfold_Path", 
+            "name": "Noble Eightfold Path"
+        }, 
+        {
+            "def": "oryoki A set of bowls used in a Zen eating ceremony", 
+            "link": "/wiki/Oryoki", 
+            "name": "oryoki"
+        }, 
+        {
+            "def": "osho A term used to address a monk of the Zen Buddhist tradition. Originally reserved for high-ranking monks, it has since been appropriated for everyday use when addressing any male member of the Zen clergy", 
+            "link": null, 
+            "name": "osho"
+        }, 
+        {
+            "def": "pabbajja, (a layperson) leaving home to join a community of monks and nuns (lit. \"to go forth\")", 
+            "link": "/wiki/Pabbajja", 
+            "name": "pabbajja"
+        }, 
+        {
+            "def": "panca skandha The five constituent elements into which an individual is analyzed. They are:\n\n\"form\": P\u0101li, Sanskrit: r\u016bpa; Bu: \u101b\u1030\u1015 yupa; \u8272 Cn: s\u00e8; Jp: shiki\n\"sensation\": P\u0101li, Sanskrit: vedan\u0101; Bu: \u101d\u1031\u1012\u1014 wedana; \u53d7 Cn: sh\u00f2u; Jp: ju\n\"cognition\": P\u0101li: sa\u00f1\u00f1\u0101; Sanskrit: sa\u1e43j\u00f1\u0101; Bu: \u101e\u100a\u102c thinnya; \u60f3 Cn: xi\u00e0ng; Jp: s\u014d\n\"mental formations\": P\u0101li: sa\u1e45kh\u0101ra; Sanskrit: sa\u1e43sk\u0101ra; Bu: \u101e\u1004\u103a\u1039\u1001\u102b\u101b thinkhaya; \u884c Cn: x\u00edng; Jp: gy\u014d\n\"consciousness\": P\u0101li: vi\u00f1\u00f1\u0101\u1e47a; Sanskrit: vij\u00f1\u0101na; Bu: \u101d\u102d\u100a\u102c\u1009\u103a winyin; \u8b58 Cn: sh\u00ed; Jp: shiki\n\n", 
+            "link": "/wiki/Skandha", 
+            "name": "panca skandha"
+        }, 
+        {
+            "def": "Panchen Lama The second highest ranking lama in the Gelugpa sect of Tibetan Buddhism. after the Dalai Lama", 
+            "link": "/wiki/Panchen_Lama", 
+            "name": "Panchen Lama"
+        }, 
+        {
+            "def": "pa\u00f1\u00f1\u0101, see prajna", 
+            "link": "/wiki/Pa%C3%B1%C3%B1%C4%81", 
+            "name": "pa\u00f1\u00f1\u0101"
+        }, 
+        {
+            "def": "paramartha Absolute, as opposed to merely conventional, truth or reality; see also samvrti", 
+            "link": "/wiki/Paramartha", 
+            "name": "paramartha"
+        }, 
+        {
+            "def": "paramita, lit. \"reaching the other shore,\" usually rendered in English as \"perfection.\" The Mahayana practices for obtaining enlightenment; giving, ethics, patience, effort, concentration and wisdom", 
+            "link": "/wiki/Paramita", 
+            "name": "paramita"
+        }, 
+        {
+            "def": "parinibbana/parinirvana The final nibbana/nirvana", 
+            "link": "/wiki/Parinibbana", 
+            "name": "parinibbana/parinirvana"
+        }, 
+        {
+            "def": "Pointing-out instruction The direct introduction to the nature of mind in the lineages of Essence Mahamudra and Dzogchen. A root guru is the master who gives the 'pointing-out instruction' so that the disciple recognizes the nature of mind", 
+            "link": null, 
+            "name": "Pointing-out instruction"
+        }, 
+        {
+            "def": "prajna/pa\u00f1\u00f1\u0101 \"wisdom\", \"insight\"", 
+            "link": "/wiki/Wisdom_in_Buddhism", 
+            "name": "prajna/pa\u00f1\u00f1\u0101"
+        }, 
+        {
+            "def": "pratitya-samutpada \"Dependent origination,\" the view that no phenomenon exists (or comes about) without depending on other phenomena or conditions around it. In English also called \"conditioned genesis,\" \"dependent co-arising,\" \"interdependent arising,\" etc.\nA famous application of dependent origination is the Twelve Nidana, or 12 inter-dependences (Sanskrit: dv\u0101da\u015b\u0101\u1e45gaprat\u012btyasamutp\u0101da; \u5341\u4e8c\u56e0\u7de3, \u5341\u4e8c\u56e0\u7e01 Cn: sh\u00ed\u00e0r y\u012bnyu\u00e1n; Jp: j\u016bni innen; Vi: th\u1eadp nh\u1ecb nh\u00e2n duy\u00ean), which are:\n\nIgnorance (P\u0101li: avijj\u0101; Sanskrit: avidy\u0101; \u7121\u660e Cn: w\u00fam\u00edng; Jp: mumy\u014d; Vi: v\u00f4 minh; Mn: \u043c\u0443\u043d\u0445\u0440\u0430\u0445\u0443\u0439, munhrahui)\nIgnorance creates Mental Formation (P\u0101li: sa\u1e45kh\u0101ra; Sanskrit: sa\u1e43sk\u0101ra; \u884c Cn: x\u00edng; Jp: gy\u014d; Vi: h\u00e0nh; Mn: \u0445\u0443\u0440\u0430\u043d \u04af\u0439\u043b\u0434\u044d\u0445\u04af\u0439, khuran uildehui)\nMental Formation creates Consciousness (P\u0101li: vi\u00f1\u00f1\u0101\u1e47a; Sanskrit: vij\u00f1\u0101na; \u8b58 Cn: sh\u00ed; Jp: shiki; Vi: th\u1ee9c; Mn: \u0442\u0438\u0439\u043d \u043c\u044d\u0434\u044d\u0445\u04af\u0439, tiin medehui)\nConsciousness creates Name & Form (P\u0101li, Sanskrit: n\u0101mar\u016bpa; \u540d\u8272 Cn: m\u00edngs\u00e8; Jp: my\u014dshiki; Vi: danh s\u1eafc; Mn: \u043d\u044d\u0440 \u04e9\u043d\u0433\u04e9, ner \u00f6ng\u00f6)\nName & Form create Sense Gates (P\u0101li: sa\u1e37\u0101yatana; Sanskrit: \u1e63a\u1e0d\u0101yatana; \u516d\u5165 or \u516d\u51e6 Cn: li\u00f9r\u00f9; Jp: rokuny\u016b or rokusho; Vi: l\u1ee5c c\u0103n; Mn: \u0442\u04e9\u0440\u04e9\u043d \u0442\u04af\u0433\u044d\u0445\u04af\u0439, t\u00f6r\u00f6n tugehui)\nSense Gates create Contact (P\u0101li: phassa; Sanskrit: spar\u015ba; \u89f8, \u89e6 Cn: ch\u00f9; Jp: soku; Vi: x\u00fac; Mn: \u0445\u04af\u0440\u044d\u043b\u0446\u044d\u0445\u04af\u0439, khureltsehui)\nContact creates Feeling (P\u0101li, Sanskrit: vedan\u0101; \u53d7 Cn: sh\u00f2u; Jp: ju; Vi: th\u1ee5; Mn: \u0441\u044d\u0440\u044d\u0445\u04af\u0439, serehui)\nFeeling creates Craving (P\u0101li: ta\u1e47h\u0101; Sanskrit: t\u1e5b\u1e63\u1e47\u0101; \u611b Cn: \u00e0i; Jp: ai; Vi: \u00e1i; Mn: \u0445\u0443\u0440\u044c\u0446\u0430\u0445\u0443\u0439, khuritsahui)\nCraving creates Clinging (P\u0101li, Sanskrit: up\u0101d\u0101na; \u53d6 Cn: q\u01d4; Jp: shu; Vi: th\u1ee7; Mn: \u0430\u0432\u0430\u0445\u0443\u0439, avahui)\nClinging creates Becoming (P\u0101li, Sanskrit: bhava; \u6709 Cn: y\u01d2u; Jp: u; Vi: h\u1eefu; Mn: \u0441\u0430\u043d\u0441\u0430\u0440, sansar)\nBecoming creates Birth (P\u0101li, Sanskrit: j\u0101ti; \u751f Cn: sh\u0113ng; Jp: sh\u014d; Vi: sinh; Mn: \u0442\u04e9\u0440\u04e9\u0445\u04af\u0439, t\u00f6r\u00f6hui )\nBirth leads to Aging & Death (P\u0101li, Sanskrit: jar\u0101mara\u1e47a; \u8001\u6b7b Cn: l\u00e1os\u01d0; Jp: r\u014dshi; Vi: l\u00e3o t\u1eed; Mn: \u04e9\u0442\u043b\u04e9\u0445 \u04af\u0445\u044d\u0445\u04af\u0439, \u00f6tl\u00f6h uhehui)\n\n", 
+            "link": "/wiki/Pratitya-samutpada", 
+            "name": "pratitya-samutpada"
+        }, 
+        {
+            "def": "Pratyekabuddha/Paccekabuddha, lit. \"a buddha by his own\", A buddha who reaches enlightenment on his own", 
+            "link": "/wiki/Pratyekabuddha", 
+            "name": "Pratyekabuddha/Paccekabuddha"
+        }, 
+        {
+            "def": "Pure Land Buddhism A large branch of Mahayana, dominantly in East Asia. The goal of Pure Land Buddhism is to be reborn in the Western sukhavati of Amitabha, either as a real place or within the mind, through the other-power of repeating the Buddha's name, nianfo or nembutsu.", 
+            "link": "/wiki/Pure_Land_Buddhism", 
+            "name": "Pure Land Buddhism"
+        }, 
+        {
+            "def": "purisa The practicing Buddhist community as a whole; sangha and laity", 
+            "link": "/wiki/Purisa", 
+            "name": "purisa"
+        }, 
+        {
+            "def": "rebirth The process of continuity of life after death", 
+            "link": "/wiki/Rebirth_(Buddhism)", 
+            "name": "rebirth"
+        }, 
+        {
+            "def": "refuge Usually in the form of \"take refuge in the Three Jewels\"", 
+            "link": "/wiki/Refuge_(Buddhism)", 
+            "name": "refuge"
+        }, 
+        {
+            "def": "Rigpa, the knowledge that ensues from recognizing one's nature", 
+            "link": "/wiki/Rigpa", 
+            "name": "Rigpa"
+        }, 
+        {
+            "def": "Rinpoche, lit. \"precious one\", An honorific title for a respected Tibetan lama, such as a tulku", 
+            "link": "/wiki/Rinpoche", 
+            "name": "Rinpoche"
+        }, 
+        {
+            "def": "Rinzai Zen sect emphasizing koan study; named for master Linji Yixuan", 
+            "link": "/wiki/Rinzai", 
+            "name": "Rinzai"
+        }, 
+        {
+            "def": "Rohatsu A day traditionally honored as the day of the Buddha's enlightenment. While deep in meditation under a bodhi tree, he attained enlightenment upon seeing the morning star just at dawn; celebrated on the 8th day either of December or of the 12th month of the lunar calendar", 
+            "link": "/wiki/Rohatsu", 
+            "name": "Rohatsu"
+        }, 
+        {
+            "def": "roshi, lit. \"Master\", An honorific given to Zen teachers in the Rinzai and Obaku sects.", 
+            "link": "/wiki/R%C5%8Dshi", 
+            "name": "roshi"
+        }, 
+        {
+            "def": "sacca truthfulness", 
+            "link": "/wiki/Sacca", 
+            "name": "sacca"
+        }, 
+        {
+            "def": "samanera/shramanera A male novice monk, who, after a year or until the ripe age of 20, will be considered for the higher Bhikkhu ordination", 
+            "link": "/wiki/Samanera", 
+            "name": "samanera/shramanera"
+        }, 
+        {
+            "def": "samatha Mental stabilization; tranquility meditation. Distinguished from vipassan\u0101 meditation", 
+            "link": "/wiki/Samatha", 
+            "name": "samatha"
+        }, 
+        {
+            "def": "samsara The cycle of birth and rebirth; the world as commonly experienced", 
+            "link": "/wiki/Samsara_(Buddhism)", 
+            "name": "samsara"
+        }, 
+        {
+            "def": "samu Work, conceived as a part of Zen training.[2]", 
+            "link": "/wiki/Samu_(Zen)", 
+            "name": "samu"
+        }, 
+        {
+            "def": "samvrti Conventional, as opposed to absolute, truth or reality; see also paramartha", 
+            "link": "/wiki/Samvrti", 
+            "name": "samvrti"
+        }, 
+        {
+            "def": "sangha The community of Buddhist monks and nuns. Teachers and practitioners.", 
+            "link": "/wiki/Sangha_(Buddhism)", 
+            "name": "sangha"
+        }, 
+        {
+            "def": "Sanlun Buddhist philosophical school based on the Madhyamaka school", 
+            "link": "/wiki/Sanlun", 
+            "name": "Sanlun"
+        }, 
+        {
+            "def": "sanzen A formal interview with a teacher in many traditions of Zen. Similar to dokusan", 
+            "link": "/wiki/Sanzen", 
+            "name": "sanzen"
+        }, 
+        {
+            "def": "satori Awakening; understanding. A Japanese term for enlightenment", 
+            "link": "/wiki/Satori", 
+            "name": "satori"
+        }, 
+        {
+            "def": "sayadaw Burmese meditation master", 
+            "link": "/wiki/Sayadaw", 
+            "name": "sayadaw"
+        }, 
+        {
+            "def": "seichu In the Zen Buddhist calendar, a period of intensive, formal monastic training. It is typically characterized by week-long Daisesshins and periodic sanzen", 
+            "link": "/wiki/Seichu", 
+            "name": "seichu"
+        }, 
+        {
+            "def": "sesshin A Zen retreat where practitioners meditate, eat and work together for several days", 
+            "link": "/wiki/Sesshin", 
+            "name": "sesshin"
+        }, 
+        {
+            "def": "shikantaza Soto Zen. \"Only concentrated on sitting\" is the main practice of the Soto school of Japanese Zen Buddhism", 
+            "link": "/wiki/Shikantaza", 
+            "name": "shikantaza"
+        }, 
+        {
+            "def": "shunyata Emptiness; see also Nagarjuna", 
+            "link": "/wiki/Shunyata", 
+            "name": "shunyata"
+        }, 
+        {
+            "def": "Sikh\u012b Buddha Buddha of Knowledge", 
+            "link": "/wiki/Sikh%C4%AB_Buddha", 
+            "name": "Sikh\u012b Buddha"
+        }, 
+        {
+            "def": "sila \"morals\", \"morality\", \"ethics\": precepts", 
+            "link": "/wiki/%C5%9A%C4%ABla", 
+            "name": "sila"
+        }, 
+        {
+            "def": "S\u014dt\u014d Sect of Zen emphasizing shikantaza as the primary mode of practice; see also D\u014dgen", 
+            "link": "/wiki/S%C5%8Dt%C5%8D", 
+            "name": "S\u014dt\u014d"
+        }, 
+        {
+            "def": "store consciousness The base consciousness (alayavijnana) taught in Yogacara Buddhism", 
+            "link": "/wiki/Store_consciousness", 
+            "name": "store consciousness"
+        }, 
+        {
+            "def": "sukha happiness; ease; pleasure; bliss", 
+            "link": "/wiki/Sukha", 
+            "name": "sukha"
+        }, 
+        {
+            "def": "sutra Scripture; originally referred to short aphoristic sayings and collections thereof", 
+            "link": "/wiki/Sutra", 
+            "name": "sutra"
+        }, 
+        {
+            "def": "Sutra Pitaka The second basket of the Tripi\u1e6daka canon, the collection of all Buddha's teachings", 
+            "link": "/wiki/Sutta_Pitaka", 
+            "name": "Sutra Pitaka"
+        }, 
+        {
+            "def": "tangary\u014d A period of waiting for admission into a Zen monastery at the gate, lasting anywhere from one day to several weeks\u2014depending on the quality of one's sitting. Refers to the room traveling monks stay in when visiting, or await admittance into the s\u014dd\u014d.", 
+            "link": null, 
+            "name": "tangary\u014d"
+        }, 
+        {
+            "def": "tanha Craving or desire", 
+            "link": "/wiki/Tanha", 
+            "name": "tanha"
+        }, 
+        {
+            "def": "Tanto In Zen, one of the main temple leaders, lit.\"head of the tan.\" In a Zen temple, the Tanto is one of two officers (with the Godo) in charge monks' training.[2]", 
+            "link": null, 
+            "name": "Tanto"
+        }, 
+        {
+            "def": "tantra Esoteric religious practices, including yoga, mantra, etc. See also Vajrayana.", 
+            "link": "/wiki/Tantra", 
+            "name": "tantra"
+        }, 
+        {
+            "def": "Tathagata one of the Buddha's ten epithets", 
+            "link": "/wiki/Tathagata", 
+            "name": "Tathagata"
+        }, 
+        {
+            "def": "tathagatagarbha Buddha-nature or the seed of enlightenment", 
+            "link": "/wiki/Tathagatagarbha", 
+            "name": "tathagatagarbha"
+        }, 
+        {
+            "def": "teisho A presentation by a Zen master during a sesshin. Rather than an explanation or exposition in the traditional sense, it is intended as a demonstration of Zen realisation", 
+            "link": null, 
+            "name": "teisho"
+        }, 
+        {
+            "def": "tenzo In Zen, the head cook for a sesshin. In Zen temples, the officer in charge of the kitchen", 
+            "link": null, 
+            "name": "tenzo"
+        }, 
+        {
+            "def": "Theravada, lit. \"words of the elders\", Most popular form of Buddhism in Southeast Asia and Sri Lanka.", 
+            "link": "/wiki/Theravada", 
+            "name": "Theravada"
+        }, 
+        {
+            "def": "thera or their, lit. \"elder\", Honorific applied to senior monks and nuns in the Theravada tradition.", 
+            "link": null, 
+            "name": "theratheir"
+        }, 
+        {
+            "def": "Three Jewels Three things that Buddhists take refuge in: the Buddha, his teachings (Dharma) and the community of realized practitioners (Sangha), and in return look toward for guidance (see also Refuge (Buddhism))", 
+            "link": "/wiki/Three_Jewels", 
+            "name": "Three Jewels"
+        }, 
+        {
+            "def": "Three periods\n\nThree divisions of the time following the historical Buddha's passing: the Former (or Early) Day of the Law (\u6b63\u6cd5 Cn: zh\u00e8ngf\u01ce; Jp: sh\u014db\u014d), the first thousand years; the Middle Day of the Law (\u50cf\u6cd5 Cn: xi\u00e0ngf\u01ce; Jp: z\u014dh\u014d), the second thousand years; and the Latter Day of the Law (\u672b\u6cd5 Cn: m\u00f2f\u01ce; Jp: mapp\u014d), which is to last for 10,000 years.\nThe three periods are significant to Mahayana adherents, particularly those who hold the Lotus Sutra in high regard; e.g., Tiantai (Tendai) and Nichiren Buddhists, who believe that different Buddhist teachings are valid (i.e., able to lead practitioners to enlightenment) in each period due to the different capacity to accept a teaching (\u6a5f\u6839 Cn: j\u012bg\u0113n; Jp: kikon) of the people born in each respective period.\nThe three periods are further divided into five five-hundred year periods (\u4e94\u4e94\u767e\u6b73 Cn: w\u01d4 w\u01d4b\u01cei su\u00ec; Jp: go no gohyaku sai), the fifth and last of which was prophesied to be when the Buddhism of Sakyamuni would lose all power of salvation and a new Buddha would appear to save the people. This time period would be characterized by unrest, strife, famine, and other, natural disasters.\nThe three periods and the five five-hundred year periods are described in the Sutra of the Great Assembly (\u5927\u96c6\u7d4c Cn: d\u00e0j\u00ed j\u012bng; Jp: Daishutu-ky\u014d, Daijuku-ky\u014d, Daijikky\u014d, or Daishukky\u014d). Descriptions of the three periods also appear in other sutras, some of which ascribe different lengths of time to them (although all agree that Mapp\u014d will last for 10,000 years).\n\n", 
+            "link": "/wiki/Three_Ages_of_Buddhism", 
+            "name": "Three periods"
+        }, 
+        {
+            "def": "Three Poisons or Three Fires\n\nThe three primary causes of unskillful action that lead to the creation of \"negative\" karma; the three root kleshas:\n\n\nAttachment (P\u0101li: lobha; Sanskrit: r\u0101ga; Tib.: \u0f60\u0f51\u0f7c\u0f51\u0f0b\u0f46\u0f42\u0f66\u0f0b 'dod chags)\nAversion (Pali: doha; Sanskrit: dve\u1e63a; Tib.: \u0f5e\u0f7a\u0f0b\u0f66\u0fa1\u0f44\u0f0b zhe sdang; Mn: \u0443\u0440\u0438\u043d \u0445\u0438\u043b\u044d\u043d, urin khilen; \u778b Cn: ch\u0113n; Jp: jin; Vi: s\u00e2n)\nIgnorance (P\u0101li: moha; Sanskrit: moha; Tib.: \u0f42\u0f4f\u0f72\u0f0b\u0f58\u0f74\u0f42\u0f0b gti mug)\n\n", 
+            "link": "/wiki/Three_poisons_(Buddhism)", 
+            "name": "Three PoisonsThree Fires"
+        }, 
+        {
+            "def": "Tiantai/Tendai A Mahayana school of China that teaches the supremacy of the Lotus Sutra", 
+            "link": "/wiki/Tiantai", 
+            "name": "Tiantai/Tendai"
+        }, 
+        {
+            "def": "trail\u00f5kya The 3 \"regions\" of the world:\n\nKamaloka or Kamadhatu: world of desires (Sanskrit, P\u0101li: k\u0101maloka, k\u0101madh\u0101tu; Tibetan: \u0f60\u0f51\u0f7c\u0f51\u0f0b\u0f41\u0f58\u0f66\u0f0b `dod khams; Mn: \u0430\u043c\u0430\u0440\u043c\u0430\u0433\u0438\u0439\u043d \u043e\u0440\u043e\u043d, amarmagiin oron; \u6b32\u754c Cn: y\u00f9ji\u00e8, Jp: yokkai Vi: d\u1ee5c gi\u1edbi)\nRupaloka or Rupadhatu: world of form (Sanskrit: r\u016bpaloka, r\u016bpadh\u0101tu; Tibetan: \u0f42\u0f5f\u0f74\u0f42\u0f66\u0f0b\u0f41\u0f58\u0f66\u0f0b gzugs khams; Mn: \u0434\u04af\u0440\u0441\u0442\u0438\u0439\u043d \u043e\u0440\u043e\u043d, durstiin oron; \u8272\u754c Cn: s\u00e8ji\u00e8; Jp: shikikai , Vi: s\u1eafc gi\u1edbi)\nArupaloka or Arupadhatu: world without form or desire (Sanskrit: ar\u016bpaloka, ar\u016bpadh\u0101tu; Tibetan: \u0f42\u0f5f\u0f74\u0f42\u0f66\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f41\u0f58\u0f66\u0f0b gzugs med khams; Mn: \u0434\u04af\u0440\u0441\u0433\u04af\u0439\u043d \u043e\u0440\u043e\u043d, dursquin oron; \u7121\u8272\u754c Cn: w\u00fa s\u00e8ji\u00e8, Jp: mushikikai Vi: v\u00f4 s\u1eafc gi\u1edbi)\n\n", 
+            "link": "/wiki/Trail%C3%B5kya", 
+            "name": "trail\u00f5kya"
+        }, 
+        {
+            "def": "trikaya The 3 \"bodies\" of Buddha:\n\nDharma-kaya (Sanskrit: dharmak\u0101ya; \u6cd5\u8eab Cn: f\u01cesh\u0113n; Jp: hosshin; Vi: ph\u00e1p th\u00e2n)\nSambhoga-kaya (Sanskrit: sa\u1e43bhogak\u0101ya; \u5831\u8eab Cn: b\u00e0osh\u0113n; Jp: h\u014dshin; Vi: b\u00e1o th\u00e2n)\nNirmana-kaya (Sanskrit: nirm\u0101\u1e47ak\u0101ya; \u61c9\u8eab,\u5316\u8eab,\u5fdc\u8eab Cn: y\u00ecngsh\u0113n; Jp: \u014djin; Vi: \u1ee9ng th\u00e2n)\n\n", 
+            "link": "/wiki/Trikaya", 
+            "name": "trikaya"
+        }, 
+        {
+            "def": "Tripitaka The \"Three Baskets\"; canon containing the sacred texts for Buddhism (P\u0101li)\n\nVinaya Pitaka (P\u0101li, Sanskrit: Vinaya-pi\u1e6daka; Tib: \u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f66\u0fa1\u0f7a\u0f0b\u0f66\u0fa3\u0f7c\u0f51\u0f0b `dul ba`i sde snod; Mn: \u0432\u0438\u043d\u0430\u0439\u043d \u0430\u0439\u043c\u0430\u0433 \u0441\u0430\u0432 vinain aimag sav; \u5f8b\u85cf, \u5f8b\u8535 Cn: l\u01dcz\u00e0ng; Jp: Ritsuz\u014d; Vi: Lu\u1eadt t\u1ea1ng)\nSutra Pitaka (P\u0101li: Sutta-pi\u1e6daka; Sanskrit: S\u016btra-pi\u1e6daka; Tib: \u0f58\u0f51\u0f7c\u0f0b\u0f66\u0fa1\u0f7a\u0f60\u0f72\u0f0b\u0f66\u0fa1\u0f7a\u0f0b\u0f66\u0fa3\u0f7c\u0f51\u0f0b mdo sde`i sde snod; Mn: \u0441\u0443\u0434\u0440\u044b\u043d \u0430\u0439\u043c\u0430\u0433 \u0441\u0430\u0432 sudriin aimag sav; \u7d93\u85cf, \u7d4c\u8535 Cn: j\u012bngz\u00e0ng; Jp: Ky\u014dz\u014d; Vi: Kinh t\u1ea1ng)\nAbhidhamma Pitaka (P\u0101li: Abhidhamma-pi\u1e6daka; Sanskrit: Abhidharma-pi\u1e6daka; Tib: \u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f66\u0fa1\u0f7a\u0f0b\u0f66\u0fa3\u0f7c\u0f51\u0f0b mngon pa`i sde snod; Mn: \u0430\u0432\u0438\u0434\u0430\u0440\u043c\u044b\u043d \u0430\u0439\u043c\u0430\u0433 \u0441\u0430\u0432 avidarmiin aimag sav; \u8ad6\u85cf, \u8ad6\u8535 Cn: l\u00f9nz\u00e0ng; Jp: Ronz\u014d; Vi: Lu\u1eadn t\u1ea1ng)\n\n", 
+            "link": "/wiki/Tripitaka", 
+            "name": "Tripitaka"
+        }, 
+        {
+            "def": "Triratna/Tiratana, see Three Jewels above", 
+            "link": "/wiki/Three_Jewels", 
+            "name": "Triratna/Tiratana"
+        }, 
+        {
+            "def": "trsna, see tanha above", 
+            "link": "/wiki/Trsna", 
+            "name": "trsna"
+        }, 
+        {
+            "def": "tulku A re-incarnated Tibetan teacher", 
+            "link": "/wiki/Tulku", 
+            "name": "tulku"
+        }, 
+        {
+            "def": "upadana Clinging; the 9th link of Pratitya-Samutpada; the Ninth Twelve Nidanas", 
+            "link": "/wiki/Upadana", 
+            "name": "upadana"
+        }, 
+        {
+            "def": "Upajjhaya spiritual teacher", 
+            "link": "/wiki/Upajjhaya", 
+            "name": "Upajjhaya"
+        }, 
+        {
+            "def": "upasaka A lay follower of Buddhism", 
+            "link": "/wiki/Upasaka", 
+            "name": "upasaka"
+        }, 
+        {
+            "def": "upasika A female lay follower", 
+            "link": null, 
+            "name": "upasika"
+        }, 
+        {
+            "def": "upaya Expedient though not necessarily ultimately true. Originally used as a polemical device against other schools - calling them \"merely\" expedient, lacking in ultimate truth, later used against one's own school to prevent students form forming attachments to doctrines\nIn Mahayana, exemplified by the Lotus Sutra, upaya are the useful means that Buddhas (and Buddhist teachers) use to free beings into enlightenment\n", 
+            "link": "/wiki/Upaya", 
+            "name": "upaya"
+        }, 
+        {
+            "def": "upekkha equanimity", 
+            "link": "/wiki/Upekkha", 
+            "name": "upekkha"
+        }, 
+        {
+            "def": "urna A concave circular dot on the forehead between the eyebrows", 
+            "link": "/wiki/Urna", 
+            "name": "urna"
+        }, 
+        {
+            "def": "Vajrayana, The third major branch, alongside Hinayana and Mahayana, according to Tibetan Buddhism's view of itself", 
+            "link": "/wiki/Vajrayana", 
+            "name": "Vajrayana"
+        }, 
+        {
+            "def": "Vairocana,", 
+            "link": "/wiki/Vairocana", 
+            "name": "Vairocana"
+        }, 
+        {
+            "def": "V\u0101san\u0101 habitual tendencies or dispositions", 
+            "link": "/wiki/V%C4%81san%C4%81", 
+            "name": "V\u0101san\u0101"
+        }, 
+        {
+            "def": "Vinaya Pitaka, The first basket of the Tripitaka canon, which deals with the rules of monastic life", 
+            "link": "/wiki/Vinaya", 
+            "name": "Vinaya Pitaka"
+        }, 
+        {
+            "def": "vipassana Usually translated as \"Insight\" meditation, most associated with the Therav\u0101da tradition, but also present in some other traditions such as Tiantai. Often combined with \u015bamatha meditation", 
+            "link": "/wiki/Vipassana", 
+            "name": "vipassana"
+        }, 
+        {
+            "def": "viriya energy, enthusiastic perseverance", 
+            "link": "/wiki/Viriya", 
+            "name": "viriya"
+        }, 
+        {
+            "def": "y\u0101na divisions or schools of Buddhism according to their type of practice (lit. \"vehicle\")", 
+            "link": "/wiki/Y%C4%81na", 
+            "name": "y\u0101na"
+        }, 
+        {
+            "def": "zazen Sitting meditation as practiced in the Zen School of Buddhism", 
+            "link": "/wiki/Zazen", 
+            "name": "zazen"
+        }, 
+        {
+            "def": "Zen School A branch of Mahayana originating in China that originally emphasizes non-dualism and intuition. Modern monastic forms have a strong emphasis on zazen (Korean) or on zazen combined with militaristic top-down hazing (Japanese)", 
+            "link": "/wiki/Zen", 
+            "name": "Zen School"
+        }, 
+        {
+            "def": "zendo In Zen, a hall where zazen is practiced", 
+            "link": "/wiki/Zendo", 
+            "name": "zendo"
+        }
+    ]
+}
