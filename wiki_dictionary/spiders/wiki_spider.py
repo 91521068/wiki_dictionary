@@ -84,10 +84,10 @@ class QuotesSpider(scrapy.Spider):
         definitions = []
 
         if type_of_algo == 0:
-            for item in response.xpath(rule1):
+            for item in response.xpath(rule1 + "[following-sibling::*[1][self::" + rule2 + "]]"):
                 tt = (''.join(item.xpath(".//text()").extract()), item.xpath('./a/@href').extract_first())
-                if "Fermata" not in tt[0] and "Hold" not in tt[0] and tt[0] != "Telemark" and tt[0] != "Time Step" and tt[0] != "bozzetto" and tt[0] != "Taille directe":
-                    words.append(tt)
+                #if "Fermata" not in tt[0] and "Hold" not in tt[0] and tt[0] != "Telemark" and tt[0] != "Time Step" and tt[0] != "bozzetto" and tt[0] != "Taille directe":
+                words.append(tt)
 
             for item in response.xpath(rule1 + '/following::' + rule2 + '[1]'):
                 definitions.append(''.join(item.xpath(".//text()").extract()))
