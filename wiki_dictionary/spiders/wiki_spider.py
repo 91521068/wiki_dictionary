@@ -11,6 +11,10 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_machine_vision',
         'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
+        'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
+        'https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_firefighting',
+        'https://en.wikipedia.org/wiki/Glossary_of_firefighting_equipment',
         'https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_textile_manufacturing',
         'https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence',
@@ -124,10 +128,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_engineering',
         'https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering',
         'https://en.wikipedia.org/wiki/Glossary_of_fuel_cell_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_firefighting',
-        'https://en.wikipedia.org/wiki/Glossary_of_firefighting_equipment',
-        'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
 
     ]
 
@@ -174,6 +174,9 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_medical_terms_related_to_communications_disorders",
             "Glossary_of_nautical_terms",
             "Glossary_of_Internet-related_terms",
+            "Glossary_of_firefighting_equipment",
+            "Glossary_of_HVAC_terms",
+
         ]):
 
             rule_name_main = '//dt[@class="glossary"]'
@@ -226,6 +229,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_artificial_intelligence",
             "Glossary_of_woodworking",
             "Glossary_of_fishery_terms",
+            "Glossary_of_firefighting",
         ]):
             rule_name_main = './b'
             rule_name_sub = '.'
@@ -312,6 +316,18 @@ class QuotesSpider(scrapy.Spider):
 
             type_of_algo = 0
 
+        elif self.is_in(response.url, [
+            "Glossary_of_firelighting",
+
+        ]):
+            rule_name_main = './child::a[1]'
+            rule_name_sub = '.'
+
+            rule_def_main = '.'
+            rule_def_sub = '.'
+
+            rule_word = '//li'
+            type_of_algo = 1
         else:
             print '\033[91m' + response.url + '\033[0m'
             return
@@ -335,10 +351,14 @@ class QuotesSpider(scrapy.Spider):
                 item2 = item.xpath(rule_name_main)
                 item2 = item2.xpath(rule_name_sub)
                 tt = (''.join(item2.xpath(".//text()").extract()), item2.xpath('./a/@href').extract_first())
-                words.append(tt)
+
                 item2 = item.xpath(rule_def_main)
                 item2 = item2.xpath(rule_def_sub)
-                definitions.append(''.join(item2.xpath(".//text()").extract()))
+                tt2 = ''.join(item2.xpath(".//text()").extract())
+                if tt[0] != tt2 and tt[0] != "Creative Commons Attribution-ShareAlike License":
+                    if tt not in words:
+                        words.append(tt)
+                        definitions.append(tt2)
 
         words_json_array = []
         for i in range(0, min(len(words), len(definitions))):

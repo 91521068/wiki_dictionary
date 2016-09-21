@@ -1099,11 +1099,6 @@
             "name": "Particle swarm optimization"
         }, 
         {
-            "def": "Pathfinding \u2013", 
-            "link": "/wiki/Pathfinding", 
-            "name": "Pathfinding"
-        }, 
-        {
             "def": "Pattern recognition \u2013", 
             "link": "/wiki/Pattern_recognition", 
             "name": "Pattern recognition"
@@ -1347,11 +1342,6 @@
             "def": "Stochastic optimization \u2013", 
             "link": "/wiki/Stochastic_optimization", 
             "name": "Stochastic optimization"
-        }, 
-        {
-            "def": "Stochastic semantic analysis", 
-            "link": "/wiki/Stochastic_semantic_analysis", 
-            "name": "Stochastic semantic analysis"
         }, 
         {
             "def": "STRIPS \u2013", 

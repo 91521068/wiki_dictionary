@@ -184,24 +184,9 @@
             "name": "Collaboration"
         }, 
         {
-            "def": "Communication diagram", 
-            "link": "/wiki/Communication_diagram", 
-            "name": "Communication diagram"
-        }, 
-        {
             "def": "Component - A component represents a software module (source code, binary code, executable, DLL, etc.) with a well-defined interface. The interface of a component is represented by one or several interface elements that the component provides. Components are used to show compiler and run-time dependencies, as well as interface and calling dependencies among software modules. They also show which components implement a specific class.", 
             "link": null, 
             "name": "Component"
-        }, 
-        {
-            "def": "Component diagram", 
-            "link": "/wiki/Component_diagram", 
-            "name": "Component diagram"
-        }, 
-        {
-            "def": "Composite structure diagram", 
-            "link": "/wiki/Composite_structure_diagram", 
-            "name": "Composite structure diagram"
         }, 
         {
             "def": "Composition - a specific type of relationship describing how one Object is composed of another Object; a form of Aggregation where the child object is destroyed if the parent object is destroyed.", 
@@ -237,11 +222,6 @@
             "def": "Dependency - a dependency exists between two defined elements if a change to the definition of one would result in a change to the other. In UML this is indicated by a line pointing from the dependent to the independent element.", 
             "link": "/wiki/Dependency_(UML)", 
             "name": "Dependency"
-        }, 
-        {
-            "def": "Deployment diagram", 
-            "link": "/wiki/Deployment_diagram", 
-            "name": "Deployment diagram"
         }, 
         {
             "def": "Derived property - a property that can be calculated or inferred from other properties", 
@@ -384,16 +364,6 @@
             "name": "Instance"
         }, 
         {
-            "def": "Interaction diagram", 
-            "link": "/wiki/Interaction_diagram", 
-            "name": "Interaction diagram"
-        }, 
-        {
-            "def": "Interaction overview diagram", 
-            "link": "/wiki/Interaction_overview_diagram", 
-            "name": "Interaction overview diagram"
-        }, 
-        {
             "def": "Interaction Frame - a section of a Sequence diagram, divided into fragments, which is subject to an algorithmic Operator such as iteration, parallelism or optionality.", 
             "link": null, 
             "name": "Interaction Frame"
@@ -437,11 +407,6 @@
             "def": "Modeling -\n\nDomain - the representation of real world conceptual entities\nDesign - the representation of software Classes and Interfaces\nDynamic - use of Interaction diagrams to describe collaborations and behavior\n\n", 
             "link": "/wiki/Model_(abstract)", 
             "name": "Modeling"
-        }, 
-        {
-            "def": "Domain - the representation of real world conceptual entities", 
-            "link": null, 
-            "name": "Domain"
         }, 
         {
             "def": "Design - the representation of software Classes and Interfaces", 
@@ -509,11 +474,6 @@
             "name": "Object Constraint Language (OCL)"
         }, 
         {
-            "def": "Object diagram", 
-            "link": "/wiki/Object_diagram", 
-            "name": "Object diagram"
-        }, 
-        {
             "def": "Operation - the signature of a Method of a Class; consists of the Operation Name, Visibility, Parameter list, Return Type, and Property-string", 
             "link": null, 
             "name": "Operation"
@@ -567,11 +527,6 @@
             "def": "Package - A package is a collection or grouping of related classes or of classes with related functionality.", 
             "link": null, 
             "name": "Package"
-        }, 
-        {
-            "def": "Package diagram", 
-            "link": "/wiki/Package_diagram", 
-            "name": "Package diagram"
         }, 
         {
             "def": "Parameter - data passed in a Message to be used within the Method", 
@@ -704,11 +659,6 @@
             "name": "Stereotype"
         }, 
         {
-            "def": "Structure diagram", 
-            "link": "/wiki/Structure_diagram_(UML)", 
-            "name": "Structure diagram"
-        }, 
-        {
             "def": "Superstate - construct allowing several States which share common Transitions and Internal Activities", 
             "link": null, 
             "name": "Superstate"
@@ -739,11 +689,6 @@
             "name": "Thread"
         }, 
         {
-            "def": "Timing Diagram", 
-            "link": "/wiki/UML_Timing_Diagram", 
-            "name": "Timing Diagram"
-        }, 
-        {
             "def": "Token - symbolises the Thread of an Activity diagram", 
             "link": null, 
             "name": "Token"
@@ -762,11 +707,6 @@
             "def": "Use case - A use case can be defined as a sequence of actions, including variations, that the system can execute and that produce an observable result which has some value for an actor that interacts with the system", 
             "link": "/wiki/Use_case", 
             "name": "Use case"
-        }, 
-        {
-            "def": "Use case diagram", 
-            "link": "/wiki/Use_case_diagram", 
-            "name": "Use case diagram"
         }, 
         {
             "def": "Uses dependency -", 
