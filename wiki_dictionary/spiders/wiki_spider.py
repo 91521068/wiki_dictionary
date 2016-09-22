@@ -6,7 +6,6 @@ class QuotesSpider(scrapy.Spider):
     name = "wiki"
 
     start_urls = [
-
         'https://en.wikipedia.org/wiki/List_of_legal_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
@@ -14,6 +13,7 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
         'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
         'https://en.wikipedia.org/wiki/Glossary_of_Buddhism',
+        'https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion',
         'https://en.wikipedia.org/wiki/Glossary_of_Christianity',
         'https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_Hinduism_terms',
@@ -127,16 +127,15 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_philosophy',
         'https://en.wikipedia.org/wiki/Heideggerian_terminology',
         'https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)',
-        'https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion',
 
+        'https://en.wikipedia.org/wiki/Outline_of_metalworking',
+        'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
+        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
+        'https://en.wikipedia.org/wiki/Category:Computing_terminology',
     ]
 
     """
 
-        'https://en.wikipedia.org/wiki/Outline_of_metalworking',
-        'https://en.wikipedia.org/wiki/Category:Computing_terminology',
-        'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
-        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
 
     """
 
@@ -162,6 +161,7 @@ class QuotesSpider(scrapy.Spider):
         c1 = "Culture and the arts"
         c2 = "Arts"
 
+        ff = 0
         if self.is_in(response.url, [
             "Architectural_glossary",
             "Glossary_of_chess",
@@ -354,14 +354,29 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_firelighting",
             "Glossary_of_aerospace_engineering",
             "List_of_legal_abbreviations",
+            "Outline_of_metalworking",
+            "Index_of_object-oriented_programming_articles",
+            "List_of_computing_and_IT_abbreviations",
+            "Category:Computing_terminology",
         ]):
-            rule_name_main = './child::a[1]'
+
+            if ("Computing_terminology" in response.url or
+                        "List_of_computing_and_IT_abbreviations" in response.url or
+                        "Index_of_object-oriented_programming_articles" in response.url or
+                        "Outline_of_metalworking" in response.url):
+                ff = 1
+
+                rule_word = '//div[@class="mw-content-ltr"][1]//li'
+                rule_name_main = '.'
+            else:
+                rule_word = '//li'
+                rule_name_main = './child::a[1]'
+
             rule_name_sub = '.'
 
             rule_def_main = '.'
             rule_def_sub = '.'
 
-            rule_word = '//li'
             type_of_algo = 1
 
         elif self.is_in(response.url, [
@@ -402,7 +417,7 @@ class QuotesSpider(scrapy.Spider):
                 item2 = item.xpath(rule_def_main)
                 item2 = item2.xpath(rule_def_sub)
                 tt2 = ''.join(item2.xpath(".//text()").extract())
-                if tt[0] != tt2 and tt[0] != "Creative Commons Attribution-ShareAlike License":
+                if (tt[0] != tt2 or (len(tt[0]) > 3 and ff == 1)) and tt[0] != "Creative Commons Attribution-ShareAlike License":
                     if tt not in words:
                         words.append(tt)
                         definitions.append(tt2)
@@ -430,6 +445,9 @@ class QuotesSpider(scrapy.Spider):
 
         if "Glossary_of_legal_terms" in file_name:
             file_name = "Glossary_of_legal_terms"
+
+        if "Computing_terminology" in file_name:
+            file_name = "Computing_terminology"
 
         file = open(file_name + ".json", 'w')
         file.write(result_json)
