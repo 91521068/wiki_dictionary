@@ -9,6 +9,24 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
+        'https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures',
+        'https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics',
+        'https://en.wikipedia.org/wiki/Glossary_of_arithmetic_and_diophantine_geometry',
+        'https://en.wikipedia.org/wiki/Glossary_of_category_theory',
+        'https://en.wikipedia.org/wiki/Glossary_of_cryptographic_keys',
+        'https://en.wikipedia.org/wiki/Glossary_of_differential_geometry_and_topology',
+
+
+    ]
+
+    """
+        'https://en.wikipedia.org/wiki/Glossary_of_topology',
+        'https://en.wikipedia.org/wiki/Glossary_of_field_theory',
+        'https://en.wikipedia.org/wiki/Glossary_of_game_theory',
+        'https://en.wikipedia.org/wiki/Glossary_of_graph_theory',
+        'https://en.wikipedia.org/wiki/List_of_mathematical_jargon',
+        'https://en.wikipedia.org/wiki/List_of_linear_algebra_topics',
+        'https://en.wikipedia.org/wiki/Glossary_of_order_theory',
         'https://en.wikipedia.org/wiki/Glossary_of_semisimple_groups',
         'https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics',
         'https://en.wikipedia.org/wiki/Glossary_of_ring_theory',
@@ -121,23 +139,8 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Index_of_articles_related_to_motion_pictures',
         'https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_nautical_terms',
-        'https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures',
-        'https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics',
-        'https://en.wikipedia.org/wiki/Glossary_of_arithmetic_and_diophantine_geometry',
-        'https://en.wikipedia.org/wiki/Glossary_of_category_theory',
-        'https://en.wikipedia.org/wiki/Glossary_of_cryptographic_keys',
-        'https://en.wikipedia.org/wiki/Glossary_of_differential_geometry_and_topology',
-        'https://en.wikipedia.org/wiki/Glossary_of_topology',
-        'https://en.wikipedia.org/wiki/Glossary_of_field_theory',
-        'https://en.wikipedia.org/wiki/Glossary_of_game_theory',
-        'https://en.wikipedia.org/wiki/Glossary_of_graph_theory',
-        'https://en.wikipedia.org/wiki/List_of_mathematical_jargon',
-        'https://en.wikipedia.org/wiki/List_of_linear_algebra_topics',
-        'https://en.wikipedia.org/wiki/Glossary_of_order_theory',
 
-    ]
 
-    """
     """
 
     def is_in(self, url, list_all):
@@ -186,6 +189,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_botanical_terms",
             "Glossary_of_algebraic_geometry",
             "Glossary_of_probability_and_statistics",
+            "Glossary_of_graph_theory",
 
         ]):
 
@@ -273,6 +277,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_ecology",
             "Glossary_of_biology",
             "Glossary_of_shapes_with_metaphorical_names",
+            "Glossary_of_order_theory",
 
         ]):
             rule_name_main = './b[1]'
@@ -281,7 +286,7 @@ class QuotesSpider(scrapy.Spider):
             rule_def_main = '.'
             rule_def_sub = '.'
 
-            rule_word = '//li'
+            rule_word = '//div[@class="mw-content-ltr"][1]//li'
             type_of_algo = 1
 
         elif self.is_in(response.url, [
@@ -321,6 +326,10 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_elementary_quantum_mechanics",
             "Glossary_of_invasion_biology_terms",
             "Glossary_of_ring_theory",
+            "List_of_mathematical_jargon",
+            "Glossary_of_game_theory",
+            "Glossary_of_field_theory",
+            "Glossary_of_topology",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'
@@ -396,6 +405,7 @@ class QuotesSpider(scrapy.Spider):
             "Index_of_object-oriented_programming_articles",
             "Category:Computing_terminology",
             "Glossary_of_semisimple_groups",
+            "List_of_linear_algebra_topics",
         ]):
             ff = 1
 
