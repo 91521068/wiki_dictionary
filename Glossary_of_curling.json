@@ -1,0 +1,1132 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_curling", 
+    "words": [
+        {
+            "def": "The 4-foot-diameter (1.2\u00a0m) circle in the house. It surrounds the centre area called the button. It is used as a visual aid only \u2013 there is no extra score for placing a stone within it", 
+            "link": null, 
+            "name": "4-foot\u00a0"
+        }, 
+        {
+            "def": "The 8-foot-diameter (2.4\u00a0m) circle in the house. It is used as a visual aid only \u2013 there is no extra score for placing a stone within it; generally not actually painted \u2013 it appears as the empty space between the 12-foot and 4-foot rings", 
+            "link": null, 
+            "name": "8-foot\u00a0"
+        }, 
+        {
+            "def": "The 12-foot-diameter (3.7\u00a0m) circle outermost in the house; a stone completely outside this circle cannot score", 
+            "link": null, 
+            "name": "12-foot\u00a0"
+        }, 
+        {
+            "def": "On a hit, refers to the shooter hitting the object stone on the opposite side from where the broom was placed. Since this imparts less speed to the object stone and takes less speed away from the shooter, it is a very efficient way of making a tick. This is seldom used for normal hits since it is harder to execute, unless necessary because a guard prevents using the other turn", 
+            "link": null, 
+            "name": "Across the face\u00a0"
+        }, 
+        {
+            "def": "A very rare and extremely difficult shot in which a stone is delivered so that it will come to rest behind another stone already in play, created the same effect as if one stone had been frozen to the other", 
+            "link": null, 
+            "name": "Anti-freeze\u00a0"
+        }, 
+        {
+            "def": "Synonymous with gripper", 
+            "link": null, 
+            "name": "Anti-slider\u00a0"
+        }, 
+        {
+            "def": "Temporary curling ice made quickly on a hockey rink or the like, most often used by curling clubs without dedicated curling facilities; usually of lower quality than that of a dedicated facility, but when created for televised events or events with large numbers of spectators, the ice quality can rival or even exceed that of a dedicated facility", 
+            "link": null, 
+            "name": "Arena ice\u00a0"
+        }, 
+        {
+            "def": "A double or triple where the shooter ends up coming back up the rings", 
+            "link": null, 
+            "name": "Around the horn\u00a0"
+        }, 
+        {
+            "def": "The portion of the 4 foot ring behind the tee line", 
+            "link": null, 
+            "name": "Back 4\u00a0"
+        }, 
+        {
+            "def": "The portion of the 8 foot ring behind the tee line", 
+            "link": null, 
+            "name": "Back 8\u00a0"
+        }, 
+        {
+            "def": "The portion of the 12 foot ring behind the tee line", 
+            "link": null, 
+            "name": "Back 12\u00a0"
+        }, 
+        {
+            "def": "The border at the extreme ends of the sheet", 
+            "link": null, 
+            "name": "Back board\u00a0"
+        }, 
+        {
+            "def": "A team's third and skip, considered as a unit.", 
+            "link": null, 
+            "name": "Back end\u00a0"
+        }, 
+        {
+            "def": "Delivery speed required for a stone to come to rest in the back half of the house", 
+            "link": null, 
+            "name": "Back-house weight\u00a0"
+        }, 
+        {
+            "def": "The line right behind the house. If a rock completely crosses the back line, it is removed from play", 
+            "link": null, 
+            "name": "Back line\u00a0"
+        }, 
+        {
+            "def": "The portion of the house behind the tee line", 
+            "link": null, 
+            "name": "Back of the House\u00a0"
+        }, 
+        {
+            "def": "Synonymous with back 12", 
+            "link": null, 
+            "name": "Back ring\u00a0"
+        }, 
+        {
+            "def": "A board or other object behind the hack, used to stop moving stones; referred to as \"bumper\" in Canada", 
+            "link": null, 
+            "name": "Barrier\u00a0"
+        }, 
+        {
+            "def": "Delivery speed that should come to rest against the barrier behind the hack. Synonymous with board weight.", 
+            "link": null, 
+            "name": "Barrier weight\u00a0"
+        }, 
+        {
+            "def": "The traditional name for the device used to sweep ahead of a moving stone. A broom.", 
+            "link": null, 
+            "name": "Besom\u00a0"
+        }, 
+        {
+            "def": "A stone that barely touches the outside of the house, i.e. the 12-foot ring", 
+            "link": null, 
+            "name": "Biter\u00a0"
+        }, 
+        {
+            "def": "A piece of equipment used to determine whether or not a stone is a biter; also known as a 'biter bar'", 
+            "link": null, 
+            "name": "Bite stick\u00a0"
+        }, 
+        {
+            "def": "An end in which no stones are touching the house, and thus no points are scored; in regular play the team that has the hammer retains it for the next end. In skins games, the skin for a blanked end is carried over. To \"blank an end\" means to intentionally leave no stones in the house so as to retain the hammer.", 
+            "link": null, 
+            "name": "Blank end\u00a0"
+        }, 
+        {
+            "def": "Deliberately creating a blank end for the purposes of retaining the last rock advantage for the next end of play", 
+            "link": null, 
+            "name": "Blanking an end\u00a0"
+        }, 
+        {
+            "def": "A shot delivered with heavy weight and high velocity. A blast is usually intended to remove many stones from play or is used to break up and move around clustered stones. \"Playing the blast\" into a large cluster of stones is often a last resort shot to get the rocks split up when there are no other viable shots available.", 
+            "link": null, 
+            "name": "Blast\u00a0"
+        }, 
+        {
+            "def": "Throwing a stone with enough speed that it will come to rest in an area just behind the hacks \u2013 about 6 feet behind the house. Synonymous with barrier/bumper weight.", 
+            "link": null, 
+            "name": "Board weight\u00a0"
+        }, 
+        {
+            "def": "Scots for league match, this is the term used for a curling tournament. Compare \"spiel\"", 
+            "link": "/wiki/Bonspiel", 
+            "name": "Bonspiel\u00a0"
+        }, 
+        {
+            "def": "A failed corner freeze where the shooter rolls open", 
+            "link": null, 
+            "name": "Bounce\u00a0"
+        }, 
+        {
+            "def": "The Canadian men's curling championship, held annually since 1927", 
+            "link": "/wiki/Tim_Hortons_Brier", 
+            "name": "Brier\u00a0"
+        }, 
+        {
+            "def": "An implement with which players sweep the ice to make a stone travel farther and curl less; though brushes have almost completely replaced brooms, the traditional name remains", 
+            "link": null, 
+            "name": "Broom\u00a0"
+        }, 
+        {
+            "def": "See stacking the brooms", 
+            "link": null, 
+            "name": "Broomstacking\u00a0"
+        }, 
+        {
+            "def": "Broom / Sweeping", 
+            "link": null, 
+            "name": "Brush / brushing\u00a0"
+        }, 
+        {
+            "def": "A short raise", 
+            "link": null, 
+            "name": "Bump\u00a0"
+        }, 
+        {
+            "def": "The barrier", 
+            "link": null, 
+            "name": "Bumper\u00a0"
+        }, 
+        {
+            "def": "Synonymous with barrier/board weight.", 
+            "link": null, 
+            "name": "Bumper weight\u00a0"
+        }, 
+        {
+            "def": "A rock that is hidden behind another rock, usually a guard, making it difficult for a curler to hit with a delivered rock. Also called \"covered\"", 
+            "link": null, 
+            "name": "Buried\u00a0"
+        }, 
+        {
+            "def": "To accidentally touch a moving stone; the opposing skip has the option to remove the burned stone, or leave it where it comes to rest", 
+            "link": null, 
+            "name": "Burn\u00a0"
+        }, 
+        {
+            "def": "The centre (bullseye) of the house; sometimes called the 1-foot circle", 
+            "link": null, 
+            "name": "Button\u00a0"
+        }, 
+        {
+            "def": "When the skip holds the broom where he/she wants the person delivering the stones to aim. When the skip is delivering, the third calls the shot", 
+            "link": null, 
+            "name": "Calling the shot\u00a0"
+        }, 
+        {
+            "def": "A series of eight premier men\u2019s and women\u2019s events that feature Canada\u2019s deepest and strongest curling fields", 
+            "link": "/wiki/Grand_Slam_of_Curling", 
+            "name": "Grand Slam of Curling\u00a0"
+        }, 
+        {
+            "def": "A tournament with significant entry fees and large prizes, sometimes part of a charity event; despite the large prizes, cashspiels are not the premier events in curling", 
+            "link": null, 
+            "name": "Cashspiel\u00a0"
+        }, 
+        {
+            "def": "A guard that is placed directly on the centre line, in front of the house; usually played by the team that does not have the hammer", 
+            "link": null, 
+            "name": "Centre guard\u00a0"
+        }, 
+        {
+            "def": "A line running lengthwise down the centre of the ice, used as a visual aid; some sheets do not have a centre line, or do not have one between the hog lines", 
+            "link": null, 
+            "name": "Centre line\u00a0"
+        }, 
+        {
+            "def": "A takeout that hits a rock at an angle", 
+            "link": null, 
+            "name": "Chip\u00a0"
+        }, 
+        {
+            "def": "When a played stone strikes the edge of another stone and moves to another position in play", 
+            "link": null, 
+            "name": "Chip and lie / chip and roll\u00a0"
+        }, 
+        {
+            "def": "Series of rocks in the house arrayed from front to back mostly along the centre line.", 
+            "link": null, 
+            "name": "Christmas Tree\u00a0"
+        }, 
+        {
+            "def": "Grazing a stationary stone without significantly moving it; but enough to alter the path of the shooting rock[citation needed]", 
+            "link": null, 
+            "name": "Chroming the Rock\u00a0"
+        }, 
+        {
+            "def": "A flashy but low-percentage shot. Also Trick shot", 
+            "link": null, 
+            "name": "Circus shot\u00a0"
+        }, 
+        {
+            "def": "To brush the ice lightly in front of a moving rock to remove any debris and ensure a correct line; less vigorous than a sweep", 
+            "link": null, 
+            "name": "Clean\u00a0"
+        }, 
+        {
+            "def": "The location of the curling rink; most players usually refer to it as \"The Club\"", 
+            "link": null, 
+            "name": "Club\u00a0"
+        }, 
+        {
+            "def": "Any shot that curls around another rock", 
+            "link": null, 
+            "name": "Come-around\u00a0"
+        }, 
+        {
+            "def": "Going into the final end", 
+            "link": null, 
+            "name": "Coming home\u00a0"
+        }, 
+        {
+            "def": "A takeout shot that is slow enough that the sweepers have relative control over its curl; faster than board weight, but slower than normal takeout weight", 
+            "link": null, 
+            "name": "Control weight"
+        }, 
+        {
+            "def": "A type of guard that is off to the side of the house; usually employed when a team has the hammer and needs to score multiple points", 
+            "link": null, 
+            "name": "Corner guard\u00a0"
+        }, 
+        {
+            "def": "A stone in the house lying closer to the centre than any of the opponent's stones. Each counter scores one point at the completion of an end.", 
+            "link": null, 
+            "name": "Counter\u00a0"
+        }, 
+        {
+            "def": "Protection given to a rock by a rock in front of it", 
+            "link": null, 
+            "name": "Cover\u00a0"
+        }, 
+        {
+            "def": "Movement of a moving rock away from a straight line; as a verb, to play at curling", 
+            "link": null, 
+            "name": "Curl\u00a0"
+        }, 
+        {
+            "def": "General term for player involved in a curling team; also known as a \"soofter\" in the UK", 
+            "link": null, 
+            "name": "Curler\u00a0"
+        }, 
+        {
+            "def": "A team sport which involves sliding granite stones on ice and sweeping in front of them with brooms to direct them to desired placements", 
+            "link": null, 
+            "name": "Curling\u00a0"
+        }, 
+        {
+            "def": "Synonymous with club", 
+            "link": null, 
+            "name": "Curling club\u00a0"
+        }, 
+        {
+            "def": "A participation souvenir, generally worn on a sweater; there is a sub-culture at any major bonspiel built around trading pins. Most curling clubs and many tournaments produce one, and they are usually not awards", 
+            "link": null, 
+            "name": "Curling pin\u00a0"
+        }, 
+        {
+            "def": "A device that permits a player to deliver a stone while standing upright; generally used by older players, these are legal in most games.", 
+            "link": null, 
+            "name": "Curling stick\u00a0"
+        }, 
+        {
+            "def": "A rock completely covered by another rock (often a guard) such that no part is visible", 
+            "link": null, 
+            "name": "Dead buried\u00a0"
+        }, 
+        {
+            "def": "Synonymous with no handle", 
+            "link": null, 
+            "name": "Dead handle\u00a0"
+        }, 
+        {
+            "def": "Process of throwing a stone", 
+            "link": null, 
+            "name": "Delivery\u00a0"
+        }, 
+        {
+            "def": "Scoring 2 points in an end", 
+            "link": null, 
+            "name": "Deuce\u00a0"
+        }, 
+        {
+            "def": "A call given by the skip for the sweepers to stop sweeping a rock; a rock that dies is a rock that stops moving", 
+            "link": null, 
+            "name": "Die!\u00a0"
+        }, 
+        {
+            "def": "State of a sheet of ice where the sides are slightly elevated compared to the center, so that a cross section of the ice would look like a cross section of a dish; this sometimes happens near the end of a week-long tournament because the pebbling motion tends to apply more pebbles to the side, while sweeping during games happens more often near the center and wears down the ice more in that region; when there is a dish, rocks will curl more towards the center and less away from the center", 
+            "link": null, 
+            "name": "Dish\u00a0"
+        }, 
+        {
+            "def": "A takeout shot in which two other stones are removed from play; a shot in which the delivered stone and one other stone are removed is not a double takeout", 
+            "link": null, 
+            "name": "Double takeout / Double\u00a0"
+        }, 
+        {
+            "def": "When two rocks are frozen, hitting the top rock at an angle creates a drag effect that affects the direction of the second rock; the friction between the two frozen rocks makes the first rock \"drag\" the second rock slightly towards the same direction; hitting the top rock on the right makes the bottom rock move more to the left while hitting it on the left makes it move more to the right", 
+            "link": null, 
+            "name": "Drag\u00a0"
+        }, 
+        {
+            "def": "A shot that lands in play without hitting another stone out, as opposed to a takeout shot. Also refers to a game, e.g., \u201cWe have a draw at 7:00 p.m. tonight.\u201d", 
+            "link": null, 
+            "name": "Draw\u00a0"
+        }, 
+        {
+            "def": "A shot in which the played stone pushes a stone straight forward into the house", 
+            "link": null, 
+            "name": "Draw raise\u00a0"
+        }, 
+        {
+            "def": "Person who assigns teams to different sheets, sets starting times, assigns players to teams in casual play, etc.", 
+            "link": null, 
+            "name": "Drawmaster\u00a0"
+        }, 
+        {
+            "def": "Delivery speed required for a stone to come to rest in the house", 
+            "link": null, 
+            "name": "Draw weight\u00a0"
+        }, 
+        {
+            "def": "During delivery of a stone, the thrower accidentally pushes the stone off-course with their turning motion; often the result of using the arm to shove the stone, and usually causes a missed shot", 
+            "link": null, 
+            "name": "Dump the handle (also Flip or Turn-Out/Turn-In)\u00a0"
+        }, 
+        {
+            "def": "Command \u2013 called out by the skip to tell the sweepers to ease off their sweeping of a rock but to continue sweeping it lightly and slowly.", 
+            "link": null, 
+            "name": "Easy\u00a0"
+        }, 
+        {
+            "def": "An end where all eight stones score for one team \u2013 a very rare occurrence.", 
+            "link": null, 
+            "name": "Eight-ender\u00a0"
+        }, 
+        {
+            "def": "Similar to an inning in baseball; in an end, each team throws 8 rocks, 2 per player in alternating fashion; tournament style games usually run for 10 ends; games played at the club level usually run for 8 ends. Prior to the latter half of the twentieth century, a game consisted of 12 ends played in full.", 
+            "link": null, 
+            "name": "End\u00a0"
+        }, 
+        {
+            "def": "Equivalent to an extra inning in baseball; in the event of a tie after the prescribed number of ends, extra ends are played until the tie is broken.", 
+            "link": null, 
+            "name": "Extra end\u00a0"
+        }, 
+        {
+            "def": "A defect in the ice which causes stones thrown in that area to curl negatively", 
+            "link": null, 
+            "name": "Fall\u00a0"
+        }, 
+        {
+            "def": "As the stone is sliding down the sheet, it curls negatively, i.e., the opposite direction than it is supposed to", 
+            "link": null, 
+            "name": "Falling\u00a0"
+        }, 
+        {
+            "def": "The amount of sideways movement in the last 3 meters (10 feet) or so of a rock's path; can be used as a verb (\"it needs to finish\") or a noun (\"there's lots of finish in that spot\")", 
+            "link": null, 
+            "name": "Finish\u00a0"
+        }, 
+        {
+            "def": "To completely miss an attempted takeout; the rock passes through the house without touching any rocks at all", 
+            "link": null, 
+            "name": "Flash\u00a0"
+        }, 
+        {
+            "def": "The player throwing the last two rocks for a team; since the skip almost always throws the last two rocks, this term is rarely used", 
+            "link": null, 
+            "name": "Fourth\u00a0"
+        }, 
+        {
+            "def": "Area between the hog line and the tee line, excluding the house. Evolved from the Moncton Rule.", 
+            "link": null, 
+            "name": "Free-Guard Zone\u00a0"
+        }, 
+        {
+            "def": "The rule that states that an opponent's rock resting in the free-guard zone cannot be removed from play until the first four rocks of an end have been played", 
+            "link": null, 
+            "name": "Free-Guard Zone Rule\u00a0"
+        }, 
+        {
+            "def": "A precise draw weight shot where a delivered stone comes to rest against a stationary stone, making it nearly impossible to knock out", 
+            "link": null, 
+            "name": "Freeze\u00a0"
+        }, 
+        {
+            "def": "A team's lead and second, considered as a unit", 
+            "link": null, 
+            "name": "Front end\u00a0"
+        }, 
+        {
+            "def": "Delivery speed required for a stone to come to rest in the front half of the house", 
+            "link": null, 
+            "name": "Front-house weight\u00a0"
+        }, 
+        {
+            "def": "The portion of the house closer to the hog line", 
+            "link": null, 
+            "name": "Front of the House\u00a0"
+        }, 
+        {
+            "def": "Synonymous with top 12", 
+            "link": null, 
+            "name": "Front ring"
+        }, 
+        {
+            "def": "Buildup that can occur on ice surfaces when there is excessive humidity in the air; tends to makes stones stop faster and curl less", 
+            "link": null, 
+            "name": "Frost\u00a0"
+        }, 
+        {
+            "def": "Bonspiel oriented to recreational/fun play, often shorter duration games, and may have unusual formats", 
+            "link": null, 
+            "name": "Fun Spiel\u00a0"
+        }, 
+        {
+            "def": "A rock that is placed in front of another rock to protect it from being knocked out by the other team, or placed with the intent to later curl another rock around it and thus be protected; typically placed between the hog line and the very front of the house", 
+            "link": null, 
+            "name": "Guard\u00a0"
+        }, 
+        {
+            "def": "A rubber or other material attached to a curling shoe to improve traction on the ice; also known as an anti-slider; see Slider", 
+            "link": null, 
+            "name": "Gripper\u00a0"
+        }, 
+        {
+            "def": "Similar to a starting block in track and field, the foothold device where the person who throws the rock pushes off for delivery", 
+            "link": null, 
+            "name": "Hack\u00a0"
+        }, 
+        {
+            "def": "The weight required to deliver a stone in order that it travels to the hack at the far end", 
+            "link": null, 
+            "name": "Hack weight\u00a0"
+        }, 
+        {
+            "def": "A slower played takeout that, because of the reduced speed, curls more and therefore can reach opponent stones that are hidden behind a guard", 
+            "link": null, 
+            "name": "Hackweight takeout\u00a0"
+        }, 
+        {
+            "def": "The last rock in an end \u2013 a huge advantage; the team with the last rock is said to \"have the hammer\"", 
+            "link": null, 
+            "name": "Hammer\u00a0"
+        }, 
+        {
+            "def": "The part of the stone held by the player; used to describe the desired direction of rotation of the handle (and therefore the stone) upon release in a given delivery; \"Losing the handle\" refers to a rock which stops curling or which changes direction of curl while moving; See also No Handle, Reverse Handle, Straight Handle.", 
+            "link": null, 
+            "name": "Handle\u00a0"
+        }, 
+        {
+            "def": "Each team traditionally shakes hands with each member of the opposing team at the end of a match as a sign of goodwill. Unlike other sports, curlers can, and are often encouraged to, forfeit the game early out of sportsmanship if the score is badly lopsided or if a team runs out of stones. To signal their forfeit, the losing team shakes the hands of the other team. This can simply be called \"shaking\", as in \"the Smith team shook after 7 ends\".", 
+            "link": null, 
+            "name": "Handshake"
+        }, 
+        {
+            "def": "Command \u2013 along with \"hurry\" \u2013 shouted by the skip to tell the sweepers to sweep harder and faster", 
+            "link": null, 
+            "name": "Hard!\u00a0"
+        }, 
+        {
+            "def": "A stone that is thrown harder than required and will probably slide too far", 
+            "link": null, 
+            "name": "Heavy\u00a0"
+        }, 
+        {
+            "def": "Slow ice on which stones take more initial force to travel a similar distance as on fast (keen) ice (see keen ice)", 
+            "link": null, 
+            "name": "Heavy ice\u00a0"
+        }, 
+        {
+            "def": "Any shot where the aim is to move another stone; the opposite of a draw", 
+            "link": null, 
+            "name": "Hit\u00a0"
+        }, 
+        {
+            "def": "A takeout rock that, after making contact with another rock, slides (rolls) into a designated area", 
+            "link": null, 
+            "name": "Hit and roll\u00a0"
+        }, 
+        {
+            "def": "A takeout where the played stone stays in the spot where it made contact with the stationary stone; also called 'hit and stick' or a 'nose hit'", 
+            "link": null, 
+            "name": "Hit and stay\u00a0"
+        }, 
+        {
+            "def": "Another term for take-out weight", 
+            "link": null, 
+            "name": "Hit weight\u00a0"
+        }, 
+        {
+            "def": "See \"hogged rock\"", 
+            "link": null, 
+            "name": "Hog\u00a0"
+        }, 
+        {
+            "def": "The line which the stone must completely cross to be considered in play", 
+            "link": null, 
+            "name": "Hog line (far)"
+        }, 
+        {
+            "def": "The line by which the stone must be clearly and fully released by the thrower", 
+            "link": null, 
+            "name": "Hog line (near)"
+        }, 
+        {
+            "def": "Failure to release a stone before crossing the near hog line; a stone in violation is immediately removed from play", 
+            "link": null, 
+            "name": "Hog line violation\u00a0"
+        }, 
+        {
+            "def": "A shot that comes to rest short of or on the far hog line and is removed from play", 
+            "link": null, 
+            "name": "Hogged rock"
+        }, 
+        {
+            "def": "See \"hogged rock\"", 
+            "link": null, 
+            "name": "Hogger\u00a0"
+        }, 
+        {
+            "def": "The three concentric circles where points are scored", 
+            "link": null, 
+            "name": "House\u00a0"
+        }, 
+        {
+            "def": "see hard! (often said together: \"hurry hard!\")", 
+            "link": null, 
+            "name": "Hurry!\u00a0"
+        }, 
+        {
+            "def": "Adjustment to the crosswise distance between the skip's broom and the desired target area; for example, a player who feels that the skip's broom is too close to the target might request \"more ice\"", 
+            "link": null, 
+            "name": "Ice (more, less, too much, not enough)\u00a0"
+        }, 
+        {
+            "def": "Person who is responsible for maintaining the ice, duties include, but are not limited to pebbling and scraping the ice", 
+            "link": null, 
+            "name": "Icemaker\u00a0"
+        }, 
+        {
+            "def": "A shot where the delivered stone hits another stone near the outer edge of the sheet at an angle, making the shooter roll into the house; one of the most difficult curling shots, usually done as a last resort when there are no other options", 
+            "link": null, 
+            "name": "In-off\u00a0"
+        }, 
+        {
+            "def": "A shot in which the handle of the stone is rotated across the body (the elbow is rotated \"in\" to the body); for a right-handed thrower, an in-turn is clockwise, and the opposite for a lefty", 
+            "link": null, 
+            "name": "In-turn\u00a0"
+        }, 
+        {
+            "def": "Another term for narrow", 
+            "link": null, 
+            "name": "Inside\u00a0"
+        }, 
+        {
+            "def": "Fast ice on which stones travel greater distances with less force than required for heavy ice (see heavy ice)", 
+            "link": null, 
+            "name": "Keen ice\u00a0"
+        }, 
+        {
+            "def": "A delivered stone that is intentionally wobbled to compensate for water, slush or snow on the ice surface", 
+            "link": null, 
+            "name": "Kizzle kazzle\u00a0"
+        }, 
+        {
+            "def": "When the rotation of a stone is very slow, i.e., less than one full rotation during the stone's slide; often the result of thrower error, they will usually curl more than a properly delivered stone; may turn into a No Handle or Reverse Handle", 
+            "link": null, 
+            "name": "Lazy handle\u00a0"
+        }, 
+        {
+            "def": "The player who throws the first two rocks for a team", 
+            "link": null, 
+            "name": "Lead\u00a0"
+        }, 
+        {
+            "def": "The count of the number of stones of one colour closest to the centre of the button, closer than the innermost stone of the other colour. When a team \"lies X\" or \"is lying X\", that number of its stones are, at that moment, closer to the button than any opposition stone; were the end to finish then, the team would score that number of points.", 
+            "link": null, 
+            "name": "Lie / Lies / Lying\u00a0"
+        }, 
+        {
+            "def": "The path of a moving stone; a 'good' line indicates it is headed where it was intended to go; a 'bad' line has deviated", 
+            "link": null, 
+            "name": "Line"
+        }, 
+        {
+            "def": "A stone that is not thrown hard enough", 
+            "link": null, 
+            "name": "Light\u00a0"
+        }, 
+        {
+            "def": "Many clubs offer a Little Rocks program for children, with rocks that are roughly half the weight of regular 44\u00a0lb. rocks. Curlers generally move onto full-sized rocks around the ages of 10 to 12.", 
+            "link": null, 
+            "name": "Little rocks"
+        }, 
+        {
+            "def": "A rock that is \"losing the handle\" refers to a rock which loses its rotation or which reverses its rotation while moving", 
+            "link": null, 
+            "name": "Losing the handle\u00a0"
+        }, 
+        {
+            "def": "Synonymous with no handle", 
+            "link": null, 
+            "name": "Lost turn\u00a0"
+        }, 
+        {
+            "def": "Last Stone in the First End; in every other end, the last stone (or hammer) is determined by the scoring in the previous end. In the first end, some other system (coin toss, draw contest, record comparison) must be used to determine the advantage of the hammer.", 
+            "link": null, 
+            "name": "LSFE\u00a0"
+        }, 
+        {
+            "def": "A type of delivery, mostly found in Manitoba, where the body is kept very low to the ground and the leading leg is tucked underneath the body and to the side; this type is delivery is particularly efficient for hits but makes draws slightly tougher to execute, with the shoulders not being as straight and the eyes being closer to the ice", 
+            "link": "/wiki/Manitoba_tuck", 
+            "name": "Manitoba tuck\u00a0"
+        }, 
+        {
+            "def": "The player who discusses strategy with the skip behind the house and holds the broom while the skip throws his rocks; usually plays third; also known as vice-skip or vice", 
+            "link": null, 
+            "name": "Mate\u00a0"
+        }, 
+        {
+            "def": "Equipment used to determine which of two or more stones is closest to the centre when they are too similar to know with visual inspection", 
+            "link": null, 
+            "name": "Measure stick\u00a0"
+        }, 
+        {
+            "def": "A stone delivered off the broom too close to the desired target and therefore likely to curl past it", 
+            "link": null, 
+            "name": "Narrow\u00a0"
+        }, 
+        {
+            "def": "A shot in which the player curls the stone in the opposite direction in which the stone is expected to curve, due to significant defects in flatness of the ice surface; for example, if the curvature of the ice causes all stones to drift sharply to the right, a skip may request the shooter to aim to the left of the desired location and curve the stone to the left as well.", 
+            "link": null, 
+            "name": "Negative ice\u00a0"
+        }, 
+        {
+            "def": "Called during the sweep to indicate the stone needs to curl and the sweepers should stay off the rock", 
+            "link": null, 
+            "name": "Never\u00a0"
+        }, 
+        {
+            "def": "A term used by some Manitoba teams, similar to Control weight", 
+            "link": null, 
+            "name": "Nice weight"
+        }, 
+        {
+            "def": "A rock delivered without a turn, usually done in error; stones thrown without a handle often follow an unpredictable path", 
+            "link": null, 
+            "name": "No handle\u00a0"
+        }, 
+        {
+            "def": "Normal takeout weight; faster than control weight, but slower than peel", 
+            "link": null, 
+            "name": "Normal weight"
+        }, 
+        {
+            "def": "The point on a rock closest to the shooter. A \"nose hit\" would be hitting the rock at this point, avoiding a roll.", 
+            "link": null, 
+            "name": "Nose"
+        }, 
+        {
+            "def": "A call given by the skip for the sweepers to stop sweeping a rock", 
+            "link": null, 
+            "name": "Off!\u00a0"
+        }, 
+        {
+            "def": "An incorrectly aimed shot; opposite of on the broom", 
+            "link": null, 
+            "name": "Off the broom\u00a0"
+        }, 
+        {
+            "def": "A rock that is not obscured by another rock from the shooter's perspective; a skip will often ask the shooter how \"open\" a certain rock appears from the hack, with the rock being totally open, partially obscured (such as \"half open\") or completely covered; also, a term for any shot not involving going around a guard: an open takeout, an open draw, etc.", 
+            "link": null, 
+            "name": "Open\u00a0"
+        }, 
+        {
+            "def": "A correctly aimed shot that starts out directly at the broom held by the skip; opposite of off the broom", 
+            "link": null, 
+            "name": "On the broom\u00a0"
+        }, 
+        {
+            "def": "A situation in which a team that is behind in the score no longer has enough stones between those in play and those yet to be played to make up the deficit; the outcome is now certain, and the game usually ends with a handshake once a team is out of stones.", 
+            "link": null, 
+            "name": "Out of stones\u00a0"
+        }, 
+        {
+            "def": "Another term for wide", 
+            "link": null, 
+            "name": "Outside\u00a0"
+        }, 
+        {
+            "def": "A shot in which the handle of the stone is rotated away from the body \u2013 the elbow is rotated \"out\" from the body; for a right-handed thrower, an out-turn is counter-clockwise, and the opposite for a lefty", 
+            "link": null, 
+            "name": "Out-turn\u00a0"
+        }, 
+        {
+            "def": "A rock", 
+            "link": null, 
+            "name": "Pancake\u00a0"
+        }, 
+        {
+            "def": "Small droplets of water intentionally sprayed on the ice that cause irregularities on the surface, allowing the rocks to curl. Also a verb; the action of depositing water droplets on the ice, as \"to pebble the ice between games\"", 
+            "link": null, 
+            "name": "Pebble\u00a0"
+        }, 
+        {
+            "def": "A takeout that removes a stone from play as well as the delivered stone. These are usually intentional, such as for blanking an end.", 
+            "link": null, 
+            "name": "Peel\u00a0"
+        }, 
+        {
+            "def": "A stone delivered with a heavy takeout weight", 
+            "link": null, 
+            "name": "Peel weight\u00a0"
+        }, 
+        {
+            "def": "When a rock's running surface travels over a foreign particle such as a hair, causing the rock to deviate from its expected path, usually by increasing friction and thereby the amount of curl", 
+            "link": null, 
+            "name": "Pick\u00a0"
+        }, 
+        {
+            "def": "Spot at the exact centre of the house, officially called the tee.", 
+            "link": null, 
+            "name": "Pin\u00a0"
+        }, 
+        {
+            "def": "Competitive play towards club, state/provincial, national, and world championships", 
+            "link": null, 
+            "name": "Playdowns\u00a0"
+        }, 
+        {
+            "def": "Another name for a raise; usually means to raise a guard into the house and make it a potential counter", 
+            "link": null, 
+            "name": "Promote\u00a0"
+        }, 
+        {
+            "def": "A space between two stones just wide enough for a delivered stone to pass through", 
+            "link": null, 
+            "name": "Port\u00a0"
+        }, 
+        {
+            "def": "A shot in which the delivered stone bumps another stone forward", 
+            "link": null, 
+            "name": "Raise\u00a0"
+        }, 
+        {
+            "def": "A shot in which the delivered stone bumps a second stone which in turn knocks a third stone out of play. Also called a runback", 
+            "link": null, 
+            "name": "Raise takeout\u00a0"
+        }, 
+        {
+            "def": "When a curler considers how the condition of a sheet of ice will influence the path of a thrown stone, similar to how a golfer reads the undulations and texture of a green before determining where and how hard to hit a putt", 
+            "link": null, 
+            "name": "Reading the ice\u00a0"
+        }, 
+        {
+            "def": "When a stone is thrown with a particular turn, but it eventually stops and begins to rotate in the opposite direction; usually the result of a pick or poor ice conditions. Sometimes it may even reverse twice in one shot, creating unpredictable shots that follow an S-shaped path.", 
+            "link": null, 
+            "name": "Reverse handle\u00a0"
+        }, 
+        {
+            "def": "A call given by the skip to tell the sweepers to neither sweep nor clean the rock; as compared to off!, which tells the sweepers to stop sweeping but not necessarily to stop cleaning", 
+            "link": null, 
+            "name": "Right off!\u00a0"
+        }, 
+        {
+            "def": "The house", 
+            "link": null, 
+            "name": "Rings\u00a0"
+        }, 
+        {
+            "def": "Slang for the game of curling, it is the sound a stone makes while sliding along the ice", 
+            "link": null, 
+            "name": "Roaring Game, The\u00a0"
+        }, 
+        {
+            "def": "The device thrown by curlers during the game. It is made of granite and has a standard weight of 19.6\u00a0kg (44\u00a0lb). Also called a stone", 
+            "link": null, 
+            "name": "Rock\u00a0"
+        }, 
+        {
+            "def": "Any movement of a stone after striking another", 
+            "link": null, 
+            "name": "Roll\u00a0"
+        }, 
+        {
+            "def": "Description of a spinning rock", 
+            "link": null, 
+            "name": "Rotation\u00a0"
+        }, 
+        {
+            "def": "When a moving stone barely touches another stationary stone; less contact than a chip", 
+            "link": null, 
+            "name": "Rub\u00a0"
+        }, 
+        {
+            "def": "A section of the curling sheet that is dipped or troughed that can prevent a stone to curl or draw down its normal path of travel", 
+            "link": null, 
+            "name": "Run\u00a0"
+        }, 
+        {
+            "def": "See raise takeout", 
+            "link": null, 
+            "name": "Runback"
+        }, 
+        {
+            "def": "The part of the rock which comes in contact with the ice. It is about 7\u00a0mm wide (0.25\u00a0inches)", 
+            "link": null, 
+            "name": "Running surface\u00a0"
+        }, 
+        {
+            "def": "See raise takeout", 
+            "link": null, 
+            "name": "Runthrough"
+        }, 
+        {
+            "def": "A device used by the Ice maker to smooth the ice after a period of extended play; usually performed in conjunction with pebbling", 
+            "link": null, 
+            "name": "Scraper\u00a0"
+        }, 
+        {
+            "def": "The Canadian Curling Championships. Also Known as the Scotties Tournament of Hearts", 
+            "link": null, 
+            "name": "Scotties\u00a0"
+        }, 
+        {
+            "def": "The player who throws the third and fourth rocks for a team; on most teams they also sweep for all other players on their team", 
+            "link": null, 
+            "name": "Second\u00a0"
+        }, 
+        {
+            "def": "The second closest rock to the button", 
+            "link": null, 
+            "name": "Second shot\u00a0"
+        }, 
+        {
+            "def": "A wide brush, traditionally made of sheepskin, which is used to clean the ice of any loose debris, typically during the mid-game break (commonly after the 5th end of tournament play)", 
+            "link": null, 
+            "name": "Sheepskin\u00a0"
+        }, 
+        {
+            "def": "The area of ice that on which one game is played", 
+            "link": null, 
+            "name": "Sheet\u00a0"
+        }, 
+        {
+            "def": "In a hit, refers to the rock being thrown", 
+            "link": null, 
+            "name": "Shooter\u00a0"
+        }, 
+        {
+            "def": "The rock in the house closest to the button; the next closest rocks are second shot and third shot. To \"be shot\" means to have shot rock.", 
+            "link": null, 
+            "name": "Shot rock / shot stone"
+        }, 
+        {
+            "def": "The curling world championships from 1968\u20131985", 
+            "link": null, 
+            "name": "Silver Broom\u00a0"
+        }, 
+        {
+            "def": "The player who calls the shots and traditionally throws the last two rocks; typically the best player on the team. As a verb, to \"skip\" means to lead one's rink", 
+            "link": "/wiki/Skip_(curling)", 
+            "name": "Skip\u00a0"
+        }, 
+        {
+            "def": "The forward movement of a player during the delivery of a stone", 
+            "link": null, 
+            "name": "Slide\u00a0"
+        }, 
+        {
+            "def": "A piece of Teflon or similar material attached to a curling shoe that allows the player to slide along the ice", 
+            "link": null, 
+            "name": "Slider\u00a0"
+        }, 
+        {
+            "def": "A type of release that makes the rock curl more, usually by imparting less rotation to the handle", 
+            "link": null, 
+            "name": "Soft release\u00a0"
+        }, 
+        {
+            "def": "Scots for match, game or competition, this is the term used for a curling competition between members of the same club or community, for example parish spiel; also used as an abbreviation for Bonspiel. Compare Bonspiel.", 
+            "link": "/wiki/Spiel", 
+            "name": "Spiel\u00a0"
+        }, 
+        {
+            "def": "A stone traveling with a rapid rotation. Stones thrown in this manner will curl only a small amount, if at all", 
+            "link": null, 
+            "name": "Spinner\u00a0"
+        }, 
+        {
+            "def": "A draw shot in which the played stone hits on the side of a stationary stone and both move sideways and stay in play. Not to be confused with split the house", 
+            "link": null, 
+            "name": "Split\u00a0"
+        }, 
+        {
+            "def": "A strategy of drawing to a different area of the house to prevent your opponent from taking out both stones", 
+            "link": null, 
+            "name": "Split the House\u00a0"
+        }, 
+        {
+            "def": "Slang for socializing with teammates and opponents, often over a drink, after a game", 
+            "link": null, 
+            "name": "Stacking the brooms\u00a0"
+        }, 
+        {
+            "def": "Scoring in an end without the hammer", 
+            "link": null, 
+            "name": "Steal\u00a0"
+        }, 
+        {
+            "def": "A rock", 
+            "link": null, 
+            "name": "Stone\u00a0"
+        }, 
+        {
+            "def": "Synonymous with no handle", 
+            "link": null, 
+            "name": "Straight handle\u00a0"
+        }, 
+        {
+            "def": "Ice on which stones curl less than usual", 
+            "link": null, 
+            "name": "Straight ice\u00a0"
+        }, 
+        {
+            "def": "a weight that can take out another stone", 
+            "link": null, 
+            "name": "Strike weight\u00a0"
+        }, 
+        {
+            "def": "To brush the ice in front of a moving stone, which causes it to travel farther and curl less", 
+            "link": null, 
+            "name": "Sweep\u00a0"
+        }, 
+        {
+            "def": "To use the measuring device to determine shot rock", 
+            "link": null, 
+            "name": "Swing the stick around\u00a0"
+        }, 
+        {
+            "def": "Ice on which stones curl more than usual", 
+            "link": null, 
+            "name": "Swingy ice\u00a0"
+        }, 
+        {
+            "def": "A rock that hits another rock and removes it from play", 
+            "link": null, 
+            "name": "Takeout\u00a0"
+        }, 
+        {
+            "def": "The weight required when delivering a stone in order to make a takeout", 
+            "link": null, 
+            "name": "Takeout Weight\u00a0"
+        }, 
+        {
+            "def": "Use of the delivery stone to tap another rock towards the back of the house", 
+            "link": null, 
+            "name": "Tap back\u00a0"
+        }, 
+        {
+            "def": "The centre point of the house, where the tee line crosses the centre line; the stones' distances from the tee determine the score for each end", 
+            "link": null, 
+            "name": "Tee\u00a0"
+        }, 
+        {
+            "def": "The line that goes across the house intersecting with the middle of the button, splitting it into two halves", 
+            "link": null, 
+            "name": "Tee line\u00a0"
+        }, 
+        {
+            "def": "The degree of contact between two rocks; the thicker the hit, the more contact between the stones; a hit with a small amount of contact is thin.", 
+            "link": null, 
+            "name": "Thick / thin\u00a0"
+        }, 
+        {
+            "def": "The player who throws the fifth and sixth rocks for a team; usually also serves as vice-skip", 
+            "link": null, 
+            "name": "Third\u00a0"
+        }, 
+        {
+            "def": "The third closest rock to the button", 
+            "link": null, 
+            "name": "Third shot\u00a0"
+        }, 
+        {
+            "def": "A shot that bumps a guard out of the way without removing it from play, to avoid violating the Free Guard Zone Rule; usually played with lead rocks late in a game to prevent the trailing team from setting up a steal", 
+            "link": null, 
+            "name": "Tick\u00a0"
+        }, 
+        {
+            "def": "Another term for narrow", 
+            "link": null, 
+            "name": "Tight\u00a0"
+        }, 
+        {
+            "def": "At professional levels sweepers use a timer to measure the time between the start of the delivery and the rock hitting the hog line, and will then call out that time as an indicator of the shot's weight. \"Time\" can also refer to the amount of time left on the game clock", 
+            "link": null, 
+            "name": "Time"
+        }, 
+        {
+            "def": "The portion of the 4 foot ring in front of the tee line", 
+            "link": null, 
+            "name": "Top 4\u00a0"
+        }, 
+        {
+            "def": "The portion of the 8 foot ring in front of the tee line", 
+            "link": null, 
+            "name": "Top 8\u00a0"
+        }, 
+        {
+            "def": "The portion of the 12 foot ring in front of the tee line", 
+            "link": null, 
+            "name": "Top 12\u00a0"
+        }, 
+        {
+            "def": "The Canadian women's curling championship, held annually since 1982; other women's tournaments were held previously", 
+            "link": "/wiki/Scott_Tournament_of_Hearts", 
+            "name": "Tournament of Hearts\u00a0"
+        }, 
+        {
+            "def": "A flashy but low-percentage shot; also Circus shot", 
+            "link": null, 
+            "name": "Trick shot\u00a0"
+        }, 
+        {
+            "def": "A takeout shot in which three other stones are removed from play", 
+            "link": null, 
+            "name": "Triple\u00a0"
+        }, 
+        {
+            "def": "An event format where the teams must have two men and two women, played in alternating positions", 
+            "link": null, 
+            "name": "True mixed\u00a0"
+        }, 
+        {
+            "def": "Command shouted by a skip \u2013 sometimes \"off!\" or \"whoa!\" \u2013 to tell sweepers to stop sweeping (to bring the brooms \"up\" off the ice)", 
+            "link": null, 
+            "name": "Up!\u00a0"
+        }, 
+        {
+            "def": "The player who discusses strategy with the skip behind the house and holds the broom while the skip throws his rocks; usually plays third; also known as mate", 
+            "link": null, 
+            "name": "Vice-Skip or Vice\u00a0"
+        }, 
+        {
+            "def": "The amount of speed with which a rock is delivered; more weight corresponds to a harder throw. When used in a phrase such as \"tee-line weight\", it refers to the delivery speed required for the rock to come to rest on the tee-line.", 
+            "link": null, 
+            "name": "Weight\u00a0"
+        }, 
+        {
+            "def": "A shot where the played stone touches a stationary stone just enough that the played stone changes direction", 
+            "link": null, 
+            "name": "Wick\u00a0"
+        }, 
+        {
+            "def": "A stone delivered off the broom to the side away from the desired target, and therefore unlikely to curl far enough to reach it", 
+            "link": null, 
+            "name": "Wide\u00a0"
+        }, 
+        {
+            "def": "Synonymous with off", 
+            "link": null, 
+            "name": "Whoa!\u00a0"
+        }, 
+        {
+            "def": "A stone that rocks from side to side as it travels because it is not resting on its running surface", 
+            "link": null, 
+            "name": "Wobbler\u00a0"
+        }, 
+        {
+            "def": "A missed shot caused by an accidental chip or wick off of another stationary stone", 
+            "link": null, 
+            "name": "Wrecked shot\u00a0"
+        }
+    ]
+}

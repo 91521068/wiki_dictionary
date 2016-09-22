@@ -1,0 +1,282 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_blogging", 
+    "words": [
+        {
+            "def": "A popular feed format developed as an alternative to RSS.", 
+            "link": "/wiki/Atom_(standard)", 
+            "name": "Atom"
+        }, 
+        {
+            "def": "Automated form of podcasting that allows bloggers and blog readers to generate audio versions of text blogs from RSS feeds.", 
+            "link": "/wiki/Autocast", 
+            "name": "Autocasting"
+        }, 
+        {
+            "def": "A blog where the posts consist mainly of voice recordings sent by mobile phone, sometimes with some short text message added for metadata purposes. (cf. podcasting)", 
+            "link": "/wiki/MP3_blog", 
+            "name": "Audioblog"
+        }, 
+        {
+            "def": "A law blog.", 
+            "link": null, 
+            "name": "Blawg"
+        }, 
+        {
+            "def": "An entry in a blog requesting information or contributions. A portmanteau of \"blog\" and \"beg\". Also called \"Lazyweb\".", 
+            "link": null, 
+            "name": "Bleg"
+        }, 
+        {
+            "def": "A blog article that contains links to other articles covering a specific topic. Most blog carnivals are hosted by a rotating list of frequent contributors to the carnival, and serve to both generate new posts by contributors and highlight new bloggers posting matter in that subject area.", 
+            "link": null, 
+            "name": "Blog Carnival"
+        }, 
+        {
+            "def": "(weblog client) is software to manage (post, edit) blogs from operating system with no need to launch a web browser. A typical blog client has an editor, a spell-checker and a few more options that simplify content creation and editing.", 
+            "link": "/wiki/Blog_client", 
+            "name": "Blog client"
+        }, 
+        {
+            "def": "A software which is used to create the blog. Some of the most popular are WordPress, Blogger, TypePad, Movable Type and Joomla.", 
+            "link": "/w/index.php?title=Blog_publishing_service&action=edit&redlink=1", 
+            "name": "Blog publishing service"
+        }, 
+        {
+            "def": "Person who runs a blog. Also blogger.com, a popular blog hosting web site. Rarely: weblogger.", 
+            "link": "/wiki/Blog", 
+            "name": "Blogger"
+        }, 
+        {
+            "def": "Blogs written by and for Mormons (a portmanteau of \"blog\" and \"Tabernacle\"). Generally refers to faithful Mormon bloggers and sometimes refers to a specific grouping of faithful Mormon bloggers.", 
+            "link": "/wiki/Bloggernacle", 
+            "name": "Bloggernacle"
+        }, 
+        {
+            "def": "One of the most popular blog awards.", 
+            "link": "/wiki/Bloggies", 
+            "name": "Bloggies"
+        }, 
+        {
+            "def": "A list of other blogs that a blogger might recommend by providing links to them (usually in a sidebar list).", 
+            "link": "/w/index.php?title=Blogroll&action=edit&redlink=1", 
+            "name": "Blogroll"
+        }, 
+        {
+            "def": "All blogs, or the blogging community.", 
+            "link": "/wiki/Blogosphere", 
+            "name": "Blogosphere"
+        }, 
+        {
+            "def": "A category of software which consists of a specialized form of a Content Management System specifically designed for creating and maintaining weblogs.", 
+            "link": "/wiki/Weblog_software", 
+            "name": "Blogware"
+        }, 
+        {
+            "def": "The largest international blog awards.", 
+            "link": "/wiki/The_BOBs", 
+            "name": "The BOBs"
+        }, 
+        {
+            "def": "The practice of posting pictures of cats, in typical cat postures and expressions, on a blog.", 
+            "link": null, 
+            "name": "Catblogging (traditionally \"Friday catblogging\", sometime \"Caturday\")"
+        }, 
+        {
+            "def": "A blog (usually focused on a single issue or political stripe) on which multiple users enjoy posting permission. Also known as group blog.", 
+            "link": "/wiki/Collaborative_blog", 
+            "name": "Collaborative blog"
+        }, 
+        {
+            "def": "Like e-mail spam. Robot \u201cspambots\u201d flood a blog with advertising in the form of bogus comments. A serious problem that requires bloggers and blog platforms to have tools to exclude some users or ban some addresses in comments.", 
+            "link": "/wiki/Spam_in_blogs", 
+            "name": "Comment spam"
+        }, 
+        {
+            "def": "An off-line blog management (posting, editing and archiving) tool", 
+            "link": "/wiki/Blogging_software", 
+            "name": "Desktop Blogging Client"
+        }, 
+        {
+            "def": "A new kind of a trend in marketers in which they create new blogs for upcoming events. For that, they buy EMDs or exact match domains for the upcoming events to attract people who are searching for that event. Because their domain is rich with keywords \u2014 they get better rankings in search engines. However, to establish an event blog \u2014 event bloggers start working on their blogs even before 6 months of the event to make decent amount of content and to get quality backlinks.[1]", 
+            "link": null, 
+            "name": "Event blogging"
+        }, 
+        {
+            "def": "To rebut a blog entry in a line-by-line fashion.", 
+            "link": "/wiki/Fisking", 
+            "name": "Fisking"
+        }, 
+        {
+            "def": "A portmanteau of \"fake\" and \"blog\"; a form of astroturfing.", 
+            "link": "/wiki/Flog_(disambiguation)", 
+            "name": "Flog"
+        }, 
+        {
+            "def": "RSS Feeds.", 
+            "link": null, 
+            "name": "Feeds"
+        }, 
+        {
+            "def": "A blog that covers health topics, events and/or related content of the health industry and the general community. In short, anything related to health.", 
+            "link": "/wiki/Health_blog", 
+            "name": "Health blog"
+        }, 
+        {
+            "def": "A journalist blog.", 
+            "link": "/wiki/J-blog_(disambiguation)", 
+            "name": "J-blog"
+        }, 
+        {
+            "def": "A blog about law.", 
+            "link": null, 
+            "name": "Legal blog"
+        }, 
+        {
+            "def": "A blog that captures a person's entire life.", 
+            "link": "/wiki/Lifelog", 
+            "name": "Lifelog"
+        }, 
+        {
+            "def": "A blog consisting solely of list style posts.", 
+            "link": null, 
+            "name": "List blog"
+        }, 
+        {
+            "def": "A short-form of writing that uses a list as its thematic structure, but is fleshed out with sufficient copy to be published as an article.", 
+            "link": "/wiki/Listicle", 
+            "name": "Listicle"
+        }, 
+        {
+            "def": "A blog that focuses primarily on the topic of literature.", 
+            "link": "/wiki/Litblog", 
+            "name": "Litblog"
+        }, 
+        {
+            "def": "Term for blogs written by members or veterans of any branch of military service - Army, Navy, Air Force, or Marines. A contraction of military and blog.", 
+            "link": "/wiki/Milblog", 
+            "name": "Milblog"
+        }, 
+        {
+            "def": "A portmanteau of \"mobile\" and \"blog\". A blog featuring posts sent mainly by mobile phone, using SMS or MMS messages. They are often photoblogs.", 
+            "link": "/wiki/Moblog", 
+            "name": "Moblog"
+        }, 
+        {
+            "def": "A blog featuring discussions especially about home and family.", 
+            "link": "/wiki/Mommy_blog", 
+            "name": "Mommy blog"
+        }, 
+        {
+            "def": "A blog constructed as a conversation between more than two people.", 
+            "link": null, 
+            "name": "Multiblog"
+        }, 
+        {
+            "def": "Permanent link. The unique URL of a single post. Use this when you want to link to a post somewhere.", 
+            "link": "/wiki/Permalink", 
+            "name": "Permalink"
+        }, 
+        {
+            "def": "Type of blog utilising the Gopher protocol instead of HTTP", 
+            "link": "/wiki/Phlog", 
+            "name": "Phlog"
+        }, 
+        {
+            "def": "A blog mostly containing photos, posted constantly and chronologically.", 
+            "link": "/wiki/Photoblog", 
+            "name": "Photoblog"
+        }, 
+        {
+            "def": "The alert in the TrackBack system that notifies the original poster of a blog post when someone else writes an entry concerning the original post.", 
+            "link": "/wiki/Pingback", 
+            "name": "Pingback"
+        }, 
+        {
+            "def": "Contraction of \u201ciPod\u201d and \u201cbroadcasting\u201d (but not for iPods only). Posting audio and video material on a blog and its RSS feed, for digital players.", 
+            "link": "/wiki/Podcasting", 
+            "name": "Podcasting"
+        }, 
+        {
+            "def": "An entry written and published to a blog.", 
+            "link": null, 
+            "name": "Post"
+        }, 
+        {
+            "def": "For blogs with common language URLs, the post slug is the portion of the URL that represents the post. Example: http://www.forexchef.definanz-artikel-slug", 
+            "link": null, 
+            "name": "Post Slug"
+        }, 
+        {
+            "def": "Really Simple Syndication is a family of Web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.", 
+            "link": "/wiki/RSS", 
+            "name": "RSS"
+        }, 
+        {
+            "def": "Software or online service allowing a blogger to read an RSS feed, especially the latest posts on their favourite blogs. Also called a reader, or feedreader.", 
+            "link": "/wiki/RSS_aggregator", 
+            "name": "RSS aggregator"
+        }, 
+        {
+            "def": "The file containing a blog\u2019s latest posts. It is read by an RSS aggregator/reader and shows at once when a blog has been updated. It may contain only the title of the post, the title plus the first few lines of a post, or the entire post.", 
+            "link": "/wiki/RSS_(file_format)", 
+            "name": "RSS feed"
+        }, 
+        {
+            "def": "or, for short, SEF URLs, implemented via URL mapping.", 
+            "link": "/wiki/Search_engine_friendly_URLs", 
+            "name": "Search engine friendly URLs"
+        }, 
+        {
+            "def": "A blog which is composed of spam. A Spam blog or \"any blog whose creator doesn't add any written value.\"", 
+            "link": "/wiki/Spam_blog", 
+            "name": "Spam blog"
+        }, 
+        {
+            "def": "The Slashdot effect can hit blogs or other website, and is caused by a major website (usually Slashdot, but also Digg, Metafilter, Boing Boing, Instapundit and others) sending huge amounts of temporary traffic that often slow down the server.", 
+            "link": "/wiki/Slashdot_effect", 
+            "name": "Slashdot effect"
+        }, 
+        {
+            "def": "The term used when a blogs feed is added to a feed reader like Bloglines or Google. Some blogging platforms have internal subscriptions, this allows readers to receive notification when there are new posts in a blog. A subscriber is a person who is willing to receive blogger's news and updates.", 
+            "link": "/wiki/Subscribe", 
+            "name": "Subscribe"
+        }, 
+        {
+            "def": "Templates, used on the \"back end\" of a blog that work together to handle information and present it on a blog.", 
+            "link": "/wiki/Web_template", 
+            "name": "Templates"
+        }, 
+        {
+            "def": "CSS based code that when applied to the templates will result in visual element changes to the blog. The theme, as a whole, is also referred to as a blog design.", 
+            "link": "/wiki/Theme_(computing)", 
+            "name": "Theme"
+        }, 
+        {
+            "def": "A system that allows a blogger to see who has seen the original post and has written another entry concerning it. The system works by sending a 'ping' between the blogs, and therefore providing the alert.", 
+            "link": "/wiki/TrackBack", 
+            "name": "TrackBack"
+        }, 
+        {
+            "def": "A video blog; a vlogger is a video blogger (e.g. someone who records himself interviewing people of a certain field).", 
+            "link": "/wiki/Vlog", 
+            "name": "Vlog"
+        }, 
+        {
+            "def": "A blog devoted mostly or wholly to covering news events concerning an ongoing war.", 
+            "link": "/wiki/Warblog", 
+            "name": "Warblog"
+        }, 
+        {
+            "def": "The unshortened version of 'blog'.", 
+            "link": "/wiki/Weblog", 
+            "name": "Weblog"
+        }, 
+        {
+            "def": "Blogging", 
+            "link": null, 
+            "name": "History"
+        }
+    ]
+}

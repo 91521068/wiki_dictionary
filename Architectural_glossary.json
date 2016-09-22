@@ -1,0 +1,1002 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Architectural_glossary", 
+    "words": [
+        {
+            "def": "Subsidiary space alongside the body of a building, separated from it by columns, piers, or posts.", 
+            "link": "/wiki/Aisle", 
+            "name": "Aisle"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0raised panel below a window or wall monument or tablet.", 
+            "link": "/wiki/Apron_(architecture)", 
+            "name": "Apron"
+        }, 
+        {
+            "def": "Vaulted semicircular or polygonal end of a chancel or chapel. That portion of a church, usually Christian, beyond the \"crossing\" and opposite the nave. In some churches the choir is seated in this space.", 
+            "link": "/wiki/Apse", 
+            "name": "Apse"
+        }, 
+        {
+            "def": "Passage or walkway covered over by a succession of arches or vaults supported by columns. Blind arcade or arcading: the same applied to the wall surface.", 
+            "link": "/wiki/Arcade_(architecture)", 
+            "name": "Arcade"
+        }, 
+        {
+            "def": "A curved structure capable of spanning a space while supporting significant weight.", 
+            "link": "/wiki/Arch", 
+            "name": "Arch"
+        }, 
+        {
+            "def": "Formalized lintel, the lowest member of the classical entablature. Also the moulded frame of a door or window (often borrowing the profile of a classical architrave).", 
+            "link": "/wiki/Architrave", 
+            "name": "Architrave"
+        }, 
+        {
+            "def": "Sharp edge where two surfaces meet at an angle such as the corner of a square column or shaft.", 
+            "link": "/wiki/Arris", 
+            "name": "Arris"
+        }, 
+        {
+            "def": "A thin vertical aperture in a fortification through which an archer can launch arrows.", 
+            "link": "/wiki/Arrowslit", 
+            "name": "Arrowslit"
+        }, 
+        {
+            "def": "Articulation is the manner or method of jointing parts such that each part is clear and distinct in relation to the others, even though joined.", 
+            "link": "/wiki/Articulation_(architecture)", 
+            "name": "Articulation"
+        }, 
+        {
+            "def": "Masonry of large blocks cut with even faces and square edges.", 
+            "link": "/wiki/Ashlar", 
+            "name": "Ashlar"
+        }, 
+        {
+            "def": "A support sculpted in the form of a man, which may take the place of a column, a pier or a pilaster.", 
+            "link": "/wiki/Atlas_(architecture)", 
+            "name": "Atlas"
+        }, 
+        {
+            "def": "(plural: atria) Inner court of a Roman or C20 house; in a multi-story building, a toplit covered court rising through all stories.", 
+            "link": "/wiki/Atrium_(architecture)", 
+            "name": "Atrium"
+        }, 
+        {
+            "def": "Small top story within a roof above the uppermost ceiling. The story above the main entablature of a classical fa\u00e7ade.", 
+            "link": "/wiki/Attic", 
+            "name": "Attic"
+        }, 
+        {
+            "def": "A small parapet or attic wall bearing the weight of the roof of a cathedral or church.", 
+            "link": "/w/index.php?title=Bahut_(architecture)&action=edit&redlink=1", 
+            "name": "Bahut"
+        }, 
+        {
+            "def": "A false balcony, or railing at the outer plane of a window.", 
+            "link": "/wiki/Balconet", 
+            "name": "Balconet"
+        }, 
+        {
+            "def": "An architectural ornament in the form of a ball inserted in the cup of a flower, which came into use in the latter part of the 13th, and was in great vogue in the early part of the 14th century.", 
+            "link": "/wiki/Ball_flower", 
+            "name": "Ball flower"
+        }, 
+        {
+            "def": "A Small moulded shaft, square or circular, in stone or wood, sometimes metal, supporting the coping of a parapet or the handrail of a staircase; a series of balusters supporting a handrail or coping.", 
+            "link": "/wiki/Baluster", 
+            "name": "Baluster"
+        }, 
+        {
+            "def": "A structural member of inadequate capacity for its load or span that is augmented by one or two steel bars anchored to each bearing end at or above the centroid of the girder to assume the tension forces. The bar(s) runs down and below the girder and stand off the girder on one or more struts anchored to the girder at its bottom surface. The struts are sized to accept the compressive forces imposed without bending. The load limit to this member is the crippling capacity (horizontal failure) of the girder.", 
+            "link": "/w/index.php?title=Bar-Stayed_Girder&action=edit&redlink=1", 
+            "name": "Bar-Stayed Girder"
+        }, 
+        {
+            "def": "A board fastened to the projecting gables of a roof.", 
+            "link": "/wiki/Bargeboard", 
+            "name": "Bargeboard"
+        }, 
+        {
+            "def": "An architectural element formed by the extrusion of a single curve (or pair of curves, in the case of a pointed barrel vault) along a given distance.", 
+            "link": "/wiki/Barrel_vault", 
+            "name": "Barrel vault"
+        }, 
+        {
+            "def": "An overhanging, wall-mounted turret projecting from the walls, usually at the corners, of medieval fortifications or churches.", 
+            "link": "/wiki/Bartizan", 
+            "name": "Bartizan"
+        }, 
+        {
+            "def": "Lowest, subordinate storey of building often either entirely or partially below ground level; the lowest part of classical elevation, below the piano nobile.", 
+            "link": "/wiki/Basement", 
+            "name": "Basement"
+        }, 
+        {
+            "def": "Originally a Roman, large roofed hall erected for transacting business and disposing of legal matters.; later the term came to describe an aisled building with a clerestory. Medieval cathedral plans were a development of the basilica plan type.", 
+            "link": "/wiki/Basilica", 
+            "name": "Basilica"
+        }, 
+        {
+            "def": "The lights in the upper part of a perpendicular window, abated, or only half the width of those below.[1]", 
+            "link": null, 
+            "name": "Batement Lights"
+        }, 
+        {
+            "def": "Upwardly receding slope of a wall or column.", 
+            "link": null, 
+            "name": "Batter"
+        }, 
+        {
+            "def": "A parapet (i.e., a defensive low wall between chest-height and head-height), in which rectangular gaps or indentations occur at intervals to allow for the discharge of arrows or other missiles.", 
+            "link": "/wiki/Battlement", 
+            "name": "Battlement"
+        }, 
+        {
+            "def": "Internal compartments of a building; each divided from the other by subtle means such as the boundaries implied by divisions marked in the side walls (columns, pilasters, etc.) or the ceiling (beams, etc.). Also external divisions of a building by fenestration (windows).", 
+            "link": "/wiki/Bay_(architecture)", 
+            "name": "Bays"
+        }, 
+        {
+            "def": "Window of one or more storeys projecting from the face of a building. Canted: with a straight front and angled sides. Bow window: curved. Oriel: rests on corbels or brackets and starts above ground level; also the bay window at the dais end of a medieval great hall.", 
+            "link": "/wiki/Bay_window", 
+            "name": "Bay window"
+        }, 
+        {
+            "def": "Chamber or stage in a tower where bells are hung. The term is also used to describe the manner in which bricks are laid in a wall so that they interlock.", 
+            "link": "/wiki/Bell_tower", 
+            "name": "Belfry "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Roughly cut stone set in place for later carving.", 
+            "link": "/wiki/Boss_(architecture)", 
+            "name": "Boss"
+        }, 
+        {
+            "def": "Uncut stone that is laid in place in a building, projecting outward from the building, to later be carved into decorative moldings, capitals, arms, etc. Bossages are also rustic work, consisting of stones which seem to advance beyond the surface of the building, by reason of indentures, or channels left in the joinings; used chiefly in the corners of buildings, and called rustic quoins. The cavity or indenture may be round, square, chamfered, beveled, diamond-shaped, or enclosed with a cavetto or listel.[2]", 
+            "link": "/wiki/Bossage", 
+            "name": "Bossage"
+        }, 
+        {
+            "def": "Brickwork with overlapping bricks. Types of bond include stretcher, English, header, Flemish, garden wall, herringbone, basket, American, and Chinese.", 
+            "link": "/wiki/Brickwork", 
+            "name": "Bond"
+        }, 
+        {
+            "def": "Type of support. An arc-boutant, or flying buttress, serves to sustain a vault, and is self-sustained by some strong wall or massive work. A pillar boutant is a large chain or jamb of stone, made to support a wall, terrace, or vault. The word is French, and comes from the verb bouter, \"to butt\" or \"abut\".[3]", 
+            "link": "/w/index.php?title=Boutant&action=edit&redlink=1", 
+            "name": "Boutant"
+        }, 
+        {
+            "def": "Weight-bearing member made of wood, stone, or metal that overhangs a wall.", 
+            "link": "/wiki/Bracket_(architecture)", 
+            "name": "Bracket (see also corbel)"
+        }, 
+        {
+            "def": "(literally \"breast- beam\") \u2013 Large, horizontal beam supporting the wall above, especially in a jettied building.", 
+            "link": "/wiki/Bressummer", 
+            "name": "Bressummer"
+        }, 
+        {
+            "def": "Projecting fins or canopies which shade windows from direct sunlight.", 
+            "link": "/wiki/Brise_soleil", 
+            "name": "Brise soleil"
+        }, 
+        {
+            "def": "Small oval window, set horizontally.", 
+            "link": "/wiki/Oeil-de-Boeuf", 
+            "name": "Bullseye window"
+        }, 
+        {
+            "def": "Barricade of beams and soil used in 15th- and 16th-century fortifications designed to mount artillery. On board ships the term refers to the woodwork running round the ship above the level of the deck. Figuratively it means anything serving as a defence. Dutch loanword; Bolwerk", 
+            "link": null, 
+            "name": "Bulwark"
+        }, 
+        {
+            "def": "Vertical member projecting from a wall to stabilize it or to resist the lateral thrust of an arch, roof, or vault. A flying buttress transmits the thrust to a heavy abutment by means of an arch or half-arch.", 
+            "link": "/wiki/Buttress", 
+            "name": "Buttress"
+        }, 
+        {
+            "def": "(plural: Cancelli) Barriers which correspond to the modern balustrade or railing, especially the screen dividing the body of a church from the part occupied by the ministers hence chancel. The Romans employed cancelli to partition off portions of the courts of law.[4]", 
+            "link": "/wiki/Cancellus", 
+            "name": "Cancellus"
+        }, 
+        {
+            "def": "An unsupported overhang acting as a lever, like a flagpole sticking out of the side of a wall.", 
+            "link": "/wiki/Cantilever", 
+            "name": "Cantilever"
+        }, 
+        {
+            "def": "The topmost member of a column (or pilaster).", 
+            "link": "/wiki/Capital_(architecture)", 
+            "name": "Capital"
+        }, 
+        {
+            "def": "A sculpted female figure serving as an architectural support taking the place of a column or a pillar supporting an entablature on her head.", 
+            "link": "/wiki/Caryatid", 
+            "name": "Caryatid"
+        }, 
+        {
+            "def": "Window hung vertically, hinged one side, so that it swings inward or outward.", 
+            "link": "/wiki/Casement_window", 
+            "name": "Casement window"
+        }, 
+        {
+            "def": "Stalks (eight in number) with two leaves from which rise the helices or spiral scrolls of the Corinthian capital to support the abacus.[5]", 
+            "link": null, 
+            "name": "Cauliculus, or caulicole "
+        }, 
+        {
+            "def": "The inner chamber of a temple in classical architecture.", 
+            "link": "/wiki/Cella", 
+            "name": "Cella"
+        }, 
+        {
+            "def": "In Roman architecture, the vestibule or portico of a public building opening on to the forum, as in the basilica of Eumachia at Pompeii, and the basilica of Constantine at Rome, where it was placed at one end. See: Lacunar.[6]", 
+            "link": null, 
+            "name": "Chalcidicum"
+        }, 
+        {
+            "def": "In church architecture, the space around the altar at the east end of a traditional Christian church building, including the choir and sanctuary.", 
+            "link": "/wiki/Chancel", 
+            "name": "Chancel (also Presbytery) "
+        }, 
+        {
+            "def": "The circular or horseshoe arch that decorates many Indian cave temples and shrines.", 
+            "link": "/wiki/Chandrashala", 
+            "name": "Chandrashala"
+        }, 
+        {
+            "def": "Chimera, as an architectural feature, means a fantastic, mythical or grotesque figure used for decorative purposes.", 
+            "link": "/wiki/Chimera_(architecture)", 
+            "name": "Chimera"
+        }, 
+        {
+            "def": "A structure which provides ventilation.", 
+            "link": "/wiki/Chimney", 
+            "name": "Chimney"
+        }, 
+        {
+            "def": "Chamber between the pronaos and the cella in Greek temples where oracles were delivered.[7]", 
+            "link": null, 
+            "name": "Chresmographion"
+        }, 
+        {
+            "def": "Ring, list, or fillet at the top and bottom of a column, which divides the shaft from the capital and base.[8]", 
+            "link": null, 
+            "name": "Cincture"
+        }, 
+        {
+            "def": "Style which became prevalent in Italy in the century following 1500, now usually called 16th-century work. It was the result of the revival of classic architecture known as Renaissance, but the change had commenced already a century earlier, in the works of Ghiberti and Donatello in sculpture, and of Brunelleschi and Alberti in architecture.[9]", 
+            "link": "/wiki/Cinque_cento", 
+            "name": "Cinque cento"
+        }, 
+        {
+            "def": "(plural: cippi) A low, round or rectangular pedestal set up by the Romans for military purposes such as a milestone or a boundary post. The inscriptions on some cippi in the British Museum show that they were occasionally used as funeral memorials.[10]", 
+            "link": null, 
+            "name": "Cippus"
+        }, 
+        {
+            "def": "Describes the flow of people throughout a building.", 
+            "link": "/wiki/Circulation_(architecture)", 
+            "name": "Circulation"
+        }, 
+        {
+            "def": "Term applied to a covered Greek temple, in contradistinction to hypaethral, which designates one that is uncovered; the roof of a cleithral temple completely covers it.[11]", 
+            "link": null, 
+            "name": "Cleithral"
+        }, 
+        {
+            "def": "A coffer, in architecture, is a sunken panel in the shape of a square, rectangle, or octagon that serves as a decorative device, usually in a ceiling or vault. Also called caissons, or lacunar.[12]", 
+            "link": "/wiki/Coffer", 
+            "name": "Coffer"
+        }, 
+        {
+            "def": "(also colarino, collarino, or hypotrachelium) The little frieze of the capital of the Tuscan and Doric column placed between the astragal, and the annulets. It was called hypotrachelium by Vitruvius.", 
+            "link": null, 
+            "name": "Colarin "
+        }, 
+        {
+            "def": "A structural element that transmits, through compression, the weight of the structure above to other structural elements below.", 
+            "link": "/wiki/Column", 
+            "name": "Column"
+        }, 
+        {
+            "def": "Latin term for the open space left in the roof of the atrium of a Roman house (domus) for lighting it and the rooms round.[13]", 
+            "link": "/wiki/Compluvium", 
+            "name": "Compluvium"
+        }, 
+        {
+            "def": "The capping or covering of a wall.", 
+            "link": "/wiki/Coping_(architecture)", 
+            "name": "Coping"
+        }, 
+        {
+            "def": "A structural piece of stone, wood or metal jutting from a wall to carry a superincumbent weight.", 
+            "link": "/wiki/Corbel", 
+            "name": "Corbel"
+        }, 
+        {
+            "def": "One of the three orders or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a capital decorated with acanthus leaves, that flared from the column to meet an abacus with concave sides at the intersection with the horizontal beam that they carried.", 
+            "link": "/wiki/Corinthian_order", 
+            "name": "Corinthian order"
+        }, 
+        {
+            "def": "Upper section of an entablature, a projecting shelf along the top of a wall often supported by brackets or corbels.", 
+            "link": "/wiki/Cornice", 
+            "name": "Cornice"
+        }, 
+        {
+            "def": "Block from which the diagonal ribs of a vault spring or start. The top of the springer is known as the skewback.[14]", 
+            "link": null, 
+            "name": "Cross Springer"
+        }, 
+        {
+            "def": "Concealed or covered passage, generally underground, though lighted and ventilated from the open air. One of the best-known examples is the crypto-porticus under the palaces of the Caesars in Rome. In Hadrians villa in Rome they formed the principal private intercommunication between the several buildings.[15]", 
+            "link": "/wiki/Crypto-porticus", 
+            "name": "Crypto-porticus"
+        }, 
+        {
+            "def": "a wedge-shaped division of the Roman theatre separated by the scalae or stairways;[16] This shape also occurred in medieval architecture", 
+            "link": null, 
+            "name": "Cuneus"
+        }, 
+        {
+            "def": "A small, most often dome-like, structure on top of a building.", 
+            "link": "/wiki/Cupola", 
+            "name": "Cupola"
+        }, 
+        {
+            "def": "Term used to designate an intercolumniation of three or four diameters.[17]", 
+            "link": null, 
+            "name": "Diastyle"
+        }, 
+        {
+            "def": "Peristyle round the great court of the palaestra, described by Vitruvius, which measured two stadia (1,200\u00a0ft.) in length, on the south side this peristyle had two rows of columns, so that in stormy weather the rain might not be driven into the inner part. The word was also used in ancient Greece for a foot race of twice the usual length.[18]", 
+            "link": "/wiki/Diaulos_(architecture)", 
+            "name": "Diaulos"
+        }, 
+        {
+            "def": "A horizontal aisle in an ancient Greek theater that separates the lower and upper tiers of semi-circular seating and intersects with the vertical aisles.[19]", 
+            "link": null, 
+            "name": "Diazoma"
+        }, 
+        {
+            "def": "Islamic architectural term for the tribune raised upon columns, from which the Koran is recited and the prayers intoned by the Imam of the mosque.[20]", 
+            "link": "/wiki/Dikka", 
+            "name": "Dikka"
+        }, 
+        {
+            "def": "Temples which have a double range of columns in the peristyle, as in the temple of Diana at Ephesus.[21]", 
+            "link": null, 
+            "name": "Dipteral"
+        }, 
+        {
+            "def": "Having two columns", 
+            "link": null, 
+            "name": "Distyle"
+        }, 
+        {
+            "def": "Temple where the portico has twelve columns in front, as in the portico added to the Temple of Demeter at Eleusis, designed by Philo, the architect of the arsenal at the Peiraeus.[23]", 
+            "link": null, 
+            "name": "Dodecastyle"
+        }, 
+        {
+            "def": "One of the three orders or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple without a base, their vertical shafts fluted with parallel concave grooves topped by a smooth capital that flared from the column to meet a square abacus at the intersection with the horizontal beam that they carried.", 
+            "link": "/wiki/Doric_order", 
+            "name": "Doric order"
+        }, 
+        {
+            "def": "A structural element of a building that protrudes from the plane of a sloping roof surface. Dormers are used, either in original construction or as later additions, to create usable space in the roof of a building by adding headroom and usually also by enabling addition of windows.", 
+            "link": "/wiki/Dormer", 
+            "name": "Dormer"
+        }, 
+        {
+            "def": "Cubical block of stone above the capitals in a Byzantine church, used to carry the arches and vault, the springing of which had a superficial area greatly in excess of the column which carried them.[24]", 
+            "link": "/w/index.php?title=Impost_block&action=edit&redlink=1", 
+            "name": "Dosseret, or impost block "
+        }, 
+        {
+            "def": "Entrance passage or avenue leading to a building, tomb or passageway. Those leading to beehive tombs are enclosed between stone walls and sometimes in-filled between successive uses of the tomb.[25][26] In ancient Egypt the dromos was a straight, paved avenue flanked by sphinxes.[25][27]", 
+            "link": null, 
+            "name": "Dromos"
+        }, 
+        {
+            "def": "A superstructure of moldings and bands which lie horizontally above columns, resting on their capitals.", 
+            "link": "/wiki/Entablature", 
+            "name": "Entablature"
+        }, 
+        {
+            "def": "Large hall in the ancient Palaestra furnished with seats, the length of which should be a third larger than the width. It served for the exercises of youths of from sixteen to eighteen years of age.[28]", 
+            "link": null, 
+            "name": "Ephebeum"
+        }, 
+        {
+            "def": "Open vestibule behind the nave. The term is not found in any classic author, but is a modern coinage, originating in Germany, to differentiate the feature from the opisthodomos, which in the Parthenon was an enclosed chamber.[29]", 
+            "link": null, 
+            "name": "Epinaos"
+        }, 
+        {
+            "def": "French term for a raised platform or dais. In the Levant, the estrade of a divan is called a Sopha, from which comes our word 'sofa'.[30]", 
+            "link": null, 
+            "name": "Estrade"
+        }, 
+        {
+            "def": "intercolumniation defined by Vitruvius as being of the best proportion, i.e. two and a quarter diameters.[31]", 
+            "link": null, 
+            "name": "Eustyle"
+        }, 
+        {
+            "def": "Window, semicircular or semi-elliptical in shape, with glazing bars or tracery sets radiating out like an open fan.", 
+            "link": "/wiki/Fanlight", 
+            "name": "Fanlight"
+        }, 
+        {
+            "def": "Horizontal board attached to the lower end of rafters at the eaves.", 
+            "link": "/wiki/Fascia", 
+            "name": "Fascia"
+        }, 
+        {
+            "def": "Enclosure or chapel within which the ferreter shrine, or tomb (as in Henry VII.'s chapel), was placed.[32]", 
+            "link": null, 
+            "name": "Feretory"
+        }, 
+        {
+            "def": "The decorative combination on the same flat plane of flint and ashlar stone. It is characteristic of medieval buildings, most of the survivors churches, in several areas of Southern England, but especially East Anglia. If the stone projects from a flat flint wall, the term is proudwork \u2013 as the stone stands \"proud\" rather than being \"flush\" with the wall.", 
+            "link": "/wiki/Flushwork", 
+            "name": "Flushwork"
+        }, 
+        {
+            "def": "A specific type of buttress usually found on a religious building such as a cathedral.", 
+            "link": "/wiki/Flying_buttress", 
+            "name": "Flying buttress"
+        }, 
+        {
+            "def": "An exposed structural beam over the uppermost part of a building which is not otherwise connected to the building at its highest point. A feature of H frame constructed concrete buildings and some modern skyscrapers.", 
+            "link": null, 
+            "name": "Flying rib"
+        }, 
+        {
+            "def": "Literally translation of \u201cpedestal\u201d, the lower part of a pier in architecture.[33]", 
+            "link": null, 
+            "name": "Foot-stall"
+        }, 
+        {
+            "def": "French term for the wall-rib carrying the web or filling-in of a vault.[34]", 
+            "link": null, 
+            "name": "Formeret"
+        }, 
+        {
+            "def": "A triangular portion of an end wall between the edges of a sloping roof.", 
+            "link": "/wiki/Gable", 
+            "name": "Gable"
+        }, 
+        {
+            "def": "Triangular terminations to buttresses, much in use in the Early English and Decorated periods, after which the buttresses generally terminated in pinnacles. The Early English gablets are generally plain, and very sharp in pitch. In the Decorated period they are often enriched with paneling and crockets. They are sometimes finished with small crosses, but more often with finials.[35]", 
+            "link": null, 
+            "name": "Gablets"
+        }, 
+        {
+            "def": "Carved or curved molding used in architecture and interior design as decorative motif, often consisting of flutes which are inverted and curved. Popular during the Italian Renaissance.[36]", 
+            "link": "/wiki/Gadrooning", 
+            "name": "Gadrooning"
+        }, 
+        {
+            "def": "The process in which the gallets or small splinters of stone are inserted in the joints of coarse masonry to protect the mortar joints. They are stuck in while the mortar is wet.[37]", 
+            "link": "/wiki/Galletting", 
+            "name": "Galletting (also Garretting) "
+        }, 
+        {
+            "def": "A symmetrical two-sided roof with two slopes on each side.", 
+            "link": "/wiki/Gambrel", 
+            "name": "Gambrel"
+        }, 
+        {
+            "def": "A carved stone grotesque with a spout designed to convey water from a roof.", 
+            "link": "/wiki/Gargoyle", 
+            "name": "Gargoyle"
+        }, 
+        {
+            "def": "Brickwork constructed of soft bricks rubbed to achieve a fine smooth finish with narrow joints between courses.", 
+            "link": null, 
+            "name": "Gauged brickwork (also rubbed brickwork) "
+        }, 
+        {
+            "def": "A freestanding pavilion structure often found in parks, gardens and public areas.", 
+            "link": "/wiki/Gazebo", 
+            "name": "Gazebo"
+        }, 
+        {
+            "def": "(Greek: \u03b3\u03b5\u1fd6\u03c3\u03bf\u03bd \u2013 often interchangeable with cornice) the part of the entablature that projects outward from the top of the frieze in the Doric order and from the top of the frieze course of the Ionic and Corinthian orders; it forms the outer edge of the roof on the sides of a structure with a sloped roof.", 
+            "link": "/wiki/Geison", 
+            "name": "Geison"
+        }, 
+        {
+            "def": "A structure formed of straight wood or metal members between points (or nodes) on a circular sphere (or part thereof) that are \"pinned\" at each connection point to two or more other members that transfer loads imposed on the structure to the base of the structure. The geometric areas between individual members may support a \"skin\" if the structure is to be enclosed. A \"regular\" geodesic structure have members of equal length but strengths of members may vary depending on location in the geodesic \"grid\".", 
+            "link": "/wiki/Geodesic_Dome", 
+            "name": "Geodesic Dome"
+        }, 
+        {
+            "def": "A type of roof where all sides slope downwards from the ridge to the eaves.", 
+            "link": "/wiki/Hip_roof", 
+            "name": "Hip roof"
+        }, 
+        {
+            "def": "Possibly from an older term \"heifunon\"[38] \u2013 a structural section connecting the main portion of a building with its projecting \"dependencies\" or wings.", 
+            "link": null, 
+            "name": "Hyphen"
+        }, 
+        {
+            "def": "A row of small figures along the unions of the roofs of Chinese official buildings.", 
+            "link": "/wiki/Imperial_roof_decoration", 
+            "name": "Imperial roof decoration"
+        }, 
+        {
+            "def": "One of the three orders or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a capital with volutes, that flared from the column to meet a rectangular abacus with carved ovolo moulding, at the intersection with the horizontal beam that they carried.", 
+            "link": "/wiki/Ionic_order", 
+            "name": "Ionic order"
+        }, 
+        {
+            "def": "A raised surface, platform or terrace upon which an Indian temple is placed.", 
+            "link": "/wiki/Jagati_(temple)", 
+            "name": "Jagati"
+        }, 
+        {
+            "def": "A building technique used in medieval timber frame buildings in which an upper floor projects beyond the dimensions of the floor below.", 
+            "link": "/wiki/Jettying", 
+            "name": "Jettying"
+        }, 
+        {
+            "def": "The architectural piece at the crown of a vault or arch and marks its apex, locking the other pieces into position.", 
+            "link": "/wiki/Keystone_(architecture)", 
+            "name": "Keystone"
+        }, 
+        {
+            "def": "Latin name in architecture for paneled or coffered ceiling, soffit, or vault adorned with a pattern of recessed panels.[39]", 
+            "link": null, 
+            "name": "Lacunar"
+        }, 
+        {
+            "def": "An ornamental, lattice framework consisting of small strips in a criss-crossed pattern.", 
+            "link": "/wiki/Latticework", 
+            "name": "Latticework"
+        }, 
+        {
+            "def": "The opening(s) in a window between mullions and muntins through which light enters an interior space. A 6:6 window is a window that has six lights in the upper sash and six in the lower sash.", 
+            "link": "/wiki/Light", 
+            "name": "Light"
+        }, 
+        {
+            "def": "A conductive bar(s) of copper or zinc coated steel mounted on the ridge or a roof or on the parapet of a building connected to a large capacity conductor, usually copper, routed to a ground rod(s) driven into the earth for the purpose of safely directing electrical charges caused by a lightning strike to the ground to avoid damage or fire to the structure.", 
+            "link": "/wiki/Lightning_Rod", 
+            "name": "Lightning Rod"
+        }, 
+        {
+            "def": "A horizontal block that spans the space between two supports usually over an opening such as a window or door.", 
+            "link": "/wiki/Lintel_(architecture)", 
+            "name": "Lintel"
+        }, 
+        {
+            "def": "An architectural niche that houses a body, as in a catacomb, hypogeum, mausoleum or other place of entombment.", 
+            "link": "/wiki/Loculus_(architecture)", 
+            "name": "Loculus"
+        }, 
+        {
+            "def": "A gallery formed by a colonnade open on one or more sides. The space is often located on an upper floor of a building overlooking an open court or garden.", 
+            "link": "/wiki/Loggia", 
+            "name": "Loggia"
+        }, 
+        {
+            "def": "A half-moon shaped space, either masonry or void.", 
+            "link": "/wiki/Lunette", 
+            "name": "Lunette"
+        }, 
+        {
+            "def": "In Indian architecture, a pillared outdoor hall or pavilion for public rituals.", 
+            "link": "/wiki/Mandapa", 
+            "name": "Mandapa"
+        }, 
+        {
+            "def": "In Islamic architecture, the sanctuary or praying-chamber in a mosque, sometimes enclosed with a screen of lattice-work; occasionally, a similar enclosure round a tomb.", 
+            "link": "/wiki/Maqsurah", 
+            "name": "Maqsurah (maqsura) "
+        }, 
+        {
+            "def": "(French roof) A curb hip roof in which each face has two slopes, the lower one steeper than the upper; from the French mansarde after the accomplished 17th-century French architect noted for using (not inventing) this style, Fran\u00e7ois Mansart, d. 1666.", 
+            "link": "/wiki/Mansard_roof", 
+            "name": "Mansard roof"
+        }, 
+        {
+            "def": "A stone lintel, usually carved, with a marriage date.", 
+            "link": "/wiki/Marriage_stone", 
+            "name": "Marriage stone"
+        }, 
+        {
+            "def": "A mascaron ornament is a face, usually human, sometimes frightening or chimeric, used as a decorative element.", 
+            "link": "/wiki/Mascaron_(architecture)", 
+            "name": "Mascaron"
+        }, 
+        {
+            "def": "In Islamic architecture, a semicircular niche in the wall of a mosque that indicates the direction of prayer.", 
+            "link": "/wiki/Mihrab", 
+            "name": "Mihrab"
+        }, 
+        {
+            "def": "In Islamic architecture, a tall spire with a conical or onion-shaped crown, on or near a mosque, that is used by the imam to give the prayer call.", 
+            "link": "/wiki/Minaret", 
+            "name": "Minaret"
+        }, 
+        {
+            "def": "Enriched block or horizontal bracket generally found under the cornice and above the bedmold of the Corinthian entablature. It is probably so called because of its arrangement in regulated distances.[40]", 
+            "link": "/wiki/Modillion", 
+            "name": "Modillion"
+        }, 
+        {
+            "def": "Decorative finishing strip.", 
+            "link": "/wiki/Molding_(decorative)", 
+            "name": "Molding"
+        }, 
+        {
+            "def": "Interval of the intercolumniation of the Doric column, which is observed by the intervention of one triglyph only between the triglyphs which come over the axes of the columns. This is the usual arrangement, but in the Propylaea at Athens there are two triglyphs over the central intercolumniation, in order to give increased width to the roadway, up which chariots and beasts of sacrifice ascended.[41]", 
+            "link": null, 
+            "name": "Monotriglyph"
+        }, 
+        {
+            "def": "Vertical bar of wood, metal or stone which divides a window into two or more parts.", 
+            "link": "/wiki/Mullion", 
+            "name": "Mullion"
+        }, 
+        {
+            "def": "Type of decorative corbel used in Islamic architecture that in some circumstances, resembles stalactites.", 
+            "link": "/wiki/Muqarnas", 
+            "name": "Muqarnas"
+        }, 
+        {
+            "def": "Rectangular block under the soffit of the cornice of the Greek Doric temple, which is studded with guttae. It is supposed to represent the piece of timber through which the wooden pegs were driven in order to hold the rafter in position, and it follows the sloping rake of the roof. In the Roman Doric order the mutule was horizontal, with sometimes a crowning fillet, so that it virtually fulfilled the purpose of the modillion in the Corinthian cornice.[42]", 
+            "link": null, 
+            "name": "Mutule"
+        }, 
+        {
+            "def": "An enclosed passage between the main entrance and the nave of a church.", 
+            "link": "/wiki/Narthex", 
+            "name": "Narthex"
+        }, 
+        {
+            "def": "The main body of a church where the congregants are usually seated. It provides the central approach to the high altar.", 
+            "link": "/wiki/Nave", 
+            "name": "Nave"
+        }, 
+        {
+            "def": "The central supporting pillar of a spiral staircase. It can also refer to an upright post that supports the handrail of a stair railing and forms the lower, upper or an intermediate terminus of a stair railing usually at a landing.", 
+            "link": "/wiki/Newel", 
+            "name": "Newel"
+        }, 
+        {
+            "def": "In classical architecture is an exedra or an apse that has been reduced in size, retaining the half-dome heading usual for an apse.", 
+            "link": "/wiki/Niche_(architecture)", 
+            "name": "Niche"
+        }, 
+        {
+            "def": "A circular opening in the center of a dome such as the one in the roof of the Pantheon in Rome or in a wall.", 
+            "link": "/wiki/Oculus", 
+            "name": "Oculus"
+        }, 
+        {
+            "def": "Arrow slits in the walls of medieval fortifications, but more strictly applied to the round hole or circle with which the openings terminate. The same term is applied to the small circles inserted in the tracery-head of the windows of the Decorated and Perpendicular periods, sometimes varied with trefoils and quatrefoils.[43]", 
+            "link": null, 
+            "name": "Oillets"
+        }, 
+        {
+            "def": "A dome whose shape resembles an onion.", 
+            "link": "/wiki/Onion_dome", 
+            "name": "Onion dome"
+        }, 
+        {
+            "def": "An order refers to each of a series of mouldings most often found in Romanesque and Gothic arches.", 
+            "link": "/wiki/Order_(mouldings)", 
+            "name": "Order"
+        }, 
+        {
+            "def": "(Greek: \u1f40\u03c1\u03b8\u03bf\u03c3\u03c4\u03ac\u03c4\u03b7\u03c2, standing upright) \u2013 Greek architecture term for the lowest course of masonry of the external walls of the naos or cella, consisting of vertical slabs of stone or marble equal in height to two or three of the horizontal courses which constitute the inner part of the wall.[44]", 
+            "link": "/wiki/Orthostates", 
+            "name": "Orthostates"
+        }, 
+        {
+            "def": "(Greek: \u1f43\u03c1\u03b8\u03bf\u03c2, straight, and \u03c3\u03c4\u1fe6\u03bb\u03bf\u03c2, a column) \u2013 a range of columns placed in a straight row, as for instance those of the portico or flanks of a classic temple.[45]", 
+            "link": null, 
+            "name": "Orthostyle"
+        }, 
+        {
+            "def": "A low wall built up above the level of a roof, to hide the roof or to provide protection against falling, and similar structures associated with balconies, bridges etc. [46]", 
+            "link": "/wiki/Parapet", 
+            "name": "Parapet"
+        }, 
+        {
+            "def": "Screen or railing used to enclose a chantry, tomb or chapel, in a church, and for the space thus enclosed.[47]", 
+            "link": null, 
+            "name": "Parclose"
+        }, 
+        {
+            "def": "A free standing structure near the main building or an ending structure on building wings.", 
+            "link": "/wiki/Pavilion", 
+            "name": "Pavilion"
+        }, 
+        {
+            "def": "The base or support on which a statue, obelisk, or column is mounted. A plinth is a lower terminus of the face trim on a door that is thicker and often wider than the trim which it augments.", 
+            "link": "/wiki/Pedestal", 
+            "name": "Pedestal (also Plinth) "
+        }, 
+        {
+            "def": "(Gr. \u1f00\u03b5\u03c4\u03cc\u03c2, Lat. fastigium, Fr. ponton), in classic architecture the triangular-shaped portion of the wali above the cornice which formed the termination of the roof behind it. The projecting mouldings of the cornice which surround it enclose the tympanum, which is sometimes decorated with sculpture.", 
+            "link": "/wiki/Pediment", 
+            "name": "Pediment"
+        }, 
+        {
+            "def": "A framework placed above a window.", 
+            "link": "/wiki/Pelmet", 
+            "name": "Pelmet"
+        }, 
+        {
+            "def": "Three-dimensional spandrels supporting the weight of a dome over a square or rectangular base.", 
+            "link": "/wiki/Pendentive", 
+            "name": "Pendentive"
+        }, 
+        {
+            "def": "A temple or other structure surrounded on all sides by columns forming a continuous portico at the distance of one or two intercolumniations from the walls of the naos or cella. Almost all the Greek temples were peripteral, whether Doric, Ionic, or Corinthian.", 
+            "link": "/wiki/Peripteros", 
+            "name": "Peripteral"
+        }, 
+        {
+            "def": "A building or columned arcade around a fountain.", 
+            "link": "/wiki/Phiale_(building)", 
+            "name": "Phiale"
+        }, 
+        {
+            "def": "The principal floor of a large house, built in the style of renaissance architecture.", 
+            "link": "/wiki/Piano_nobile", 
+            "name": "Piano nobile"
+        }, 
+        {
+            "def": "An upright support for a superstructure, such as an arch or bridge.", 
+            "link": "/wiki/Pier_(architecture)", 
+            "name": "Pier"
+        }, 
+        {
+            "def": "A slightly-projecting column built into or applied to the face of a wall.", 
+            "link": "/wiki/Pilaster", 
+            "name": "Pilaster"
+        }, 
+        {
+            "def": "Building element sometimes used in the same sense as a soffit, but more correctly applied to the soffit of the corona in a cornice.[48]", 
+            "link": null, 
+            "name": "Planceer or Planchier "
+        }, 
+        {
+            "def": "A steel girder formed from a vertical center web of steel plate with steel angles forming the top and bottom flanges welded, bolted or riveted to the web. Some deep plate girders also may have vertical stiffeners (angles) attached to the web to resist crippling (horizontal failure) of the web.", 
+            "link": "/w/index.php?title=Plate_Girder&action=edit&redlink=1", 
+            "name": "Plate Girder"
+        }, 
+        {
+            "def": "The base or platform upon which a column, pedestal, statue, monument or structure rests. A plinth is a lower terminus of the face trim on a door that is thicker and often wider than the trim which it augments", 
+            "link": "/wiki/Plinth", 
+            "name": "Plinth"
+        }, 
+        {
+            "def": "Finials or other ornaments which terminate the tops of bench ends, either to pews or stalls. They are sometimes small human heads, sometimes richly carved images, knots of foliage or finials, and sometimes fleurs-de-lis simply cut out of the thickness of the bench end and chamfered. The term is probably derived from the French poupee doll or puppet used also in this sense, or from the flower, from a resemblance in shape.[49]", 
+            "link": "/wiki/Poppyhead_(carving)", 
+            "name": "Poppyheads"
+        }, 
+        {
+            "def": "A porch- or portico-like structure at a main or secondary entrance to a building through which a horse and carriage (or motor vehicle) can pass in order for the occupants to alight under cover, protected from the weather.", 
+            "link": "/wiki/Porte-coch%C3%A8re", 
+            "name": "Porte-coch\u00e8re"
+        }, 
+        {
+            "def": "A series of columns or arches in front of a building, generally as a covered walkway.", 
+            "link": "/wiki/Portico", 
+            "name": "Portico"
+        }, 
+        {
+            "def": "Old architectural name given sometimes to the queen posts of a roof, and sometimes to the filling in quarters in framing.[50]", 
+            "link": null, 
+            "name": "Prick post"
+        }, 
+        {
+            "def": "Free standing columns that are widely spaced apart in a row. The term is often used as an adjective when referring to a portico which projects from the main structure.", 
+            "link": "/wiki/Prostyle", 
+            "name": "Prostyle"
+        }, 
+        {
+            "def": "A temple which is like the dipteral temple except for omitting the inner row of columns.", 
+            "link": "/wiki/Pseudodipteral", 
+            "name": "Pseudodipteral"
+        }, 
+        {
+            "def": "Temple in which the columns surrounding the naos have had walls built between them, so that they become engaged columns, as in the great temple at Agrigentum. In Roman temples, in order to increase the size of the celia, the columns on either side and at the rear became engaged columns, the portico only having isolated columns.[51]", 
+            "link": null, 
+            "name": "Pseudo-peripteral"
+        }, 
+        {
+            "def": "In Classical architecture, the enclosed space of a portico, peristyle, or stoa, generally behind a screen of columns.", 
+            "link": null, 
+            "name": "Pteroma"
+        }, 
+        {
+            "def": "Term given by Vitruvius to the intercolumniation between the columns of a temple, when this was equal to one and a half diameters.[52]", 
+            "link": null, 
+            "name": "Pycnostyle"
+        }, 
+        {
+            "def": "Also known as a quadriportico \u2013 a four-sided portico. The closest modern parallel would be a colonnaded quadrangle.", 
+            "link": null, 
+            "name": "Quadriporticus"
+        }, 
+        {
+            "def": "The cornerstones of brick or stone walls. Quoins are also common in some brickwork corners that are alternately recessed and expressed.", 
+            "link": "/wiki/Quoin_(architecture)", 
+            "name": "Quoin"
+        }, 
+        {
+            "def": "The diagonal outside facing edge of a gable, sometimes called a raking cornice or a sloping cornice. Rake is equivalent to slope which is the ratio of the rise to the run of the roof.", 
+            "link": "/wiki/Raking_cornice", 
+            "name": "Rake"
+        }, 
+        {
+            "def": "Vault of the internal hood of a doorway or window to which a splay has been given on the reveal, sometimes the vaulting surface is terminated by a small rib known as the scoinson rib, and a further development is given by angle shafts carrying this rib, known as scoinson shafts.[53]", 
+            "link": null, 
+            "name": "Rear vault"
+        }, 
+        {
+            "def": "Receding edge of a flat face. On a flat signboard, for example, the return is the edge which makes up the board's depth.", 
+            "link": null, 
+            "name": "Return"
+        }, 
+        {
+            "def": "An entrance door for excluding drafts from an interior of a building. A revolving door typically consists of three or four doors that hang on a center shaft and rotate around a vertical axis within a round enclosure.", 
+            "link": null, 
+            "name": "Revolving door"
+        }, 
+        {
+            "def": "The intersection of two or three barrel vaults.", 
+            "link": "/wiki/Rib_vault", 
+            "name": "Rib vault"
+        }, 
+        {
+            "def": "A structural member that runs the length of the ridge (high point) on a sloped roof to which the upper ends of rafters are attached.", 
+            "link": "/w/index.php?title=Ridge_board&action=edit&redlink=1", 
+            "name": "Ridge board"
+        }, 
+        {
+            "def": "The structure that tops a pyramid in monumental Mesoamerican architecture (also common as a decorative embellishment on the ridge of metal roofs of some domestic Gothic-style architecture in America in the 19th century).", 
+            "link": "/wiki/Roof_comb", 
+            "name": "Roof comb"
+        }, 
+        {
+            "def": "A large and high circular hall or room in a building, usually but not always, surmounted by a dome.", 
+            "link": "/wiki/Rotunda_(architecture)", 
+            "name": "Rotunda"
+        }, 
+        {
+            "def": "The horizontal and vertical frame that encloses the glazing of a window. A sash may be fixed or operable and may be of several different types depending on operation (i.e. casement, single or double hung, awning, hopper or sliding).", 
+            "link": "/wiki/Sash", 
+            "name": "Sash"
+        }, 
+        {
+            "def": "The passage at one end of the Great hall of an English medieval house or castle, and separated from it by the spere.", 
+            "link": "/wiki/Great_hall", 
+            "name": "Screens passage"
+        }, 
+        {
+            "def": "Girder or main \"summer beam\" of a floor: if supported on two storey posts and open below, also called a \"bress\" or \"breast-summer\". Often found at the centerline of the house to support one end of a joist, and to bear the weight of the structure above.[54]", 
+            "link": null, 
+            "name": "Sommer or Summer "
+        }, 
+        {
+            "def": "The space between two arches or between an arch and a rectangular enclosure.\u00a0\u00a0In a building facade, the space between the top of the window in one story and the sill of the window in the story above.", 
+            "link": "/wiki/Spandrel", 
+            "name": "Spandrel"
+        }, 
+        {
+            "def": "The fixed structure between the great hall and the screens passage in an English medieval timber house.", 
+            "link": null, 
+            "name": "Spere"
+        }, 
+        {
+            "def": "A tapering conical or pyramidal structure on the top of a building.", 
+            "link": "/wiki/Spire", 
+            "name": "Spire"
+        }, 
+        {
+            "def": "The lowest voussoir on each side of an arch.", 
+            "link": "/wiki/Springer_(architecture)", 
+            "name": "Springer"
+        }, 
+        {
+            "def": "A piece of construction used for filling in the upper angles of a square room so as to form a proper base to receive an octagonal or spherical dome.", 
+            "link": "/wiki/Squinch", 
+            "name": "Squinch"
+        }, 
+        {
+            "def": "An opening, often arched, through an internal wall of a church providing an oblique view of the altar.", 
+            "link": "/wiki/Hagioscope", 
+            "name": "Squint"
+        }, 
+        {
+            "def": "A design or figure commonly used in architectural ornaments and design patterns, including art nouveau.", 
+            "link": "/wiki/Sunburst", 
+            "name": "Sunburst"
+        }, 
+        {
+            "def": "in the classical orders, this describes columns rather thickly set, with an intercolumniation to which two diameters are assigned.[55]", 
+            "link": null, 
+            "name": "Systyle"
+        }, 
+        {
+            "def": "Is the method of creating structures using heavy timbers jointed by pegged Mortise and tenon joints.", 
+            "link": "/wiki/Timber_framing", 
+            "name": "Timber framing"
+        }, 
+        {
+            "def": "An arch pointed at the top formed by voussoirs whose inside radius is greater than one-half the span of the arch.", 
+            "link": "/w/index.php?title=Trabeated_Arch&action=edit&redlink=1", 
+            "name": "Trabeated Arch"
+        }, 
+        {
+            "def": "The stonework elements that support the glass in a Gothic window.", 
+            "link": "/wiki/Tracery", 
+            "name": "Tracery"
+        }, 
+        {
+            "def": "Window or element, fixed or operable, above a door but within its vertical frame.", 
+            "link": null, 
+            "name": "Transom"
+        }, 
+        {
+            "def": "A structural component made of straight wood or metal members, usually in a triangular pattern, with \"pinned\" connections at the top and bottom chords and which is used to support structural loads, as those on a floor, roof or bridge.", 
+            "link": "/wiki/Truss", 
+            "name": "Truss"
+        }, 
+        {
+            "def": "A small tower that projects vertically from the wall of a building such as a medieval castle.", 
+            "link": "/wiki/Turret", 
+            "name": "Turret"
+        }, 
+        {
+            "def": "(Greek \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03bf\u03bd, from \u03c4\u03cd\u03c0\u03c4\u03b5\u03b9\u03bd, to strike) the triangular space enclosed between the horizontal cornice of the entablature and the sloping cornice of the pediment. Though sometimes left plain, it is often decorated.", 
+            "link": "/wiki/Tympanum_(architecture)", 
+            "name": "Tympanum"
+        }, 
+        {
+            "def": "Traditionally, a cellar or storage room. In modern usage, a ground-level area that is relatively open to the sides, but covered by the building above.", 
+            "link": "/wiki/Undercroft", 
+            "name": "Undercroft"
+        }, 
+        {
+            "def": "A small, vertical space within a tall building which permits ventilation of the building.", 
+            "link": "/wiki/Ventilation_shaft", 
+            "name": "Ventilation shaft"
+        }, 
+        {
+            "def": "A rectilinear truss usually fabricated of steel or concrete with horizontal top and bottom chords and vertical web members (no diagonals) in which the loads imposed on it are transferred to the supports through bending forces resisted in its connections.", 
+            "link": "/w/index.php?title=Vierendeel_Truss&action=edit&redlink=1", 
+            "name": "Vierendeel Truss"
+        }, 
+        {
+            "def": "A spiral, scroll-like ornament that forms the basis of the Ionic order.", 
+            "link": "/wiki/Volute", 
+            "name": "Volute"
+        }, 
+        {
+            "def": "A wedge-shaped or tapered stone between the springer and the keystone used to construct an arch.", 
+            "link": "/wiki/Voussoir", 
+            "name": "Voussoir"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A lateral part or projection of a building or structure such as a wing wall.", 
+            "link": null, 
+            "name": "Wing"
+        }
+    ]
+}
