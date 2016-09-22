@@ -8,12 +8,18 @@ class QuotesSpider(scrapy.Spider):
     name = "wiki"
 
     start_urls = [
-
-
-
-    ]
-
-    """
+        'https://en.wikipedia.org/wiki/Glossary_of_diabetes',
+        'https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes',
+        'https://en.wikipedia.org/wiki/List_of_medical_abbreviations',
+        'https://en.wikipedia.org/wiki/Glossary_of_medical_terms_related_to_communications_disorders',
+        'https://en.wikipedia.org/wiki/Glossary_of_magic_(illusion)',
+        'https://en.wikipedia.org/wiki/Glossary_of_professional_wrestling_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_water_polo',
+        'https://en.wikipedia.org/wiki/Glossary_of_psychiatry',
+        'https://en.wikipedia.org/wiki/Glossary_of_clinical_research',
+        'https://en.wikipedia.org/wiki/Index_of_articles_related_to_motion_pictures',
+        'https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations',
+        'https://en.wikipedia.org/wiki/Glossary_of_nautical_terms',
         'https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures',
         'https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics',
         'https://en.wikipedia.org/wiki/Glossary_of_arithmetic_and_diophantine_geometry',
@@ -127,21 +133,8 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_table_tennis',
         'https://en.wikipedia.org/wiki/Glossary_of_tennis_terms',
         'https://en.wikipedia.org/wiki/Volleyball_jargon',
-        'https://en.wikipedia.org/wiki/Glossary_of_water_polo',
-        'https://en.wikipedia.org/wiki/Glossary_of_professional_wrestling_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_magic_(illusion)',
-        'https://en.wikipedia.org/wiki/Glossary_of_medical_terms_related_to_communications_disorders',
-        'https://en.wikipedia.org/wiki/Glossary_of_diabetes',
-        'https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes',
-        'https://en.wikipedia.org/wiki/List_of_medical_abbreviations',
-        'https://en.wikipedia.org/wiki/Glossary_of_psychiatry',
-        'https://en.wikipedia.org/wiki/Glossary_of_clinical_research',
-        'https://en.wikipedia.org/wiki/Index_of_articles_related_to_motion_pictures',
-        'https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations',
-        'https://en.wikipedia.org/wiki/Glossary_of_nautical_terms',
+    ]
 
-
-    """
 
     def is_in(self, url, list_all):
         for i in list_all:
@@ -168,6 +161,10 @@ class QuotesSpider(scrapy.Spider):
         ff = 0
         ggg = 0
 
+
+        words = []
+        definitions = []
+
         if self.is_in(response.url, [
             "Architectural_glossary",
             "Glossary_of_chess",
@@ -192,6 +189,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_graph_theory",
             "Glossary_of_category_theory",
             "Glossary_of_arithmetic_and_diophantine_geometry",
+            "Glossary_of_diabetes",
 
         ]):
 
@@ -206,6 +204,7 @@ class QuotesSpider(scrapy.Spider):
         elif self.is_in(response.url, [
             "Glossary_of_dance_moves",
             "Heideggerian_terminology",
+            "Glossary_of_psychiatry",
 
         ]):
             if "Heideggerian_terminology" in response.url:
@@ -282,6 +281,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_order_theory",
             "Glossary_of_cryptographic_keys",
             "Glossary_of_areas_of_mathematics",
+            "Glossary_of_military_abbreviations",
 
         ]):
             rule_name_main = './b[1]'
@@ -360,6 +360,8 @@ class QuotesSpider(scrapy.Spider):
         elif self.is_in(response.url, [
             "Glossary_of_literary_terms",
             "Glossary_of_aviation",
+            "List_of_medical_abbreviations",
+            "List_of_medical_roots,_suffixes_and_prefixes",
         ]):
             rule_name_main = './child::td[1]'
             rule_name_sub = '.'
@@ -390,6 +392,17 @@ class QuotesSpider(scrapy.Spider):
 
             rule_def_main = 'dl'
             rule_def_sub = './dd'
+
+            type_of_algo = 0
+
+        elif self.is_in(response.url, [
+            "Glossary_of_clinical_research",
+        ]):
+            rule_name_main = '//ul'
+            rule_name_sub = './/b[1]'
+
+            rule_def_main = 'dl'
+            rule_def_sub = '.'
 
             type_of_algo = 0
 
@@ -473,12 +486,19 @@ class QuotesSpider(scrapy.Spider):
 
             rule_word = '//tr'
             type_of_algo = 1
+
+        elif "Index_of_articles_related_to_motion_pictures" in response.url:
+            type_of_algo = -1
+
+            for item in response.xpath('//div[@class="mw-content-ltr"][1]//a'):
+                if len(''.join(item.xpath(".//text()").extract())) > 2:
+                    words.append((''.join(item.xpath(".//text()").extract()), item.xpath("./@href").extract_first()))
+                    definitions.append("")
+
         else:
             print '\033[91m' + response.url + '\033[0m'
             return
 
-        words = []
-        definitions = []
 
         if type_of_algo == 0:
             ruling = rule_name_main + "[following-sibling::*[1][self::" + rule_def_main + "]]"
@@ -562,6 +582,10 @@ class QuotesSpider(scrapy.Spider):
 
         if "Computing_terminology" in file_name:
             file_name = "Computing_terminology"
+
+        if "List_of_medical_roots" in file_name:
+            file_name = "List_of_medical_roots"
+
 
         file = open(file_name + ".json", 'w')
         file.write(result_json)
