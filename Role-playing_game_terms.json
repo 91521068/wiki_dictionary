@@ -1,0 +1,242 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Role-playing_game_terms", 
+    "words": [
+        {
+            "def": "Adventure: A single or linked set of games.", 
+            "link": "/wiki/Adventure_(role-playing_games)", 
+            "name": "Adventure"
+        }, 
+        {
+            "def": "AoE: Area of Effect", 
+            "link": "/wiki/Glossary_of_video_game_terms#Area_of_effect", 
+            "name": "AoE"
+        }, 
+        {
+            "def": "Campaign: A series of adventures.", 
+            "link": "/wiki/Campaign_(role-playing_games)", 
+            "name": "Campaign"
+        }, 
+        {
+            "def": "Character: A fictional character in a role-playing game; a player character or non-player character.", 
+            "link": "/wiki/Player_character", 
+            "name": "Character"
+        }, 
+        {
+            "def": "Character sheet: A record of a player character in a role-playing game, including whatever details, notes, game statistics, and background information a player would need during a play session.", 
+            "link": "/wiki/Character_sheet", 
+            "name": "Character sheet"
+        }, 
+        {
+            "def": "Character creation: The method used to create a character, especially a player character.", 
+            "link": "/wiki/Character_creation", 
+            "name": "Character creation"
+        }, 
+        {
+            "def": "Critical: A type of result associated with a strong outcome, especially a critical hit or critical failure (fumble). Often related to unlikely die results, as a natural 1 or 20, doubles, and so forth.", 
+            "link": null, 
+            "name": "Critical"
+        }, 
+        {
+            "def": "Fumble: An unforced error when attempting a difficult task. Also known as a Botch.", 
+            "link": null, 
+            "name": "FumbleBotch."
+        }, 
+        {
+            "def": "Game master: The person who runs a role-playing game and arbitrates how actions are resolved and narrated. Abbreviated GM. In many games, specialized terms are used, as such Dungeon Master for someone running Dungeons & Dragons.", 
+            "link": "/wiki/Game_master", 
+            "name": "Game master"
+        }, 
+        {
+            "def": "Gamemaster's screen: a foldout cardboard-made accessory, used by the game master to hide from the players' eyes any information related to the adventure they are playing. Abbreviated GM screen (or DM screen when talking about Dungeons & Dragons gamemaster's screens).", 
+            "link": "/wiki/Gamemaster%27s_screen", 
+            "name": "Gamemaster's screen"
+        }, 
+        {
+            "def": "Initiative : The determination of who goes first and in what order declared actions are carried out.", 
+            "link": "/wiki/Initiative_(role-playing_games)", 
+            "name": "Initiative"
+        }, 
+        {
+            "def": "Metagaming: Using out-of-character knowledge to solve in-character problems, or to explain in-character behaviour.", 
+            "link": "/wiki/Metagaming_(role-playing_games)", 
+            "name": "Metagaming"
+        }, 
+        {
+            "def": "Modifier: A number added to or subtracted from a die roll.", 
+            "link": null, 
+            "name": "Modifier"
+        }, 
+        {
+            "def": "Natural (roll): The number actually on a die, such as a natural 1 or a natural 20, indicating the die's face shows a 1 or a 20.", 
+            "link": null, 
+            "name": "Natural (roll)"
+        }, 
+        {
+            "def": "Saving throw: A game mechanic in which dice are used to avoid some kind of negative effect on a character.", 
+            "link": "/wiki/Saving_throw", 
+            "name": "Saving throw"
+        }, 
+        {
+            "def": "Session: A single meeting of a role-playing group.", 
+            "link": null, 
+            "name": "Session"
+        }, 
+        {
+            "def": "Setting: The fictional world in which the game takes place.", 
+            "link": "/wiki/Campaign_setting", 
+            "name": "Setting"
+        }, 
+        {
+            "def": "Story guide: Also, \u2018\u2019storyteller.\u2019\u2019 The game master of a game with a strong focus on narrative tropes.[1]", 
+            "link": "/wiki/Story_guide", 
+            "name": "Story guide"
+        }, 
+        {
+            "def": "System: The set of game mechanics which make up a game.", 
+            "link": "/wiki/Role-playing_game_system", 
+            "name": "System"
+        }, 
+        {
+            "def": "Troupe system: A system in which the duties of the game master are distributed amongst the players.", 
+            "link": "/wiki/Troupe_system", 
+            "name": "Troupe system"
+        }, 
+        {
+            "def": "Advantage: A positive or useful statistic or trait.", 
+            "link": "/wiki/Advantage_(role-playing_games)", 
+            "name": "Advantage"
+        }, 
+        {
+            "def": "Attributes: Natural, in-born characteristics shared by all characters, such as physical strength or wisdom.", 
+            "link": "/wiki/Attribute_(role-playing_games)", 
+            "name": "Attributes"
+        }, 
+        {
+            "def": "Age: Describes how many years, months, or days old your character is.", 
+            "link": "/wiki/Advantage_(role-playing_games)", 
+            "name": "Age"
+        }, 
+        {
+            "def": "Derived statistic: A secondary characteristic based on a character's attributes (or primary characteristics), including temporary effects like hit points and magic points.", 
+            "link": "/wiki/Derived_statistic", 
+            "name": "Derived statistic"
+        }, 
+        {
+            "def": "Powers: Extraordinary abilities which make a character special, such as flight or telepathy.", 
+            "link": "/wiki/Power_(role-playing_games)", 
+            "name": "Powers"
+        }, 
+        {
+            "def": "Race: A character's species, ethnicity, type, or other description of their physical and cultural heredity. Role-playing games often include fantasy races, mutants, robots and other non-human types.", 
+            "link": "/wiki/Character_race", 
+            "name": "Race"
+        }, 
+        {
+            "def": "Skills: Learned capabilities, such as spoken languages, horse riding or computer hacking.", 
+            "link": "/wiki/Skill_(role-playing_games)", 
+            "name": "Skills"
+        }, 
+        {
+            "def": "Statistic: Any attribute, advantage, disadvantage, power, skill, or other trait. In the plural, statistics refers to the information on a character sheet.", 
+            "link": "/wiki/Statistic_(role-playing_games)", 
+            "name": "Statisticstatistics"
+        }, 
+        {
+            "def": "Crunch: The mechanics of a game.[2]", 
+            "link": "/wiki/Crunch_(games)", 
+            "name": "Crunch"
+        }, 
+        {
+            "def": "Free-form role-playing game: A rules-light style of game that mostly uses social dynamics for its game system.[1]", 
+            "link": null, 
+            "name": "Free-form role-playing game"
+        }, 
+        {
+            "def": "Fluff: The setting and ambiance.[2]", 
+            "link": null, 
+            "name": "Fluff"
+        }, 
+        {
+            "def": "Gamist: A term from GNS theory describing games in which enjoyment is derived from facing and overcoming challenges.", 
+            "link": "/wiki/Gamist", 
+            "name": "Gamist"
+        }, 
+        {
+            "def": "Generic: A System that can support a wide variety of settings.", 
+            "link": "/wiki/Generic_role-playing_game_system", 
+            "name": "Generic"
+        }, 
+        {
+            "def": "Genre: A game that adheres to certain fictional tropes, such as fantasy or science fiction.", 
+            "link": "/wiki/Genre", 
+            "name": "Genre"
+        }, 
+        {
+            "def": "Live-action: A type of role-playing game physically enacted in a troupe acting style.", 
+            "link": "/wiki/Live-action_role-playing_game", 
+            "name": "Live-action"
+        }, 
+        {
+            "def": "Narrativist: A term from GNS theory describing games in which enjoyment is derived from creating a good story.", 
+            "link": "/wiki/Narrativist", 
+            "name": "Narrativist"
+        }, 
+        {
+            "def": "Online: A type of computer game that uses role-playing game style game mechanics and tropes.", 
+            "link": "/wiki/Online_text-based_role-playing_game", 
+            "name": "Online"
+        }, 
+        {
+            "def": "Rules-heavy: A game system with heavily codified mechanics, usually encompassing a wide variety of possible actions in a game. The opposite of rules-lite.", 
+            "link": null, 
+            "name": "Rules-heavy"
+        }, 
+        {
+            "def": "Rules-lite: A game system that uses very general mechanics, usually focused on a subset of possible actions in a game. The opposite of rules-heavy.", 
+            "link": null, 
+            "name": "Rules-lite"
+        }, 
+        {
+            "def": "Simulationist: A term from GNS theory for games in which enjoyment is derived from deep immersion in a new (simulated) world.", 
+            "link": "/wiki/Simulationist", 
+            "name": "Simulationist"
+        }, 
+        {
+            "def": "Blue booking: One or a few of the players describing activities of their characters in written form, outside of the role-playing session, creating a sort of ongoing character history and resolving actions that don\u2019t involve the rest of the group.[1]", 
+            "link": null, 
+            "name": "Blue booking"
+        }, 
+        {
+            "def": "Monty haul: A pun on Monty Hall (the former host of Let's Make A Deal), when equipment, abilities, and other rewards get out of hand.", 
+            "link": null, 
+            "name": "Monty haul"
+        }, 
+        {
+            "def": "Munchkin: An immature player, especially one who is selfishly focused on dominating play, often by seeking to circumvent the normal limitations placed on characters.", 
+            "link": "/wiki/Munchkin_(role-playing_games)", 
+            "name": "Munchkin"
+        }, 
+        {
+            "def": "Powergamer : A player focused on system mastery; a min-maxer.[1]", 
+            "link": "/wiki/Powergaming", 
+            "name": "Powergamer"
+        }, 
+        {
+            "def": "Roll-playing: A derisive term for rules-heavy games, occasionally to the point of requiring players to focus on game mechanics at the expense of role-playing.[3]", 
+            "link": null, 
+            "name": "Roll-playing"
+        }, 
+        {
+            "def": "Rules lawyer: A player who strictly adheres to the rules as written, and enforces them among all other players.", 
+            "link": null, 
+            "name": "Rules lawyer"
+        }, 
+        {
+            "def": "Twink: A player who engages in system mastery with an explicit focus of exploiting powerful abilities. Similar to powergamer.", 
+            "link": "/wiki/Twinking", 
+            "name": "Twink"
+        }
+    ]
+}
