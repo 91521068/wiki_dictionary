@@ -574,7 +574,7 @@
             "name": "Elevated railway, el, or L"
         }, 
         {
-            "def": "A raised pathway on which rail tracks are placed to maintain a shallow gradient when passing over depressions in the terrain. See also cutting.", 
+            "def": "A bank, usually of earth but sometimes of stone, constructed to form a level or minimally graded trackbed for a line of railway needing to pass over a depression in the terrain or other pre-existing surface feature. See also cutting.", 
             "link": "/wiki/Embankment_(transportation)", 
             "name": "Embankment"
         }, 
@@ -939,7 +939,7 @@
             "name": "Light rail"
         }, 
         {
-            "def": "An obsolete method of coupling rail cars, consisting of manually dropping the coupling pin into the drawbar as the cars joined. Extremely hazardous to the brakemen of its day, it was outlawed by the Railroad Safety Appliance Act of 1893.", 
+            "def": "An obsolete method of coupling rail cars, consisting of manually dropping the coupling pin into the drawbar as the cars joined. Extremely hazardous to the brakemen of its day, it was outlawed in the United States by the Railroad Safety Appliance Act of 1893.", 
             "link": "/wiki/Link_and_pin", 
             "name": "Link and pin"
         }, 
@@ -989,11 +989,6 @@
             "name": "Milk train"
         }, 
         {
-            "def": "A locomotive manufacturer that was bought by Bombardier and closed[138]", 
-            "link": "/wiki/Montreal_Locomotive_Works", 
-            "name": "Montreal Locomotive Works (MLW)"
-        }, 
-        {
             "def": "An inter-modal car", 
             "link": "/wiki/Modalohr", 
             "name": "Modalohr"
@@ -1024,7 +1019,7 @@
             "name": "Multiple unit (MU)"
         }, 
         {
-            "def": "Railroad track where the rails are spaced less than 1,435\u00a0mm (4\u00a0ft\u00a08\u00a01\u20442\u00a0in) apart.[149] There are many common gauges narrower than standard, amongst them 3\u00a0ft\u00a06\u00a0in (1,067\u00a0mm) widely in Africa and Asia; 3\u00a0ft (914\u00a0mm), which was the most common narrow gauge in the U.S.; 2\u00a0ft\u00a06\u00a0in (762\u00a0mm), used in various locations across Europe, Asia and elsewhwere, South America and Australia, and 2\u00a0ft (610\u00a0mm), which saw widespread use in the UK. Meter gauge 1,000\u00a0mm (3\u00a0ft\u00a03\u00a03\u20448\u00a0in) is also widely used in Asia and Africa. Narrow-gauge lines are often found in mountainous terrain where the cost savings of building a smaller railroad can be considerable. (Historically, the term \"narrow gauge\" was once used in Britain for what is now called standard gauge, as the only other gauge then in common use was the Great Western Railway's 7\u00a0ft (2,134\u00a0mm) broad gauge.)", 
+            "def": "Railroad track where the rails are spaced less than 1,435\u00a0mm (4\u00a0ft\u00a08\u00a01\u20442\u00a0in) apart.[149] There are many common gauges narrower than standard, amongst them 3\u00a0ft\u00a06\u00a0in (1,067\u00a0mm) widely in Africa and Asia; 3\u00a0ft (914\u00a0mm), which was the most common narrow gauge in the U.S.; 2\u00a0ft\u00a06\u00a0in (762\u00a0mm), used in various locations across Europe, Asia and elsewhwere, South America and Australia, and 2\u00a0ft (610\u00a0mm), which saw widespread use in the UK. Meter gauge 1,000\u00a0mm (3\u00a0ft\u00a03\u00a03\u20448\u00a0in) is also widely used in Asia and Africa. Narrow-gauge lines are often found in mountainous terrain where the cost savings of building a smaller railroad can be considerable.", 
             "link": "/wiki/Narrow_gauge_railway", 
             "name": "Narrow gauge"
         }, 

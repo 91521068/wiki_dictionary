@@ -9,11 +9,6 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
-
-
-    ]
-
-    """
         'https://en.wikipedia.org/wiki/Glossary_of_semisimple_groups',
         'https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics',
         'https://en.wikipedia.org/wiki/Glossary_of_ring_theory',
@@ -139,6 +134,10 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/List_of_mathematical_jargon',
         'https://en.wikipedia.org/wiki/List_of_linear_algebra_topics',
         'https://en.wikipedia.org/wiki/Glossary_of_order_theory',
+
+    ]
+
+    """
     """
 
     def is_in(self, url, list_all):
