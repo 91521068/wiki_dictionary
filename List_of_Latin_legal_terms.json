@@ -4,11 +4,6 @@
     "c3": "List_of_Latin_legal_terms", 
     "words": [
         {
-            "def": "", 
-            "link": null, 
-            "name": "\n\n"
-        }, 
-        {
             "def": "An a fortiori argument is an \"argument from a stronger reason\", meaning that because one fact is true, that a second related and included fact must also be true.", 
             "link": null, 
             "name": " a fortiori"
@@ -64,11 +59,6 @@
             "name": "ad coelum"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "ad colligenda bona"
-        }, 
-        {
             "def": "Generally signifies a solution designed for a specific problem or task, non-generalizable, and not intended to be able to be adapted to other purposes.", 
             "link": null, 
             "name": "ad hoc"
@@ -97,11 +87,6 @@
             "def": "Used in tort law. Implies that the reward or penalty ought to correspond to the damage suffered or inflicted.", 
             "link": null, 
             "name": "ad quod damnum"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "ad valorem"
         }, 
         {
             "def": "When an assembly adjourns without setting a date for its next meeting.", 
@@ -144,16 +129,6 @@
             "name": "animus revertendi"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "ante"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "(in) arguendo"
-        }, 
-        {
             "def": "Refers to the idea that one cannot be fairly judged unless the cases for and against them have been heard.", 
             "link": null, 
             "name": "Audi alteram partem"
@@ -162,11 +137,6 @@
             "def": "Implies sincere good intention regardless of outcome.", 
             "link": null, 
             "name": " bona fide"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "bona vacantia"
         }, 
         {
             "def": "Indicates that a settlement to a dispute or issue has been reached, and the issue is now resolved.", 
@@ -202,11 +172,6 @@
             "def": "More commonly rendered in English as \"All other things being equal.\"", 
             "link": null, 
             "name": "Ceteris paribus"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "cogitationis poenam nemo patitur"
         }, 
         {
             "def": "The aggregate of marital property under a community property matrimonial regime.", 
@@ -364,11 +329,6 @@
             "name": "de lege lata"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "delegatus non potest delegare"
-        }, 
-        {
             "def": "Various legal areas concerning small amounts or small degrees.", 
             "link": null, 
             "name": "de minimis"
@@ -419,11 +379,6 @@
             "name": "donatio mortis causa"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "dramatis personae"
-        }, 
-        {
             "def": "Often spoken as \"to give the benefit of the doubt.\"", 
             "link": null, 
             "name": "dubia in meliorem partem interpretari debent"
@@ -444,24 +399,9 @@
             "name": "ejusdem generis"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "eo nomine"
-        }, 
-        {
             "def": "Refers to rights or obligations that are owed towards all.", 
             "link": null, 
             "name": "erga omnes"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "ergo"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "erratum"
         }, 
         {
             "def": "Abbreviation of et alii, meaning \"and others\".", 
@@ -517,11 +457,6 @@
             "def": "If a contract is blatantly and obviously incorrect or illegal, it can be considered void ex facie without any further analysis or arguments.", 
             "link": null, 
             "name": "ex facie"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "ex fida bona"
         }, 
         {
             "def": "Something done voluntarily and with no expectation a legal liability arising therefrom.", 
@@ -814,11 +749,6 @@
             "name": "in personam"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "in pleno"
-        }, 
-        {
             "def": "One who represents themselves in court without the [official] assistance of an attorney.", 
             "link": null, 
             "name": "in prope persona"
@@ -859,19 +789,9 @@
             "name": "in terrorem clause"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "in toto"
-        }, 
-        {
             "def": "Often used in copyright notices. Refers to distinctive markings that identify a piece of intellectual property.", 
             "link": null, 
             "name": "indicia"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "infra"
         }, 
         {
             "def": "An intimation about someone or something, made indirectly or vaguely suggesting the thing being implied. Often used when the implied thing is negative or derogatory.", 
@@ -902,11 +822,6 @@
             "def": "Refers to a gift or other non-sale transfer between living parties. This is in contrast to a will, where the transfer takes effect upon one party's death.", 
             "link": null, 
             "name": "inter vivos"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "intra"
         }, 
         {
             "def": "This term refers to a nation's territorial waters.", 
@@ -1107,11 +1022,6 @@
             "def": "Often used in the context of public announcements of legal proceedings to come. Compare pendente lite (below).", 
             "link": null, 
             "name": "lis pendens"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "locus"
         }, 
         {
             "def": "Shorthand version of Lex locus delcti commissi. The \"scene of the crime\".", 
@@ -1479,24 +1389,9 @@
             "name": "prior tempore potior iure"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "prius quam exaudias ne iudices"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "probatio vincit praesumptionem"
-        }, 
-        {
             "def": "Professional work done for free.", 
             "link": null, 
             "name": "pro bono"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "pro bono publico"
         }, 
         {
             "def": "Things done as formalities.", 
@@ -1564,11 +1459,6 @@
             "name": "quaere"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "quantum"
-        }, 
-        {
             "def": "In contract law, a quasi-contractual remedy that permits partial reasonable payment for an incomplete piece of work (services and/or materials), assessed proportionately, where no price is established when the request is made.[3]\nIn contract law, and in particular the requirement for consideration, if no fixed price is agreed upon for the service and/or materials, then one party would request a reasonable price for the said services and/or materials at the end of the job. A common example would be a plumber requested to fix a leak in the middle of the night.[3]\n", 
             "link": null, 
             "name": "quantum meruit"
@@ -1614,11 +1504,6 @@
             "name": "quoad hoc"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "quod est necessarium est licitum"
-        }, 
-        {
             "def": "King or Queen. In British cases, will see R v Freeman meaning Regina against Freeman. Changes with King or Queen on throne at time.", 
             "link": null, 
             "name": "R"
@@ -1647,11 +1532,6 @@
             "def": "The canon of construction that in a list of items containing a qualifying phrase at the end, the qualifier refers only to the last item in the list.", 
             "link": null, 
             "name": "reddendo singula singulis"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "res"
         }, 
         {
             "def": "Property constructs like airspace and water rights are said to be res communis\u00a0\u2013 that is, a thing common to all, and that could not be the subject of ownership. With airspace, the difficulty has been to identify where the fee simple holder's rights to the heavens end. Water is a bit more defined\u00a0\u2013 it is common until captured.[2]", 

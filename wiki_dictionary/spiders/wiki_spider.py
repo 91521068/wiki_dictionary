@@ -6,8 +6,13 @@ class QuotesSpider(scrapy.Spider):
     name = "wiki"
 
     start_urls = [
-
         'https://en.wikipedia.org/wiki/Outline_of_metalworking',
+        'https://en.wikipedia.org/wiki/Heideggerian_terminology',
+        'https://en.wikipedia.org/wiki/Severe_weather_terminology_(United_States)',
+        'https://en.wikipedia.org/wiki/Glossary_of_wildfire_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_philosophy',
+        'https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)',
         'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
         'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
         'https://en.wikipedia.org/wiki/Category:Computing_terminology',
@@ -124,14 +129,10 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_classical_physics',
         'https://en.wikipedia.org/wiki/Glossary_of_elementary_quantum_mechanics',
         'https://en.wikipedia.org/wiki/Glossary_of_physics',
+
+
         'https://en.wikipedia.org/wiki/Glossary_of_climate_change',
         'https://en.wikipedia.org/wiki/Glossary_of_geology',
-        'https://en.wikipedia.org/wiki/Severe_weather_terminology_(United_States)',
-        'https://en.wikipedia.org/wiki/Glossary_of_wildfire_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_philosophy',
-        'https://en.wikipedia.org/wiki/Heideggerian_terminology',
-        'https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)',
     ]
 
     """
@@ -163,6 +164,8 @@ class QuotesSpider(scrapy.Spider):
 
         ff = 0
         fff = 0
+        ggg = 0
+
         if self.is_in(response.url, [
             "Architectural_glossary",
             "Glossary_of_chess",
@@ -178,6 +181,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_firefighting_equipment",
             "Glossary_of_HVAC_terms",
             "Glossary_of_broadcasting_terms",
+            "Glossary_of_philosophy",
+            "Glossary_of_wildfire_terms",
 
         ]):
 
@@ -191,8 +196,12 @@ class QuotesSpider(scrapy.Spider):
 
         elif self.is_in(response.url, [
             "Glossary_of_dance_moves",
+            "Heideggerian_terminology",
 
         ]):
+            if "Heideggerian_terminology" in response.url:
+                ggg = 1
+
             rule_name_main = '//h3'
             rule_name_sub = './span[@class="mw-headline"]'
 
@@ -249,6 +258,11 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_spirituality_terms",
             "Glossary_of_Hinduism_terms",
             "Glossary_of_Christianity",
+            "Glossary_of_education_terms_",
+            "Glossary_of_chemistry_terms",
+            "Severe_weather_terminology_(United_States)",
+            "Glossary_of_geology",
+            "Glossary_of_climate_change",
 
         ]):
             rule_name_main = './b'
@@ -399,6 +413,9 @@ class QuotesSpider(scrapy.Spider):
 
         if type_of_algo == 0:
             ruling = rule_name_main + "[following-sibling::*[1][self::" + rule_def_main + "]]"
+            if ggg == 1:
+                ruling = rule_name_main + "[following-sibling::" + rule_def_main + "]"
+
             for item in response.xpath(ruling):
                 item2 = item.xpath(rule_name_sub)
                 tt = (''.join(item2.xpath(".//text()").extract()), item2.xpath('./a/@href').extract_first())
@@ -431,11 +448,10 @@ class QuotesSpider(scrapy.Spider):
             word['name'] = words[i][0]
             word['def'] = definitions[i]
             word['link'] = words[i][1]
-            if word['name'] != "" and word['link'] != "" and \
-                    ((word['name'] != None and ("portal" not in word['name'])) or (word['link'] != None and ("Portal" not in word['link']))):
+            if word['name'] != "" and ((word['link'] is not None and word['link'] != "") or word['def'] != ""):
                 words_json_array.append(word)
 
-        result['words'] = words_json_array;
+        result['words'] = words_json_array
         result['c1'] = c1
         result['c2'] = c2
         result['c3'] = response.url.replace("https://en.wikipedia.org/wiki/", "")

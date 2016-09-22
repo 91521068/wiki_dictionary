@@ -664,11 +664,6 @@
             "name": "Long program (LP)"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "An abbreviation for long program."
-        }, 
-        {
             "def": "An edge jump that takes off from the back outside edge.", 
             "link": "/wiki/Loop_jump", 
             "name": "Loop jump (Lo)"

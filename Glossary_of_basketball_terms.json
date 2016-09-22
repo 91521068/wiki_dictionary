@@ -54,16 +54,6 @@
             "name": "backboard\u00a0"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "backcourt"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "backcourt violation"
-        }, 
-        {
             "def": "An offensive play in which a player comes from the low post to set a screen for a player on the perimeter.", 
             "link": null, 
             "name": "back screen"
@@ -132,11 +122,6 @@
             "def": "A screen set directly behind a defender where the player can't see it.", 
             "link": null, 
             "name": "blindside screen"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "block"
         }, 
         {
             "def": "To maintain better rebounding position than an opposing player by widening your stance and arms and using your body as a barrier. Also called \"box out.\"", 
@@ -254,11 +239,6 @@
             "name": "double-double"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "double dribble"
-        }, 
-        {
             "def": "To accumulate 55 points.", 
             "link": null, 
             "name": "double nickel"
@@ -292,11 +272,6 @@
             "def": "(v) To score by putting the ball directly through the basket with one or both hands. (n) A shot made by dunking.", 
             "link": "/wiki/Slam_dunk", 
             "name": "dunk"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "elbow"
         }, 
         {
             "def": "when a quarter ends", 
@@ -772,11 +747,6 @@
             "def": "A three-point field goal", 
             "link": null, 
             "name": "trey"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "three-point play"
         }, 
         {
             "def": "When the ball hits the rim on a certain angle and then circles around it, can go in or out.", 

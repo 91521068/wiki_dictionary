@@ -1,0 +1,842 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_wildfire_terms", 
+    "words": [
+        {
+            "def": "Fuel type consisting of trees having few low branches, making it less susceptible to ignition by low-intensity fires.", 
+            "link": null, 
+            "name": "Aerial canopy"
+        }, 
+        {
+            "def": "Use of aircraft in support of ground resources to combat wildfires, often most effective in initial attack in light fuels.", 
+            "link": "/wiki/Aerial_firefighting", 
+            "name": "Aerial firefighting (or air attack) "
+        }, 
+        {
+            "def": "Delivery of supplies or retardant from the air. Supplies can be dropped by parachute. Retardant is released in a single drop or one or more trails, the size of which is determined by the wind and the volume, speed and altitude of the airtanker (usually no less than 200 feet above the drop zone).", 
+            "link": null, 
+            "name": "Air drop"
+        }, 
+        {
+            "def": "Group tasked with coordinating aerial-based observation, supply, rescue and suppression at a wildfire.", 
+            "link": null, 
+            "name": "Air operations"
+        }, 
+        {
+            "def": "Coordinates air resources for attack of a fire", 
+            "link": null, 
+            "name": "Air tactical group supervisor or air attack"
+        }, 
+        {
+            "def": "An advantageous location, usually a barrier to fire spread, from which to start constructing a fireline. The anchor point is used to minimize the chance of being flanked (or outflanked) by the fire while the line is being constructed.", 
+            "link": null, 
+            "name": "Anchor point"
+        }, 
+        {
+            "def": "Precautionary fire set downwind of main fire for controlled fuel clearing by backing it into the main fire, similar to burnout, below, which occurs adjacent to control line.", 
+            "link": null, 
+            "name": "Backburn"
+        }, 
+        {
+            "def": "A fire set along the inner edge of a fireline to consume the fuel in the path of a wildfire and to change the direction or force of the fire\u2019s convection column.", 
+            "link": null, 
+            "name": "Backfire"
+        }, 
+        {
+            "def": "Collapsible bucket for lifting and moving water and other fire retardant with a helicopter.", 
+            "link": "/wiki/Bambi_bucket", 
+            "name": "Bambi bucket"
+        }, 
+        {
+            "def": "Any obstruction to the spread of fire. Typically an area or strip devoid of combustible fuel.", 
+            "link": null, 
+            "name": "Barrier"
+        }, 
+        {
+            "def": "(1) staging or command center location for fire operations; (2) starting location of a fire; (3) base camp: location for eating, sleeping, etc., near staging or command center.", 
+            "link": null, 
+            "name": "Base"
+        }, 
+        {
+            "def": "Soil heaped on the downhill side of a traversing fireline below a fire, to trap rolling firebrands.", 
+            "link": "/wiki/Berm", 
+            "name": "Berm"
+        }, 
+        {
+            "def": "A condition where no combustible fuels remain between the fireline and the main fire.", 
+            "link": null, 
+            "name": "Blackline"
+        }, 
+        {
+            "def": "A sudden increase in fireline intensity or rate of spread of a fire sufficient to preclude direct control or to upset existing suppression plans. Often accompanied by violent convection and may have other characteristics of a firestorm.", 
+            "link": null, 
+            "name": "Blowup"
+        }, 
+        {
+            "def": "The former name of the National Interagency Fire Center (see below);", 
+            "link": null, 
+            "name": "Boise Interagency Fire Center (BIFC)"
+        }, 
+        {
+            "def": "An area scraped to mineral soil for safe handling of smoldering materials; also, a systematic mop-up of smoldering materials by scraping off embers and placing materials into the bone yard area.[2]", 
+            "link": null, 
+            "name": "Bone yard"
+        }, 
+        {
+            "def": "A small solid hose on a reel connected to a small pump fitted to a water tank on a vehicle. Booster pump also refers to a pump in a relay series for pumping uphill beyond the lift of the previous pump.", 
+            "link": null, 
+            "name": "Booster hose, booster pump, booster reel"
+        }, 
+        {
+            "def": "Rake attachment for cutting or ripping brush and roots out of a fireline.", 
+            "link": null, 
+            "name": "Brush blade"
+        }, 
+        {
+            "def": "Cutting tool used to clear brush, longer than a machete, usually with a heavy, solid, curved blade bolted to the end of an arm's-length handle.", 
+            "link": null, 
+            "name": "Brush hook"
+        }, 
+        {
+            "def": "Small fire truck outfitted for wildland fire. Also called a type-six engine.", 
+            "link": null, 
+            "name": "Brush truck"
+        }, 
+        {
+            "def": "To move to another location. Can refer to anything from moving to another location on a fireline, to an entire crew moving to another fire. Bump back means to return to a previous location. In the \"bump\" system of fireline construction, each firefighter works on a small piece of fireline with his or her tool until a completed portion of line is encountered. Then the call to bump up is heard, and everyone ahead of the caller skips ahead one or more positions, leaving the unfinished fireline for those coming up behind.", 
+            "link": null, 
+            "name": "Bump up"
+        }, 
+        {
+            "def": "A relative measure of fire-control difficulty; doubling the index means twice the effort may be needed to control the fire.", 
+            "link": null, 
+            "name": "Burning index"
+        }, 
+        {
+            "def": "Setting fire inside a control line to consume fuel between the edge of the fire and the control line.", 
+            "link": null, 
+            "name": "Burn out"
+        }, 
+        {
+            "def": "The part of each 24-hour period when fires spread most rapidly; typically from 10:00 AM to sundown.", 
+            "link": null, 
+            "name": "Burning period"
+        }, 
+        {
+            "def": "A bushfire is a wildfire that occurs in the forests, scrubs, woodlands or grasslands of Australia or New Zealand.", 
+            "link": "/wiki/Bushfire", 
+            "name": "Bushfire"
+        }, 
+        {
+            "def": "A standing tree with a broken top which often continues to burn after the main firefront has passed. Candles usually send up a fountain of sparks and burning embers which may travel some distance and be of concern if near the unburnt side of a control line.", 
+            "link": null, 
+            "name": "Candle"
+        }, 
+        {
+            "def": "An area in which specified activities or entry are temporarily restricted to reduce the risk of human-caused fires.", 
+            "link": null, 
+            "name": "Closed area"
+        }, 
+        {
+            "def": "Legal restrictions of specified activities such as smoking, camping, and entry that might cause fires in a given area.", 
+            "link": null, 
+            "name": "Closure"
+        }, 
+        {
+            "def": "A method of controlling a partly dead fire edge by carefully inspecting and feeling with the hand for heat to detect any fire, and lining any live edge.", 
+            "link": null, 
+            "name": "Cold trailing"
+        }, 
+        {
+            "def": "Two or more individual incidents located in the same general area which are assigned to a single incident commander or unified command.", 
+            "link": null, 
+            "name": "Complex"
+        }, 
+        {
+            "def": "The least aggressive wildfire suppression strategy which can be expected to keep the fire within established boundaries of constructed firelines under prevailing conditions.", 
+            "link": null, 
+            "name": "Confine a fire"
+        }, 
+        {
+            "def": "A moderately aggressive wildfire suppression strategy which can be expected to keep the fire within established boundaries of constructed firelines under prevailing conditions.", 
+            "link": null, 
+            "name": "Contain a fire"
+        }, 
+        {
+            "def": "An inclusive term for all constructed or natural barriers and treated (retardant) fire edges used to control a fire.", 
+            "link": null, 
+            "name": "Control line"
+        }, 
+        {
+            "def": "See prescribed burn (Rx burn)", 
+            "link": "/wiki/Controlled_burn", 
+            "name": "Controlled burn"
+        }, 
+        {
+            "def": "A progressive line construction duty involving primarily hotshots and jumpers who build firelines until the end of the operation and then bed down where ever they end up, with no sleeping bag.", 
+            "link": null, 
+            "name": "Coyote tactics"
+        }, 
+        {
+            "def": "Fire burning with a low flame and spreading slowly", 
+            "link": null, 
+            "name": "Creeping fire"
+        }, 
+        {
+            "def": "A fire that advances from top to top of trees or shrubs more or less independently of a surface fire. Crown fires are sometimes classed as running or dependent to distinguish the degree of independence from the surface fire.", 
+            "link": null, 
+            "name": "Crown fire"
+        }, 
+        {
+            "def": "see torching", 
+            "link": null, 
+            "name": "Crown out"
+        }, 
+        {
+            "def": "Unburnt areas around the edges of a brush fire.", 
+            "link": "/wiki/Dead_man_zone", 
+            "name": "Dead man zone"
+        }, 
+        {
+            "def": "Demobilization, or, a crew being removed from working a fire.", 
+            "link": null, 
+            "name": "Demob"
+        }, 
+        {
+            "def": "Any treatment applied directly to burning fuel, such as wetting, smothering, or chemically quenching the fire or by physically separating the burning from the unburned fuel.", 
+            "link": null, 
+            "name": "Direct attack"
+        }, 
+        {
+            "def": "Fireline constructed by the front blade of a bulldozer or any tracked vehicle with a front mounted blade used for exposing mineral soil. Also catline", 
+            "link": null, 
+            "name": "Dozer line"
+        }, 
+        {
+            "def": "Using a suction pump to lift water from below the pump, using a semi-rigid suction hose, typically to fill a portable reservoir that has other suction pumps (to relay) or siphon hoses running downhill to their nozzles.", 
+            "link": "/wiki/Draft_(water)", 
+            "name": "Drafting"
+        }, 
+        {
+            "def": "A hand-carried fire-starting device filled with flammable liquid that is poured across a flaming wick, dropping flaming liquid onto the fuels to be burned.", 
+            "link": "/wiki/Driptorch", 
+            "name": "Drip torch"
+        }, 
+        {
+            "def": "Layer of decaying forest litter consisting of organics such as needles, leaves, plant and tree materials covering the mineral soil. Duff can smolder for days after a fire. Extinguishing smoldering duff is key to successful mop-up operations.", 
+            "link": null, 
+            "name": "Duff"
+        }, 
+        {
+            "def": "When a fire is completely out, with no smoldering or burning areas. (This is different from contained)", 
+            "link": null, 
+            "name": "Dead out"
+        }, 
+        {
+            "def": "Any ground vehicle providing specified levels of pumping, water, and hose capacity but with less than the specified level of personnel.", 
+            "link": "/wiki/Engine", 
+            "name": "Engine"
+        }, 
+        {
+            "def": "A number of personnel trained to respond to incidents using an engine. Typically much smaller than a hand crew.", 
+            "link": null, 
+            "name": "Engine crew"
+        }, 
+        {
+            "def": "An intentionally started fire, ignited by a fire crew, usually in a grassland environment, to escape a dangerous situation.", 
+            "link": "/wiki/Escape_fire", 
+            "name": "Escape fire"
+        }, 
+        {
+            "def": "A fire, which has exceeded or is expected to exceed initial attack capabilities or prescription.", 
+            "link": null, 
+            "name": "Escaped fire"
+        }, 
+        {
+            "def": "Situation in which a fire cannot be controlled by initial attack resources within a reasonable period of time. Committing additional resources within 24 hours after commencing suppression action will usually control the fire.", 
+            "link": null, 
+            "name": "Extended attack"
+        }, 
+        {
+            "def": "The manner in which a fire reacts to the influences of fuel, weather, and topography.", 
+            "link": null, 
+            "name": "Fire behavior"
+        }, 
+        {
+            "def": "Temporary camp established at large fires to provide food, rest, and other necessities to fire crews.", 
+            "link": null, 
+            "name": "Fire camp"
+        }, 
+        {
+            "def": "A scientific discipline/branch of ecology concerned with interactions between abiotic and biotic components of ecosystems, the role of fire as an ecosystem process, and its ecological effects on vegetation, plant communities, soils, wildlife, and landscapes.", 
+            "link": null, 
+            "name": "Fire ecology"
+        }, 
+        {
+            "def": "The boundary of a fire at a given moment.", 
+            "link": null, 
+            "name": "Fire edge"
+        }, 
+        {
+            "def": "The aerated solution created by forcing air into, or entraining air in water containing a foam concentrate by means of suitably designed equipment or by cascading it through the air at a high velocity. Foam reduces combustion by cooling, moistening and excluding oxygen.", 
+            "link": "/wiki/Fire_fighting_foam", 
+            "name": "Fire fighting foam"
+        }, 
+        {
+            "def": "A structure located at a high vantage point to house and protect the person performing the duties of a fire lookout.", 
+            "link": "/wiki/Fire_lookout_tower", 
+            "name": "Fire lookout tower"
+        }, 
+        {
+            "def": "A person that keeps an eye for possible fire starts and conditions. They can work in a fire lookout tower or perform the duty as a role for a fire crew on the fireline.", 
+            "link": "/wiki/Fire_lookout", 
+            "name": "Fire lookout"
+        }, 
+        {
+            "def": "A rake with sharpened teeth instead of blades, for raking a Firebreak.", 
+            "link": "/wiki/Fire_rake", 
+            "name": "Fire rake"
+        }, 
+        {
+            "def": "Any substance (except plain water) that by chemical or physical actions reduces flammability of fuels or slows their rate of combustion. See retardant slurry, AFFF, and foam for examples.", 
+            "link": null, 
+            "name": "Fire retardant"
+        }, 
+        {
+            "def": "An aluminized tent offering protection by means of reflecting radiant heat and providing a volume of breathable air in a fire entrapment situation. Carried as a safety tool, fire shelters are only used in life-threatening situations, as a last resort, as severe burns and asphyxiation often result.", 
+            "link": null, 
+            "name": "Fire shelter"
+        }, 
+        {
+            "def": "Distinctive yellow shirts made of Nomex or other lightweight materials of low combustibility, used as uniform PPE of wildland firefighters, and more recently available in other colors.", 
+            "link": null, 
+            "name": "Fire shirt"
+        }, 
+        {
+            "def": "Australian term for fireroad; a road built specifically for access for fire management purposes.", 
+            "link": "/wiki/Fire_trail", 
+            "name": "Fire trail"
+        }, 
+        {
+            "def": "Weather conditions that affect fire vulnerability, fire behavior and suppression.", 
+            "link": null, 
+            "name": "Fire weather"
+        }, 
+        {
+            "def": "A tornado-like vortex that forms from the stretching of vorticity due to the interaction of air flowing towards and upwards in a fire.", 
+            "link": "/wiki/Fire_whirl", 
+            "name": "Fire whirl"
+        }, 
+        {
+            "def": "A small red booklet carried by U.S. firefighters on the firelines, as a quick reference on various firefighting topics.", 
+            "link": null, 
+            "name": "Fireline handbook"
+        }, 
+        {
+            "def": "The part of a control line that is scraped or dug to mineral soil. Also called fire trail. More generally, working a fire is called being on the fireline. May also refer to a wet line, where water has been used to create a burn boundary in light fuels such as grass.", 
+            "link": null, 
+            "name": "Fireline"
+        }, 
+        {
+            "def": "Extreme fire behavior indicated by widespread in-drafts and a tall column of smoke and flame, where added air increases fire intensity, creating runaway fire growth.", 
+            "link": "/wiki/Firestorm", 
+            "name": "Firestorm"
+        }, 
+        {
+            "def": "A natural or constructed barrier used to stop or check fires that may occur, or to provide a control line from which to work.", 
+            "link": "/wiki/Firebreak", 
+            "name": "Firebreak"
+        }, 
+        {
+            "def": "The parts of a fire\u2019s spread perimeter that grow to the sides then run roughly parallel to the main direction of spread. Separated flank heads are extremely dangerous in steep terrain.", 
+            "link": null, 
+            "name": "Flanks of a fire"
+        }, 
+        {
+            "def": "Any sudden acceleration in rate of spread or intensification of the fire. Unlike blowups, a flare-up is of relatively short duration and does not radically change existing control plans.", 
+            "link": null, 
+            "name": "Flare-up"
+        }, 
+        {
+            "def": "Fuels such as grass, leaves, draped pine needles, fern, tree moss and some kinds of slash, which ignite readily and are consumed rapidly when dry.", 
+            "link": null, 
+            "name": "Flash fuels"
+        }, 
+        {
+            "def": "The mass of combustible materials available for a fire usually expressed as weight of fuel per unit area (e.g., 20 tons per acre).", 
+            "link": null, 
+            "name": "Fuel load"
+        }, 
+        {
+            "def": "Percentage of water content of vegetation, an important factor in rate of spread, ranging from dead-fuel and fine-fuel moisture (FFM), of 10 percent or less, to live-fuel moisture (LFM), of 60 percent or more. FFM can be estimated by weighing calibrated wood sticks.", 
+            "link": null, 
+            "name": "Fuel moisture"
+        }, 
+        {
+            "def": "An identifiable association of fuel elements of distinctive species, form, size, arrangement, or other characteristics that will cause a predictable rate of spread or resistance to control under specified weather conditions.", 
+            "link": null, 
+            "name": "Fuel type"
+        }, 
+        {
+            "def": "A natural or artificial change in fuel characteristics which affect fire behavior so that fires burning into them can be more readily controlled.", 
+            "link": null, 
+            "name": "Fuelbreak"
+        }, 
+        {
+            "def": "Fire that consumes the organic material beneath the surface litter ground, such as peat fire.", 
+            "link": null, 
+            "name": "Ground fire"
+        }, 
+        {
+            "def": "A number of individuals that have been organized and trained and are supervised principally for operational assignments on an incident, typically using hand tools. In the United States, an ordinary hand crew is 20 in number, including supervisors.", 
+            "link": null, 
+            "name": "Hand crew"
+        }, 
+        {
+            "def": "Precautionary controlled and managed fire lit during cooler and wetter weather in order to reduce the available fuel load. Sometimes incorrectly called a backburn", 
+            "link": null, 
+            "name": "Hazard reduction"
+        }, 
+        {
+            "def": "The most rapidly spreading portion of a fire\u2019s perimeter, usually to the leeward or up slope; may have multiple heads if there are separated flanking fires.", 
+            "link": null, 
+            "name": "Head of a fire"
+        }, 
+        {
+            "def": "Fuels of large diameter such as snags, logs, large limb wood, which ignite and are consumed more slowly than flash fuels.", 
+            "link": null, 
+            "name": "Heavy fuels"
+        }, 
+        {
+            "def": "A natural or improved takeoff and landing area intended for temporary or occasional helicopter use, typically in remote areas without other access.", 
+            "link": null, 
+            "name": "Helispot"
+        }, 
+        {
+            "def": "A fire crew trained to use helicopters for initial attack, and to support large fires through bucket drops and the movement of personnel, equipment and supplies. Another primary function of helitack is jumper support and retrieval.", 
+            "link": "/wiki/Helitack", 
+            "name": "Helitack"
+        }, 
+        {
+            "def": "A general term covering all types of hose configurations a person would carry to deploy.", 
+            "link": "/wiki/Hose_pack", 
+            "name": "Hose pack"
+        }, 
+        {
+            "def": "A small pneumatic vacuum generator that removes air from the inside of a fire hose making it smaller and firm, it is therefore easier to pack and takes up less space.", 
+            "link": "/wiki/Hose_Vacuum", 
+            "name": "Hose Vacuum"
+        }, 
+        {
+            "def": "A particularly active part of a fire", 
+            "link": null, 
+            "name": "Hot spot"
+        }, 
+        {
+            "def": "Intensively trained fire crew used primarily in hand line construction, and organized primarily to travel long distances from fire to fire as needed rather than serving only one location.", 
+            "link": "/wiki/Hotshot_crew", 
+            "name": "Hotshot crew"
+        }, 
+        {
+            "def": "System first developed to provide a command structure to manage large wildfires in the United States, now widely used by many emergency management agencies.", 
+            "link": "/wiki/Incident_Command_System", 
+            "name": "Incident Command System (ICS) "
+        }, 
+        {
+            "def": "Water vessel carried on one's back, either a rigid can or collapsible bag, with a hose and telescoping squirt pump. Contains five US gallons, and is used on hot spots and during mop-up. Also called a bladder bag (if collapsible), piss pump, or fedco. Of uncertain utility in active crown fires.", 
+            "link": null, 
+            "name": "Indian pump"
+        }, 
+        {
+            "def": "A method of suppression in which the control line is located some considerable distance away from the fire\u2019s active edge. Generally done in the case of a fast-spreading or high-intensity fire and to utilize natural or constructed firebreaks fuel breaks and favorable breaks in the topography. The intervening fuel is usually backfired; but occasionally the main fire is allowed to burn to the line, depending on conditions.", 
+            "link": null, 
+            "name": "Indirect attack"
+        }, 
+        {
+            "def": "A heat detection system used for fire detection, mapping, and hotspot identification.", 
+            "link": "/wiki/Infrared", 
+            "name": "Infrared (IR) detector "
+        }, 
+        {
+            "def": "The actions taken by the first resources to arrive at a wildfire to protect lives and property, and prevent further extension of the fire. Usually done by trained and experienced crews and takes place immediately after size-up.", 
+            "link": null, 
+            "name": "Initial attack"
+        }, 
+        {
+            "def": "Where urban firefighting meets wildland firefighting. Structures at the edges of wildlands are threatened and require skills and equipment of both disciplines.", 
+            "link": null, 
+            "name": "Interface zone"
+        }, 
+        {
+            "def": "Moving from outside the fire front to inside the burned area, which is sometimes the safest place to be in a flare-up.", 
+            "link": null, 
+            "name": "Into the black"
+        }, 
+        {
+            "def": "To reduce the flame or heat on the more vigorously burning parts of a fire edge, usually by cooling with dirt, water or other retardant.", 
+            "link": null, 
+            "name": "Knock down"
+        }, 
+        {
+            "def": "Flammable vegetation that helps a ground fire move into the canopy.", 
+            "link": "/wiki/Fuel_ladder", 
+            "name": "Ladder fuels "
+        }, 
+        {
+            "def": "Firefighter safety mnemonic for lookout, awareness OR anchor point, communications, escape routes, safety zones.", 
+            "link": null, 
+            "name": "LACES"
+        }, 
+        {
+            "def": "Aircraft with pilot used to make trial runs over a target area to check wind, smoke conditions, topography and to lead air tankers to targets and supervise their drops.", 
+            "link": null, 
+            "name": "Lead plane"
+        }, 
+        {
+            "def": "Administrative decision to defer fire suppression, perhaps because of wilderness and long-term forest conservation considerations.", 
+            "link": null, 
+            "name": "Let-burn policy"
+        }, 
+        {
+            "def": "Derogatory term for wildland crew with a reputation for igniting its prescribed burns carelessly.", 
+            "link": null, 
+            "name": "Light 'em, fight 'em"
+        }, 
+        {
+            "def": "Activity related to burn out along a fireline, using drip torches, fusees or other flammable materials.", 
+            "link": null, 
+            "name": "Line firing"
+        }, 
+        {
+            "def": "Surface buildup of leaves and twigs.", 
+            "link": null, 
+            "name": "Litter (forest litter) "
+        }, 
+        {
+            "def": "Tops, stumps, mill ends, limbs left by logging operations. May be beneficial to soil stability, but can dry out and create heavy fuel load hazards.", 
+            "link": null, 
+            "name": "Logging slash or logging debris "
+        }, 
+        {
+            "def": "Helicopter arrangement for lowering external loads (or removing loads) into areas not available for landing, using a long cable suspended from a hard point on the belly of the aircraft.", 
+            "link": null, 
+            "name": "Longline"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Safety personnel positioned to monitor the location and behavior of a fire, ready to signal a crew to escape", 
+            "link": null, 
+            "name": "Lookouts"
+        }, 
+        {
+            "def": "Hand tool used in fireline construction, consisting of a combination rake and hoe.", 
+            "link": "/wiki/McLeod_(tool)", 
+            "name": "McLeod"
+        }, 
+        {
+            "def": "Extinguishing or removing burning material near control lines, felling snags, and trenching logs to prevent rolling after an area has burned, to make a fire safe, or to reduce residual smoke.", 
+            "link": null, 
+            "name": "Mop-up"
+        }, 
+        {
+            "def": "Cross-jurisdictional assistance with emergency services by pre-arranged agreement.", 
+            "link": "/wiki/Mutual_aid_(emergency_services)", 
+            "name": "Mutual aid"
+        }, 
+        {
+            "def": "Fire and safety standards organization; issues various wildfire-oriented standards related to clothing, tactics, equipment, etc.", 
+            "link": "/wiki/National_Fire_Protection_Association", 
+            "name": "National Fire Protection Association (NFPA) "
+        }, 
+        {
+            "def": "National Standard Thread (NST) design of threaded couplings used on fire hose in various diameters; incompatible with many types of wildfire hose threads, thus requiring adapters.", 
+            "link": null, 
+            "name": "National Hose (NH)"
+        }, 
+        {
+            "def": "Coordination facility in Boise, Idaho, operated by several U.S. agencies to provide logistics, weather information and resource coordination for wildfire suppression across the U.S. (formerly BIFC).", 
+            "link": "/wiki/National_Interagency_Fire_Center", 
+            "name": "National Interagency Fire Center (NIFC) "
+        }, 
+        {
+            "def": "Brand of approved, fire retardant, synthetic, aramid cloth and thread used in personal protective equipment for wildland firefighting, and jumpsuits.", 
+            "link": "/wiki/Nomex", 
+            "name": "Nomex"
+        }, 
+        {
+            "def": "Coordination agency located in Washington, D.C. which sets national standards for firefighter training and publishes training manuals.", 
+            "link": "/wiki/National_Wildfire_Coordinating_Group", 
+            "name": "National Wildfire Coordinating Group"
+        }, 
+        {
+            "def": "Vegetation with large surface-to-mass ratio, a so-called fine fuel (along with 10-hour) that quickly reaches critical (inflammable) moisture levels (fine fuel moisture, FFM) when exposed to heat; compare with 100-hour or 1000-hour fuels (i.e., live fuel moisture, LFM), which take much more heat to ignite.", 
+            "link": null, 
+            "name": "One-hour fuel"
+        }, 
+        {
+            "def": "Personnel assigned to supervisory positions, including incident commander, command staff, general staff, branch directors, supervisors, unit leaders, managers, and staff. Also may be organized according to qualifications and experience, as type I overhead team, and the like. Many positions, functions and interactions of wildfire overhead organizations provided the model for today's incident command systems in the United States.", 
+            "link": null, 
+            "name": "Overhead"
+        }, 
+        {
+            "def": "Technique for measuring impact of soil moisture changes on vegetation, for predicting fire danger and fire behavior.", 
+            "link": null, 
+            "name": "Palmer drought severity index (PDI) "
+        }, 
+        {
+            "def": "Fire containment method where crews construct a fireline at some distance from the edge of the fire (e.g., 100 yards) and then burn out the fuel in the buffer as the fireline is completed.", 
+            "link": null, 
+            "name": "Parallel attack"
+        }, 
+        {
+            "def": "An extremely volatile fuel, after curing, in May, June, and July, which can lead to large, fast fires that may reach larger fuels.", 
+            "link": null, 
+            "name": "Perennial grasses"
+        }, 
+        {
+            "def": "An element of fire behavior, indicating where a fire began, supporting further analysis of where the fire went or will go; evidence of specific origin is often obscured or destroyed by suppression tactics.", 
+            "link": null, 
+            "name": "Point of origin"
+        }, 
+        {
+            "def": "Deliberately ignited fire for the purpose of forest or prairie management, often to remove heavy fuel buildup or simulate natural cycles of fire in an ecosystem. Also called controlled burns, even if it becomes uncontrollable.", 
+            "link": "/wiki/Controlled_burn", 
+            "name": "Prescribed burn"
+        }, 
+        {
+            "def": "A method of deploying hoses along firelines during suppression and as they are built and reinforced, typically using 1\u00bd-inch supply lines, gated wyes and 1-inch lateral lines with nozzles (or spigot valves) every 100 feet or so. As the line progesses, more hoses and valves are added.", 
+            "link": null, 
+            "name": "Progressive hose lay"
+        }, 
+        {
+            "def": "Any large fire requiring extensive management and the establishment of a temporary infrastructure to support firefighting efforts, such as fire camps.", 
+            "link": null, 
+            "name": "Project fire"
+        }, 
+        {
+            "def": "Combination axe and grub hoe tool with a straight handle, used for building handline. Also known as P-tool", 
+            "link": "/wiki/Pulaski_(tool)", 
+            "name": "Pulaski"
+        }, 
+        {
+            "def": "Crew of specialist firefighters who are trained to access a fire area by sliding down ropes suspended from a hovering helicopter. Also used for delivering wilderness first aid if a rapeller is an EMT.", 
+            "link": "/wiki/Rapelling", 
+            "name": "Rapeller"
+        }, 
+        {
+            "def": "(1) repeat burning of an area over which a fire has previously passed, but left fuel that later ignites when burning conditions are more favorable; (2) an area that has re-burned.", 
+            "link": null, 
+            "name": "Reburn"
+        }, 
+        {
+            "def": "Credentials issued to qualified wildland firefighters, listing their qualifications and specialties.", 
+            "link": null, 
+            "name": "Red card"
+        }, 
+        {
+            "def": "Weather conditions creating a critical fire hazard, may require closing the forest to non-emergency activities in order to minimize the risk of accidental wildland fires.", 
+            "link": null, 
+            "name": "Red-flag day"
+        }, 
+        {
+            "def": "The basic wildland fire training course given to all U.S. firefighters before they can work on the fire lines.", 
+            "link": "/wiki/S-130/S-190", 
+            "name": "S-130/S-190"
+        }, 
+        {
+            "def": "An area cleared of flammable material used for escape in the event the line is outflanked or in case a spot fire causes fuels outside the control line to render the line unsafe. In firing operations, crews progress so as to maintain a safety zone close at hand allowing the fuels inside the control line to be consumed before going ahead. Safety zones may also be constructed as integral parts of fuel breaks; they are greatly enlarged areas which can be used with relative safety by firefighters and their equipment in the event of blowup in the vicinity.", 
+            "link": null, 
+            "name": "Safety zone"
+        }, 
+        {
+            "def": "Chainsaw crew, may also include fallers or fellers who are qualified to cut down trees or snags, perhaps while the tree or snag is burning.", 
+            "link": null, 
+            "name": "Sawyer"
+        }, 
+        {
+            "def": "Any fireline constructed at a distance from the fire perimeter concurrently with or after a line already constructed on or near to the perimeter of the fire. Generally constructed as an insurance measure in case the fire escapes control by the primary line.", 
+            "link": null, 
+            "name": "Secondary line"
+        }, 
+        {
+            "def": "Single engine air tanker - small agricultural aircraft converted for use on fires, predominantly during the initial attack phase.", 
+            "link": "/wiki/Aerial_firefighting", 
+            "name": "SEAT"
+        }, 
+        {
+            "def": "Initial assessment of fire including fuel load, weather, topography, fire behavior, hazards and exposures of valuable properties. Quickly detects needs for additional resources and sets operational priorities.", 
+            "link": null, 
+            "name": "Size-up"
+        }, 
+        {
+            "def": "Pre-configured tank, pump, hose for attachment to a logging skidder (large four-wheel-drive tractor with a dozer blade, winch or grapple) to be carried to a fireline.", 
+            "link": null, 
+            "name": "Skidder unit"
+        }, 
+        {
+            "def": "Debris resulting from such natural events as wind, fire, or snow breakage; or such human activities as road construction, logging, pruning, thinning, or brush cutting. It includes logs, chunks, bark, branches, stumps, and broken under-story trees or brush. See also logging slash", 
+            "link": "/wiki/Slash_(logging)", 
+            "name": "Slash"
+        }, 
+        {
+            "def": "Cargo net containing supplies or equipment delivered by longline below a helicopter.", 
+            "link": null, 
+            "name": "Sling load"
+        }, 
+        {
+            "def": "Fire spreading outside the boundaries of a control line.", 
+            "link": null, 
+            "name": "Slopover"
+        }, 
+        {
+            "def": "Humorous pejorative term for those believed to not be doing their share of work.", 
+            "link": null, 
+            "name": "Slug"
+        }, 
+        {
+            "def": "See #airtanker", 
+            "link": null, 
+            "name": "Slurry bomber"
+        }, 
+        {
+            "def": "Colloquial term for a wildland firefighter. Now mostly archaic, except in Minnesota where state department of natural resources firefighters are officially known by that name.", 
+            "link": null, 
+            "name": "Smokechaser"
+        }, 
+        {
+            "def": "A specifically trained and certified firefighter who travels to remote wildfires by fixed-wing aircraft and parachutes into a jump spot - that may include trees - close to the fire.", 
+            "link": "/wiki/Smokejumper", 
+            "name": "Smokejumper"
+        }, 
+        {
+            "def": "A fire burning without flame and barely spreading.", 
+            "link": null, 
+            "name": "Smoldering"
+        }, 
+        {
+            "def": "A dead standing tree that can be hazardous.", 
+            "link": null, 
+            "name": "Snag"
+        }, 
+        {
+            "def": "Remote camp usually near a fireline, and lacking the logistical support that a larger fire camp would have.", 
+            "link": null, 
+            "name": "Spike camp"
+        }, 
+        {
+            "def": "Behavior of a fire producing sparks or embers that are carried by the wind and which start new fires (spot fires) beyond the zone of direct ignition by the main fire. A cascade of spot fires can cause a blowup.", 
+            "link": null, 
+            "name": "Spotting"
+        }, 
+        {
+            "def": "Specified combinations of the same kind and type of resources, with communications, and a leader.", 
+            "link": null, 
+            "name": "Strike team"
+        }, 
+        {
+            "def": "All the work of extinguishing or confining a fire beginning with its discovery.", 
+            "link": null, 
+            "name": "Suppression"
+        }, 
+        {
+            "def": "Two or more firefighters stationed at a strategic location for initial action on fires. Duties are essentially the same as those of individual firefighters; often organized into 20-person crews, including supervisors, for simplified logistics and operations.", 
+            "link": null, 
+            "name": "Suppression crew (also \"Soup Crew\") "
+        }, 
+        {
+            "def": "Fire that burns loose debris on the surface, which include dead branches, blowdown timber, leaves, and low vegetation, as contrasted with crown fire.", 
+            "link": null, 
+            "name": "Surface fire"
+        }, 
+        {
+            "def": "Any combination of resources assembled for a particular tactical need, with common communications and a leader. A task force may be pre-established and sent to an incident, or formed at an incident.", 
+            "link": null, 
+            "name": "Task force"
+        }, 
+        {
+            "def": "A smokejumper can sometimes parachute into a tree canopy if a clearing is not available or suitable.", 
+            "link": null, 
+            "name": "Tree jump"
+        }, 
+        {
+            "def": "Not to be confused with crowning, is when a single or small group of trees go up in flames. Torching and group torching are more of a nuisance whereas crown fire is of much greater concern.", 
+            "link": null, 
+            "name": "Torching"
+        }, 
+        {
+            "def": "A widened part of a fire break used for turning vehicles around, also used as a safe area during entrapment.", 
+            "link": null, 
+            "name": "Turn around"
+        }, 
+        {
+            "def": "A fire engine designed primarily for fighting fires in structures accessible from roads.", 
+            "link": null, 
+            "name": "Type I engine"
+        }, 
+        {
+            "def": "A fire engine designed to carry and pump water for use in fire suppression. Also known as a tender or water tender.", 
+            "link": null, 
+            "name": "Type II engine"
+        }, 
+        {
+            "def": "A fire engine designed primarily for fighting wildland fires. These engines are usually able to traverse more rugged terrain than type I and type II engines.", 
+            "link": null, 
+            "name": "Type III engine"
+        }, 
+        {
+            "def": "A controlled burn of fuels below the forest canopy, intended to remove fuels from on-coming or potential fires.", 
+            "link": null, 
+            "name": "Understory burn"
+        }, 
+        {
+            "def": "The interface zone where man-made structures inter-mingle with wildlands, creating risk of structural involvement in a wildland fire incident and wildland fire involvement in structure fires, each of which requires different equipment, training and tactics.", 
+            "link": null, 
+            "name": "Urban interface"
+        }, 
+        {
+            "def": "A list of 18 situations for firefighters to be aware of, which signal potential hazards on the fire line; originated from analysis of generations of similar incidents.", 
+            "link": null, 
+            "name": "Watch out situations"
+        }, 
+        {
+            "def": "Any ground vehicle capable of transporting specified quantities of water.", 
+            "link": null, 
+            "name": "Water tender"
+        }, 
+        {
+            "def": "Temporary control line using water or other fire retardant liquid to prevent a low-intensity fire from spreading in surface fuels or to knock down a more intense fire.", 
+            "link": null, 
+            "name": "Wet line"
+        }, 
+        {
+            "def": "Any branch or treetop that is poorly or no longer attached to a tree, but still tangled overhead.", 
+            "link": null, 
+            "name": "Widowmaker"
+        }, 
+        {
+            "def": "An unplanned, unwanted wildland fire, including unauthorized human-caused fires, escaped wildland fire use events, escaped prescribed fire projects, lightning strikes, downed power lines, and all other wildland fires where the objective is to put the fire out.", 
+            "link": "/wiki/Wildfire", 
+            "name": "Wildfire"
+        }, 
+        {
+            "def": "An area in which development is essentially nonexistent, except for roads, railroads, power lines, and similar transportation facilities. Structures, if any, are widely scattered.", 
+            "link": "/wiki/Wildland", 
+            "name": "Wildland"
+        }, 
+        {
+            "def": "Fire apparatus specialized for accessing wildland fires with water, equipment and small crew. Size and agility of these units may also be useful for other urban missions.", 
+            "link": "/wiki/Wildland_fire_engine", 
+            "name": "Wildland fire engine"
+        }, 
+        {
+            "def": "Naturally-ignited wildland controlled burns that are managed for the purposes of achieving specific previously-defined resource management objectives.[3]", 
+            "link": null, 
+            "name": "Wildland fire use fires (WFU fires)"
+        }, 
+        {
+            "def": "Trees knocked over or broken off by wind, increasing fuel loading and hampers building fireline. Also sometimes called blowdown. Large, unmanaged ares of dense blowdown can create serious fire hazards once the larger fuels become dry.", 
+            "link": null, 
+            "name": "Windfall"
+        }
+    ]
+}

@@ -129,11 +129,6 @@
             "name": "Bolting"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Bone"
-        }, 
-        {
             "def": "A parasitic fly that lays its eggs on the legs, muzzle, and jaw of horses. The eggs are licked off by the horse and once ingested, hatch into maggots, called bots, which infest the animal by attaching to the stomach lining. The eggs may be scraped off with a bot knife or similar tool.[35]", 
             "link": "/wiki/Botfly", 
             "name": "Botfly, bot"
@@ -167,11 +162,6 @@
             "def": "The breeder of a foal is the owner of its dam at the time of foaling. The person designated as the breeder may not have had anything to do with planning the mating of the mare or be located where foaling occurs.[40]", 
             "link": null, 
             "name": "Breeder"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Breeding"
         }, 
         {
             "def": "See Stud book", 
@@ -257,11 +247,6 @@
             "def": "A person appointed to manage an equestrian team, generally at the state, national or international level.[56]", 
             "link": null, 
             "name": "Chef d\u2019\u00e9quipe"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Chestnut"
         }, 
         {
             "def": "A condition arising from blockage of the esophagus, most often linked to a horse eating too fast. A horse that is choking can still breathe, but cannot eat or drink.[58]", 
@@ -364,11 +349,6 @@
             "name": "Crib biting (UK) or cribbing (US)"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Crop"
-        }, 
-        {
             "def": "A horse that is a cross between two known breeds.[74] Not to be confused with grade, below", 
             "link": "/wiki/Crossbred", 
             "name": "Crossbred"
@@ -394,11 +374,6 @@
             "name": "C/S/F or c,s,f (AU)"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Curb"
-        }, 
-        {
             "def": "A horse that moves with long but low movement.[79] Considered highly desirable in hunter-type horses.", 
             "link": null, 
             "name": "Daisy cutter"
@@ -419,19 +394,9 @@
             "name": "Damsire"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Diagonal"
-        }, 
-        {
             "def": "In racing, refers to female horses. Named for the distaff, a spindle used in weaving and traditionally associated with women.[83] In pedigree charts, refers to the entire dam's side of the pedigree.[74]", 
             "link": null, 
             "name": "Distaff"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Dock"
         }, 
         {
             "def": "An animal to be used for pet meat, or a buyer of cattle or horses to be used for this purpose.[85]see also Canner", 
@@ -479,11 +444,6 @@
             "name": "English riding (US), Riding (UK)"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Equestrian"
-        }, 
-        {
             "def": "Also called horsemanship, the art of handling horses, particularly the art of riding, but also applicable to driving and other disciplines.", 
             "link": "/wiki/Equestrianism", 
             "name": "Equestrianism"
@@ -502,11 +462,6 @@
             "def": "The genus including the horse, donkey, zebra and all other surviving members of the family Equidae.[95]", 
             "link": "/wiki/Equus_(genus)", 
             "name": "Equus"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Ergot"
         }, 
         {
             "def": "A sport horse discipline with competition that goes as high as Olympic level. Includes three types of riding; dressage, cross-country and stadium jumping.[94]", 
@@ -564,11 +519,6 @@
             "name": "Flank"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Float"
-        }, 
-        {
             "def": "See \"lead change.\"", 
             "link": null, 
             "name": "Flying change"
@@ -587,11 +537,6 @@
             "def": "A suckling foal running with its dam.[8]", 
             "link": null, 
             "name": "Foal at foot (UK) or foal at side (US)"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Form"
         }, 
         {
             "def": "The most severe form of laminitis, an inflammatory condition affecting the laminae of the hoof. The third phalanx, or coffin bone rotates, often becoming deformed, and in severe cases, may puncture the bottom surface of the hoof.[108] Severe cases may require euthanasia of the affected animal.[68] A leading cause of death among domesticated horses, especially in breeds which are easy keepers (good doers).", 
@@ -634,19 +579,9 @@
             "name": "Furlong"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Futurity"
-        }, 
-        {
             "def": "The fastest natural horse gait. Like the canter, there is a moment during a gallop when all four hooves of the horse are off the ground, known as the moment of suspension.[113] At racing speeds, the gallop differs from the canter in that it becomes an irregular four beat gait, rather than a three-beat gait: the second beat of the canter, where diagonal front and hind legs strike the ground simultaneously, is broken into two beats in very quick succession in the gallop. Used in the wild to escape predators, the gallop is the gait of the classic race horse.", 
             "link": "/wiki/Horse_gait#Gallop", 
             "name": "Gallop"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Galloway"
         }, 
         {
             "def": "The way a horse moves its legs is a gait.[115] They are divided into natural gaits, which are those performed by most horses, and those that are either trained by humans or that are specific to a few breeds. The natural gaits are walk, trot, canter/lope, and gallop. Other gaits include the pace and ambling gaits such as the rack and single-foot.[16][116]", 
@@ -719,24 +654,9 @@
             "name": "Grooming"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Groundwork"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Hack"
-        }, 
-        {
             "def": "A type of headgear that utilizes a noseband or a bosal for control instead of a bit.[126]", 
             "link": "/wiki/Hackamore", 
             "name": "Hackamore"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Half-breed"
         }, 
         {
             "def": "Two horses with the same dam. Two horses with the same sire are simply said to be by the same sire.[128]", 
@@ -789,16 +709,6 @@
             "name": "Head-shy or headshy"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Headstall, head stall"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Heavy"
-        }, 
-        {
             "def": "A heavily built hunter, typically bred by crossing a Thoroughbred with an Irish Draught (in UK) or any other suitable draft horse breed (in US). Also see clumper.", 
             "link": null, 
             "name": "Heavy hunter"
@@ -812,11 +722,6 @@
             "def": "A sterile hybrid that is the offspring of a male horse and a female donkey.[142] Generally considered less desirable than a mule, though has a similar appearance and characteristics.[143] Bred less often than mules because the offspring are smaller than mules and female donkeys are less fertile with stallions than mares are with male donkeys. Also occasionally known as bardot or jennet.[144]", 
             "link": "/wiki/Hinny", 
             "name": "Hinny (or Hinney)[142]"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Hitch"
         }, 
         {
             "def": "A strap or other device placed around the pastern of the leg to prevent a horse (or other livestock animal) from wandering far,[145] usually by linking two or more legs together. A \"half-hobble\" attaches to only one foot, with the other end usually attached to a rope called a picket line.", 
@@ -894,11 +799,6 @@
             "name": "Hunter"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "In-hand"
-        }, 
-        {
             "def": "The second and third of the four levels of international dressage competition governed by the FEI, falling between Prix St. Georges and Grand Prix.", 
             "link": null, 
             "name": "Intermediare I, II; Intermediate I, II"
@@ -945,11 +845,6 @@
         }, 
         {
             "def": "", 
-            "link": null, 
-            "name": "Jump, to jump"
-        }, 
-        {
-            "def": "", 
             "link": "/wiki/Jumping_(horse)", 
             "name": "Jumper, jumping"
         }, 
@@ -977,11 +872,6 @@
             "def": "Soft, flexible strap made of leather, attached to a heavy ring on a saddle tree, used to attach a cinch to a western saddle. Modern latigo usually has holes punched for a cinch buckle. On older saddles the latigo had no holes and the cinch was secured to the saddle with the latigo tied in a latigo hitch or girth hitch, a variation of the cow hitch. See also billets.[citation needed]", 
             "link": null, 
             "name": "Latigo"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Lead"
         }, 
         {
             "def": "The act of a horse changing from one lead to the other. When performed at a canter or gallop, it is a \"flying change.\" When the horse is dropped to a slower gait and then asked to canter again but on the opposite lead, it is a \"simple change.\" Performing a flying change with every stride is an advanced dressage movement known as a one-tempi change, tempi changes, or informally, \"onesies.\"", 
@@ -1204,11 +1094,6 @@
             "name": "Pinhooking"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Place"
-        }, 
-        {
             "def": "A common horse of no particular value.[208]", 
             "link": null, 
             "name": "Plug"
@@ -1227,11 +1112,6 @@
             "def": "Resting a foreleg; indicating soreness in that leg or foot.[210]", 
             "link": null, 
             "name": "Pointing"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Pole"
         }, 
         {
             "def": "", 
@@ -1357,11 +1237,6 @@
             "def": "A pair of rigid bars extending from the front of a horse-draw vehicle, attached to the sides of the horse (or other draft animal).[230] Allows the animal to steer the vehicle, to slow it, and in the case of a two-wheeled vehicle, to hold it level. Used for a single animal, for the rearmost of several animals in tandem (q.v.), or sometimes to act as poles between three horses abreast (a troika). See also pole.", 
             "link": null, 
             "name": "Shafts"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Show"
         }, 
         {
             "def": "A stallion who is regularly transported between the Northern and Southern Hemispheres in order to cover mares during both breeding seasons.[231]", 
@@ -1542,11 +1417,6 @@
             "def": "Horses who share one sire, and the same maternal grandsire (damsire).[262] Put simply, horses that share three grandparents.[264]", 
             "link": null, 
             "name": "Three-quarter genetic brother/sister\u00a0"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Topline"
         }, 
         {
             "def": "The change from one gait to another.[268]", 

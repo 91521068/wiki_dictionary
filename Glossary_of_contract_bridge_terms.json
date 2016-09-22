@@ -44,11 +44,6 @@
             "name": "Acol"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Active"
-        }, 
-        {
             "def": "In duplicate bridge, a score awarded by the Director (when empowered by the Laws) in order to redress damage to a non-offending side and to take away any advantage gained by an offending side through an infraction. It may be \"assigned\" (weighted to reflect the probabilities of a number of potential results) or \"artificial\" (otherwise). The scores awarded to the two sides need not balance.", 
             "link": null, 
             "name": "Adjusted score"
@@ -87,11 +82,6 @@
             "def": "An understanding between partners as to the meaning of a particular call or defensive play. There are two types of call agreements: (1) when the call is natural, the agreement is said to be a treatment, and (2) when the call is artificial, the agreement is said to be a convention.", 
             "link": null, 
             "name": "Agreement"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Air, as \"on air\""
         }, 
         {
             "def": "Declarer's intentional and unethical attempt to locate a finessable card by revoking. If the play is unintentional, it is nevertheless subject to score adjustment.", 
@@ -134,11 +124,6 @@
             "name": "Arrow switch"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Artificial"
-        }, 
-        {
             "def": "A bid that, by prior agreement, requests information about a feature of partner's hand: for example, number of controls, suit length, or control of a particular suit.", 
             "link": null, 
             "name": "Asking bid"
@@ -154,11 +139,6 @@
             "name": "Attitude"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Auction"
-        }, 
-        {
             "def": "A variant of contract bridge for play by one person; alternatively, a means for one to learn or practice the game alone. Information for each deal is pre-printed on one sheet of paper in a special layout. Such a \"deal\" is loaded in a mechanical template (see image at right) which the operator-player manipulates selectively and sequentially to reveal some of the information. Paper deals are distributed in numbered sets of \"Autobridge Refills\".", 
             "link": null, 
             "name": "Autobridge"
@@ -167,11 +147,6 @@
             "def": "A squeeze position that succeeds against either opponent. Compare with Positional squeeze.", 
             "link": "/wiki/Squeeze_play_(bridge)", 
             "name": "Automatic squeeze"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Average"
         }, 
         {
             "def": "A play designed to keep a particular defender off lead, often to prevent the lead of a suit through a tenace position in either declarer's hand or dummy.", 
@@ -192,11 +167,6 @@
             "def": "To keep the bidding open when it is about to be passed out at a low level. For example, if the bidding goes 1\u2665 - (P) - P - (1NT), the 1NT bid is a balancing action. The balancing bid is often made with a hand of substandard strength in order to prevent the opponents from securing a low-level contract.", 
             "link": "/wiki/Balancing_(bridge)", 
             "name": "Balance"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Balanced distribution"
         }, 
         {
             "def": "A hand with balanced distribution in the narrow or wide sense just above. On the first round of bidding, natural notrump bids generally denote balanced hands.", 
@@ -249,11 +219,6 @@
             "name": "Bermuda Bowl"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Bid"
-        }, 
-        {
             "def": "A bid erroneously made when it was another player's turn to bid. Subject to penalty.", 
             "link": null, 
             "name": "Bid out of turn"
@@ -294,11 +259,6 @@
             "name": "Blackwood convention"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Blank"
-        }, 
-        {
             "def": "(Slang) A win by the widest possible margin.", 
             "link": null, 
             "name": "Blitz"
@@ -307,11 +267,6 @@
             "def": "(Adjective) If a suit is divided between partners in such a way that the hand with the shorter holding has only high cards, the suit cannot be run without an entry to the longer holding in another suit; it is then said to be blocked. If North holds \u2666AK and South holds \u2666QJ10, South cannot cash a third diamond trick without an entry in another suit. The diamonds are blocked until North is able to unblock by playing the ace and king.", 
             "link": null, 
             "name": "Blocked"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Board"
         }, 
         {
             "def": "A form of scoring for teams, analogous to matchpoint scoring for pairs. A team earns 1 point if its pairs score higher than the opposing pairs (with the same cards at the other table), 1/2 for equal scores, and 0 for lower scores. Board-a-match scoring is now less common than IMP scoring, or IMPs victory points in a Swiss teams tournament.", 
@@ -329,11 +284,6 @@
             "name": "Bonus"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Book"
-        }, 
-        {
             "def": "At matchpoint scoring, a result no better than any other by a pair playing the same cards, resulting in an award of minimum matchpoints; either jointly (a shared bottom), or alone (a cold bottom, or zero).", 
             "link": null, 
             "name": "Bottom"
@@ -347,11 +297,6 @@
             "def": "A group of entries in a tournament that will eventually have one winner. The grouping is often done on the basis of masterpoints.", 
             "link": null, 
             "name": "Bracket"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Break"
         }, 
         {
             "def": "A compilation of short \"laws\", \"rules\" and rules-of-thumb advice; often, not always, valid.", 
@@ -389,29 +334,14 @@
             "name": "Bust"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Busy"
-        }, 
-        {
             "def": "A method of scoring in duplicate bridge pairs events. Each pair's result on a board is compared against a \"datum\" score which is the arithmetic mean of all the results (usually after exclusion of one or more of the top and bottom results), and the difference converted to IMPs. Sometimes, the median is used instead of the mean.", 
             "link": null, 
             "name": "Butler, or Butler scoring"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Bye"
-        }, 
-        {
             "def": "An assistant to the director, or Head Director, primarily responsible for moving boards between tables and collecting score slips.", 
             "link": null, 
             "name": "Caddy"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Calcutta"
         }, 
         {
             "def": "Any bid, pass, double, or redouble in the bidding stage.", 
@@ -422,11 +352,6 @@
             "def": "An approach to bidding in which a player bids his shorter suit prior to his longer suit. A feature of the Blue Team Club and the Roman Club.", 
             "link": null, 
             "name": "Canap\u00e9"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Captain"
         }, 
         {
             "def": "The act of determining the distribution of cards in unseen hands, and the location of high cards therein, by analyzing the bidding, play and other clues.", 
@@ -524,11 +449,6 @@
             "name": "Cold"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Combination"
-        }, 
-        {
             "def": "A line of play that offers more than one chance to take additional tricks: for example, playing to drop an honor in a longer suit and then finessing for an honor in a shorter suit.", 
             "link": null, 
             "name": "Combination play"
@@ -542,11 +462,6 @@
             "def": "A notrump overcall that shows a weak hand with a long suit, to which the overcaller can escape if doubled. Also known as Gardener 1NT.", 
             "link": "/wiki/Gardener_1NT", 
             "name": "Comic notrump"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Communication"
         }, 
         {
             "def": "The method of scoring used in matchpoint or Board-a-Match events. The metric used is not the number of points earned on a particular deal, as it is when using quantitative scoring, but the number of pairs that have been out-scored.", 
@@ -579,21 +494,6 @@
             "name": "Congress"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Constructive"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Contract"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Control"
-        }, 
-        {
             "def": "A bid that shows control of a particular suit. Often a cue bid, but not all cue bids are control-bids.", 
             "link": null, 
             "name": "Control-bid"
@@ -614,11 +514,6 @@
             "name": "Convention card"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Convert"
-        }, 
-        {
             "def": "In the bidding, to choose (usually) partner's first bid suit; in that case, a correction is equivalent to a preference.", 
             "link": null, 
             "name": "Correct"
@@ -627,11 +522,6 @@
             "def": "Acronym or initialism for Choice of Slams. An artificial or natural bid made to ask partner to select a strain from several choices where the slam might be played.", 
             "link": null, 
             "name": "COS"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Count"
         }, 
         {
             "def": "A defensive card play that shows whether the player has an even or odd number of cards in a suit.", 
@@ -662,11 +552,6 @@
             "def": "(Slang, verb). To make a penalty double. Also, \"cracked\", a doubled contract, regardless of the result; as in e.g. \"The contract was 2\u2660 cracked\".", 
             "link": null, 
             "name": "Crack"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Crash"
         }, 
         {
             "def": "On defense, second hand's play of a higher card than apparently necessary, so as to obtain the lead. The play is intended to prevent fourth hand from being forced into the lead to make a return favorable to declarer. The name suggests a crocodile opening its maw to swallow up partner's winning card.", 
@@ -719,24 +604,9 @@
             "name": "Cutthroat bridge"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Danger hand"
-        }, 
-        {
             "def": "The mean or median of raw scores on a deal. The datum is used as a basis for calculating IMPs for the participating teams or pairs. The datum may be trimmed by removing extreme scores at either end of the distribution, a procedure whose effect on a mean or on a median depends on the degree of skewness in the raw scores.", 
             "link": null, 
             "name": "Datum"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Dead"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Deal"
         }, 
         {
             "def": "The player who makes the first call in the auction. In some versions of the game, this player also deals the cards. In rubber bridge, the first dealer is usually decided by a cut for the highest card. In duplicate bridge, cards are dealt only at the start of the session and the deal is preserved during the session by the use of boards. The \"dealer\" who will make the first call is identified by a mark on the physical board, commonly the word \"dealer\".", 
@@ -787,11 +657,6 @@
             "def": "Declarer's opponents or their line of play.", 
             "link": null, 
             "name": "Defense"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Defensive bidding"
         }, 
         {
             "def": "Postponed, as the jump preference in the auction 1\u2665 - 1\u2660; 2\u2666 - 3\u2665. Many bids have a different meaning depending on whether or not they are made at the first opportunity.", 
@@ -849,11 +714,6 @@
             "name": "Director"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Discard"
-        }, 
-        {
             "def": "A carding signal that discourages partner from leading a particular suit. Contrast Come-on.", 
             "link": null, 
             "name": "Discouraging card"
@@ -862,11 +722,6 @@
             "def": "A play, either by declarer or by the defense, intended to obtain information about the location of other cards.", 
             "link": null, 
             "name": "Discovery play"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Distribution"
         }, 
         {
             "def": "A measure of one hand's strength due to the length or shortness of suits. See Hand evaluation.", 
@@ -887,11 +742,6 @@
             "def": "A proxi-acronym for Double, O (the letter O standing for zero or none), Pass and I (the capital i standing for the numeral 1 or one). A conventional method for bidding over interference with Blackwood. Pronounced \"dopey.\"", 
             "link": null, 
             "name": "DOPI"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Double"
         }, 
         {
             "def": "(Adjective or adverb.) Said of a play or line of play that seems to be made with knowledge of all four hands, as if there were at least two dummies visible. Contrast Single dummy.When said of the defenders jointly, \"double dummy defense\" suggests that that pair knows all four hands and agrees on both goals and tactics such as falsecards, as if the cards were visible and they discussed those points.", 
@@ -944,11 +794,6 @@
             "name": "Doubleton"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Down"
-        }, 
-        {
             "def": "To bid the higher of two adjacent suits before the lower. For example, of two five-card majors, the spade suit is normally bid before the heart suit. Contrast Up the line.", 
             "link": null, 
             "name": "Down the line"
@@ -964,19 +809,9 @@
             "name": "Drive out"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Drop"
-        }, 
-        {
             "def": "A play technique in which a player does not immediately play a card that might take a trick, but plays a small card instead.", 
             "link": "/wiki/Duck_(bridge)", 
             "name": "Duck"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Dummy"
         }, 
         {
             "def": "The play of the hand by declarer. The apparent contradiction is due to the fact that declarer plays both declarer's cards and the dummy's.", 
@@ -1075,11 +910,6 @@
         }, 
         {
             "def": "", 
-            "link": null, 
-            "name": "Enter"
-        }, 
-        {
-            "def": "", 
             "link": "/wiki/Entry_(cards)", 
             "name": "Entry"
         }, 
@@ -1112,11 +942,6 @@
             "def": "To make winners of the remaining cards in a suit by playing or forcing out higher cards.", 
             "link": null, 
             "name": "Establish"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Even"
         }, 
         {
             "def": "A duplicate bridge contest.", 
@@ -1152,11 +977,6 @@
             "def": "Values (in the form of High card points, shortage or cover cards), which are in addition to the values that a player has promised so far in the bidding.", 
             "link": null, 
             "name": "Extra values"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Face"
         }, 
         {
             "def": "A king, queen, or jack. Contrast Honor.", 
@@ -1234,11 +1054,6 @@
             "name": "Finesse"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Fit"
-        }, 
-        {
             "def": "A bid in a suit that shows length and strength in the bid suit plus a fit for partner's suit. Jump shifts in competition are often defined as fit-bids. See also Fragment bid and Mixed (definition 2).", 
             "link": null, 
             "name": "Fit bid"
@@ -1249,11 +1064,6 @@
             "name": "Five-card majors"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Fix"
-        }, 
-        {
             "def": "An obsolete term for making a preemptive bid.", 
             "link": null, 
             "name": "Flag-flying"
@@ -1262,16 +1072,6 @@
             "def": "A conventional opening bid of two diamonds (some prefer two hearts instead) to show 11-15 HCP with 5 hearts and 4 spades.", 
             "link": null, 
             "name": "Flannery"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Flat"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Float"
         }, 
         {
             "def": "An adaptation of the Howell movement in which the players, rather than the boards, progress regularly from table to table. Also known as \"Endless Howell\".", 
@@ -1334,19 +1134,9 @@
             "name": "Four-deal bridge"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Fourth"
-        }, 
-        {
             "def": "The fourth player with an opportunity to bid, or to play to a trick.", 
             "link": null, 
             "name": "Fourth hand"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Fourth suit forcing (FSF, or 4SF)"
         }, 
         {
             "def": "A holding of three or even two cards in a suit, thus not long enough to suggest as a trump suit. A partnership may treat the bid of a fragment as a means of implying shortness in another suit (see fragment bid). A fragment may also be bid after the single raise of a major as a help suit game try.", 
@@ -1382,11 +1172,6 @@
             "def": "An opening bid of 3NT. The bidder hopes to make the contract by means of a long minor suit rather than by a preponderance of high cards.", 
             "link": "/wiki/Gambling_3NT", 
             "name": "Gambling 3NT"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Game"
         }, 
         {
             "def": "A bid that asks partner not to pass before the partnership's bidding has reached game (or the opponents have been doubled at a level high enough to compensate). Some treatments relax the requirement: for example, the agreement that in the sequence 1M - 2m, the 2m response is a game force unless the suit is rebid. So, in 1\u2660 - 2\u2666; 2\u2665 - 3\u2666, 3\u2666 would cancel the game-forcing message of the 2\u2666 bid.", 
@@ -1449,11 +1234,6 @@
             "name": "Guard"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Hand"
-        }, 
-        {
             "def": "See distribution.", 
             "link": null, 
             "name": "Hand pattern"
@@ -1484,29 +1264,14 @@
             "name": "High\u2013low signal"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "High card"
-        }, 
-        {
             "def": "A measure or estimate of the strength of cards in the play of a deal. Routinely the high card points of all 13 cards in one player's hand are counted in sum, as a measure of playing strength of the entire hand, or one component of such a measure. Every honor card is assigned a numeric value. See Hand evaluation.", 
             "link": null, 
             "name": "High card points (HCP)"
         }, 
         {
             "def": "", 
-            "link": null, 
-            "name": "Hold"
-        }, 
-        {
-            "def": "", 
             "link": "/wiki/Hold_up_(bridge)", 
             "name": "Hold up"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Holding"
         }, 
         {
             "def": "An ace, king, queen, jack or ten.", 
@@ -1539,11 +1304,6 @@
             "name": "Howell movement"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "Huddle"
-        }, 
-        {
             "def": "Acronym or initialism for Highly Unusual Methods.", 
             "link": null, 
             "name": "HUM"
@@ -1569,11 +1329,6 @@
             "name": "IMPs"
         }, 
         {
-            "def": "", 
-            "link": null, 
-            "name": "In back of"
-        }, 
-        {
             "def": "A form of duplicate bridge, scored at matchpoints, in which each player is paired with a different partner on each round.", 
             "link": null, 
             "name": "Individual"
@@ -1587,11 +1342,6 @@
             "def": "A player\u2019s breach of the Laws of Bridge or of a lawful regulation made under them.", 
             "link": null, 
             "name": "Infraction"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "In front of"
         }, 
         {
             "def": "A bid that is not higher than the immediately preceding bid, and is therefore illegal.", 
@@ -4032,11 +3782,6 @@
             "def": "A bidding system that uses an opening bid of 2\u2663 as an artificial game force.", 
             "link": null, 
             "name": "Two club system, or Two clubs system"
-        }, 
-        {
-            "def": "", 
-            "link": null, 
-            "name": "Two over one, Two-over-one, or 2-over-1 (2/1)"
         }, 
         {
             "def": "A hand containing two long suits, usually each containing 4 or more cards, with at least 10 cards between the two suits.", 
