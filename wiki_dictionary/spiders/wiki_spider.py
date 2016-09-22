@@ -134,9 +134,15 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_the_American_trucking_industry',
     ]
 
+    """
+
+        'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
+
+"""
+
     def is_in(self, url, list_all):
         for i in list_all:
-            if 'https://en.wikipedia.org/wiki/' + i == url:
+            if i in url:
                 return True
         return False
 
@@ -166,6 +172,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_underwater_diving_terminology",
             "Glossary_of_rugby_league_terms",
             "Glossary_of_medical_terms_related_to_communications_disorders",
+            "Glossary_of_nautical_terms",
+            "Glossary_of_Internet-related_terms",
         ]):
 
             rule_name_main = '//dt[@class="glossary"]'
@@ -213,6 +221,8 @@ class QuotesSpider(scrapy.Spider):
             "Volleyball_jargon",
             "Glossary_of_tennis_terms",
             "Glossary_of_table_tennis",
+            "Glossary_of_machine_vision",
+            "Glossary_of_Unified_Modeling_Language_terms",
         ]):
             rule_name_main = './b'
             rule_name_sub = '.'
@@ -233,6 +243,15 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_water_polo",
             "Glossary_of_rowing_terms",
             "Glossary_of_ice_hockey_terms",
+            "Glossary_of_the_American_trucking_industry",
+            "Glossary_of_road_transport_terms",
+            "Glossary_of_New_Zealand_railway_terms",
+            "Glossary_of_North_American_railway_terms",
+            "Glossary_of_United_Kingdom_railway_terms",
+            "Glossary_of_rail_transport_terms",
+            "Glossary_of_automotive_design",
+            "Glossary_of_blogging",
+            "Glossary_of_computer_hardware_terms",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'
@@ -256,6 +275,7 @@ class QuotesSpider(scrapy.Spider):
 
         elif self.is_in(response.url, [
             "Glossary_of_literary_terms",
+            "Glossary_of_aviation",
         ]):
             rule_name_main = './child::td[1]'
             rule_name_sub = '.'
@@ -321,6 +341,9 @@ class QuotesSpider(scrapy.Spider):
 
         result_json = json.dumps(result, sort_keys=True, indent=4)
 
-        file = open(result['c3'] + ".json", 'w')
+        file_name = result['c3']
+        if "Glossary_of_aviation" in file_name:
+            file_name = "Glossary_of_aviation"
+        file = open(file_name + ".json", 'w')
         file.write(result_json)
         file.close()
