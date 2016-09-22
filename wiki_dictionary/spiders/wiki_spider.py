@@ -6,6 +6,11 @@ class QuotesSpider(scrapy.Spider):
     name = "wiki"
 
     start_urls = [
+
+        'https://en.wikipedia.org/wiki/Outline_of_metalworking',
+        'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
+        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
+        'https://en.wikipedia.org/wiki/Category:Computing_terminology',
         'https://en.wikipedia.org/wiki/List_of_legal_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
@@ -127,11 +132,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_philosophy',
         'https://en.wikipedia.org/wiki/Heideggerian_terminology',
         'https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)',
-
-        'https://en.wikipedia.org/wiki/Outline_of_metalworking',
-        'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
-        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
-        'https://en.wikipedia.org/wiki/Category:Computing_terminology',
     ]
 
     """
@@ -162,6 +162,7 @@ class QuotesSpider(scrapy.Spider):
         c2 = "Arts"
 
         ff = 0
+        fff = 0
         if self.is_in(response.url, [
             "Architectural_glossary",
             "Glossary_of_chess",
@@ -361,18 +362,17 @@ class QuotesSpider(scrapy.Spider):
         ]):
 
             if ("Computing_terminology" in response.url or
-                        "List_of_computing_and_IT_abbreviations" in response.url or
                         "Index_of_object-oriented_programming_articles" in response.url or
                         "Outline_of_metalworking" in response.url):
                 ff = 1
-
-                rule_word = '//div[@class="mw-content-ltr"][1]//li'
-                rule_name_main = '.'
+                rule_name_sub = '.'
             else:
-                rule_word = '//li'
-                rule_name_main = './child::a[1]'
+                fff = 1
+                rule_name_sub = './child::a[1]'
 
-            rule_name_sub = '.'
+            rule_word = '//div[@class="mw-content-ltr"][1]//li'
+
+            rule_name_main = '.'
 
             rule_def_main = '.'
             rule_def_sub = '.'
@@ -410,9 +410,12 @@ class QuotesSpider(scrapy.Spider):
 
         elif type_of_algo == 1:
             for item in response.xpath(rule_word):
-                item2 = item.xpath(rule_name_main)
-                item2 = item2.xpath(rule_name_sub)
+                item22 = item.xpath(rule_name_main)
+                item2 = item22.xpath(rule_name_sub)
+
                 tt = (''.join(item2.xpath(".//text()").extract()), item2.xpath('./a/@href').extract_first())
+                if fff == 1:
+                    tt = (''.join(item2.xpath(".//text()").extract()), item22.xpath('./a/@href').extract_first())
 
                 item2 = item.xpath(rule_def_main)
                 item2 = item2.xpath(rule_def_sub)
