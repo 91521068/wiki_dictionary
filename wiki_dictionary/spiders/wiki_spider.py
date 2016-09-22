@@ -311,7 +311,7 @@ class QuotesSpider(scrapy.Spider):
             word['name'] = words[i][0]
             word['def'] = definitions[i]
             word['link'] = words[i][1]
-            if word['name'] != "":
+            if word['name'] != "" and word['link'] != "":
                 words_json_array.append(word)
 
         result['words'] = words_json_array;
