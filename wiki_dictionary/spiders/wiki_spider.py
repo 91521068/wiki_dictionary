@@ -9,9 +9,17 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
+
+
     ]
 
     """
+        'https://en.wikipedia.org/wiki/Glossary_of_semisimple_groups',
+        'https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics',
+        'https://en.wikipedia.org/wiki/Glossary_of_ring_theory',
+        'https://en.wikipedia.org/wiki/Glossary_of_algebraic_geometry',
+        'https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names',
+        'https://en.wikipedia.org/wiki/Glossary_of_Riemannian_and_metric_geometry',
         'https://en.wikipedia.org/wiki/Glossary_of_botanical_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_tensor_theory',
         'https://en.wikipedia.org/wiki/Glossary_of_plant_morphology',
@@ -131,12 +139,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/List_of_mathematical_jargon',
         'https://en.wikipedia.org/wiki/List_of_linear_algebra_topics',
         'https://en.wikipedia.org/wiki/Glossary_of_order_theory',
-        'https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics',
-        'https://en.wikipedia.org/wiki/Glossary_of_ring_theory',
-        'https://en.wikipedia.org/wiki/Glossary_of_algebraic_geometry',
-        'https://en.wikipedia.org/wiki/Glossary_of_Riemannian_and_metric_geometry',
-        'https://en.wikipedia.org/wiki/Glossary_of_semisimple_groups',
-        'https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names',
     """
 
     def is_in(self, url, list_all):
@@ -183,6 +185,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_wildfire_terms",
             "Glossary_of_entomology_terms",
             "Glossary_of_botanical_terms",
+            "Glossary_of_algebraic_geometry",
+            "Glossary_of_probability_and_statistics",
 
         ]):
 
@@ -269,6 +273,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_gene_expression_terms",
             "Glossary_of_ecology",
             "Glossary_of_biology",
+            "Glossary_of_shapes_with_metaphorical_names",
 
         ]):
             rule_name_main = './b[1]'
@@ -278,6 +283,18 @@ class QuotesSpider(scrapy.Spider):
             rule_def_sub = '.'
 
             rule_word = '//li'
+            type_of_algo = 1
+
+        elif self.is_in(response.url, [
+            "Glossary_of_Riemannian_and_metric_geometry",
+        ]):
+            rule_name_main = './b[1]'
+            rule_name_sub = '.'
+
+            rule_def_main = '.'
+            rule_def_sub = '.'
+
+            rule_word = '//div[@class="mw-content-ltr"][1]//p'
             type_of_algo = 1
 
         elif self.is_in(response.url, [
@@ -304,6 +321,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_Islam",
             "Glossary_of_elementary_quantum_mechanics",
             "Glossary_of_invasion_biology_terms",
+            "Glossary_of_ring_theory",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'
@@ -378,6 +396,7 @@ class QuotesSpider(scrapy.Spider):
             "Outline_of_metalworking",
             "Index_of_object-oriented_programming_articles",
             "Category:Computing_terminology",
+            "Glossary_of_semisimple_groups",
         ]):
             ff = 1
 
