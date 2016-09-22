@@ -1,0 +1,1247 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_fishery_terms", 
+    "words": [
+        {
+            "def": "Abundance - is a measure of how many fish are in a population or a fishing ground. See relative abundance and absolute abundance.", 
+            "link": "/wiki/Abundance_(ecology)", 
+            "name": "Abundance"
+        }, 
+        {
+            "def": "Acoustic survey - a systematic gathering of information on fish availability and abundance using underwater sound.", 
+            "link": "/wiki/Bioacoustics", 
+            "name": "Acoustic survey"
+        }, 
+        {
+            "def": "Acoustical oceanography - the use of underwater sound to map underwater topography and the contents of the sea.", 
+            "link": "/wiki/Acoustical_oceanography", 
+            "name": "Acoustical oceanography"
+        }, 
+        {
+            "def": "Aerial survey - a method of gathering information on surface fish movement and density by visual observation and photography from low-flying aircraft.", 
+            "link": "/wiki/Aerial_survey", 
+            "name": "Aerial survey"
+        }, 
+        {
+            "def": "Aggregation - is a term which can be applied to any grouping of fish, for whatever reason (or unknown reason) they are concentrating. See shoaling.", 
+            "link": null, 
+            "name": "Aggregation"
+        }, 
+        {
+            "def": "Agricultural runoff - surplus water from agricultural land, often draining into rivers and then into the sea, and often enriched with nutrients, sediment, and agricultural chemicals.", 
+            "link": "/wiki/Agricultural_runoff", 
+            "name": "Agricultural runoff"
+        }, 
+        {
+            "def": "Alginate production - a gel substance extracted from brown algae and used industrially as a thickening agent for food and paint.", 
+            "link": "/wiki/Alginate", 
+            "name": "Alginate production"
+        }, 
+        {
+            "def": "Algal bloom - a rapid excessive growth of algae, generally caused by high nutrient levels, particularly phosphorus. When the algae die, algal blooms can deplete oxygen to the point where fish cannot survive.", 
+            "link": "/wiki/Algal_bloom", 
+            "name": "Algal bloom"
+        }, 
+        {
+            "def": "Artisan - someone who practices a craft as a livelihood, as opposed to an artist, who practices an art for its own sake.", 
+            "link": "/wiki/Artisan", 
+            "name": "Artisan"
+        }, 
+        {
+            "def": "Artisan fishing - a term sometimes used to describe small scale commercial or subsistence fishing practices. The term particularly applies to coastal or island ethnic groups using traditional techniques and traditional fishing boats.", 
+            "link": "/wiki/Artisan_fishing", 
+            "name": "Artisan fishing"
+        }, 
+        {
+            "def": "Anadromous - fish that live their adult lives in the ocean but migrate up fresh water rivers to spawn. Examples are Pacific salmon. Fish that migrate in the opposite direction are called catadromous.", 
+            "link": "/wiki/Anadromous", 
+            "name": "Anadromous"
+        }, 
+        {
+            "def": "Anoxic sea water - sea water depleted of oxygen. See hypoxia.", 
+            "link": "/wiki/Anoxic_sea_water", 
+            "name": "Anoxic sea water"
+        }, 
+        {
+            "def": "Anoxic sediments - sediments depleted of oxygen.", 
+            "link": null, 
+            "name": "Anoxic sediments"
+        }, 
+        {
+            "def": "Antarctic convergence - a line encircling Antarctica where cold, northward-flowing Antarctic waters meet and sink beneath the sub-Antarctic waters, creating an upwelling zone which is very high in marine productivity, especially in Antarctic krill.", 
+            "link": "/wiki/Antarctic_convergence", 
+            "name": "Antarctic convergence"
+        }, 
+        {
+            "def": "Aquaculture - the farming of freshwater and saltwater organisms including molluscs, crustaceans and aquatic plants. See also fish farming and mariculture.", 
+            "link": "/wiki/Aquaculture", 
+            "name": "Aquaculture"
+        }, 
+        {
+            "def": "Availability - (1) the proportion of a fish population living where it can be fished. (2) catch per unit effort. (3) a term sometimes used to describe whether a given fish of a given size can be caught by a given type of gear in a given fishing area.", 
+            "link": null, 
+            "name": "Availability"
+        }, 
+        {
+            "def": "Bait fish - are small fish caught for use as bait to attract large predatory fish. See forage fish.", 
+            "link": "/wiki/Bait_fish", 
+            "name": "Bait fish"
+        }, 
+        {
+            "def": "Bathypelagic - the open ocean or pelagic zone that extends from a depth of 1000 to 4000 meters below the ocean surface.", 
+            "link": "/wiki/Bathypelagic", 
+            "name": "Bathypelagic"
+        }, 
+        {
+            "def": "Beach - a geological landform along the shoreline of a body of water, consisting of loose particles composed of rock, such as sand, gravel, shingle, pebbles, or cobble, or of shell fragments or coralline algae fragments.", 
+            "link": "/wiki/Beach", 
+            "name": "Beach"
+        }, 
+        {
+            "def": "Beam trawling - the simplest method of bottom trawling. The mouth of the trawl net is held open by a solid metal beam attached to two solid metal plates, welded to the ends of the beam, which slide over and disturb the seabed. This method is mainly used on smaller vessels, fishing for flatfish or prawns, relatively close inshore.", 
+            "link": "/wiki/Bottom_trawling#Beam_trawling", 
+            "name": "Beam trawling"
+        }, 
+        {
+            "def": "Bed - the bottom of a river, or watercourse, or any body of water, such as the seabed.", 
+            "link": "/wiki/Stream_bed", 
+            "name": "Bed"
+        }, 
+        {
+            "def": "Benthic zone - the ecological region at the lowest level of a body of water such as an ocean or a lake, including the sediment surface and some sub-surface layers. Organisms living in this zone are called benthos.", 
+            "link": "/wiki/Benthic_zone", 
+            "name": "Benthic zone"
+        }, 
+        {
+            "def": "Benthos - aquatic organisms which live on or in the seabed, also known as the benthic zone. Included are both mobile animals, such as crabs and abalone, and non mobile animals, such as corals and sponges.", 
+            "link": "/wiki/Benthos", 
+            "name": "Benthos"
+        }, 
+        {
+            "def": "Billfish - large, predatory fish characterised by their long sword-like bill. Billfish include the sailfish, marlin and swordfish. They are important apex predators feeding on a wide variety of smaller fish and cephalopods.", 
+            "link": "/wiki/Billfish", 
+            "name": "Billfish"
+        }, 
+        {
+            "def": "Bioacoustics - in underwater acoustics and fisheries acoustics this term is used to mean the effect of plants and animals on sound propagated underwater, usually in reference to the use of sonar technology for biomass estimation", 
+            "link": "/wiki/Bioacoustics", 
+            "name": "Bioacoustics"
+        }, 
+        {
+            "def": "Bimodal - a bimodal distribution is a distribution with two different modes which appear as distinct peaks. An example in fisheries is the length of fish in a fishery, which might show two or more modes or peaks reflecting fish of different ages or species.", 
+            "link": "/wiki/Bimodal", 
+            "name": "Bimodal"
+        }, 
+        {
+            "def": "Biodiversity - is the variation of life forms within an area. In the context of fisheries the number and variety of organisms found within a fishery.", 
+            "link": "/wiki/Biodiversity", 
+            "name": "Biodiversity"
+        }, 
+        {
+            "def": "Biomass - the total weight of a fish species in a given area. Can be measured as the total weight in tons of a stock in a fishery, or can be measured per square metre or square kilometre. The most successful species worldwide, in terms of biomass, may be the Antarctic krill, with about five times the total biomass of humans.", 
+            "link": "/wiki/Biomass_(ecology)", 
+            "name": "Biomass"
+        }, 
+        {
+            "def": "Biotone - a region where a distinctive transition from one set of biota to another occurs. An example is the region where tropical and temperate waters mix.", 
+            "link": "/wiki/Biotone", 
+            "name": "Biotone"
+        }, 
+        {
+            "def": "Biotoxins - natural toxins produced by organisms, often for use as a defence mechanism.", 
+            "link": "/wiki/Biotoxin", 
+            "name": "Biotoxins"
+        }, 
+        {
+            "def": "Bony fish - fish that have a bony skeleton and belong to the class osteichthyes. Basically, this is all fish except for sharks, rays, skates, hagfish and lampreys.", 
+            "link": "/wiki/Bony_fish", 
+            "name": "Bony fish"
+        }, 
+        {
+            "def": "Bottom trawling - a fishing method that involves towing trawl nets along the sea floor. Bottom trawling can cause serious damage to sea floor habitats.", 
+            "link": "/wiki/Bottom_trawling", 
+            "name": "Bottom trawling"
+        }, 
+        {
+            "def": "Brackish water - water that has more salinity than fresh water, but not as much as seawater. It may result from mixing seawater with fresh water, as in estuaries.", 
+            "link": "/wiki/Brackish_water", 
+            "name": "Brackish water"
+        }, 
+        {
+            "def": "Breach - a whale's leap out of the water.", 
+            "link": null, 
+            "name": "Breach"
+        }, 
+        {
+            "def": "Breaker zone - the zone where ocean surface waves approaching the shore commence breaking, typically in water depths between five and ten metres.", 
+            "link": "/wiki/Surf_zone", 
+            "name": "Breaker zone"
+        }, 
+        {
+            "def": "Brood - the collective offspring of a species produced in a particular time span. See also cohort.", 
+            "link": "/wiki/Offspring", 
+            "name": "Brood"
+        }, 
+        {
+            "def": "Buoy - a floating object usually moored to the bottom. Buoys can be used as temporary markers, called dans, during Danish seine fishing to mark the anchor position of a net, or when fishing with lobster pots to mark the position of the pots.", 
+            "link": "/wiki/Buoy", 
+            "name": "Buoydans"
+        }, 
+        {
+            "def": "Bycatch - bycatch is the harvest of marine life and seabirds during fishing operations when other fish were the target. For example, bycatch might consist of a species which was not the targeted species, such as a shark caught on a tuna longline. Or it might consist of fish of the targeted species, but not of the targeted age or size. Some shrimp fisheries have a bycatch five times the weight of the caught shrimp. See also incidental catch.", 
+            "link": "/wiki/Bycatch", 
+            "name": "Bycatch"
+        }, 
+        {
+            "def": "Carapace - a calcified protective cover on the upper frontal surface of crustaceans. It is particularly well developed in lobsters and crabs.", 
+            "link": "/wiki/Carapace", 
+            "name": "Carapace"
+        }, 
+        {
+            "def": "Carrying capacity - the supportable population of a species, given the food, habitat conditions and other resources available within a fishery.", 
+            "link": "/wiki/Carrying_capacity", 
+            "name": "Carrying capacity"
+        }, 
+        {
+            "def": "Casting - the act of throwing bait or a lure over the water, using a fishing rod.", 
+            "link": "/wiki/Casting_(fishing)", 
+            "name": "Casting"
+        }, 
+        {
+            "def": "Catadromous - fish that live their adult lives in fresh water lakes or rivers but migrate down rivers to spawn in the sea. An example are freshwater eels of genus Anguilla, whose larvae drift on the open ocean, sometimes for months or years, before travelling thousands of kilometres back to their original rivers (see eel life history). Fish that migrate in the opposite direction are called anadromous.", 
+            "link": "/wiki/Catadromous", 
+            "name": "Catadromous"
+        }, 
+        {
+            "def": "Cephalopods - (from the Greek for \"head-feet\") animals such as squid and octopus where tentacles converge at the head. Cephalopods are the most intelligent of the invertebrates with well-developed senses and large brains.", 
+            "link": "/wiki/Cephalopod", 
+            "name": "Cephalopods"
+        }, 
+        {
+            "def": "Cetacean - member of the group of marine mammals that includes whales, dolphins and porpoises. They are the mammals most fully adapted to aquatic life and are noted for their high intelligence.", 
+            "link": "/wiki/Cetacean", 
+            "name": "Cetacean"
+        }, 
+        {
+            "def": "Cetacean bycatch - the incidental capture of non-target cetacean species by fisheries. Bycatch can be caused by entanglement in fishing nets and lines, or direct capture by hooks or in trawl nets.", 
+            "link": "/wiki/Cetacean_bycatch", 
+            "name": "Cetacean bycatch"
+        }, 
+        {
+            "def": "Climate change - variation in the Earth's global climate or in regional climates over time. Climate change involves changes in the variability or average state of the atmosphere over time periods ranging from decades to millions of years. These changes can be caused by natural processes on Earth, external factors including variations in sunlight intensity, and more recently by human activities.", 
+            "link": "/wiki/Climate_change", 
+            "name": "Climate change"
+        }, 
+        {
+            "def": "cohort - those individuals of a stock born in the same spawning season. For annual spawners, a year's recruitment of new individuals to a stock is a single cohort or year-class. See brood.", 
+            "link": "/wiki/Cohort_(statistics)", 
+            "name": "cohort"
+        }, 
+        {
+            "def": "Commercial fishery - An umbrella term covering fisheries resources and the whole process of catching and marketing fish, molluscs and crustaceans. It includes the fishermen and their boats, and all activities and resources involved in harvesting, processing, and selling.", 
+            "link": "/wiki/Fishing_industry", 
+            "name": "Commercial fishery"
+        }, 
+        {
+            "def": "Conspecific - organisms or populations that belong to the same species. Organisms that don't belong to the same species are heterospecific.", 
+            "link": "/wiki/Conspecific", 
+            "name": "Conspecific"
+        }, 
+        {
+            "def": "Continental margin - the zone of the ocean floor that separates the thin oceanic crust from the thick continental crust. Continental margins constitute about 28% of the oceanic area.", 
+            "link": "/wiki/Continental_margin", 
+            "name": "Continental margin"
+        }, 
+        {
+            "def": "Continental rise - is below the slope, but landward of the abyssal plains. Extending as far as 500 kilometres from the slope, it consists of thick sediments which have cascaded down the slope and accumulated as a pile at the base of the slope.", 
+            "link": "/wiki/Continental_rise", 
+            "name": "Continental rise"
+        }, 
+        {
+            "def": "Continental shelf - the seabed from the shore to the edge of the continental slope, covered by relatively shallow seas (known as shelf seas) and gulfs.", 
+            "link": "/wiki/Continental_shelf", 
+            "name": "Continental shelfshelf seas"
+        }, 
+        {
+            "def": "Continental slope - the slope which starts, usually abruptly at about a 200-metre depth, at the outer edge of the continent shelf and dips more steeply down to the deep-ocean floor (abyssal plain).", 
+            "link": "/wiki/Continental_slope", 
+            "name": "Continental slope"
+        }, 
+        {
+            "def": "Coriolis effect - due to the Earth's rotation, freely moving objects on the surface of the earth veer right in the northern hemisphere and left in the southern hemisphere. This effect is called the Coriolis effect, and works, in particular, on winds and ocean currents. The effect varies with latitude and is zero at the equator and increases towards the poles.", 
+            "link": "/wiki/Coriolis_effect", 
+            "name": "Coriolis effect"
+        }, 
+        {
+            "def": "Cottage industry - small, locally owned businesses usually associated in fishing with traditional methods and low relative yield.", 
+            "link": "/wiki/Cottage_industry", 
+            "name": "Cottage industry"
+        }, 
+        {
+            "def": "Crab pot fishery - a fishing technique where crabs are lured by bait into portable traps, sometimes called pots.", 
+            "link": "/wiki/Lobster_trap", 
+            "name": "Crab pot fisherypots"
+        }, 
+        {
+            "def": "Crustaceans - A group of freshwater and saltwater animals having no backbone, with jointed legs and a hard shell made of chitin. Includes crabs, lobsters, crayfish, shrimp and krill.", 
+            "link": "/wiki/Crustacean", 
+            "name": "Crustaceans"
+        }, 
+        {
+            "def": "Danish seine - a widely used commercial fishing technique which uses a small trawl net with long wire warps. The seine boat drags the warps and the net in a circle around the fish. The motion of the warps herds the fish into the central net. Danish seining works best on demersal fish which are either scattered on or close to the bottom of the sea, or are aggregated (schooling). See also purse seine.", 
+            "link": "/wiki/Seine_fishing#Danish_seine", 
+            "name": "Danish seine"
+        }, 
+        {
+            "def": "Dead zone - an area in an ocean or large lake where oxygen levels are extremely low, often due to eutrophication. Dead zones have been increasing since the 1970s.", 
+            "link": "/wiki/Dead_zone_(ecology)", 
+            "name": "Dead zone"
+        }, 
+        {
+            "def": "Deep ocean currents - currents in the deep ocean, also known as thermohaline circulation or the \"conveyor belt\", are driven by density and temperature gradients. They can be contrasted with surface ocean currents, which are driven by the wind.", 
+            "link": "/wiki/Ocean_current#Background", 
+            "name": "Deep ocean currents"
+        }, 
+        {
+            "def": "Demersal zone - the zone at or near the bottom of a sea or lake. Inhabitants of the demersal zone feed off the bottom or off other demersal fish. See also pelagic zone.", 
+            "link": "/wiki/Demersal_zone", 
+            "name": "Demersal zone"
+        }, 
+        {
+            "def": "Demersal fish - fish that live in the demersal zone. Examples are cod, flounder and snapper. Compared to pelagic fish, demersal fish contain little oil. See also bottom feeder.", 
+            "link": "/wiki/Demersal_fish", 
+            "name": "Demersal fish"
+        }, 
+        {
+            "def": "Demersal trawling - trawling on or near the bottom of a sea or lake. See also bottom trawling.", 
+            "link": "/wiki/Bottom_trawling", 
+            "name": "Demersal trawling"
+        }, 
+        {
+            "def": "Depletion - reducing the abundance of a fish stock through fishing.", 
+            "link": null, 
+            "name": "Depletion"
+        }, 
+        {
+            "def": "Delisted - a species which is no longer listed under the ESA. See also recovered species.", 
+            "link": null, 
+            "name": "Delisted"
+        }, 
+        {
+            "def": "Diatoms - minute planktonic unicellular or colonial algae.", 
+            "link": "/wiki/Diatoms", 
+            "name": "Diatoms"
+        }, 
+        {
+            "def": "Downwelling - A downward movement (sinking) of surface water caused by onshore Ekman transport, converging currents or when a water mass becomes more dense than the surrounding water.", 
+            "link": "/wiki/Downwelling", 
+            "name": "Downwelling"
+        }, 
+        {
+            "def": "dorsal - relating to or situated near or on the back.", 
+            "link": "/wiki/Dorsum_(biology)", 
+            "name": "dorsal"
+        }, 
+        {
+            "def": "Dredging - dredge designed to catch scallops, oysters or sea cucumbers are towed along the bottom of the sea by specially designed dredge boats.", 
+            "link": "/wiki/Scallop_dredge", 
+            "name": "Dredging"
+        }, 
+        {
+            "def": "Driftnet - a gillnet suspended by floats so that it fishes the top few metres of the water column. Drift nets can be many kilometres long. Because drift nets are not anchored to the sea bottom or connected to a boat, they are sometimes lost in storms and become ghost nets.", 
+            "link": "/wiki/Driftnet", 
+            "name": "Driftnet"
+        }, 
+        {
+            "def": "Dropline - a fishing line with one or more hooks, held vertically in the water column with weights and generally used on the continental shelf and slope. Several droplines may be operated by a vessel, either on manually or mechanically operated reels.", 
+            "link": "/wiki/Dropline", 
+            "name": "Dropline"
+        }, 
+        {
+            "def": "Echinoderms - a group of marine animals that includes seastars, sea urchins and sea cucumbers, abundant on the floor of the deep sea, as well as in shallower seas.", 
+            "link": "/wiki/Echinoderm", 
+            "name": "Echinoderms"
+        }, 
+        {
+            "def": "Ecologically sustainable development - in the context of fisheries, using, conserving and enhancing fishery resources so that the ecological processes, on which the fish depend, are not degraded.", 
+            "link": "/wiki/Ecologically_sustainable_development", 
+            "name": "Ecologically sustainable development"
+        }, 
+        {
+            "def": "Economic rent - the profit that could be earned from a fishery owned by an individual. Individual ownership maximizes profit, but an open entry policy usually results in so many fishermen that profit barely matches opportunity cost. See maximum economic yield.", 
+            "link": "/wiki/Economic_rent", 
+            "name": "Economic rent"
+        }, 
+        {
+            "def": "Ectothermic - animals that control body temperature through external means, using the sun, or flowing air or water.", 
+            "link": "/wiki/Ectotherm", 
+            "name": "Ectothermic"
+        }, 
+        {
+            "def": "Ekman transport - resultant flow at right angles to and to the right of the wind direction in the northern hemisphere, to the left in the southern hemisphere.", 
+            "link": "/wiki/Ekman_transport", 
+            "name": "Ekman transport"
+        }, 
+        {
+            "def": "Elasmobranch - cartilaginous fish that includes sharks, skates and rays. Compare bony fish.", 
+            "link": "/wiki/Elasmobranch", 
+            "name": "Elasmobranch"
+        }, 
+        {
+            "def": "Electrophoresis - A technique used by fisheries scientists. Tissue samples are taken from fish, and electrophoresis is used to separate proteins such as enzymes, based on their different mobilities in an electric field. This information is used to differentiate between morphologically similar species and to distinguish sub-populations or stocks.", 
+            "link": "/wiki/Electrophoresis", 
+            "name": "Electrophoresis"
+        }, 
+        {
+            "def": "El Ni\u00f1o - large scale, cyclical (generally three to seven years), ocean warming and cooling episodes across the equatorial Pacific. Warm water pools in the east in El Ni\u00f1o conditions and in the west during La Ni\u00f1a conditions. It begins around Christmas (El Ni\u00f1o means Christ child). These changes disrupt weather patterns and the migration habits of fish.", 
+            "link": "/wiki/El_Ni%C3%B1o", 
+            "name": "El Ni\u00f1o"
+        }, 
+        {
+            "def": "Endangered species - An endangered species is a population of an organism which is at risk of becoming extinct. The IUCN has calculated the percentage of endangered species as 40 percent of all organisms based on the sample of species that have been evaluated through to 2006.", 
+            "link": "/wiki/Endangered_species", 
+            "name": "Endangered species"
+        }, 
+        {
+            "def": "Endemic - native to a certain region, often a fairly small local area.", 
+            "link": "/wiki/Endemism", 
+            "name": "Endemic"
+        }, 
+        {
+            "def": "Endothermic - animals which maintain a body temperature which is above ambient temperature. See Ectothermic.", 
+            "link": "/wiki/Warm-blooded#Generating_and_conserving_heat", 
+            "name": "Endothermic"
+        }, 
+        {
+            "def": "Epibenthos - invertebrates that live on top of the seabed. Compare benthos.", 
+            "link": "/wiki/Benthos", 
+            "name": "Epibenthos"
+        }, 
+        {
+            "def": "Epipelagic - The top layer of the ocean from the surface down to about 200 metres. This is the illuminated zone where there is enough light for photosynthesis. Nearly all primary production in the ocean occurs here. See photic zone.", 
+            "link": "/wiki/Pelagic#Epipelagic_.28sunlit.29", 
+            "name": "Epipelagic"
+        }, 
+        {
+            "def": "Escapement - the percentage of a spawning anadromous fish population that survives all obstacles during their migration, including fishing pressure and predation, and successfully reach their spawning grounds.", 
+            "link": "/wiki/Spawn_(biology)", 
+            "name": "Escapement"
+        }, 
+        {
+            "def": "Estuary - a semi-enclosed coastal body of water with one or more rivers or streams flowing into it, and with a free connection to the open sea. Healthy estuaries can have high rates of biological productivity.", 
+            "link": "/wiki/Estuary", 
+            "name": "Estuary"
+        }, 
+        {
+            "def": "Eulittoral zone - another name for the intertidal zone or foreshore, extending from the spring high tide line to the neap low tide line.", 
+            "link": "/wiki/Littoral_zone#Eulittoral_zone", 
+            "name": "Eulittoral zone"
+        }, 
+        {
+            "def": "Euryhaline - fish that are tolerant to a wide range of salinities.", 
+            "link": "/wiki/Euryhaline", 
+            "name": "Euryhaline"
+        }, 
+        {
+            "def": "Eutrophication - an increase in chemical nutrients \u2013 typically compounds containing nitrogen or phosphorus \u2013 in an ecosystem. Eutrophication in water often results in an increase in algae growth and decay, which can lead to decreased levels of oxygen and fish populations.", 
+            "link": "/wiki/Eutrophication", 
+            "name": "Eutrophication"
+        }, 
+        {
+            "def": "Exclusive Economic Zone (EEZ) - a seazone under the law of the sea over which a state has special rights to the exploration and use of marine resources. Generally a state's EEZ extends to a distance of 200 nautical miles (370\u00a0km) out from its coast.", 
+            "link": "/wiki/Exclusive_Economic_Zone", 
+            "name": "Exclusive Economic Zone (EEZ)"
+        }, 
+        {
+            "def": "Farmed fisheries - are fisheries where the fish are farmed using aquaculture techniques. They can be contrasted with wild fisheries.", 
+            "link": "/wiki/Fish_farm", 
+            "name": "Farmed fisheries"
+        }, 
+        {
+            "def": "Fecundity - the number of eggs a fish produces each reproductive cycle; the potential reproductive capacity of an organism or population. Fecundity changes with the age and size of the fish.", 
+            "link": "/wiki/Fecundity", 
+            "name": "Fecundity"
+        }, 
+        {
+            "def": "Fish - a true fish is a vertebrate with gills that lives in water. However, in the context of fisheries, the term \"fish\" is generally used more broadly to include any harvestable animal living in water, including molluscs, crustaceans and echinoderms.", 
+            "link": "/wiki/Fish", 
+            "name": "Fish"
+        }, 
+        {
+            "def": "Fishery - the activities leading to and resulting in the harvesting of fish. It may involve capture of wild fish or raising of fish through aquaculture. A fishery is characterised by the species caught, the fishing gear used, and the area of operation.", 
+            "link": "/wiki/Fishery", 
+            "name": "Fishery"
+        }, 
+        {
+            "def": "Fishmeal - protein-rich animal feed product based on fish.", 
+            "link": "/wiki/Fishmeal", 
+            "name": "Fishmeal"
+        }, 
+        {
+            "def": "Fishing vessel - any vessel normally used for the harvesting of living aquatic resources or in support of such activity. This includes vessels which provide assistance to other fishing vessels such as supply, storage, refrigeration, transportation or processing (mother ships).", 
+            "link": "/wiki/Fishing_vessel", 
+            "name": "Fishing vessel"
+        }, 
+        {
+            "def": "Fishing fleet - an aggregation of fishing vessels of a particular country, such as the Russian fishing fleet, or using a particular gear, such as purse seine fleet.", 
+            "link": "/wiki/Fishing_fleet", 
+            "name": "Fishing fleet"
+        }, 
+        {
+            "def": "Flushing time - the time required to replace all the water in an estuary or harbour by the actions of currents and tides.", 
+            "link": "/wiki/Estuary#Estuary_circulation", 
+            "name": "Flushing time"
+        }, 
+        {
+            "def": "Fork length - in fishes with forked tails, this measures from the tip of the snout to the fork of the tail. It is used in fishes when is difficult to tell where the vertebral column ends.", 
+            "link": "/wiki/Fish_measurement", 
+            "name": "Fork length"
+        }, 
+        {
+            "def": "Forage fish - are small fish which are preyed on by larger predators. Typical ocean forage fish are small, filter feeding fish such as herring, anchovies and menhaden. They compensate for their small size by forming schools. See bait fish.", 
+            "link": "/wiki/Forage_fish", 
+            "name": "Forage fish"
+        }, 
+        {
+            "def": "Foreshore - intertidal area between the highest and lowest tide levels", 
+            "link": "/wiki/Foreshore", 
+            "name": "Foreshore"
+        }, 
+        {
+            "def": "Founder effect - the loss of genetic variation when a new colony is established by some individuals moving to a new area that is unoccupied. As a result, the new population may be distinctively different from its parent population.", 
+            "link": "/wiki/Founder_effect", 
+            "name": "Founder effect"
+        }, 
+        {
+            "def": "Free-diving - diving under water without the assistance of breathing apparatus to collect oysters, abalone, corals, sponges, crayfish etc. The gear usually includes a snorkel, face mask, flippers, weight belt and wet suit.", 
+            "link": "/wiki/Free-diving", 
+            "name": "Free-diving"
+        }, 
+        {
+            "def": "Front - region of sharp gradient in temperature or salinity, indicating a transition between two current systems or water masses. Fronts are usually associated with high biological activity and high abundance of highly migratory resources such as tuna. They are actively sought as fishing areas and can be monitored by satellite remote sensing.", 
+            "link": "/wiki/Thermocline", 
+            "name": "Front"
+        }, 
+        {
+            "def": "Gametes - eggs and sperm.", 
+            "link": "/wiki/Gamete", 
+            "name": "Gametes"
+        }, 
+        {
+            "def": "Gear - the equipment used by fishermen when fishing. Some examples are hooks, lines, sinkers, floats, rods, reels, baits, lures, spears, nets, gaffs, traps, waders and tackle boxes.", 
+            "link": "/wiki/Gear", 
+            "name": "Gear"
+        }, 
+        {
+            "def": "Gene flow - The movement of genes from one population to another by individuals moving between the populations.", 
+            "link": "/wiki/Gene_flow", 
+            "name": "Gene flow"
+        }, 
+        {
+            "def": "Ghost nets - fishing nets and other gear that has been left or lost in the ocean and continues to capture and kill fish.", 
+            "link": "/wiki/Ghost_net", 
+            "name": "Ghost nets"
+        }, 
+        {
+            "def": "Gillnet - fishing nets constructed so that fish are entangled or enmeshed, usually in the gills, by the netting. According to their design, ballasting and buoyancy, these nets can be used to fish on the surface, in midwater or on the bottom. The mesh size of the net determines the size of fish caught, since smaller fish can swim through the mesh. See also drift net.", 
+            "link": "/wiki/Gillnet", 
+            "name": "Gillnet"
+        }, 
+        {
+            "def": "Global positioning system - a device which uses satellite signals to accurately determine a fishing vessel's position and course.", 
+            "link": "/wiki/Global_positioning_system", 
+            "name": "Global positioning system"
+        }, 
+        {
+            "def": "Global warming - the increase in the average temperature of the Earth's near-surface air and oceans in recent decades, as well as the projected continuation of this trend.", 
+            "link": "/wiki/Global_warming", 
+            "name": "Global warming"
+        }, 
+        {
+            "def": "Groundfish - fish that lives most of its life on or near the sea bottom, such as cod, haddock, or flounder.", 
+            "link": "/wiki/Groundfish", 
+            "name": "Groundfish"
+        }, 
+        {
+            "def": "Gulf - a large area of water bordered by land on three sides.", 
+            "link": "/wiki/Bay", 
+            "name": "Gulf"
+        }, 
+        {
+            "def": "Habitat - the place where an organism lives.", 
+            "link": "/wiki/Habitat", 
+            "name": "Habitat"
+        }, 
+        {
+            "def": "Halocline - a zone in which salinity changes rapidly.", 
+            "link": "/wiki/Halocline", 
+            "name": "Halocline"
+        }, 
+        {
+            "def": "Harmful algal bloom (HAB) - an algal bloom that produces toxins detrimental to plants and animals. Scientists prefer this term to red tide, since not all algal blooms are harmful, nor do all algal blooms cause discoloration, and the blooms are not associated with tides.", 
+            "link": "/wiki/Harmful_algal_bloom", 
+            "name": "Harmful algal bloom (HAB)"
+        }, 
+        {
+            "def": "Harvest - the number or weight of fish caught and retained from a given area over a given period of time. Note that landings, catch, and harvest are different.", 
+            "link": "/wiki/Harvest", 
+            "name": "Harvest"
+        }, 
+        {
+            "def": "Hatchery - the process of cultivating and breeding a large number of juveniles in an enclosed environment. The juveniles are then released into lakes, rivers or fish farm enclosures.", 
+            "link": "/wiki/Fish_hatchery", 
+            "name": "Hatchery"
+        }, 
+        {
+            "def": "High seas - waters outside national jurisdictions.", 
+            "link": "/wiki/High_seas", 
+            "name": "High seas"
+        }, 
+        {
+            "def": "Highly migratory species - a term which has its origins in the United Nations Convention on the Law of the Sea. It refers to fish species which undertake ocean migrations and also have wide geographic distributions. It usually denotes tuna and tuna-like species, shark, marlins and swordfish. See also transboundary stocks and straddling stocks.", 
+            "link": "/wiki/Highly_migratory_species", 
+            "name": "Highly migratory species"
+        }, 
+        {
+            "def": "Husbandry - the farming practice of breeding and raising fish stock.", 
+            "link": "/wiki/Husbandry", 
+            "name": "Husbandry"
+        }, 
+        {
+            "def": "Hypoxia - occurs in aquatic environments when dissolved oxygen becomes depletion to a level which is harmful to aquatic organisms.", 
+            "link": "/wiki/Hypoxia_(environmental)", 
+            "name": "Hypoxia"
+        }, 
+        {
+            "def": "Incidental catch - the catch of non-fish species, caught in the course of commercial fishing practices. Examples of non-fish species are seabirds, and marine mammals and reptiles, such as dolphins, seals and sea turtles. Incidental mortality can be contrasted with bycatch, which is a general term for the catch of all fish and non-fish species other than the targeted species.", 
+            "link": "/wiki/Incidental_catch", 
+            "name": "Incidental catchall"
+        }, 
+        {
+            "def": "Individual transferable quota (ITQ) - a management tool by which the total allowable catch quota is allocated to individual fishers or companies who have long-term rights over the quota or can transfer it to others by sale, lease, or will. See also quota.", 
+            "link": "/wiki/Individual_transferable_quota", 
+            "name": "Individual transferable quota (ITQ)"
+        }, 
+        {
+            "def": "Intertidal - The intertidal zone is the region of land which is submerged during high tide and exposed during low tide.", 
+            "link": "/wiki/Intertidal", 
+            "name": "Intertidal"
+        }, 
+        {
+            "def": "Introduced species - Species brought into an area where it does not naturally occur, but is able to survive and reproduce there.", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Introduced species"
+        }, 
+        {
+            "def": "Invertebrates - animals without a backbone, such as octopus, shellfish, jellyfish and corals. See also vertebrates.", 
+            "link": "/wiki/Invertebrate", 
+            "name": "Invertebrates"
+        }, 
+        {
+            "def": "Isobath - a contour line linking regions of the same depth.", 
+            "link": "/wiki/Isobath", 
+            "name": "Isobath"
+        }, 
+        {
+            "def": "Isopleth - contour line joining points corresponding to similar values. Often used to plot yield-per-recruit values on a graph showing the changes as a function of size-at-first-capture and fishing mortality.", 
+            "link": "/wiki/Isopleth", 
+            "name": "Isopleth"
+        }, 
+        {
+            "def": "Isopods - group of small crustaceans that includes fish lice.", 
+            "link": "/wiki/Isopod", 
+            "name": "Isopods"
+        }, 
+        {
+            "def": "isotherm - contour line connecting points with the same temperature.", 
+            "link": "/wiki/Isotherm_(contour_line)", 
+            "name": "isotherm"
+        }, 
+        {
+            "def": "IUCN - the International Union for the Conservation of Nature and Natural Resources is the world's main authority on the conservation status of species. Their system divides threatened species into three categories: critically endangered (CR), endangered (EN), and vulnerable (VU). They also list extinctions that have occurred since 1500 AD and taxa that are extinct in the wild.", 
+            "link": "/wiki/IUCN", 
+            "name": "IUCN"
+        }, 
+        {
+            "def": "IUCN Red List - the IUCN Red List of Threatened Species (also known as the IUCN Red List or Red Data List), created in 1963, is the world's most comprehensive inventory of the global conservation status of plant and animal species.", 
+            "link": "/wiki/IUCN_Red_List", 
+            "name": "IUCN Red List"
+        }, 
+        {
+            "def": "Jigging - a method of fishing which uses lures on a vertical line that is moved up and down, or jigged. Jigging can be done manually with hand-operated spools. It is also done automatically using machines when fishing for arrow squid.", 
+            "link": "/wiki/Jigging", 
+            "name": "Jigging"
+        }, 
+        {
+            "def": "Jukung - a traditional fishing boat used in Indonesia.", 
+            "link": "/wiki/Jukung", 
+            "name": "Jukung"
+        }, 
+        {
+            "def": "Juvenile - a young fish or animal that has not reached sexual maturity.", 
+            "link": "/wiki/Juvenile_(organism)", 
+            "name": "Juvenile"
+        }, 
+        {
+            "def": "La Ni\u00f1a - a condition involving an excessive pooling of cool water which occurs in the equatorial Eastern Pacific Ocean. See El Ni\u00f1o.", 
+            "link": "/wiki/La_Ni%C3%B1a", 
+            "name": "La Ni\u00f1a"
+        }, 
+        {
+            "def": "Lagoon - a body of shallow salt or brackish water separated from the deeper sea by a shallow or exposed sandbank, coral reef, or similar feature.", 
+            "link": "/wiki/Lagoon", 
+            "name": "Lagoon"
+        }, 
+        {
+            "def": "Land runoff - rainfall, snow melt or irrigation water that runs off the land into streams and other surface water, and ultimately into the ocean. Land runoff can carry pollutants, such as petroleum, pesticides, and fertilizers.", 
+            "link": "/wiki/Surface_runoff", 
+            "name": "Land runoff"
+        }, 
+        {
+            "def": "Landing - the amount of fish (usually in tons) harvested from the sea and brought to the land. May be different from the catch, which includes the discards. Landings are reported at the points at which fish are brought to shore. Most often, landings provide the only record of total catch, i.e. landings plus discards. Note landings, catch, and harvest define different things.", 
+            "link": "/wiki/Landing_(disambiguation)", 
+            "name": "Landing"
+        }, 
+        {
+            "def": "Line fishing - a general term for fishing methods which use fishing lines. It includes handlines, hand reels, powered reels, pole-and-line, droplines, longlines, trotlines and troll lines.", 
+            "link": "/wiki/Fishing_line", 
+            "name": "Line fishing"
+        }, 
+        {
+            "def": "Littoral - the shallow water region around lake or sea shores where significant light penetrates to the bottom. Typically occupied by rooted plants. On sea shores it includes the intertidal zone.", 
+            "link": "/wiki/Littoral_zone", 
+            "name": "Littoral"
+        }, 
+        {
+            "def": "Logbook - an official record of catch and its species composition, fishing effort and location, recorded on board the fishing vessel. In many fisheries, logbooks are a compulsory condition of licensing.", 
+            "link": "/wiki/Logbook", 
+            "name": "Logbook"
+        }, 
+        {
+            "def": "Longlines - a long fishing line with many short lines, called snoods and carrying hooks, attached at regular intervals. Pelagic longlines are suspended horizontally at a fixed depth using surface floats. Demersal longlines are weighted at the seabed and have closer-spaced hooks. A longline can be miles long with several thousand hooks.", 
+            "link": "/wiki/Longline_fishing", 
+            "name": "Longlinessnoods"
+        }, 
+        {
+            "def": "Mariculture - a particular branch of aquaculture where marine organisms are cultivated in the open ocean, or an enclosure of the ocean, or in tanks, ponds or raceways filled with seawater. Examples are the farming of marine fish, prawns, oysters and seaweed.", 
+            "link": "/wiki/Mariculture", 
+            "name": "Mariculture"
+        }, 
+        {
+            "def": "Marine mammal - mammals that are primarily ocean-dwelling or depend on the ocean for food, such as porpoises, whales, seals, walrus and polar bears.", 
+            "link": "/wiki/Marine_mammal", 
+            "name": "Marine mammal"
+        }, 
+        {
+            "def": "Marine protected area (MPA) - marine area with some level of legal restriction to protect living, non-living, cultural, and/or historic resources.", 
+            "link": "/wiki/Marine_protected_area", 
+            "name": "Marine protected area (MPA)"
+        }, 
+        {
+            "def": "Maximum economic yield (MEY) - the total amount of profit that could be earned from a fishery if it were owned by one individual. An open entry policy usually results in too many fishermen so profits are barely higher than opportunity costs. See economic rent.", 
+            "link": null, 
+            "name": "Maximum economic yield (MEY)"
+        }, 
+        {
+            "def": "Maximum sustainable yield (MSY) - the maximum catch that can be taken from a species' stock over an indefinite period. Under the assumption of logistic growth, the MSY will be exactly at half the carrying capacity of a species, as this is the stage at when population growth is highest. The maximum sustainable yield is usually higher than the optimum sustainable yield. Studies have shown that fishing at the level of MSY is often not sustainable. See also long-term potential yield.", 
+            "link": "/wiki/Maximum_sustainable_yield", 
+            "name": "Maximum sustainable yield (MSY)"
+        }, 
+        {
+            "def": "Meristics - A series of measurements on a fish, such as scale counts, which are used to separate different populations or races of fish.", 
+            "link": "/wiki/Meristics", 
+            "name": "Meristics"
+        }, 
+        {
+            "def": "Mesopelagic - ocean depths extending from 200 to 1000 metres (650 to 3280 feet) below sea level", 
+            "link": "/wiki/Mesopelagic", 
+            "name": "Mesopelagic"
+        }, 
+        {
+            "def": "Migration - a systematic (as opposed to random) movement of individuals in a fish stock from one place to another.", 
+            "link": "/wiki/Fish_migration", 
+            "name": "Migration"
+        }, 
+        {
+            "def": "Minimum landing size - the smallest length at which it is legal to keep or sell a fish. Sizes vary with the species of fish and also vary in different places around the world.", 
+            "link": "/wiki/Minimum_landing_size", 
+            "name": "Minimum landing size"
+        }, 
+        {
+            "def": "Population model - a hypothesis of how a population functions. It often uses mathematical descriptions of growth, recruitment and mortality.", 
+            "link": "/wiki/Population_dynamics_of_fisheries", 
+            "name": "Population model"
+        }, 
+        {
+            "def": "Mollusc - A group of freshwater and saltwater animals with no skeleton and usually one or two hard shells made of calcium carbonate. Includes oysters, clams, mussels, snails, conches, scallops, squid and octopus.", 
+            "link": "/wiki/Mollusc", 
+            "name": "Mollusc"
+        }, 
+        {
+            "def": "Morphometrics - Measurements which characterise the form, shape and appearance of an animal or plant. Difference in morphometrics, such as colouration, can be used to distinguish different stocks of the same species.", 
+            "link": "/wiki/Morphometrics", 
+            "name": "Morphometrics"
+        }, 
+        {
+            "def": "Mortality - Mortality is a death rate from various causes, such as the proportion of a fish stock dying annually. See also natural mortality and fishing mortality.", 
+            "link": null, 
+            "name": "Mortality"
+        }, 
+        {
+            "def": "Mud flat - are coastal wetlands that form when mud is deposited by the tides or rivers, sea and oceans. They are found in sheltered areas such as bays, bayous, lagoons, and estuaries.", 
+            "link": "/wiki/Mud_flat", 
+            "name": "Mud flat"
+        }, 
+        {
+            "def": "Natal - relating to birth, such as many salmon that return to their place of birth to spawn.", 
+            "link": "/wiki/Birth", 
+            "name": "Natal"
+        }, 
+        {
+            "def": "Nearshore waters - relatively shallow inshore waters that do not extend beyond the continental shelf. See also sublittoral zone", 
+            "link": "/wiki/Neritic_zone", 
+            "name": "Nearshore waters"
+        }, 
+        {
+            "def": "Neritic zone - the shallow pelagic zone over the continental shelf. See also nearshore waters.", 
+            "link": "/wiki/Neritic_zone", 
+            "name": "Neritic zone"
+        }, 
+        {
+            "def": "Nitrate - a water-soluble molecule made up of nitrogen and oxygen, commonly found in agricultural fertilizers, and therefore in land runoff. Too much nitrate concentration is can be toxic to marine life.", 
+            "link": "/wiki/Nitrate", 
+            "name": "Nitrate"
+        }, 
+        {
+            "def": "Nursery - The part of a fish or animal habitat where the young grow up.", 
+            "link": null, 
+            "name": "Nursery"
+        }, 
+        {
+            "def": "Nutrient upwelling - Nutrient upwelling is the 'welling-up' of deeper water that is usually richer in nutrients than surface water.", 
+            "link": "/wiki/Upwelling", 
+            "name": "Nutrient upwelling"
+        }, 
+        {
+            "def": "Ocean basin - geologically an ocean basin is a large geologic basin which is below sea level.", 
+            "link": "/wiki/Ocean_basin", 
+            "name": "Ocean basin"
+        }, 
+        {
+            "def": "Ocean currents - Oceanic currents can be divided into surface and deep ocean currents. Surface currents are generally wind driven and develop typical clockwise spirals in the northern hemisphere and counter-clockwise spirals in the southern hemisphere. Surface currents can operate to a depth of 400 meters and apply to about ten percent of water in the ocean. Deep ocean currents are driven by density gradients in water due to temperature (thermo) and salinity (haline) differences. This thermohaline circulation, occurs at both deep and shallow ocean levels and moves much slower than tidal or surface currents. Upwelling and downwelling areas in the oceans are areas where significant vertical currents of water are observed. Ocean currents can be contrasted with the tidal currents that occur in coastal areas.", 
+            "link": "/wiki/Ocean_current", 
+            "name": "Ocean currents"
+        }, 
+        {
+            "def": "Ocean surface waves - are surface waves that occur on the free surface of the ocean. They usually result from wind, and are also referred to as wind waves. Some waves can travel thousands of miles before reaching land.", 
+            "link": "/wiki/Ocean_surface_waves", 
+            "name": "Ocean surface waves"
+        }, 
+        {
+            "def": "Ocean Tracking Network - a research effort using implanted acoustic transmitters to study fish migration patterns.", 
+            "link": "/wiki/Ocean_Tracking_Network", 
+            "name": "Ocean Tracking Network"
+        }, 
+        {
+            "def": "Oceanodromous - fish that migrate only within salt (ocean) waters.", 
+            "link": "/wiki/Fish_migration", 
+            "name": "Oceanodromous"
+        }, 
+        {
+            "def": "Oceanography - the branch of earth sciences that studies the ocean, including marine organisms and ecosystem dynamics; ocean currents and waves; plate tectonics and the formation of underwater topography; and movements of various chemical substances and physical properties within the ocean and across its boundaries.", 
+            "link": "/wiki/Oceanography", 
+            "name": "Oceanography"
+        }, 
+        {
+            "def": "Otoliths - calcareous deposits or bones found in chambers at the base of the skull in fish. Sectioned, these bones often show rings or layers which can be used to determine age.", 
+            "link": "/wiki/Otolith", 
+            "name": "Otoliths"
+        }, 
+        {
+            "def": "Otter trawl - An otter trawl is a demersal trawl which uses large rectangular otter boards to keep the opening of the trawl net from closing. Otter trawls are towed by a single trawler.", 
+            "link": "/wiki/Bottom_trawling#Otter_trawling", 
+            "name": "Otter trawl"
+        }, 
+        {
+            "def": "Overfishing - occurs when fishing activities reduce fish stocks below an acceptable level. This can occur in any body of water from a pond to the oceans.", 
+            "link": "/wiki/Overfishing", 
+            "name": "Overfishing"
+        }, 
+        {
+            "def": "Oxytetracycline - an antibiotic which is injected in a fish to leave a mark on its skeletal structures such as otoliths. When the fish is later recaptured, the mark left can be used to validate age estimates.", 
+            "link": "/wiki/Oxytetracycline", 
+            "name": "Oxytetracycline"
+        }, 
+        {
+            "def": "Pair trawling - occurs when two trawlers tow the same net. Otter boards are not needed and very large nets can be held open and towed in this manner.", 
+            "link": "/wiki/Pair_trawling", 
+            "name": "Pair trawling"
+        }, 
+        {
+            "def": "Panmictic - refers to random mating where all individuals within a population are potential partners.", 
+            "link": "/wiki/Panmictic", 
+            "name": "Panmictic"
+        }, 
+        {
+            "def": "Parameter - parameter in fisheries is a characteristic measure of some aspect of a fish stock. it is usually expressed as a numerical value, such as the \"natural mortality rate\".", 
+            "link": "/wiki/Parameter", 
+            "name": "Parameter"
+        }, 
+        {
+            "def": "Pelagic zone - any water in the sea that is not close to the bottom.", 
+            "link": "/wiki/Pelagic_zone", 
+            "name": "Pelagic zone"
+        }, 
+        {
+            "def": "Pelagic fish - fish that spend most of their life swimming and feeding in the pelagic zone, as opposed to resting on or feeding off the bottom. Examples are tuna and most sharks.", 
+            "link": "/wiki/Pelagic_fish", 
+            "name": "Pelagic fish"
+        }, 
+        {
+            "def": "Phosphate - a chemical compound containing phosphorus and oxygen, commonly found in agricultural fertilizers and land runoff.", 
+            "link": "/wiki/Phosphate", 
+            "name": "Phosphate"
+        }, 
+        {
+            "def": "Photic zone - \"sun lit\" zone extending downward from a lake or ocean surface to the euphotic depth where the light intensity falls to one percent of that at the surface. The photic zone exposed to sufficient sunlight for photosynthesis to occur. The depth of the photic zone can be greatly affected by seasonal turbidity. Typical euphotic depths vary from only a few centimetres in highly turbid eutrophic lakes, to around 200 metres in the open ocean. About 90% of all marine life lives in this region.", 
+            "link": "/wiki/Photic_zone", 
+            "name": "Photic zoneeuphotic"
+        }, 
+        {
+            "def": "Plankton - consist of any drifting organisms (animals, plants, archaea or bacteria) that inhabit the pelagic zones, particularly the surface areas, of oceans or bodies of fresh water.", 
+            "link": "/wiki/Plankton", 
+            "name": "Plankton"
+        }, 
+        {
+            "def": "Population - See stock.", 
+            "link": null, 
+            "name": "Population"
+        }, 
+        {
+            "def": "Population dynamics - The study of fish populations and how fishing mortality, growth, recruitment, and natural morality affect them.", 
+            "link": "/wiki/Population_dynamics_of_fisheries", 
+            "name": "Population dynamics"
+        }, 
+        {
+            "def": "Precautionary principle - a moral and political principle which states that if an action or policy might cause severe or irreversible harm to the public or to the environment, in the absence of a scientific consensus that harm would not ensue, the burden of proof falls on those who would advocate taking the action", 
+            "link": "/wiki/Precautionary_principle", 
+            "name": "Precautionary principle"
+        }, 
+        {
+            "def": "Predator-Prey - A predator is a species that feeds on other species. A prey is a species that is being eaten by a predator.", 
+            "link": "/wiki/Predator", 
+            "name": "Predator-Prey"
+        }, 
+        {
+            "def": "Primary Productivity - A measurement of plant production that is the start of the food chain. Much primary productivity in marine or aquatic systems is made up of phytoplankton, which are tiny one-celled algae that float freely in the water.", 
+            "link": "/wiki/Primary_production", 
+            "name": "Primary Productivity"
+        }, 
+        {
+            "def": "Projection - With the help of a mathematical model as a numerical representation of the population, a projection is a prediction of what may happen in the future under a variety of conditions.", 
+            "link": "/wiki/Forecasting", 
+            "name": "Projection"
+        }, 
+        {
+            "def": "purse seine - a fishing technique capable of harvesting large quantities of surface-schooling pelagic fish by surrounding the school with a net. A line which passes through rings on the bottom of the net can be tightened to close the net so that the fish are unable to escape. See also Danish seine.", 
+            "link": "/wiki/Seine_fishing#purse_seining", 
+            "name": "purse seine"
+        }, 
+        {
+            "def": "Phytoplankton - tiny, free-floating, photosynthetic organisms in aquatic systems.", 
+            "link": "/wiki/Phytoplankton", 
+            "name": "Phytoplankton"
+        }, 
+        {
+            "def": "Quota - Quota is the amount of catch that can be legally landed in a time period. It could refer to a fishery as a whole (total allowable catch) or to an amount allocated to an individual or company. See also individual transferable quota.", 
+            "link": "/wiki/Individual_fishing_quota", 
+            "name": "Quota"
+        }, 
+        {
+            "def": "Quota management system (QMS) - a system that limits the amount of fish that can be taken by commercial fishers. The QMS sets a quota that can be taken by each commercial fisher.", 
+            "link": null, 
+            "name": "Quota management system (QMS)"
+        }, 
+        {
+            "def": "Recruitment - the number of new young fish that enter a population in a given year. More pragmatically, it can be defined as the number of young fish that attain a size where they can be legally caught, or become susceptible to being caught by a given fishing gear.", 
+            "link": "/w/index.php?title=Fish_recruitment&action=edit&redlink=1", 
+            "name": "Recruitment"
+        }, 
+        {
+            "def": "Red tide - discolouration of surface waters, most frequently in coastal zones, caused by large concentrations of micro-organisms. See harmful algal bloom.", 
+            "link": "/wiki/Red_tide", 
+            "name": "Red tide"
+        }, 
+        {
+            "def": "Risk analysis - evaluates the possible outcomes of various harvesting strategies or management options.", 
+            "link": "/wiki/Risk_analysis_(Business)", 
+            "name": "Risk analysis"
+        }, 
+        {
+            "def": "Salinity gradient - Salinity gradient: Change in salinity with depth, expressed in parts per thousand per metre. See halocline.", 
+            "link": "/wiki/Salinity_gradient", 
+            "name": "Salinity gradient"
+        }, 
+        {
+            "def": "Sample - A relatively small part of a fish stock which is removed for study, and which ideally is representative of the whole. The greater the number and size of the samples, the greater the confidence that the information obtained accurately reflects the status (such as abundance by number or weight, or age composition) of the stock.", 
+            "link": "/wiki/Sampling_(statistics)", 
+            "name": "Sample"
+        }, 
+        {
+            "def": "Seamounts - underwater mountains rising at least 1000 metres above the sea floor.", 
+            "link": "/wiki/Seamounts", 
+            "name": "Seamounts"
+        }, 
+        {
+            "def": "Sea grass - members of marine seed plants that grow chiefly on sand or sand-mud bottom. They are most abundant in water less than 10 metres deep. Common types are eel grass, turtle grass and manatee grass.", 
+            "link": "/wiki/Sea_grass", 
+            "name": "Sea grass"
+        }, 
+        {
+            "def": "Selectivity - ability of a type of fishing tackle or gear to catch a certain size or kind of fish, compared with its ability to catch other sizes or kinds.", 
+            "link": null, 
+            "name": "Selectivity"
+        }, 
+        {
+            "def": "Seashore - the coast or that part of the land adjoining or near the ocean. See intertidal zone.", 
+            "link": "/wiki/Coast", 
+            "name": "Seashore"
+        }, 
+        {
+            "def": "Shelf break - where the continental shelf and continental slope meet. At the shelf break, the more gently sloping region of the seabed adjacent to a landmass rather abruptly slopes moresteeply down towards the ocean depths, commonly around depths of 200 metres.", 
+            "link": "/wiki/Shelf_break", 
+            "name": "Shelf break"
+        }, 
+        {
+            "def": "Shellfish - general term for aquatic invertebrates (molluscs, crustaceans and echinoderms).", 
+            "link": "/wiki/Shellfish", 
+            "name": "Shellfish"
+        }, 
+        {
+            "def": "Shoal - or sandbar is a somewhat linear landform within or extending into a body of water, typically composed of sand, silt or small pebbles. Bars can appear in the sea, in a lake, or in a river.", 
+            "link": "/wiki/Shoal", 
+            "name": "Shoal"
+        }, 
+        {
+            "def": "Shoaling - describes the behaviour of fish which aggregate together, including mixed species groups. Fish derive many benefits from shoaling behaviour including defence against predators through better predator detection and by diluting the chance of capture, enhanced foraging success, and higher success in finding a mate. It is also likely that fish benefit from shoal membership through increased hydrodynamic efficiency.", 
+            "link": "/wiki/Shoaling_and_schooling", 
+            "name": "Shoaling"
+        }, 
+        {
+            "def": "Shore - A shore or shoreline is the fringe of land at the edge of a large body of water, such as an ocean, sea, or lake. A shore of unconsolidated material is usually called a beach. See intertidal zone.", 
+            "link": "/wiki/Shore", 
+            "name": "Shore"
+        }, 
+        {
+            "def": "Simulation - An analysis that shows the production and harvest of fish using a group of equations to represent the fishery. It can be used to predict events in the fishery if certain factors change. See population dynamics.", 
+            "link": "/wiki/Simulation", 
+            "name": "Simulation"
+        }, 
+        {
+            "def": "Socioeconomics - A word used to identify the importance of factors other than biology in fishery management decisions. For example, if management results in more fishing income, it is important to know how the income is distributed between small and large boats or part-time and full-time fishermen.", 
+            "link": "/wiki/Socioeconomics", 
+            "name": "Socioeconomics"
+        }, 
+        {
+            "def": "Spawning - the production or depositing of large quantities of eggs in water.", 
+            "link": "/wiki/Spawn_(biology)", 
+            "name": "Spawning"
+        }, 
+        {
+            "def": "Species - a group of organisms capable of interbreeding and producing fertile offspring.", 
+            "link": "/wiki/Species", 
+            "name": "Species"
+        }, 
+        {
+            "def": "Species density - the number of species in a sampled area.", 
+            "link": null, 
+            "name": "Species density"
+        }, 
+        {
+            "def": "Species group - a group of similar species. Similar species are often difficult to differentiate without detailed examination.", 
+            "link": "/wiki/Species_group", 
+            "name": "Species group"
+        }, 
+        {
+            "def": "Sport fishery - See recreational fishery.", 
+            "link": "/wiki/Recreational_fishing", 
+            "name": "Sport fishery"
+        }, 
+        {
+            "def": "Stakeholder - anyone who has a stake or interest in the outcome of the project, as well as anyone one who is affected by the project.", 
+            "link": "/wiki/Stakeholder_(corporate)", 
+            "name": "Stakeholder"
+        }, 
+        {
+            "def": "Standardization - procedures which maintain methods and equipment as constant as possible. Without standardization one cannot determine whether measurements of yearly differences in relative abundance are caused by actual fluctuations in stock abundance or by differences in the measurement procedure used. Lack of standardization is one reason why surveys using different commercial fishing vessels in different years do not produce comparable information. For example, if two vessels of different horsepower are used in separate years, the results can't be compared unless vessel mensuration experiments are performed. This would involve comparing the two vessels' catches to determine the influence of their fishing power on the size of the catch, and a determination of a correction factor.", 
+            "link": "/wiki/Standardization", 
+            "name": "Standardization"
+        }, 
+        {
+            "def": "Stock - group of fish of the same species (for example, snapper) that occupy a defined area of the ocean. Fish stocks are the basis of fisheries\u2019 management. Not to be confused with stockfish.", 
+            "link": "/wiki/Fish_stock", 
+            "name": "Stock"
+        }, 
+        {
+            "def": "Straddling stocks - A term defined by the United Nations as \"stocks of fish such as pollock, which migrate between, or occur in both, the economic exclusion zone of one or more states and the high seas\". They can contrasted with transboundary stocks. A stock can be both transboundary and straddling.", 
+            "link": "/wiki/Straddling_stock", 
+            "name": "Straddling stocks"
+        }, 
+        {
+            "def": "Subantarctic waters - waters adjacent to, but not within, the Antarctic circle (about 66030'S).", 
+            "link": "/wiki/Subantarctic", 
+            "name": "Subantarctic waters"
+        }, 
+        {
+            "def": "Subtropical waters - waters adjacent to, but not within, the tropics.", 
+            "link": "/wiki/Subtropical", 
+            "name": "Subtropical waters"
+        }, 
+        {
+            "def": "Super seiner - a large purse seiner, usually over 70 metres long, with freezing and storage facilities, and capable of fishing for an extended period in open oceans.", 
+            "link": "/wiki/Factory_ship#Purse_seiner", 
+            "name": "Super seiner"
+        }, 
+        {
+            "def": "Surf - collective term for breakers. Also the wave activity in the area between the shoreline and the outermost limit of breakers.", 
+            "link": null, 
+            "name": "Surf"
+        }, 
+        {
+            "def": "Surf zone - As ocean surface waves come closer to shore they break, forming the foamy, bubbly surface called surf. The region of breaking waves defines the surf zone.", 
+            "link": "/wiki/Surf_zone", 
+            "name": "Surf zone"
+        }, 
+        {
+            "def": "Surface ocean currents - surface currents are generally wind driven and develop typical clockwise spirals in the northern hemisphere and counter-clockwise rotation in the southern hemisphere. In wind driven currents, the Ekman spiral effect results in the currents flowing at an angle to the driving winds. Surface currents make up about ten percent of the water in the ocean, and are generally restricted to the upper 400 meters. They can be contrasted with deep ocean currents, which are driven by density and temperature gradients.", 
+            "link": "/wiki/Ocean_current#Background", 
+            "name": "Surface ocean currents"
+        }, 
+        {
+            "def": "Surplus production - Surplus production is the inherent productivity of a fish stock that can be harvested on a sustainable basis. Based on the theory that, at large stock size, reproductive rates and rate of stock growth are slowed by self-regulating mechanisms, and that stock growth rates are faster after removals, as the stock attempts to rebuild. In theory, fishing can be moderated to take advantage of the more productive stock growth rates, provided that it does not exceed the stock recovery capacity.", 
+            "link": "/wiki/Surplus_production", 
+            "name": "Surplus production"
+        }, 
+        {
+            "def": "Sustainable fishing - fishing activities that do not cause or lead to undesirable changes in biological and economic productivity, biological diversity, or ecosystem structure and functioning, from one human generation to the next.", 
+            "link": "/wiki/Sustainable_fishing", 
+            "name": "Sustainable fishing"
+        }, 
+        {
+            "def": "Sustainable yield - Sustainable yield is the catch that can be removed over an indefinite period without causing the stock to be depleted. This could be either a constant yield from year to year, or a yield which is allowed to fluctuate in response to changes in abundance.", 
+            "link": "/wiki/Sustainable_yield", 
+            "name": "Sustainable yield"
+        }, 
+        {
+            "def": "Tag and release - marking or attaching a tag to a fish so that it can be identified on recapture. Used for the study of fish growth, movement, migration, and stock structure and size.", 
+            "link": "/wiki/Tag_and_release", 
+            "name": "Tag and release"
+        }, 
+        {
+            "def": "Threatened species - Threatened species are species which are vulnerable to extinction in the near future. The IUCN further divides them into three categories: vulnerable, endangered, and critically endangered.", 
+            "link": "/wiki/Threatened_species", 
+            "name": "Threatened species"
+        }, 
+        {
+            "def": "Tidal current - alternating horizontal movement of water in coastal areas, associated with the rise and fall of the tide as the earth rotates. The rise and fall is caused by gravitational forces exerted by the moon and the sun. Unlike ocean currents, tidal currents change in regular patterns that can be predicted for future dates.", 
+            "link": "/wiki/Tidal_currents", 
+            "name": "Tidal current"
+        }, 
+        {
+            "def": "Tidal flats - are coastal wetlands that form when mud is deposited by tides or rivers. Also called mudflats.", 
+            "link": "/wiki/Mud_flat", 
+            "name": "Tidal flats"
+        }, 
+        {
+            "def": "Transboundary stocks - are fish stocks which range across the EEZs of two or more countries. They can be contrasted with straddling stocks. A stock can be both transboundary and straddling.", 
+            "link": "/wiki/Transboundary_stock", 
+            "name": "Transboundary stocks"
+        }, 
+        {
+            "def": "Trap fishing - fishing by means of traps, often designed to catch a particular species, such with lobster pots.", 
+            "link": "/wiki/Fishing_trap", 
+            "name": "Trap fishing"
+        }, 
+        {
+            "def": "Trash fish - catch with no commercial value which is discarded, especially when trawling. Also called rough fish. See also coarse fish.", 
+            "link": "/wiki/Trash_fish", 
+            "name": "Trash fish"
+        }, 
+        {
+            "def": "Trawling - is fishing with a large bag-like net, called a trawl, which is drawn along behind a boat called a trawler. The net can be dragged along the sea bottom in order to target demersal fish, or pulled through clear water in order to target pelagic fish. Trawling along the sea bottom can result in significant bycatch and habitat destruction.", 
+            "link": "/wiki/Trawling", 
+            "name": "Trawlingtrawl"
+        }, 
+        {
+            "def": "Trophic level - The position that a species occupies in a food chain. The species it eats are at a lower trophic level, and the species that eats it are at a higher trophic level.", 
+            "link": "/wiki/Trophic_dynamics", 
+            "name": "Trophic level"
+        }, 
+        {
+            "def": "Trolling - a method of fishing where one or more fishing lines, baited with lures or bait fish, are drawn slowly through the water behind a boat. Trolling is used to catch pelagic fish such as mackerel and tuna species.", 
+            "link": "/wiki/Troll_(angling)", 
+            "name": "Trolling"
+        }, 
+        {
+            "def": "Turbidity current - a current of rapidly moving, sediment-laden water that is heavier than clear water and therefore flows downslope along the bottom of the sea or a lake. The term is most commonly used to describe underwater currents in lakes and oceans, which are usually triggered by earthquakes or slumping.", 
+            "link": "/wiki/Turbidity_current", 
+            "name": "Turbidity current"
+        }, 
+        {
+            "def": "Turtle excluder device (TED) - a specialized device that allows a captured sea turtle to escape when caught in a trawl net.", 
+            "link": "/wiki/Turtle_excluder_device", 
+            "name": "Turtle excluder device (TED)"
+        }, 
+        {
+            "def": "Underwater acoustics - due to its excellent propagation properties, underwater sound is used as a tool to aid the study of marine life, from microplankton to the blue whale. See also Ocean Tracking Network.", 
+            "link": "/wiki/Underwater_acoustics", 
+            "name": "Underwater acoustics"
+        }, 
+        {
+            "def": "Upwelling - the process by which water, usually cold and nutrient-rich, rises from a deeper to a shallower depth. This is often a result of offshore surface water flow, particularly when persistent wind blows parallel to a coastland and the resultant Ekman transport moves surface water away from the coast.", 
+            "link": "/wiki/Upwelling", 
+            "name": "Upwelling"
+        }, 
+        {
+            "def": "Vertebrates - animals with a backbone, including fish (sharks, rays and bony fish), amphibians, reptiles and mammals. See also invertebrates.", 
+            "link": "/wiki/Vertebrate", 
+            "name": "Vertebrates"
+        }, 
+        {
+            "def": "Vessel monitoring system (VMS) - technology used in commercial fishing to allow environmental and fisheries regulatory organizations to track the location of vessels.", 
+            "link": "/wiki/Vessel_monitoring_system", 
+            "name": "Vessel monitoring system (VMS)"
+        }, 
+        {
+            "def": "Virtual population analysis (VPA) - an analysis of fish population numbers that uses the number of fish caught at various ages or lengths and an estimate of natural mortality to estimate fishing mortality in a cohort. It also provides a back estimate of the number of fish in a cohort at various ages.", 
+            "link": "/wiki/Virtual_population_analysis", 
+            "name": "Virtual population analysis (VPA)"
+        }, 
+        {
+            "def": "Vulnerable species - a species which is likely to become an endangered species unless the circumstances threatening its survival and reproduction improve.", 
+            "link": "/wiki/Vulnerable_species", 
+            "name": "Vulnerable species"
+        }, 
+        {
+            "def": "Wetlands - areas of land where the soil is saturated with moisture, such as swamps and mangrove forests.", 
+            "link": "/wiki/Wetland", 
+            "name": "Wetlands"
+        }, 
+        {
+            "def": "Wild fish - are fish which live free, not penned in, in lakes, rivers or the sea. They can be contrasted with farmed fish.", 
+            "link": "/wiki/Wild_fisheries", 
+            "name": "Wild fish"
+        }, 
+        {
+            "def": "Wild fisheries - also called \"capture fisheries\", are fisheries which target wild fish. They can be contrasted with farmed fisheries.", 
+            "link": "/wiki/Wild_fisheries", 
+            "name": "Wild fisheries"
+        }, 
+        {
+            "def": "Wind currents - currents created by the action of the wind. Surface ocean currents are generally wind driven and develop typical clockwise spirals in the northern hemisphere and counter-clockwise rotation in the southern hemisphere. In wind driven currents, the Ekman spiral effect results in the currents flowing at an angle to the driving winds. Surface currents make up about ten percent of the water in the ocean, and are generally restricted to the upper 400 meters.", 
+            "link": "/wiki/Ocean_current#Background", 
+            "name": "Wind currents"
+        }
+    ]
+}

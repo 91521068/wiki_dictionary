@@ -7,6 +7,25 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
+        'https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_machine_vision',
+        'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
+        'https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_textile_manufacturing',
+        'https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence',
+        'https://en.wikipedia.org/wiki/Glossary_of_fishery_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_woodworking',
+        'https://en.wikipedia.org/wiki/Glossary_of_blogging',
+        'https://en.wikipedia.org/wiki/Glossary_of_automotive_design',
+        'https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics',
+        'https://en.wikipedia.org/wiki/Glossary_of_nautical_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_rail_transport_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_United_Kingdom_railway_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_North_American_railway_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_New_Zealand_railway_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_road_transport_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_the_American_trucking_industry',
         'https://en.wikipedia.org/wiki/Architectural_glossary',
         'https://en.wikipedia.org/wiki/Glossary_of_dance_moves',
         'https://en.wikipedia.org/wiki/Glossary_of_glass_art_terms',
@@ -109,36 +128,17 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_firefighting',
         'https://en.wikipedia.org/wiki/Glossary_of_firefighting_equipment',
         'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
-        'https://en.wikipedia.org/wiki/Glossary_of_fishery_terms',
-        'https://en.wikipedia.org/wiki/Outline_of_metalworking',
-        'https://en.wikipedia.org/wiki/Glossary_of_woodworking',
-        'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
-        'https://en.wikipedia.org/wiki/Glossary_of_textile_manufacturing',
-        'https://en.wikipedia.org/wiki/Category:Computing_terminology',
-        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
-        'https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence',
-        'https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms',
-        'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
-        'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_machine_vision',
-        'https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_blogging',
-        'https://en.wikipedia.org/wiki/Glossary_of_automotive_design',
-        'https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics',
-        'https://en.wikipedia.org/wiki/Glossary_of_nautical_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_rail_transport_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_United_Kingdom_railway_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_North_American_railway_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_New_Zealand_railway_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_road_transport_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_the_American_trucking_industry',
+
     ]
 
     """
 
+        'https://en.wikipedia.org/wiki/Outline_of_metalworking',
+        'https://en.wikipedia.org/wiki/Category:Computing_terminology',
         'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
+        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
 
-"""
+    """
 
     def is_in(self, url, list_all):
         for i in list_all:
@@ -223,6 +223,9 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_table_tennis",
             "Glossary_of_machine_vision",
             "Glossary_of_Unified_Modeling_Language_terms",
+            "Glossary_of_artificial_intelligence",
+            "Glossary_of_woodworking",
+            "Glossary_of_fishery_terms",
         ]):
             rule_name_main = './b'
             rule_name_sub = '.'
@@ -252,6 +255,7 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_automotive_design",
             "Glossary_of_blogging",
             "Glossary_of_computer_hardware_terms",
+            "Glossary_of_textile_manufacturing",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'
@@ -294,6 +298,17 @@ class QuotesSpider(scrapy.Spider):
 
             rule_def_main = 'dl'
             rule_def_sub = './dd'
+
+            type_of_algo = 0
+
+        elif self.is_in(response.url, [
+            "Glossary_of_mill_machinery",
+        ]):
+            rule_name_main = '//dl'
+            rule_name_sub = './dt'
+
+            rule_def_main = 'p'
+            rule_def_sub = '.'
 
             type_of_algo = 0
 
