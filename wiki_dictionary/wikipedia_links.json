@@ -1,0 +1,724 @@
+{
+  "topics": [
+    {
+      "name": "Art",
+      "name-fa": "هنر",
+      "subTopics": [
+        {
+          "name": "Architecture",
+          "name-fa": "معماری",
+          "link": "https://en.wikipedia.org/wiki/Architectural_glossary"
+        },
+        {
+          "name": "Dance",
+          "name-fa": "رقص",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_dance_moves"
+        },
+        {
+          "name": "Glass Art",
+          "name-fa": "نقاشی بر روی شیشه",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_glass_art_terms"
+        },
+        {
+          "name": "Graffiti",
+          "name-fa": "گرافیتی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_graffiti"
+        },
+        {
+          "name": "Literary",
+          "name-fa": "ادبیات",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_literary_terms"
+        },
+        {
+          "name": "Motion picture",
+          "name-fa": "پویانمایی",
+          "link": "https://en.wikipedia.org/wiki/Index_of_articles_related_to_motion_pictures"
+        },
+        {
+          "name": "Music",
+          "name-fa": "موسیقی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_musical_terminology"
+        },
+        {
+          "name": "Jazz and Popular",
+          "name-fa": "موسیقی پاپ و جاز",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_jazz_and_popular_music"
+        },
+        {
+          "name": "Sculpture",
+          "name-fa": "مجسمه سازی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_sculpting"
+        }
+      ]
+    },
+    {
+      "name": "Games",
+      "name-fa": "بازی ها",
+      "subTopics": [
+        {
+          "name": "Chess",
+          "name-fa": "شطرنج",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_chess"
+        },
+        {
+          "name": "Contract bridge",
+          "name-fa": "بازی با کارت- پل قرارداد",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_contract_bridge_terms"
+        },
+        {
+          "name": "Poker",
+          "name-fa": "پوکر",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_poker_terms"
+        },
+        {
+          "name": "Role-playing games",
+          "name-fa": "بازی های نقش آفرینی",
+          "link": "https://en.wikipedia.org/wiki/Role-playing_game_terms"
+        }
+      ]
+    },
+    {
+      "name": "Sport",
+      "name-fa": "ورزش",
+      "subTopics": [
+        {
+          "name": "American football",
+          "name-fa": "فوتبال آمریکایی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_American_football"
+        },
+        {
+          "name": "Association football",
+          "name-fa": "فوتبال",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_association_football_terms"
+        },
+        {
+          "name": "Baseball",
+          "name-fa": "بیسبال",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_baseball"
+        },
+        {
+          "name": "Basketball",
+          "name-fa": "بسکتبال",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_basketball_terms"
+        },
+        {
+          "name": "Climbing",
+          "name-fa": "صخره نوردی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_climbing_terms"
+        },
+        {
+          "name": "Cricket",
+          "name-fa": "کریکت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_cricket_terms"
+        },
+        {
+          "name": "Billiard",
+          "name-fa": "بیلیارد",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_cue_sports_terms"
+        },
+        {
+          "name": "Curling",
+          "name-fa": "اسکی روی یخ",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_curling"
+        },
+        {
+          "name": "Cycling",
+          "name-fa": "دوچرخه سواری",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_cycling"
+        },
+        {
+          "name": "Darts",
+          "name-fa": "دارت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_darts"
+        },
+        {
+          "name": "Equestrian",
+          "name-fa": "سوارکاری",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_equestrian_terms"
+        },
+        {
+          "name": "Fencing",
+          "name-fa": "شمشیربازی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_fencing"
+        },
+        {
+          "name": "Figure skating",
+          "name-fa": "اسکیت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_figure_skating_terms"
+        },
+        {
+          "name": "Golf",
+          "name-fa": "گلف",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_golf"
+        },
+        {
+          "name": "Ice hockey",
+          "name-fa": "هاکی روی یخ",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_ice_hockey_terms"
+        },
+        {
+          "name": "Rowing",
+          "name-fa": "پاروزنی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_rowing_terms"
+        },
+        {
+          "name": "Rugby",
+          "name-fa": "راگبی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_rugby_league_terms"
+        },
+        {
+          "name": "SCUBA and underwater diving",
+          "name-fa": "غواصی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology"
+        },
+        {
+          "name": "Table tennis",
+          "name-fa": "تنیس روی میز",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_table_tennis"
+        },
+        {
+          "name": "Tennis",
+          "name-fa": "تنیس",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_tennis_terms"
+        },
+        {
+          "name": "Volleyball",
+          "name-fa": "والیبال",
+          "link": "https://en.wikipedia.org/wiki/Volleyball_jargon"
+        },
+        {
+          "name": "Water polo",
+          "name-fa": "واترپولو",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_water_polo"
+        },
+        {
+          "name": "Wrestling",
+          "name-fa": "کشتی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_professional_wrestling_terms"
+        }
+      ]
+    },
+    {
+      "name": "Conjuring",
+      "name-fa": "شعبده بازی",
+      "subTopics": [
+        {
+          "name": "Magic(illusion)",
+          "name-fa": "شعبده بازی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_magic_(illusion)"
+        }
+      ]
+    },
+    {
+      "name": "Medicine",
+      "name-fa": "پزشکی",
+      "subTopics": [
+        {
+          "name": "Communication disorders",
+          "name-fa": "مشکلات ارتباطی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_medical_terms_related_to_communications_disorders"
+        },
+        {
+          "name": "diabetes",
+          "name-fa": "دیابت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_diabetes"
+        },
+        {
+          "name": "Medical roots",
+          "name-fa": "ریشه های کلمات",
+          "link": "https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes"
+        },
+        {
+          "name": "Medical Abbreviations",
+          "name-fa": "اختصارات پزشکی",
+          "link": "https://en.wikipedia.org/wiki/List_of_medical_abbreviations"
+        },
+        {
+          "name": "psychiatry",
+          "name-fa": "روان پزشکی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_psychiatry"
+        },
+        {
+          "name": "clinical research",
+          "name-fa": "تحقیق کلینیکی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_clinical_research"
+        }
+      ]
+    },
+    {
+      "name": "Military",
+      "name-fa": "نظامی",
+      "subTopics": [
+        {
+          "name": "Abbreviation",
+          "name-fa": "اختصارات",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations"
+        },
+        {
+          "name": "nautical",
+          "name-fa": "دریانوردی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "name-fa": "ریاضیات",
+      "subTopics": [
+        {
+          "name": "algorithms and data structures",
+          "name-fa": "الگوریتم و ساختار داده",
+          "link": "https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures"
+        },
+        {
+          "name": "areas of mathematics",
+          "name-fa": "حوزه های ریاضیات",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"
+        },
+        {
+          "name": "arithmetic and diophantine geometry",
+          "name-fa": "محاسبات و هندسه ی دیوفانتی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_arithmetic_and_diophantine_geometry"
+        },
+        {
+          "name": "category theory",
+          "name-fa": "نظریه ی مجموعه ها",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_category_theory"
+        },
+        {
+          "name": "cryptographic keys",
+          "name-fa": "رمزنگاری",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_cryptographic_keys"
+        },
+        {
+          "name": "differential geometry and topology",
+          "name-fa": "هندسه ی دیفرانسیلی و توپولوژی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_differential_geometry_and_topology"
+        },
+        {
+          "name": "topology",
+          "name-fa": "توپولوژی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_topology"
+        },
+        {
+          "name": "field theory",
+          "name-fa": "نظریه ی فیلد",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_field_theory"
+        },
+        {
+          "name": "game theory",
+          "name-fa": "نظریه ی بازیها",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_game_theory"
+        },
+        {
+          "name": "graph theory",
+          "name-fa": "نظریه ی گراف",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_graph_theory"
+        },
+        {
+          "name": "mathematical jargon",
+          "name-fa": "اصطلاحات ریاضی",
+          "link": "https://en.wikipedia.org/wiki/List_of_mathematical_jargon"
+        },
+        {
+          "name": "linear algebra",
+          "name-fa": "جبر خطی",
+          "link": "https://en.wikipedia.org/wiki/List_of_linear_algebra_topics"
+        },
+        {
+          "name": "order theory",
+          "name-fa": "نظریه ی  ترتیب",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_order_theory"
+        },
+        {
+          "name": "probability and statistics",
+          "name-fa": "آمار و احتمال",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics"
+        },
+        {
+          "name": "ring theory",
+          "name-fa": "نظریه ی حلقه",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_ring_theory"
+        },
+        {
+          "name": "algebraic geometry",
+          "name-fa": "هندسه ی جبری",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_algebraic_geometry"
+        },
+        {
+          "name": "Riemannian and metric geometry",
+          "name-fa": "هندسه ی متریک و ریمانی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Riemannian_and_metric_geometry"
+        },
+        {
+          "name": "semisimple groups",
+          "name-fa": "گروه های شبه ساده",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_semisimple_groups"
+        },
+        {
+          "name": "shapes",
+          "name-fa": "اشکال",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names"
+        },
+        {
+          "name": "tensor theory",
+          "name-fa": "نظریه ی تانسور",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_tensor_theory"
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "name-fa": "زیست شناسی",
+      "subTopics": [
+        {
+          "name": "biology",
+          "name-fa": "زیست شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_biology"
+        },
+        {
+          "name": "botany",
+          "name-fa": "گیاه شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_botanical_terms"
+        },
+        {
+          "name": "plant morphology",
+          "name-fa": "ریخت شناسی گیاهی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_plant_morphology"
+        },
+        {
+          "name": "entomology",
+          "name-fa": "حشره شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_entomology_terms"
+        },
+        {
+          "name": "ichthyology",
+          "name-fa": "ماهی شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_ichthyology"
+        },
+        {
+          "name": "ecology",
+          "name-fa": "بوم شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_ecology"
+        },
+        {
+          "name": "invasion biology",
+          "name-fa": "تهاجم زیست شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_invasion_biology_terms"
+        },
+        {
+          "name": "gene expression",
+          "name-fa": "ژنتیک",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_gene_expression_terms"
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "name-fa": "فیزیک",
+      "subTopics": [
+        {
+          "name": "astronomy",
+          "name-fa": "اخترشناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_astronomy"
+        },
+        {
+          "name": "classical physics",
+          "name-fa": "فیزیک کلاسیک",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_classical_physics"
+        },
+        {
+          "name": "elementary quantum mechanics",
+          "name-fa": "مکانیک کوانتومی مقدماتی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_elementary_quantum_mechanics"
+        },
+        {
+          "name": "modern physics",
+          "name-fa": "فیزیک مدرن",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_physics"
+        },
+        {
+          "name": "climate change",
+          "name-fa": "تغییرات اقلیمی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_climate_change"
+        },
+        {
+          "name": "geology",
+          "name-fa": "زمین شناسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_geology"
+        },
+        {
+          "name": "Severe weather",
+          "name-fa": "اصطلاحات هوای بد",
+          "link": "https://en.wikipedia.org/wiki/Severe_weather_terminology_(United_States)"
+        },
+        {
+          "name": "wildfire terms",
+          "name-fa": "اصطلاخات آتش شدید",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_wildfire_terms"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "name-fa": "شیمی",
+      "subTopics": [
+        {
+          "name": "elementary chemistry",
+          "name-fa": "شیمی مقدماتی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms"
+        }
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "name-fa": "فلسفه",
+      "subTopics": [
+        {
+          "name": "classical philosophy",
+          "name-fa": "فلسفه کلاسیک",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_philosophy"
+        },
+        {
+          "name": "Heideggerian philosophy",
+          "name-fa": "فلسفه ی هایدگری",
+          "link": "https://en.wikipedia.org/wiki/Heideggerian_terminology"
+        },
+        {
+          "name": "education",
+          "name-fa": "آموزش",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)"
+        }
+      ]
+    },
+    {
+      "name": "Religions",
+      "name-fa": "مذاهب",
+      "subTopics": [
+        {
+          "name": "ancient Roman religion",
+          "name-fa": "دین روم باستان",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion"
+        },
+        {
+          "name": "buddhism",
+          "name-fa": "بودیسم",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Buddhism"
+        },
+        {
+          "name": "Christianity",
+          "name-fa": "مسیحیت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Christianity"
+        },
+        {
+          "name": "Hinduism",
+          "name-fa": "هندوییسم",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Hinduism_terms"
+        },
+        {
+          "name": "islam",
+          "name-fa": "اسلام",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Islam"
+        },
+        {
+          "name": "spirituality",
+          "name-fa": "روحانیت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_spirituality_terms"
+        }
+      ]
+    },
+    {
+      "name": "Legal",
+      "name-fa": "حقوق",
+      "subTopics": [
+        {
+          "name": "latin",
+          "name-fa": "اصطلاحات لاتین",
+          "link": "https://en.wikipedia.org/wiki/List_of_Latin_legal_terms"
+        },
+        {
+          "name": "abbreviations",
+          "name-fa": "اختصارات",
+          "link": "https://en.wikipedia.org/wiki/List_of_legal_abbreviations"
+        },
+        {
+          "name": "legal",
+          "name-fa": "اصطلاحات جامع حقوق",
+          "link": "https://en.wiktionary.org/wiki/Appendix:Glossary_of_legal_terms"
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "name-fa": "مهندسی",
+      "subTopics": [
+        {
+          "name": "broadcasting",
+          "name-fa": "مخابرات",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms"
+        },
+        {
+          "name": "comprehensive enginnering terms",
+          "name-fa": "اصطلاحات جامع مهندسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_engineering"
+        },
+        {
+          "name": "Aerospace engineering",
+          "name-fa": "مهندسی هوافضا",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering"
+        },
+        {
+          "name": "fuel cell",
+          "name-fa": "سلول سوختی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_fuel_cell_terms"
+        },
+        {
+          "name": "Heating, ventilation, AC",
+          "name-fa": "تهویه و هوادهی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms"
+        },
+        {
+          "name": "firefighting",
+          "name-fa": "آتش نشانی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_firefighting"
+        },
+        {
+          "name": "firefighting equipment",
+          "name-fa": "تجهیزات آتش نشانی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_firefighting_equipment"
+        },
+        {
+          "name": "firelighting",
+          "name-fa": "ایجاد آتش",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_firelighting"
+        },{
+          "name": "fishery",
+          "name-fa": "ماهی گیری",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_fishery_terms"
+        },
+        {
+          "name": "metalworking",
+          "name-fa": "فلزکاری",
+          "link": "https://en.wikipedia.org/wiki/Outline_of_metalworking"
+        },
+        {
+          "name": "woodworking",
+          "name-fa": "چوبکاری",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_woodworking"
+        },
+        {
+          "name": "mill machinery",
+          "name-fa": "ماشین آلات آسیاب",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_mill_machinery"
+        },
+        {
+          "name": "textile manufacturing",
+          "name-fa": "صنعت نساجی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_textile_manufacturing"
+        }
+      ]
+    },
+    {
+      "name": "Computing and IT",
+      "name-fa": "محاسبات و تکنولوژی اطلاعات",
+      "subTopics": [
+        {
+          "name": "Computing",
+          "name-fa": "محاسبات",
+          "link": "https://en.wikipedia.org/wiki/Category:Computing_terminology"
+        },
+        {
+          "name": "abbreviations",
+          "name-fa": "اختصارات",
+          "link": "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations"
+        },
+        {
+          "name": "artificial intelligence",
+          "name-fa": "هوش مصنوعی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
+        },
+        {
+          "name": "computer hardware",
+          "name-fa": "سخت افزار کامپیوتر",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"
+        },
+        {
+          "name": "object-oriented programming",
+          "name-fa": "برنامه نویسی شی گرا",
+          "link": "https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles"
+        },
+        {
+          "name": "Unified Modeling Language",
+          "name-fa": "زبان مدلسازی استاندارد",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms"
+        },
+        {
+          "name": "machine vision",
+          "name-fa": "بینایی ماشین",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_machine_vision"
+        },
+        {
+          "name": "Internet-related",
+          "name-fa": "مرتبط با اینترنت",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms"
+        },
+        {
+          "name": "blogging",
+          "name-fa": "وبلاگ نویسی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_blogging"
+        }
+      ]
+    },
+    {
+      "name": "Transportation",
+      "name-fa": "حمل و نقل",
+      "subTopics": [
+        {
+          "name": "automotive design",
+          "name-fa": "طراحی اتوموبیل",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_automotive_design"
+        },
+        {
+          "name": "aviation, aerospace, and aeronautics",
+          "name-fa": "هوافضا",
+          "link": "https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics"
+        },
+        {
+          "name": "nautical",
+          "name-fa": "دریایی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms"
+        },
+        {
+          "name": "rail transport",
+          "name-fa": "انتقال ریلی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_rail_transport_terms"
+        },
+        {
+          "name": "United Kingdom railway",
+          "name-fa": "راه آهن انگلستان",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_United_Kingdom_railway_terms"
+        },
+        {
+          "name": "North American railway",
+          "name-fa": "راه آهن آمریکا",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_North_American_railway_terms"
+        },
+        {
+          "name": "New Zealand railway",
+          "name-fa": "راه آهن زلاندنو",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_New_Zealand_railway_terms"
+        },
+        {
+          "name": "road transport",
+          "name-fa": "انتقال ریلی",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_road_transport_terms"
+        },
+        {
+          "name": "American trucking industry",
+          "name-fa": "صنعت انتقال کامیونی آمریکا",
+          "link": "https://en.wikipedia.org/wiki/Glossary_of_the_American_trucking_industry"
+        }
+      ]
+    }
+  ]
+}
