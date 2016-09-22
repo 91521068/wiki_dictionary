@@ -9,17 +9,17 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
+
+
+    ]
+
+    """
         'https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures',
         'https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics',
         'https://en.wikipedia.org/wiki/Glossary_of_arithmetic_and_diophantine_geometry',
         'https://en.wikipedia.org/wiki/Glossary_of_category_theory',
         'https://en.wikipedia.org/wiki/Glossary_of_cryptographic_keys',
         'https://en.wikipedia.org/wiki/Glossary_of_differential_geometry_and_topology',
-
-
-    ]
-
-    """
         'https://en.wikipedia.org/wiki/Glossary_of_topology',
         'https://en.wikipedia.org/wiki/Glossary_of_field_theory',
         'https://en.wikipedia.org/wiki/Glossary_of_game_theory',
@@ -190,6 +190,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_algebraic_geometry",
             "Glossary_of_probability_and_statistics",
             "Glossary_of_graph_theory",
+            "Glossary_of_category_theory",
+            "Glossary_of_arithmetic_and_diophantine_geometry",
 
         ]):
 
@@ -278,6 +280,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_biology",
             "Glossary_of_shapes_with_metaphorical_names",
             "Glossary_of_order_theory",
+            "Glossary_of_cryptographic_keys",
+            "Glossary_of_areas_of_mathematics",
 
         ]):
             rule_name_main = './b[1]'
@@ -291,6 +295,7 @@ class QuotesSpider(scrapy.Spider):
 
         elif self.is_in(response.url, [
             "Glossary_of_Riemannian_and_metric_geometry",
+            "Glossary_of_differential_geometry_and_topology",
         ]):
             rule_name_main = './b[1]'
             rule_name_sub = '.'
@@ -406,6 +411,7 @@ class QuotesSpider(scrapy.Spider):
             "Category:Computing_terminology",
             "Glossary_of_semisimple_groups",
             "List_of_linear_algebra_topics",
+            "List_of_terms_relating_to_algorithms_and_data_structures",
         ]):
             ff = 1
 
