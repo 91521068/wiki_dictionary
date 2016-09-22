@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import scrapy
 import json
 
@@ -7,6 +9,19 @@ class QuotesSpider(scrapy.Spider):
 
     start_urls = [
 
+    ]
+
+    """
+        'https://en.wikipedia.org/wiki/Glossary_of_botanical_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_tensor_theory',
+        'https://en.wikipedia.org/wiki/Glossary_of_plant_morphology',
+        'https://en.wikipedia.org/wiki/Glossary_of_biology',
+        'https://en.wikipedia.org/wiki/Glossary_of_ichthyology',
+        'https://en.wikipedia.org/wiki/Glossary_of_entomology_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_ecology',
+        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
+        'https://en.wikipedia.org/wiki/List_of_legal_abbreviations',
+        'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
         'https://en.wikipedia.org/wiki/Glossary_of_invasion_biology_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_gene_expression_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_astronomy',
@@ -23,14 +38,11 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_philosophy',
         'https://en.wikipedia.org/wiki/Glossary_of_education_terms_(A%E2%80%93C)',
         'https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles',
-        'https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations',
         'https://en.wikipedia.org/wiki/Category:Computing_terminology',
-        'https://en.wikipedia.org/wiki/List_of_legal_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_Unified_Modeling_Language_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_machine_vision',
         'https://en.wikipedia.org/wiki/Glossary_of_mill_machinery',
-        'https://en.wikipedia.org/wiki/Glossary_of_firelighting',
         'https://en.wikipedia.org/wiki/Glossary_of_Buddhism',
         'https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion',
         'https://en.wikipedia.org/wiki/Glossary_of_Christianity',
@@ -125,18 +137,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_Riemannian_and_metric_geometry',
         'https://en.wikipedia.org/wiki/Glossary_of_semisimple_groups',
         'https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names',
-        'https://en.wikipedia.org/wiki/Glossary_of_tensor_theory',
-        'https://en.wikipedia.org/wiki/Glossary_of_biology',
-        'https://en.wikipedia.org/wiki/Glossary_of_botanical_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_plant_morphology',
-        'https://en.wikipedia.org/wiki/Glossary_of_entomology_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_ichthyology',
-        'https://en.wikipedia.org/wiki/Glossary_of_ecology',
-
-    ]
-
-    """
-
     """
 
     def is_in(self, url, list_all):
@@ -162,7 +162,6 @@ class QuotesSpider(scrapy.Spider):
         c2 = "Arts"
 
         ff = 0
-        fff = 0
         ggg = 0
 
         if self.is_in(response.url, [
@@ -182,6 +181,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_broadcasting_terms",
             "Glossary_of_philosophy",
             "Glossary_of_wildfire_terms",
+            "Glossary_of_entomology_terms",
+            "Glossary_of_botanical_terms",
 
         ]):
 
@@ -266,6 +267,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_classical_physics",
             "Glossary_of_astronomy",
             "Glossary_of_gene_expression_terms",
+            "Glossary_of_ecology",
+            "Glossary_of_biology",
 
         ]):
             rule_name_main = './b[1]'
@@ -361,6 +364,7 @@ class QuotesSpider(scrapy.Spider):
 
         elif self.is_in(response.url, [
             "Glossary_of_mill_machinery",
+            "Glossary_of_tensor_theory",
         ]):
             rule_name_main = '//dl'
             rule_name_sub = './dt'
@@ -371,32 +375,58 @@ class QuotesSpider(scrapy.Spider):
             type_of_algo = 0
 
         elif self.is_in(response.url, [
-            "Glossary_of_firelighting",
-            "Glossary_of_aerospace_engineering",
-            "List_of_legal_abbreviations",
             "Outline_of_metalworking",
             "Index_of_object-oriented_programming_articles",
-            "List_of_computing_and_IT_abbreviations",
             "Category:Computing_terminology",
         ]):
-
-            if ("Computing_terminology" in response.url or
-                        "Index_of_object-oriented_programming_articles" in response.url or
-                        "Outline_of_metalworking" in response.url):
-                ff = 1
-                rule_name_sub = '.'
-            else:
-                fff = 1
-                rule_name_sub = './child::a[1]'
+            ff = 1
 
             rule_word = '//div[@class="mw-content-ltr"][1]//li'
 
             rule_name_main = '.'
+            rule_name_sub = '.'
 
             rule_def_main = '.'
             rule_def_sub = '.'
 
             type_of_algo = 1
+
+        elif self.is_in(response.url, [
+
+            "Glossary_of_firelighting",
+            "Glossary_of_aerospace_engineering",
+            "List_of_legal_abbreviations",
+            "List_of_computing_and_IT_abbreviations",
+            "Glossary_of_ichthyology",
+            "Glossary_of_plant_morphology",
+
+        ]):
+
+            if "Glossary_of_firelighting" in response.url:
+                rule_def_main = u"–"
+                rule_def_sub = u"–"
+            elif "Glossary_of_aerospace_engineering" in response.url:
+                rule_def_main = u" —"
+                rule_def_sub = u"—"
+            elif "List_of_legal_abbreviations" in response.url:
+                rule_def_main = u" — "
+                rule_def_sub = u" - "
+            elif "List_of_computing_and_IT_abbreviations" in response.url:
+                rule_def_main = u"—"
+                rule_def_sub = u"—"
+            elif "Glossary_of_ichthyology" in response.url:
+                rule_def_main = u": "
+                rule_def_sub = u": "
+            elif "Glossary_of_plant_morphology" in response.url:
+                rule_def_main = u"–"
+                rule_def_sub = u"–"
+
+            rule_word = '//div[@class="mw-content-ltr"][1]//li'
+
+            rule_name_main = '.'
+            rule_name_sub = '.'
+
+            type_of_algo = 2
 
         elif self.is_in(response.url, [
             "Glossary_of_Buddhism",
@@ -432,17 +462,43 @@ class QuotesSpider(scrapy.Spider):
 
         elif type_of_algo == 1:
             for item in response.xpath(rule_word):
-                item22 = item.xpath(rule_name_main)
-                item2 = item22.xpath(rule_name_sub)
-
+                item2 = item.xpath(rule_name_main)
+                item2 = item2.xpath(rule_name_sub)
                 tt = (''.join(item2.xpath(".//text()").extract()), item2.xpath('./a/@href').extract_first())
-                if fff == 1:
-                    tt = (''.join(item2.xpath(".//text()").extract()), item22.xpath('./a/@href').extract_first())
-
                 item2 = item.xpath(rule_def_main)
                 item2 = item2.xpath(rule_def_sub)
                 tt2 = ''.join(item2.xpath(".//text()").extract())
                 if (tt[0] != tt2 or (len(tt[0]) > 3 and ff == 1)) and tt[0] != "Creative Commons Attribution-ShareAlike License":
+                    if tt not in words:
+                        words.append(tt)
+                        definitions.append(tt2)
+
+        elif type_of_algo == 2:
+            for item in response.xpath(rule_word):
+                item2 = item.xpath(rule_name_main)
+                item2 = item2.xpath(rule_name_sub)
+
+                tttttt = []
+                if len(''.join(item2.xpath("(.//text())").extract()).split(rule_def_main)) != 1:
+                    tttttt = ''.join(item2.xpath("(.//text())").extract()).split(rule_def_main)
+                elif len(''.join(item2.xpath("(.//text())").extract()).split(rule_def_sub)) != 1:
+                    tttttt = ''.join(item2.xpath("(.//text())").extract()).split(rule_def_sub)
+
+                try:
+                    tt = (tttttt[0], item2.xpath('./node()[1][name()="a"]/@href').extract_first())
+                except:
+                    tt = ("" ,"")
+
+                tt2 =''
+                if len(tttttt) == 2:
+                    tt2 = tttttt[1]
+                elif len(tttttt) == 1:
+                    tt2 = tttttt[0]
+                else:
+                    tt = ("","")
+                    tt2 = ""
+
+                if (tt[0] != tt2 or (len(tt[0]) > 3 and ff == 1)) and "Williams, Gerald W. (Summer 2000)" not in tt[0]:
                     if tt not in words:
                         words.append(tt)
                         definitions.append(tt2)

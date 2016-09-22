@@ -1,0 +1,62 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_tensor_theory", 
+    "words": [
+        {
+            "def": "The earliest foundation of tensor theory \u2013 tensor index notation.[1]", 
+            "link": "/wiki/Ricci_calculus", 
+            "name": "Ricci calculus"
+        }, 
+        {
+            "def": "The components of a tensor with respect to a basis is an indexed array. The order of a tensor is the number of indices needed. Some texts may refer to the tensor order using the term degree or rank.", 
+            "link": "/wiki/Tensor", 
+            "name": "Tensor order"
+        }, 
+        {
+            "def": "The rank of a tensor is the minimum number of rank-one tensor that must be summed to obtain the tensor. A rank-one tensor may be defined as expressible as the outer product of the number of nonzero vectors needed to obtain the correct order.", 
+            "link": null, 
+            "name": "Rank"
+        }, 
+        {
+            "def": "A dyadic tensor is a tensor of order two, and may be represented as a square matrix. In contrast, a dyad is specifically a dyadic tensor of rank one.", 
+            "link": "/wiki/Dyadic_tensor", 
+            "name": "Dyadic tensor"
+        }, 
+        {
+            "def": "This notation is based on the understanding that in a term in an expression contains a repeated index letter, the default interpretation is that the product is summed over all permitted values of the index. For example, if aij is a matrix, then under this convention aii is its trace. The Einstein convention is widely used in physics and engineering texts, to the extent that if summation is not to be applied, it is normal to note that explicitly.", 
+            "link": "/wiki/Einstein_notation", 
+            "name": "Einstein notation"
+        }, 
+        {
+            "def": "The classical interpretation is by components. For example, in the differential form aidxi the components ai are a covariant vector. That means all indices are lower; contravariant means all indices are upper.", 
+            "link": "/wiki/Covariance_and_contravariance_of_vectors", 
+            "name": "Contravariant tensor"
+        }, 
+        {
+            "def": "This refers to any tensor that has both lower and upper indices.", 
+            "link": "/wiki/Mixed_tensor", 
+            "name": "Mixed tensor"
+        }, 
+        {
+            "def": "This is an operation on fields, that does not always produce a field.", 
+            "link": "/wiki/Tensor_product_of_fields", 
+            "name": "Tensor product of fields"
+        }, 
+        {
+            "def": "A representation of a Clifford algebra which gives a realisation of a Clifford algebra as a matrix algebra.", 
+            "link": "/wiki/Clifford_module", 
+            "name": "Clifford module"
+        }, 
+        {
+            "def": "These are the derived functors of the tensor product, and feature strongly in homological algebra. The name comes from the torsion subgroup in abelian group theory.", 
+            "link": "/wiki/Tor_functor", 
+            "name": "Tor functors"
+        }, 
+        {
+            "def": "These are highly abstract approaches used in some parts of geometry.", 
+            "link": "/wiki/Grothendieck%27s_six_operations", 
+            "name": "Grothendieck's six operations"
+        }
+    ]
+}

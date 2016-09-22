@@ -4,539 +4,774 @@
     "c3": "List_of_legal_abbreviations", 
     "words": [
         {
-            "def": "Abbreviations and Acronyms of the U.S. Government (maintained by U.S. Government Publishing Office)", 
-            "link": "http://www.gpo.gov/fdsys/pkg/GOVMAN-2009-09-15/pdf/GOVMAN-2009-09-15-Pg575.pdf", 
-            "name": "Abbreviations and Acronyms of the U.S. Government"
-        }, 
-        {
-            "def": "The Cardiff Index to Legal Abbreviations (maintained by Cardiff University).", 
-            "link": "http://www.legalabbrevs.cardiff.ac.uk/", 
-            "name": "The Cardiff Index to Legal Abbreviations"
-        }, 
-        {
-            "def": "Harvard Law School. \"The Bluebook: A Uniform System of Citation\". 20th ed. Cambridge, MA: Harvard Law Review Association, 2015.", 
-            "link": "/wiki/Harvard_Law_School", 
-            "name": "Harvard Law School"
-        }, 
-        {
-            "def": "Prince, Mary Miles. Bieber's Dictionary of Legal Abbreviations. 6th ed. Buffalo, NY: Hein, 2009. Bieber's Dictionary of Legal Abbreviations, 5th ed. at Google Books", 
-            "link": "/wiki/Google_Books", 
-            "name": "Google Books"
-        }, 
-        {
-            "def": "Trinxet, Salvador. Template:Trinxet Dictionary of Legal Abbreviations and Acronyms Series. A Law Reference Collection, 2011, ISBN 1624680003 and ISBN 978-1-62468-000-7", 
-            "link": "/wiki/Special:BookSources/1624680003", 
-            "name": "ISBN 1624680003"
-        }, 
-        {
-            "def": "Trinxet, Salvador. Trinxet Reverse Dictionary of Legal Abbreviations and Acronyms, 2011, ISBN 1624680011 and ISBN 978-1-62468-001-4.", 
-            "link": "/wiki/Special:BookSources/1624680011", 
-            "name": "ISBN 1624680011"
-        }, 
-        {
-            "def": "\u00a9 \u2014 Copyright, meaning someone claims ownership of the text, book, music, software, etc.", 
+            "def": "Copyright, meaning someone claims ownership of the text, book, music, software, etc.", 
             "link": "/wiki/%C2%A9", 
             "name": "\u00a9"
         }, 
         {
-            "def": "\u00ae \u2014 Registered Trademark (typically a word or phrase identifying a company or product, e.g. Coca Cola)", 
+            "def": "Registered Trademark (typically a word or phrase identifying a company or product, e.g. Coca Cola)", 
             "link": "/wiki/%C2%AE", 
             "name": "\u00ae"
         }, 
         {
-            "def": "A. \u2014 Atlantic Reporter", 
-            "link": "/wiki/Atlantic_Reporter", 
-            "name": "Atlantic Reporter"
+            "def": "Atlantic Reporter", 
+            "link": null, 
+            "name": "A."
         }, 
         {
-            "def": "ABA \u2014 American Bar Association", 
-            "link": "/wiki/American_Bar_Association", 
-            "name": "American Bar Association"
+            "def": "Atlantic Reporter, 2nd Series", 
+            "link": null, 
+            "name": "A.2d"
         }, 
         {
-            "def": "ACC \u2014 Association of Corporate Counsel", 
-            "link": "/wiki/Association_of_Corporate_Counsel", 
-            "name": "Association of Corporate Counsel"
+            "def": "American Bar Association", 
+            "link": null, 
+            "name": "ABA"
         }, 
         {
-            "def": "Ala. Admin. Code \u2014 Alabama Administrative Code (unofficial text)", 
-            "link": "http://www.alabamaadministrativecode.state.al.us/", 
-            "name": "Alabama Administrative Code"
+            "def": "Association of Corporate Counsel", 
+            "link": null, 
+            "name": "ACC"
         }, 
         {
-            "def": "Ala. Code \u2014 Code of Alabama 1975 (unofficial text)", 
-            "link": "http://alisdb.legislature.state.al.us/acas/codeofalabama/1975/coatoc.htm", 
-            "name": "Code of Alabama 1975"
+            "def": "ad sectam (Latin), at the suit of. Used in colonial and Federal Era American cases when the defendant is listed first; e.g., \"John Doe v. Richard Roe\" is labeled \"Richard Roe ads. John Doe.\" The long script \"S\" of the period often makes this appear as \"adj.\"", 
+            "link": null, 
+            "name": "ad.,ads.,adsm."
         }, 
         {
-            "def": "Alaska Admin. Code \u2014 Alaska Administrative Code (unofficial text)", 
-            "link": "http://www.legis.state.ak.us/cgi-bin/folioisa.dll/aac?", 
-            "name": "Alaska Administrative Code"
+            "def": "see \"ad.\" above.", 
+            "link": null, 
+            "name": "adj."
         }, 
         {
-            "def": "Alaska Stat. \u2014 Alaska Statutes (unofficial text)", 
-            "link": "http://www.legis.state.ak.us/folhome.htm", 
-            "name": "Alaska Statutes"
+            "def": "Alabama Administrative Code (unofficial text)", 
+            "link": null, 
+            "name": "Ala. Admin. Code"
         }, 
         {
-            "def": "All ER \u2014 All England Law Reports", 
-            "link": "/wiki/All_England_Law_Reports", 
-            "name": "All England Law Reports"
+            "def": "Code of Alabama 1975 (unofficial text)", 
+            "link": null, 
+            "name": "Ala. Code"
         }, 
         {
-            "def": "A.L.R. \u2014 American Law Reports", 
-            "link": "/wiki/American_Law_Reports", 
-            "name": "American Law Reports"
+            "def": "Alaska Administrative Code (unofficial text)", 
+            "link": null, 
+            "name": "Alaska Admin. Code"
         }, 
         {
-            "def": "Am. Jur. \u2014 American Jurisprudence", 
-            "link": "/wiki/American_Jurisprudence", 
-            "name": "American Jurisprudence"
+            "def": "Alaska Statutes (unofficial text)", 
+            "link": null, 
+            "name": "Alaska Stat."
         }, 
         {
-            "def": "Ariz. Admin. Code \u2014 Arizona Administrative Code (unofficial text)", 
-            "link": "http://www.azsos.gov/public_services/Table_of_Contents.htm", 
-            "name": "Arizona Administrative Code"
+            "def": "All England Law Reports", 
+            "link": null, 
+            "name": "All ER"
         }, 
         {
-            "def": "Ariz. Admin. Reg. \u2014 Arizona Administrative Register (unofficial text)", 
-            "link": "http://www.azsos.gov/aar/contents.htm", 
-            "name": "Arizona Administrative Register"
+            "def": "American Law Reports", 
+            "link": null, 
+            "name": "A.L.R."
         }, 
         {
-            "def": "Ariz. Rev. Stat. \u2014 Arizona Revised Statutes (unofficial text)", 
-            "link": "http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp", 
-            "name": "Arizona Revised Statutes"
+            "def": "American Law Reports, 2nd Series", 
+            "link": null, 
+            "name": "A.L.R.2d"
         }, 
         {
-            "def": "Ark. Code \u2014 Arkansas Code (unofficial text)", 
-            "link": "http://www.arkleg.state.ar.us/data/ar_code.asp", 
-            "name": "Arkansas Code"
+            "def": "American Law Reports, 3rd Series", 
+            "link": null, 
+            "name": "A.L.R.3d"
         }, 
         {
-            "def": "B.A.P. \u2014 Bankruptcy Appellate Panel", 
-            "link": "/wiki/Bankruptcy_Appellate_Panel", 
-            "name": "Bankruptcy Appellate Panel"
+            "def": "American Law Reports, 4th Series", 
+            "link": null, 
+            "name": "A.L.R.4th"
         }, 
         {
-            "def": "BFP \u2014 Bona fide purchaser", 
-            "link": "/wiki/Bona_fide_purchaser", 
-            "name": "Bona fide purchaser"
+            "def": "American Law Reports, 5th Series", 
+            "link": null, 
+            "name": "A.L.R.5th"
         }, 
         {
-            "def": "BR or B/R \u2014 Bankruptcy (also the abbreviation for the United States bankruptcy courts reporter, West's Bankruptcy Reporter)", 
-            "link": "/wiki/Bankruptcy", 
-            "name": "Bankruptcy"
+            "def": "American Law Reports, 6th Series", 
+            "link": null, 
+            "name": "A.L.R.6th"
         }, 
         {
-            "def": "c. \u2014 Chapter", 
-            "link": "https://en.wiktionary.org/wiki/chapter", 
-            "name": "Chapter"
+            "def": "American Law Reports, Federal", 
+            "link": null, 
+            "name": "A.L.R. Fed."
         }, 
         {
-            "def": "CA \u2014 Class action", 
-            "link": "/wiki/Class_action", 
-            "name": "Class action"
+            "def": "American Jurisprudence", 
+            "link": null, 
+            "name": "Am. Jur."
         }, 
         {
-            "def": "CB \u2014 Casebook", 
-            "link": "/wiki/Casebook", 
-            "name": "Casebook"
+            "def": "American Jurisprudence, 2nd Series", 
+            "link": null, 
+            "name": "Am. Jur. 2d."
         }, 
         {
-            "def": "CBJ \u2014 California Bar journal", 
-            "link": "/w/index.php?title=California_Bar_journal&action=edit&redlink=1", 
-            "name": "California Bar journal"
+            "def": "Another", 
+            "link": null, 
+            "name": "Anor"
         }, 
         {
-            "def": "CC \u2014 Commerce Clause", 
-            "link": "/wiki/Commerce_Clause", 
-            "name": "Commerce Clause"
+            "def": "Arizona Administrative Code (unofficial text)", 
+            "link": null, 
+            "name": "Ariz. Admin. Code"
         }, 
         {
-            "def": "C-C \u2014 Counterclaim", 
-            "link": "/wiki/Counterclaim", 
-            "name": "Counterclaim"
+            "def": "Arizona Administrative Register (unofficial text)", 
+            "link": null, 
+            "name": "Ariz. Admin. Reg."
         }, 
         {
-            "def": "CE \u2014 Collateral estoppel", 
-            "link": "/wiki/Collateral_estoppel", 
-            "name": "Collateral estoppel"
+            "def": "Arizona Revised Statutes (unofficial text)", 
+            "link": null, 
+            "name": "Ariz. Rev. Stat."
         }, 
         {
-            "def": "CL \u2014 Common law", 
-            "link": "/wiki/Common_law", 
-            "name": "Common law"
+            "def": "Arkansas Code (unofficial text)", 
+            "link": null, 
+            "name": "Ark. Code"
         }, 
         {
-            "def": "CNeg \u2014 Contributory negligence", 
-            "link": "/wiki/Contributory_negligence", 
-            "name": "Contributory negligence"
+            "def": "Article", 
+            "link": null, 
+            "name": "Art"
         }, 
         {
-            "def": "CA # \u2014 Court of Appeals (Court of Appeals for the #th Circuit)", 
-            "link": "/wiki/Appellate_court", 
-            "name": "Court of Appeals"
+            "def": "Attorney", 
+            "link": null, 
+            "name": "Atty"
         }, 
         {
-            "def": "Cx \u2014 Constitution", 
-            "link": "/wiki/Constitution", 
-            "name": "Constitution"
+            "def": "Bankruptcy Appellate Panel", 
+            "link": null, 
+            "name": "B.A.P."
         }, 
         {
-            "def": "Cx-C \u2014 Cross-claim", 
-            "link": "/wiki/Cross-claim", 
-            "name": "Cross-claim"
+            "def": "Bona fide purchaser", 
+            "link": null, 
+            "name": "BFP"
         }, 
         {
-            "def": "Cal. Code \u2014 California Code (unofficial text?[1])", 
-            "link": "http://www.leginfo.ca.gov/calaw.html", 
-            "name": "California Code"
+            "def": "Bankruptcy (also the abbreviation for the United States bankruptcy courts reporter, West's Bankruptcy Reporter)", 
+            "link": null, 
+            "name": "BR or B/R"
         }, 
         {
-            "def": "CCR \u2014 California Code of Regulations (official text?) (source: Thomson/West)", 
-            "link": "http://www.calregs.com/linkedslice/default.asp?SP=CCR-1000&Action=Welcome", 
-            "name": "California Code of Regulations"
+            "def": "Chapter", 
+            "link": null, 
+            "name": "c."
         }, 
         {
-            "def": "CIF \u2014 Coming into force", 
-            "link": "/wiki/Coming_into_force", 
-            "name": "Coming into force"
+            "def": "Chapters", 
+            "link": null, 
+            "name": "cc."
         }, 
         {
-            "def": "C.F.R. \u2014 Code of Federal Regulations", 
-            "link": "/wiki/Code_of_Federal_Regulations", 
-            "name": "Code of Federal Regulations"
+            "def": "Class action", 
+            "link": null, 
+            "name": "CA"
         }, 
         {
-            "def": "CFR \u2014 Call for Response (At the US Supreme Court, if the other side has stated it will not respond to a petition for cert., any Justice may direct the Clerk to call for a response.)", 
-            "link": "/wiki/Certiorari", 
-            "name": "petition for cert."
+            "def": "Casebook", 
+            "link": null, 
+            "name": "CB"
         }, 
         {
-            "def": "CJS \u2014 Corpus Juris Secundum", 
-            "link": "/wiki/Corpus_Juris_Secundum", 
-            "name": "Corpus Juris Secundum"
+            "def": "California Bar journal", 
+            "link": null, 
+            "name": "CBJ"
         }, 
         {
-            "def": "Cong. Rec. \u2014 Congressional Record", 
-            "link": "/wiki/Congressional_Record", 
-            "name": "Congressional Record"
+            "def": "Commerce Clause", 
+            "link": null, 
+            "name": "CC"
         }, 
         {
-            "def": "Ct. Cl. \u2014 the United States Court of Federal Claims Reporter", 
-            "link": "/wiki/United_States_Court_of_Federal_Claims", 
-            "name": "United States Court of Federal Claims"
+            "def": "Counterclaim", 
+            "link": null, 
+            "name": "C-C"
         }, 
         {
-            "def": "\u0394 (Greek letter delta) \u2014 Defendant", 
-            "link": "/wiki/Greek_alphabet", 
-            "name": "Greek letter"
+            "def": "Collateral estoppel", 
+            "link": null, 
+            "name": "CE"
         }, 
         {
-            "def": "F. \u2014 Federal Reporter", 
-            "link": "/wiki/Federal_Reporter", 
-            "name": "Federal Reporter"
+            "def": "Common law", 
+            "link": null, 
+            "name": "CL"
         }, 
         {
-            "def": "F.App'x \u2014 Federal Appendix", 
-            "link": "/wiki/Federal_Appendix", 
-            "name": "Federal Appendix"
+            "def": "Contributory negligence", 
+            "link": null, 
+            "name": "CNeg"
         }, 
         {
-            "def": "F.Cas. \u2014 Federal Cases 1789\u20131880", 
-            "link": "/wiki/Federal_Cases", 
-            "name": "Federal Cases 1789\u20131880"
+            "def": "Court of Appeals (Court of Appeals for the #th Circuit)", 
+            "link": null, 
+            "name": "CA #"
         }, 
         {
-            "def": "Fed. Reg. (sometimes FR) \u2014 Federal Register (see Federal Register for full text from 1994 to date)", 
-            "link": "/wiki/Federal_Register", 
-            "name": "Federal Register"
+            "def": "Constitution", 
+            "link": null, 
+            "name": "Cx"
         }, 
         {
-            "def": "Fed. R. Bankr. P. \u2014 Federal Rules of Bankruptcy Procedure", 
-            "link": "/wiki/Federal_Rules_of_Bankruptcy_Procedure", 
-            "name": "Federal Rules of Bankruptcy Procedure"
+            "def": "Cross-claim", 
+            "link": null, 
+            "name": "Cx-C"
         }, 
         {
-            "def": "Fed. R. Civ. P. (sometimes FRCP) \u2014 Federal Rules of Civil Procedure", 
-            "link": "/wiki/Federal_Rules_of_Civil_Procedure", 
-            "name": "Federal Rules of Civil Procedure"
+            "def": "Constitutional", 
+            "link": null, 
+            "name": "Cxl"
         }, 
         {
-            "def": "Fed. R. Crim. P. \u2014 Federal Rules of Criminal Procedure", 
-            "link": "/wiki/Federal_Rules_of_Criminal_Procedure", 
-            "name": "Federal Rules of Criminal Procedure"
+            "def": "California Code (unofficial text?[1])", 
+            "link": null, 
+            "name": "Cal. Code"
         }, 
         {
-            "def": "Fed. R. Evid. (sometimes FRE) \u2014 Federal Rules of Evidence", 
-            "link": "/wiki/Federal_Rules_of_Evidence", 
-            "name": "Federal Rules of Evidence"
+            "def": "California Code of Regulations (see: CCR below)", 
+            "link": null, 
+            "name": "Cal. Code Reg."
         }, 
         {
-            "def": "F.Supp. \u2014 Federal Supplement", 
-            "link": "/wiki/Federal_Supplement", 
-            "name": "Federal Supplement"
+            "def": "California Code of Regulations (official text?) (source: Thomson/West)", 
+            "link": null, 
+            "name": "CCR"
         }, 
         {
-            "def": "GATT \u2014 General Agreement on Tariffs and Trade", 
-            "link": "/wiki/General_Agreement_on_Tariffs_and_Trade", 
-            "name": "General Agreement on Tariffs and Trade"
+            "def": "Coming into force", 
+            "link": null, 
+            "name": "CIF"
         }, 
         {
-            "def": "GC \u2014 General Counsel", 
-            "link": "/wiki/General_Counsel", 
-            "name": "General Counsel"
+            "def": "Code of Federal Regulations", 
+            "link": null, 
+            "name": "C.F.R."
         }, 
         {
-            "def": "GVR \u2014 Grant, Vacate, and Remand", 
-            "link": "/wiki/GVR_Order", 
-            "name": "Grant, Vacate, and Remand"
+            "def": "Call for Response (At the US Supreme Court, if the other side has stated it will not respond to a petition for cert., any Justice may direct the Clerk to call for a response.)", 
+            "link": null, 
+            "name": "CFR"
         }, 
         {
-            "def": "HDC \u2014 Holder in due course", 
-            "link": "/wiki/Holder_in_due_course", 
-            "name": "Holder in due course"
+            "def": "Corpus Juris Secundum", 
+            "link": null, 
+            "name": "CJS"
         }, 
         {
-            "def": "IRB \u2014 Internal Revenue Bulletin (from July 2003 to date)", 
+            "def": "Congressional Record", 
+            "link": null, 
+            "name": "Cong. Rec."
+        }, 
+        {
+            "def": "the United States Court of Federal Claims Reporter", 
+            "link": null, 
+            "name": "Ct. Cl."
+        }, 
+        {
+            "def": "Defendant", 
+            "link": null, 
+            "name": "\u0394 (Greek letter delta)"
+        }, 
+        {
+            "def": "Days After Contract", 
+            "link": null, 
+            "name": "DAC"
+        }, 
+        {
+            "def": "Employer", 
+            "link": null, 
+            "name": "ER"
+        }, 
+        {
+            "def": "Employee", 
+            "link": null, 
+            "name": "EE"
+        }, 
+        {
+            "def": "Latin for \"and others\".", 
+            "link": null, 
+            "name": "et als."
+        }, 
+        {
+            "def": "Federal Reporter", 
+            "link": null, 
+            "name": "F."
+        }, 
+        {
+            "def": "Federal Reporter, 2nd Series", 
+            "link": null, 
+            "name": "F.2d"
+        }, 
+        {
+            "def": "Federal Reporter, 3rd Series", 
+            "link": null, 
+            "name": "F.3d"
+        }, 
+        {
+            "def": "Federal Appendix", 
+            "link": null, 
+            "name": "F.App'x"
+        }, 
+        {
+            "def": "Federal Cases 1789\u20131880", 
+            "link": null, 
+            "name": "F.Cas."
+        }, 
+        {
+            "def": "Federal Register (see Federal Register for full text from 1994 to date)", 
+            "link": null, 
+            "name": "Fed. Reg. (sometimes FR)"
+        }, 
+        {
+            "def": "Federal Rules of Bankruptcy Procedure", 
+            "link": null, 
+            "name": "Fed. R. Bankr. P."
+        }, 
+        {
+            "def": "Federal Rules of Civil Procedure", 
+            "link": null, 
+            "name": "Fed. R. Civ. P. (sometimes FRCP)"
+        }, 
+        {
+            "def": "Federal Rules of Criminal Procedure", 
+            "link": null, 
+            "name": "Fed. R. Crim. P."
+        }, 
+        {
+            "def": "Federal Rules of Evidence", 
+            "link": null, 
+            "name": "Fed. R. Evid. (sometimes FRE)"
+        }, 
+        {
+            "def": "Federal Supplement", 
+            "link": null, 
+            "name": "F.Supp."
+        }, 
+        {
+            "def": "Federal Supplement, 2nd Series", 
+            "link": null, 
+            "name": "F.Supp.2d"
+        }, 
+        {
+            "def": "General Agreement on Tariffs and Trade", 
+            "link": null, 
+            "name": "GATT"
+        }, 
+        {
+            "def": "General Counsel", 
+            "link": null, 
+            "name": "GC"
+        }, 
+        {
+            "def": "Grant, Vacate, and Remand", 
+            "link": null, 
+            "name": "GVR"
+        }, 
+        {
+            "def": "Non Government Organization", 
+            "link": null, 
+            "name": "NGO"
+        }, 
+        {
+            "def": "Holder in due course", 
+            "link": null, 
+            "name": "HDC"
+        }, 
+        {
+            "def": "International Legal Materials", 
+            "link": null, 
+            "name": "I.L.M."
+        }, 
+        {
+            "def": "Internal Revenue Bulletin (from July 2003 to date)", 
             "link": "/wiki/Internal_Revenue_Bulletin", 
             "name": "IRB"
         }, 
         {
-            "def": "IRC \u2014 Internal Revenue Code", 
-            "link": "/wiki/Internal_Revenue_Code", 
-            "name": "Internal Revenue Code"
+            "def": "Irish Law Reports Monthly", 
+            "link": null, 
+            "name": "ILRM"
         }, 
         {
-            "def": "ISLN \u2014 International Standard Lawyer Number", 
-            "link": "/wiki/International_Standard_Lawyer_Number", 
-            "name": "International Standard Lawyer Number"
+            "def": "Irish Law Reports", 
+            "link": null, 
+            "name": "IR"
         }, 
         {
-            "def": "J \u2014 Judge or Justice, according to jurisdiction", 
-            "link": "/wiki/Judge", 
-            "name": "Judge"
+            "def": "Internal Revenue Code", 
+            "link": null, 
+            "name": "IRC"
         }, 
         {
-            "def": "JMOL \u2014 Judgment as a matter of law", 
-            "link": "/wiki/Judgment_as_a_matter_of_law", 
-            "name": "Judgment as a matter of law"
+            "def": "International Standard Lawyer Number", 
+            "link": null, 
+            "name": "ISLN"
         }, 
         {
-            "def": "JNOV \u2014 Judgment notwithstanding verdict", 
-            "link": "/wiki/Judgment_notwithstanding_verdict", 
-            "name": "Judgment notwithstanding verdict"
+            "def": "Judge or Justice, according to jurisdiction", 
+            "link": null, 
+            "name": "J"
         }, 
         {
-            "def": "Jx - Jurisdiction", 
-            "link": "/wiki/Jurisdiction", 
-            "name": "Jurisdiction"
+            "def": "Judges or Justices, plural", 
+            "link": null, 
+            "name": "JJ"
         }, 
         {
-            "def": "K \u2014 Contract", 
-            "link": "/wiki/Contract", 
-            "name": "Contract"
+            "def": "Judgment as a matter of law", 
+            "link": null, 
+            "name": "JMOL"
         }, 
         {
-            "def": "L/C \u2014 Letter of credit", 
-            "link": "/wiki/Letter_of_credit", 
-            "name": "Letter of credit"
+            "def": "Judgment notwithstanding verdict", 
+            "link": null, 
+            "name": "JNOV"
         }, 
         {
-            "def": "L.Ed - Lawyers' Edition", 
-            "link": "/wiki/Lawyers%27_Edition", 
-            "name": "Lawyers' Edition"
+            "def": "Jurisdiction", 
+            "link": null, 
+            "name": "Jx"
         }, 
         {
-            "def": "L.Ed.2d - Lawyers 2nd Edition", 
-            "link": "/w/index.php?title=Lawyers_2nd_Edition&action=edit&redlink=1", 
-            "name": "Lawyers 2nd Edition"
+            "def": "Contract", 
+            "link": null, 
+            "name": "K"
         }, 
         {
-            "def": "LLC \u2014 Limited liability company", 
-            "link": "/wiki/Limited_liability_company", 
-            "name": "Limited liability company"
+            "def": "Letter of credit", 
+            "link": null, 
+            "name": "L/C"
         }, 
         {
-            "def": "LLP \u2014 Limited liability partnership", 
-            "link": "/wiki/Limited_liability_partnership", 
-            "name": "Limited liability partnership"
+            "def": "Lawyers' Edition", 
+            "link": null, 
+            "name": "L.Ed"
         }, 
         {
-            "def": "MIL \u2014 Motion in limine", 
-            "link": "/wiki/Motion_in_limine", 
-            "name": "Motion in limine"
+            "def": "Lawyers 2nd Edition", 
+            "link": null, 
+            "name": "L.Ed.2d"
         }, 
         {
-            "def": "MOU \u2014 Memorandum of Understanding", 
-            "link": "/wiki/Memorandum_of_Understanding", 
-            "name": "Memorandum of Understanding"
+            "def": "Limited liability company", 
+            "link": null, 
+            "name": "LLC"
         }, 
         {
-            "def": "MPC \u2014 Model Penal Code", 
-            "link": "/wiki/Model_Penal_Code", 
-            "name": "Model Penal Code"
+            "def": "Limited liability partnership", 
+            "link": null, 
+            "name": "LLP"
         }, 
         {
-            "def": "NDA \u2014 Non-Disclosure Agreement", 
-            "link": "/wiki/Non-Disclosure_Agreement", 
-            "name": "Non-Disclosure Agreement"
+            "def": "Motion in limine", 
+            "link": null, 
+            "name": "MIL"
         }, 
         {
-            "def": "N.E. \u2014 North Eastern Reporter", 
-            "link": "/wiki/North_Eastern_Reporter", 
-            "name": "North Eastern Reporter"
+            "def": "Memorandum of Understanding", 
+            "link": null, 
+            "name": "MOU"
         }, 
         {
-            "def": "N.W. \u2014 North Western Reporter", 
-            "link": "/wiki/North_Western_Reporter", 
-            "name": "North Western Reporter"
+            "def": "Model Penal Code", 
+            "link": null, 
+            "name": "MPC"
         }, 
         {
-            "def": "\u00b6 (Pilcrow)\u2014 Paragraph", 
-            "link": "/wiki/%C2%B6", 
-            "name": "\u00b6"
+            "def": "Non-Disclosure Agreement", 
+            "link": null, 
+            "name": "NDA"
         }, 
         {
-            "def": "P. \u2014 Pacific Reporter", 
-            "link": "/wiki/Pacific_Reporter", 
-            "name": "Pacific Reporter"
+            "def": "North Eastern Reporter", 
+            "link": null, 
+            "name": "N.E."
         }, 
         {
-            "def": "R \u2014 Rex or Regina", 
-            "link": "/wiki/Monarch", 
-            "name": "Rex"
+            "def": "North Eastern Reporter, 2nd Series", 
+            "link": null, 
+            "name": "N.E.2d"
         }, 
         {
-            "def": "R.E. or R/E \u2014 Real Estate", 
-            "link": "/wiki/Real_Estate", 
-            "name": "Real Estate"
+            "def": "Number", 
+            "link": null, 
+            "name": "No."
         }, 
         {
-            "def": "Rev. Rul. \u2014 Revenue Ruling (published in IRB)", 
-            "link": "/wiki/Revenue_Ruling", 
-            "name": "Revenue Ruling"
+            "def": "North Western Reporter", 
+            "link": null, 
+            "name": "N.W."
         }, 
         {
-            "def": "s. or \u00a7 \u2014 Section", 
-            "link": "/wiki/%C2%A7", 
-            "name": "\u00a7"
+            "def": "North Western Reporter, 2nd Series", 
+            "link": null, 
+            "name": "N.W.2d"
         }, 
         {
-            "def": "S.C.R. (or SCR) \u2014 Supreme Court Reports (Supreme Court of Canada)", 
-            "link": "/wiki/Supreme_Court_Reports_(Canada)", 
-            "name": "Supreme Court Reports"
+            "def": "other", 
+            "link": null, 
+            "name": "Ors"
         }, 
         {
-            "def": "S. Ct. \u2014 Supreme Court Reporter (Supreme Court of the United States)", 
-            "link": "/wiki/Supreme_Court_of_the_United_States", 
-            "name": "Supreme Court of the United States"
+            "def": "Plaintiff", 
+            "link": null, 
+            "name": "\u03a0 (Greek letter Pi)"
         }, 
         {
-            "def": "S.E. \u2014 South Eastern Reporter", 
-            "link": "/wiki/South_Eastern_Reporter", 
-            "name": "South Eastern Reporter"
+            "def": "Pacific Reporter", 
+            "link": null, 
+            "name": "P."
         }, 
         {
-            "def": "SI \u2014 Statutory instruments", 
-            "link": "/wiki/Statute", 
-            "name": "Statutory"
+            "def": "Pacific Reporter, 2nd Series", 
+            "link": null, 
+            "name": "P.2d"
         }, 
         {
-            "def": "S/J \u2014 Summary judgment", 
-            "link": "/wiki/Summary_judgment", 
-            "name": "Summary judgment"
+            "def": "Pacific Reporter, 3rd Series", 
+            "link": null, 
+            "name": "P.3d"
         }, 
         {
-            "def": "SMJ \u2014 Subject-matter jurisdiction", 
-            "link": "/wiki/Subject-matter_jurisdiction", 
-            "name": "Subject-matter jurisdiction"
+            "def": "Page", 
+            "link": null, 
+            "name": "p."
         }, 
         {
-            "def": "So. \u2014 Southern Reporter", 
-            "link": "/wiki/Southern_Reporter", 
-            "name": "Southern Reporter"
+            "def": "Pages", 
+            "link": null, 
+            "name": "pp."
         }, 
         {
-            "def": "SOL \u2014 Statute of Limitations", 
-            "link": "/wiki/Statute_of_Limitations", 
-            "name": "Statute of Limitations"
+            "def": "Public Law", 
+            "link": null, 
+            "name": "PL"
         }, 
         {
-            "def": "SOR \u2014 Statutory Orders and Regulations", 
-            "link": "/w/index.php?title=Statutory_Orders_and_Regulations&action=edit&redlink=1", 
-            "name": "Statutory Orders and Regulations"
+            "def": "Public Law", 
+            "link": null, 
+            "name": "Pub.L."
         }, 
         {
-            "def": "Stat. \u2014 United States Statutes at Large (See United States Code)", 
-            "link": "/wiki/United_States_Statutes_at_Large", 
-            "name": "United States Statutes at Large"
+            "def": "Qualified Domestic Relations Order", 
+            "link": null, 
+            "name": "QDRO"
         }, 
         {
-            "def": "S.W. \u2014 South Western Reporter", 
-            "link": "/wiki/South_Western_Reporter", 
-            "name": "South Western Reporter"
+            "def": "Rex or Regina", 
+            "link": null, 
+            "name": "R"
         }, 
         {
-            "def": "\u2122 or TM \u2014 Trademark (such as a word or phrase identifying a company or product)", 
+            "def": "Real Estate", 
+            "link": null, 
+            "name": "R.E. or R/E"
+        }, 
+        {
+            "def": "Revenue Procedure (published in IRB)", 
+            "link": null, 
+            "name": "Rev. Proc."
+        }, 
+        {
+            "def": "Revenue Ruling (published in IRB)", 
+            "link": null, 
+            "name": "Rev. Rul."
+        }, 
+        {
+            "def": "Recurring Judgement. (published in All In Reports)", 
+            "link": null, 
+            "name": "R J"
+        }, 
+        {
+            "def": "Reports of International Arbitral Awards", 
+            "link": null, 
+            "name": "R.I.A.A."
+        }, 
+        {
+            "def": "Section", 
+            "link": null, 
+            "name": "s. or \u00a7"
+        }, 
+        {
+            "def": "said", 
+            "link": null, 
+            "name": "sd"
+        }, 
+        {
+            "def": "Sections", 
+            "link": null, 
+            "name": "ss. or \u00a7\u00a7"
+        }, 
+        {
+            "def": "Supreme Court Reports (Supreme Court of Canada)", 
+            "link": null, 
+            "name": "S.C.R. (or SCR)"
+        }, 
+        {
+            "def": "Supreme Court Reporter (Supreme Court of the United States)", 
+            "link": null, 
+            "name": "S. Ct."
+        }, 
+        {
+            "def": "South Eastern Reporter", 
+            "link": null, 
+            "name": "S.E."
+        }, 
+        {
+            "def": "South Eastern Reporter, 2nd Series", 
+            "link": null, 
+            "name": "S.E.2d"
+        }, 
+        {
+            "def": "Supreme Court of the United States (Supreme Court of the United States)", 
+            "link": null, 
+            "name": "SCOTUS"
+        }, 
+        {
+            "def": "Statutory instruments", 
+            "link": null, 
+            "name": "SI"
+        }, 
+        {
+            "def": "Summary judgment", 
+            "link": null, 
+            "name": "S/J"
+        }, 
+        {
+            "def": "Subject-matter jurisdiction", 
+            "link": null, 
+            "name": "SMJ"
+        }, 
+        {
+            "def": "Southern Reporter", 
+            "link": null, 
+            "name": "So."
+        }, 
+        {
+            "def": "Southern Reporter, 2nd Series", 
+            "link": null, 
+            "name": "So. 2d"
+        }, 
+        {
+            "def": "Statute of Limitations", 
+            "link": null, 
+            "name": "SOL"
+        }, 
+        {
+            "def": "Statutory Orders and Regulations", 
+            "link": null, 
+            "name": "SOR"
+        }, 
+        {
+            "def": "United States Statutes at Large (See United States Code)", 
+            "link": null, 
+            "name": "Stat."
+        }, 
+        {
+            "def": "South Western Reporter", 
+            "link": null, 
+            "name": "S.W."
+        }, 
+        {
+            "def": "South Western Reporter, 2nd Series", 
+            "link": null, 
+            "name": "S.W.2d"
+        }, 
+        {
+            "def": "South Western Reporter, 3rd Series", 
+            "link": null, 
+            "name": "S.W.3d"
+        }, 
+        {
+            "def": "Treasury Decision", 
+            "link": null, 
+            "name": "T.D."
+        }, 
+        {
+            "def": "Trademark (such as a word or phrase identifying a company or product)", 
             "link": "/wiki/%E2%84%A2", 
-            "name": "\u2122"
+            "name": "\u2122 or TM"
         }, 
         {
-            "def": "UCC \u2014 Uniform Commercial Code", 
-            "link": "/wiki/Uniform_Commercial_Code", 
-            "name": "Uniform Commercial Code"
+            "def": "Uniform Commercial Code", 
+            "link": null, 
+            "name": "UCC"
         }, 
         {
-            "def": "UCMJ \u2014 Uniform Code of Military Justice (Laws of the U.S. military)", 
-            "link": "/wiki/Uniform_Code_of_Military_Justice", 
-            "name": "Uniform Code of Military Justice"
+            "def": "Uniform Code of Military Justice (Laws of the U.S. military)", 
+            "link": null, 
+            "name": "UCMJ"
         }, 
         {
-            "def": "UPC \u2014 Uniform Probate Code", 
-            "link": "/wiki/Uniform_Probate_Code", 
-            "name": "Uniform Probate Code"
+            "def": "Uniform Probate Code", 
+            "link": null, 
+            "name": "UPC"
         }, 
         {
-            "def": "U.S. \u2014 United States Reports (beginning with v. 502 (1991))", 
-            "link": "http://www.supremecourtus.gov/opinions/boundvolumes.html", 
-            "name": "United States Reports (beginning with v. 502 (1991))"
+            "def": "United States Reports (beginning with v. 502 (1991))", 
+            "link": null, 
+            "name": "U.S."
         }, 
         {
-            "def": "USC \u2014 United States Code (A free website for the full text is at U.S. Code. This text is maintained by the U.S. Gov't Printing Office, but must be checked for revisions or amendments after its effective date.)", 
-            "link": "/wiki/United_States_Code", 
-            "name": "United States Code"
+            "def": "United States Code (A free website for the full text is at U.S. Code. This text is maintained by the U.S. Gov't Printing Office, but must be checked for revisions or amendments after its effective date.)", 
+            "link": null, 
+            "name": "USC"
         }, 
         {
-            "def": "USCCAN \u2014 United States Code Congressional and Administrative News", 
-            "link": "/wiki/United_States_Code_Congressional_and_Administrative_News", 
-            "name": "United States Code Congressional and Administrative News"
+            "def": "United States Code Annotated", 
+            "link": null, 
+            "name": "USCA"
         }, 
         {
-            "def": "UST \u2014 United States Treaties and Other International Agreements (See Treaty series.)", 
-            "link": "/wiki/Treaty_series", 
-            "name": "Treaty series"
+            "def": "United States Code Congressional and Administrative News", 
+            "link": null, 
+            "name": "USCCAN"
         }, 
         {
-            "def": "WTO \u2014 World Trade Organization", 
-            "link": "/wiki/World_Trade_Organization", 
-            "name": "World Trade Organization"
+            "def": "United States Code Service", 
+            "link": null, 
+            "name": "USCS"
         }, 
         {
-            "def": "W. Va. Code \u2014 West Virginia Code (unofficial text)", 
-            "link": "http://www.legis.state.wv.us/WVCODE/masterfrm3Banner.cfm", 
-            "name": "West Virginia Code"
+            "def": "United States Treaties and Other International Agreements (See Treaty series.)", 
+            "link": null, 
+            "name": "UST"
         }, 
         {
-            "def": "XXN - Cross examination", 
-            "link": "/wiki/Cross_examination", 
-            "name": "Cross examination"
+            "def": "versus. Used when plaintiff is listed first on a case title. John Doe v. Richard Roe.", 
+            "link": null, 
+            "name": "v."
         }, 
         {
-            "def": "Legal acronyms and abbreviations, Retrieved 2014-30-06.", 
-            "link": "http://www.allacronyms.com/Legal/topic", 
-            "name": "Legal acronyms and abbreviations"
+            "def": "World Trade Organization", 
+            "link": null, 
+            "name": "WTO"
+        }, 
+        {
+            "def": "West Virginia Code (unofficial text)", 
+            "link": null, 
+            "name": "W. Va. Code"
+        }, 
+        {
+            "def": "Examination in Chief", 
+            "link": null, 
+            "name": "XN"
+        }, 
+        {
+            "def": "Cross examination", 
+            "link": null, 
+            "name": "XXN"
         }
     ]
 }
