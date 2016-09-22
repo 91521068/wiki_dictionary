@@ -51,7 +51,7 @@
         {
             "def": "Severe Thunderstorm Watch (yellow box or blue box) \u2013 Conditions are favorable for the development of severe thunderstorms in and close to the watch area. A severe thunderstorm contains large damaging hail of 1 inch (25\u00a0mm) diameter or larger, and/or damaging winds greater than 58\u00a0mph (95\u00a0km/h or 50 knots) or greater. Isolated tornadoes are also possible but not expected to be the dominant severe weather event. These watches are issued for large areas by the Storm Prediction Center in Norman, Oklahoma, and are usually valid for five to eight hours.[5]\n\nParticularly Dangerous Situation Severe Thunderstorm Watch \u2013 Conditions are favorable for the development of severe thunderstorms in and close to the watch area. Isolated tornadoes are possible but not expected to be the dominant severe weather event, hence these watches are very rarely issued. An expected severe wind event (derecho) is the mostly likely reason for a PDS Severe Thunderstorm Watch to be issued, with widespread winds greater than 90\u00a0mph (150\u00a0km/h or 80 knots) possible. These watches are usually valid for a longer period of time and are issued for a larger area by the Storm Prediction Center in Norman, Oklahoma than a typical Severe Thunderstorm Watch. This type of watch is usually only reserved for forecast \"high-end\" severe weather events.[2] If, however, tornadoes are expected to be a major weather threat in addition to the preceding criteria, then a standard tornado watch (generally not a PDS watch) would be issued instead.\n\n", 
             "link": "/wiki/Severe_thunderstorm_watch", 
-            "name": "Severe Thunderstorm Watchyellow boxblue box"
+            "name": "Severe Thunderstorm Watch"
         }, 
         {
             "def": "Severe Thunderstorm Warning \u2013 A severe thunderstorm is indicated by Doppler weather radar or sighted by Skywarn spotters or other persons, such as local law enforcement. A severe thunderstorm contains large damaging hail of 1 inch (2.5\u00a0cm) in diameter or larger, and/or damaging winds of 58\u00a0mph (93\u00a0km/h) or greater. These warnings are currently issued on a polygonal basis.[6]", 
@@ -66,7 +66,7 @@
         {
             "def": "Flash Flood Watch (green box) \u2013 Conditions are favorable for (flash) flooding in and close to the watch area. These watches are issued by the Weather Forecast Office and are usually issued six to 24 hours in advance of expected flood potential. In Canada, a Heavy Rainfall Warning has a similar meaning.\n\nParticularly Dangerous Situation Flash Flood Watch \u2013 Conditions are favorable for an extremely elevated level of severe and life-threatening flash flooding beyond the level of a normal flash flood watch in and close to the watch area. These watches are usually issued for a smaller area by the local WFOs than typical Flash Flood Watches, which often span multiple county warning areas, and are usually valid for a longer period of time. This type of watch is usually only reserved for forecast \"high-end\" flash flood events.\n\n", 
             "link": "/wiki/Flash_flood_watch", 
-            "name": "Flash Flood Watchgreen boxHeavy Rainfall Warning"
+            "name": "Flash Flood Watch"
         }, 
         {
             "def": "Flash Flood Warning \u2013 Flash flooding is occurring, imminent, or highly likely. A flash flood is a flood that occurs within six hours of excessive rainfall and that poses a threat to life and/or property. Ice jams and dam failures can also cause flash floods. These warnings are issued on a county by county basis by the local Weather Forecast Office and are generally in effect for two to six hours, although particularly during tropical cyclones a warning may last for a longer period of time, and occasionally last shorter than two hours.[7]", 
@@ -106,7 +106,7 @@
         {
             "def": "Ice Storm Warning \u2013 Heavy ice accumulations are imminent and the criteria for amounts vary over different county warning areas. Accumulations range from 1\u20444 to 1\u20442 inch (6.4 to 12.7\u00a0mm) or more of freezing rain. In Canada, these are known as Freezing Rain Warnings.[13]", 
             "link": "/wiki/Ice_storm_warning", 
-            "name": "Ice Storm WarningFreezing Rain Warnings"
+            "name": "Ice Storm Warning"
         }, 
         {
             "def": "Freezing Rain Advisory \u2013 Light to moderate ice accumulations are imminent. A trace to 1/4 inch (1\u20136 mm) of expected freezing rain is needed in any county warning area to prompt a freezing rain advisory.[14]", 
@@ -420,8 +420,8 @@
         }, 
         {
             "def": "Emergency \u2013 An Emergency is issued when an event that by itself cannot pose a threat to life or property, but may indirectly cause other events to happen that may pose a threat to life or property. An example of this would be a power outage, which although not directly posing a hazard, may threaten public safety and critical services. The only existing exceptions to this are the tornado emergency and flash flood emergency, which are issued to get the attention of the public to a major tornado or flash flood.[42]", 
-            "link": "/wiki/Tornado_emergency", 
-            "name": "Emergencytornado emergencyflash flood emergency"
+            "link": null, 
+            "name": "Emergency"
         }, 
         {
             "def": "Watch \u2013 A watch is used when the risk of a hazardous weather or hydrologic event has increased significantly, but its occurrence, location, or timing is still uncertain. It is intended to provide enough lead time so those who need to set their plans in motion can do so. A watch means that hazardous weather is possible. People should have a plan of action in case a storm threatens and they should listen for later information and possible warnings especially when planning travel or outdoor activities. The National Weather Service may activate weather spotters in areas affected by watches to help them better track and analyze the event.[43]", 

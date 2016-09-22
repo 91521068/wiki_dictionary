@@ -1,0 +1,317 @@
+{
+    "c1": "Culture and the arts", 
+    "c2": "Arts", 
+    "c3": "Glossary_of_invasion_biology_terms", 
+    "words": [
+        {
+            "def": "Less commonly used in scientific literature but often included in population publications, public information displays, and educational literature. This term refers to species that spread beyond their native range, not necessarily harmful, or species introduced to a new range that establish themselves and spread; similar terms include exotic species, foreign species, introduced species, non indigenous species, and non native species (Jeschke and Strayer 2005).", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Alien species (See Introduced species)"
+        }, 
+        {
+            "def": "Less commonly used in most literature. 1. A nonindigenous species that threatens the diversity or abundance of native species or the ecological stability of infested waters, or commercial, agricultural, aquacultural or recreational activities dependent on such waters (EPA 1990). 2. Aquatic species that causes economic or environmental harm to humans (Heutte and Bella 2003). 3. An aquatic species with adverse effects on humans, either directly (e.g. species that produce toxins that are harmful to humans) or indirectly (e.g. species that infest nature reserves) (Colautti and MacIsaac 2004).", 
+            "link": "/w/index.php?title=Aquatic_nuisance_species&action=edit&redlink=1", 
+            "name": "Aquatic nuisance species"
+        }, 
+        {
+            "def": "1. In general, the control of the numbers of one organism as a result of natural predation by another or others. Specifically, the human use of natural predators for the control of pests or weeds. Also applied to the introduction of large numbers of sterilized males of the pest species, whose matings result in the laying of infertile eggs (Allaby 1998). 2. The release of one species to control another (Carlton 2001). 3. The management of weeds using introduced herbivores (often insects) as biological control agents (Booth et al. 2003).", 
+            "link": "/wiki/Biological_pest_control", 
+            "name": "Biological control or biocontrol (See Biological pest control)"
+        }, 
+        {
+            "def": "A broad term that refers to both human-assisted introductions and natural range expansions (Carlton 2001).", 
+            "link": "/wiki/Biological_invasion", 
+            "name": "Biological invasion or bioinvasion"
+        }, 
+        {
+            "def": "Used to describe species richness, ecosystem complexity, and genetic variation (Allaby 1998).", 
+            "link": "/wiki/Biodiversity", 
+            "name": "Biological diversity (See biodiversity)"
+        }, 
+        {
+            "def": "Control method involving a biological control agent that is a natural enemy of a target pest (Heutte and Bella 2003).", 
+            "link": "/wiki/Biological_pest_control", 
+            "name": "Biological control (See Biological pest control)"
+        }, 
+        {
+            "def": "A biological subdivision of the earth\u2019s surface delineated by the flora and fauna of the region (Allaby 1998).", 
+            "link": "/wiki/Ecoregion", 
+            "name": "Bioregion (See Ecoregion)"
+        }, 
+        {
+            "def": "The organisms (plants, animals, fungi, bacteria, algae, etc.) of a specific region or period, or the total aggregation of organisms in the biosphere (Allaby 1998).", 
+            "link": "/wiki/Biota_(ecology)", 
+            "name": "Biota"
+        }, 
+        {
+            "def": "This term is becoming less common in usage. A non native species that does not form self-replacing populations (Booth et al. 2003). Similar terms include introduced species, non indigenous species, and non native species.", 
+            "link": "/w/index.php?title=Casual_species&action=edit&redlink=1", 
+            "name": "Casual species"
+        }, 
+        {
+            "def": "Control method that employs herbicides to control exotic plants (Heutte and Bella 2003).", 
+            "link": "/w/index.php?title=Chemical_control&action=edit&redlink=1", 
+            "name": "Chemical control"
+        }, 
+        {
+            "def": "Any grouping of populations of different organisms that live together in a particular environment (Allaby 1998).", 
+            "link": null, 
+            "name": "Community"
+        }, 
+        {
+            "def": "Species that are neither clearly native nor exotic (Cohen and Carlton 1988).", 
+            "link": "/wiki/Cryptogenic_species", 
+            "name": "Cryptogenic species"
+        }, 
+        {
+            "def": "A variety of a plant produced and maintained by horticultural techniques and not normally found in wild populations (Allaby 1998).", 
+            "link": "/wiki/Cultivar", 
+            "name": "Cultivar"
+        }, 
+        {
+            "def": "An event or change in the environment that alters the composition and successional status of a biological community and may deflect succession onto a new trajectory, such as a forest fire or hurricane, glaciation, agriculture, and urbanization (Art 1993).", 
+            "link": "/wiki/Disturbance_(ecology)", 
+            "name": "Disturbance"
+        }, 
+        {
+            "def": "A discrete unit, or community of organisms and their physical environment (living and non-living parts), that interact to form a stable system (Allaby 1998).", 
+            "link": "/wiki/Ecosystem", 
+            "name": "Ecosystem"
+        }, 
+        {
+            "def": "A species or taxonomic group that is restricted to a particular geographic region because of such factors as isolation or response to soil or climatic conditions; this species is said to be endemic to the region (Allaby 1998).", 
+            "link": "/wiki/Endemism", 
+            "name": "Endemic"
+        }, 
+        {
+            "def": "This term is commonly used in publications and literature, and is similar to the terms alien species, foreign species, introduced species, non indigenous species, and non native species (Heutte and Bella 2003). Other definitions include: 1. An introduced, non native species, or a species that is the result of direct or indirect, deliberate or accidental introduction of the species by humans, and for which introduction permitted the species to cross a natural barrier to dispersal (Noss and Cooperrider 1994). 2. In North America, often refers to those species not present in a bioregion before the entry of Europeans in the 16th century, or present in later parts of that region and later introduced to an ecosystem by human-mediated mechanisms (Cohen and Carlton 1988).", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Exotic species (See Introduced species)"
+        }, 
+        {
+            "def": "The animal life of a region or geological period (Allaby 1998).", 
+            "link": "/wiki/Fauna", 
+            "name": "Fauna"
+        }, 
+        {
+            "def": "A species introduced to a new area or country. Similar terms include alien species, exotic species, introduced species, non indigenous species, and non native species.", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Foreign species (See Introduced species)"
+        }, 
+        {
+            "def": "Plant or bacterial life forms of a region or geological period (Allaby 1998).", 
+            "link": "/wiki/Flora", 
+            "name": "Flora"
+        }, 
+        {
+            "def": "The place, including physical and biotic conditions, where a plant or an animal usually occurs (Allaby 1998).", 
+            "link": "/wiki/Habitat", 
+            "name": "Habitat"
+        }, 
+        {
+            "def": "Pesticide that specifically targets vegetation (Heutte and Bella 2003).", 
+            "link": "/wiki/Herbicide", 
+            "name": "Herbicide"
+        }, 
+        {
+            "def": "Production of novel genotypes, through mating between distinct species or ecotypes. Novel genotypes may be more invasive than parental genotypes.", 
+            "link": "/wiki/Hybrid_(biology)", 
+            "name": "Hybridization"
+        }, 
+        {
+            "def": "A species that occurs naturally in an area; a synonym for native species (Allaby 1998).", 
+            "link": "/wiki/Indigenous_species", 
+            "name": "Indigenous (See Indigenous species)"
+        }, 
+        {
+            "def": "An introduced species that causes economic or environmental harm to humans. Similar terms include aquatic nuisance species, noxious weed, and invasive species (Heutte and Bella 2003).", 
+            "link": "/w/index.php?title=Injurious_species&action=edit&redlink=1", 
+            "name": "Injurious species"
+        }, 
+        {
+            "def": "A species that is brought to a new area, country, or bioregion for a specific purpose, such as for a garden or lawn; a crop species; a landscaping species; a species that provides food; a groundcover species; for soil stabilization or hydrological control; for aesthetics or familiarity of the species; or other purposeful reasons (Booth et al. 2003).", 
+            "link": "/w/index.php?title=Intentional_introduction&action=edit&redlink=1", 
+            "name": "Intentional introduction"
+        }, 
+        {
+            "def": "This term, along with the terms introduced species and nonindigenous species, is one of the most commonly used terms to describe a plant or animal species that is not originally from the area in which it occurs. This terms means those species that have been transported by human activities, either intentionally or unintentionally, into a region in which they did not occur in historical time and are now reproducing in the wild (Carlton 2001). Similar terms include alien species, exotic species, foreign species, non indigenous species, and non native species.", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Introduced species"
+        }, 
+        {
+            "def": "The ease with which a habitat is invaded (Booth et al. 2003).", 
+            "link": "/wiki/Ecological_facilitation#Invasibility", 
+            "name": "Invasibility"
+        }, 
+        {
+            "def": "The expansion of a species into an area not previously occupied by it (Booth et al. 2003).", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Invasion (See Introduced species and Invasive species)"
+        }, 
+        {
+            "def": "Generally, this term refers to a subset of plants or animals that are introduced to an area, survive, and reproduce, and expand beyond the original area of introduction. This is the biological definition. Practical definitions add that they cause harm economically or environmentally within the new area of introduction. 1. An alien species whose introduction does or is likely to cause economic or environmental harm or harm to human health (Executive Order 1999). 2. An adjective for non native or nonindigenous species that have colonized natural areas; 3. Discrimination of nonindigenous species established in cultivated habitats (as \u2018noninvasive\u2019) from those established in natural habitats; 4. Nonindigenous species that are widespread; or 5. Widespread nonindigenous species that have adverse effects on the invaded habitat (Colautti and MacIsaac 2004). Other definitions include the following: 5. Species that spread beyond their native range, not necessarily harmful, or species introduced to a new range that establish themselves and spread (Jeschke and Strayer 2005). 6. Species that displace native species and have the ability to dominate an ecosystem, or a species that enters an ecosystem beyond its natural range and causes economic or environmental harm (Heutte and Bella 2003).", 
+            "link": "/wiki/Invasive_species", 
+            "name": "Invasive species"
+        }, 
+        {
+            "def": "Integrated Pest Management. IPM focuses on long-term prevention or suppression of pests. The integrated approach to weed management incorporates the best suited cultural, biological and chemical controls that have minimum impact on the environment and on people (Heutte and Bella 2003).", 
+            "link": null, 
+            "name": "IPM"
+        }, 
+        {
+            "def": "Removal that involves the use of tools such as shovels, axes, rakes, grubbing hoes, and hand clippers to expose, cut, and remove flowers, fruits, stems, leaves, and/or roots from target plants (Heutte and Bella 2003).", 
+            "link": "/w/index.php?title=Manual_control&action=edit&redlink=1", 
+            "name": "Manual control"
+        }, 
+        {
+            "def": "Removal that involves the use of motorized equipment such as mowers, \u201cweed-whackers\u201d, and tractor-mounted plows, disks, and sweepers. Burning is also categorized here (Heutte and Bella 2003).", 
+            "link": "/w/index.php?title=Mechanical_control&action=edit&redlink=1", 
+            "name": "Mechanical control"
+        }, 
+        {
+            "def": "The ecosystem that a species inhabits (Booth et al. 2003).", 
+            "link": "/wiki/Native_range", 
+            "name": "Native range"
+        }, 
+        {
+            "def": "1. A synonym for indigenous species 2. A species that occurs naturally in an area, and has not been introduced by humans either intentionally or unintentionally (Allaby 2005). 3. In North America, a species established before the year 500 (Jeschke and Strayer 2005)", 
+            "link": "/wiki/Indigenous_(ecology)", 
+            "name": "Native species (See Indigenous (ecology))"
+        }, 
+        {
+            "def": "A species that is native to an area or bioregion that has increased in number dramatically. In cases of disturbance or change to a landscape, a ruderal species can increase in cover and compete with other native plants, threatening the diversity of a community. In other cases, landscape level changes can cause the increase of the population of a species, such as white-tailed deer in the northeastern part of the United State, which are at the highest levels historically and cause damage to humans, crops, and structures, suffer high disease levels, and pose threats to humans through interactions on roads (Foster and Sandberg 2004).", 
+            "link": "/w/index.php?title=Native_weed&action=edit&redlink=1", 
+            "name": "Native weed (invasive native)"
+        }, 
+        {
+            "def": "1. A species that was originally introduced from a different country, a different bioregion, or a different geographical area, but now behaves like a native species in that it maintains itself without further human intervention and now grows and reproduces in native communities (Allaby 1998). 2. A non native species that forms self-sustaining populations but is not necessarily an invasive species (Booth et al. 2003).", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Naturalized species (See Introduced species)"
+        }, 
+        {
+            "def": "An umbrella term for the entirety of all non-native species, independently of their taxonomic rank, naturalization status or time of introduction, without defining these by a negation (non-native) or by an evaluative approach (Kowarik 2002.", 
+            "link": "/w/index.php?title=Neobiota&action=edit&redlink=1", 
+            "name": "Neobiota"
+        }, 
+        {
+            "def": "Defines conditions that promote invasions in terms of resources, natural enemies, the physical environment, interactions between these factors, and the manner in which they vary in time and space (Shea and Chesson 2002).", 
+            "link": "/w/index.php?title=Niche_opportunity&action=edit&redlink=1", 
+            "name": "Niche opportunity"
+        }, 
+        {
+            "def": "This is a common term used along with non native species and introduced species in current literature and publications; other similar terms include alien species, exotic species, and foreign species. 1. Any species or other viable biological material that enters an ecosystem beyond its historic range, including any such organism transferred from one country into another (EPA 1990). 2. A plant or animal that is not native to the area in which it occurs which was either intentionally or unintentionally introduced (Williams and Meffe 2005).", 
+            "link": "/wiki/Nonindigenous_species", 
+            "name": "Nonindigenous species"
+        }, 
+        {
+            "def": "This term, along with the terms introduced species and nonindigenous species, is one of the most commonly used terms to describe a plant or animal species that is not originally from the area in which it occurs. Similar terms also include alien species, exotic species, and foreign species. This term has also been defined as: 1. A species whose presence is due to intentional or unintentional introduction as a result of human activity (Booth et al. 2003). 2. A species that has been introduced to an area or bioregion (Heutte and Bella 2003).", 
+            "link": "/wiki/Non_native_species", 
+            "name": "Non native species"
+        }, 
+        {
+            "def": "This term is frequently a legal term in state code, denoting a special status of the plant as, for example, prohibited or restricted. 1. Native or non-native plants, or plant products, that injure or cause damage to interests of agriculture, irrigation, navigation, natural resources, public health, or the environment (Heutte and Bella 2003). 2. Implies a species\u2019 adverse effects on humans, either directly (e.g. species that produce toxins that are harmful to humans) or indirectly (e.g. species that infest nature reserves) (Colautti and MacIsaac 2004). 3. Any species of plants, either annual, biennial, or perennial; reproduced by seed, root, underground stem, or bulblet; which when established is or may become destructive and difficult to control by ordinary means of cultivation or other farm practices (Heutte and Bella 2003).", 
+            "link": "/wiki/Noxious_weed", 
+            "name": "Noxious weed"
+        }, 
+        {
+            "def": "1. Used to mean vector, purpose (the reason why a species is moved), and route (the geographic corridor from one point to another) (Carlton 2001). 2. Mode by which a species establishes and continues to exist in a new environment (Heutte and Bella 2003).", 
+            "link": null, 
+            "name": "Pathway (See Path)"
+        }, 
+        {
+            "def": "1. An animal that competes with humans by consuming or damaging food, fiber, or other materials intended for human consumption or use, such as an insect consuming a cropfield (Allaby 1998) 2. Synonymous to invasive species (Jeschke and Strayer 2005).", 
+            "link": "/wiki/Pest_(organism)", 
+            "name": "Pest"
+        }, 
+        {
+            "def": "A chemical or biological agent intended to prevent, destroy, repel, or mitigate plant or animal life and any substance intended for use as a plant regulator, defoliant, or desiccant, including insecticides, fungicides, rodenticides, herbicides, nematocides, and biocides (Heutte and Bella 2003).", 
+            "link": "/wiki/Pesticide", 
+            "name": "Pesticide"
+        }, 
+        {
+            "def": "A group of potentially inter-breeding individuals of the same species found in the same place at the same time (Booth et al. 2003).", 
+            "link": "/wiki/Population", 
+            "name": "Population"
+        }, 
+        {
+            "def": "A specific legal term applied to a plant or plant part that may not be brought into a state (Heutte and Bella 2003).", 
+            "link": "/w/index.php?title=Prohibited_weed&action=edit&redlink=1", 
+            "name": "Prohibited weed"
+        }, 
+        {
+            "def": "A specific legal term applied to a plant or plant part that may only be brought into a state in limited quantities (Heutte and Bella 2003).", 
+            "link": "/w/index.php?title=Restricted_weed&action=edit&redlink=1", 
+            "name": "Restricted weed"
+        }, 
+        {
+            "def": "A plant associated with human dwellings, construction, or agriculture, that usually colonizes disturbed or waste ground. Ruderals are often weeds which have high demands for nutrients and are intolerant of competition. See also native weed or invasive native (Allaby 1998).", 
+            "link": "/wiki/Ruderal_species", 
+            "name": "Ruderal species"
+        }, 
+        {
+            "def": "Seeds that become incorporated into the soil (Booth et al. 2003).", 
+            "link": "/wiki/Soil_seed_bank", 
+            "name": "Seed bank"
+        }, 
+        {
+            "def": "A group of organisms formally recognized as distinct from other groups; the taxon rank in the hierarchy of biological classification below genus; the basic unit of biological classification, defined by the reproductive isolation of the group from all other groups of organisms (Allaby 1998).", 
+            "link": "/wiki/Species", 
+            "name": "Species"
+        }, 
+        {
+            "def": "1. Describes how approximately ten percent of species pass through each transition from being imported to becoming casual to becoming established, and finally becoming a weed (Booth et al. 2003). 2. Ten percent of the introduced species establish themselves in the non native continent and ten percent of these, in turn, spread or are pests although many exceptions to this rule have been noted (Jeschke and Strayer 2005).", 
+            "link": "/w/index.php?title=Tens_rule&action=edit&redlink=1", 
+            "name": "Tens rule"
+        }, 
+        {
+            "def": "1. Time between introduction, establishment, and spread of a species (Jeschke and Strayer 2005). 2. The time between when a species is introduced and when its population growth explodes (Booth et al. 2003).", 
+            "link": null, 
+            "name": "Time lag"
+        }, 
+        {
+            "def": "An introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes (EPA 1990).", 
+            "link": "/w/index.php?title=Unintentional_introduction&action=edit&redlink=1", 
+            "name": "Unintentional introduction"
+        }, 
+        {
+            "def": "The physical means or agent by which a species is transported, such as ballast water, ships\u2019 hulls, boats, hiking boats, cars, vehicles, packing material, or soil in nursery stock (Carlton 2001). See also pathway.", 
+            "link": "/wiki/Vector_(epidemiology)", 
+            "name": "Vector (See Vector (epidemiology))"
+        }, 
+        {
+            "def": "1. A plant in the wrong place, being one that occurs opportunistically on land or in water that has been disturbed by human activities (see also ruderal species and native weed or invasive native), or on cultivated land, where it competes for nutrients, water, sunlight, or other resources with cultivated plants such as food crops. Under different circumstances the weed plant itself may be cultivated for different purposes (Allaby 1998). 2. A native or introduced species that has a perceived negative ecological or economic effect on agricultural or natural ecosystems (Booth et al. 2003). 3. A plant growing in an area where it is not wanted (Royer and Dickinson 1999).", 
+            "link": "/wiki/Weed", 
+            "name": "Weed"
+        }, 
+        {
+            "def": "Executive Order 13112 (1999) defines this term as an alien species whose introduction does or is likely to cause economic or environmental harm or harm to human health. Website: [1]", 
+            "link": "/w/index.php?title=Invasive_species_(United_States)&action=edit&redlink=1", 
+            "name": "Invasive species (United States)"
+        }, 
+        {
+            "def": "Executive Order 13112 (1999) defines this term as the intentional or unintentional escape, release, dissemination, or placement of a species into an ecosystem as a result of human activity. Website: [2]", 
+            "link": "/w/index.php?title=Introduction_(United_States)&action=edit&redlink=1", 
+            "name": "Introduction (United States)"
+        }, 
+        {
+            "def": "Executive Order 13112 (1999) defines this term as a species with respect to a particular ecosystem that historically occurred or currently occurs in that ecosystem rather than as a result of an introduction. Website: [3]", 
+            "link": "/w/index.php?title=Native_species_(United_States)&action=edit&redlink=1", 
+            "name": "Native species (United States)"
+        }, 
+        {
+            "def": "The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (Public Law 101-646, 16 USC 4701-4741) defines this term as any species or other viable biological material that enters an ecosystem beyond its historic range, including any such organism transferred from one country into another. [Website: http://www.epa.gov/owow/invasive_species/nanpca90.pdf]", 
+            "link": "/w/index.php?title=Nonindigenous_species_(United_States)&action=edit&redlink=1", 
+            "name": "Nonindigenous species (United States)"
+        }, 
+        {
+            "def": "Executive Order 13112 (1999) defines this term as a group of organisms, all of which have a high degree of physical and genetic similarity, generally interbreed only among themselves, and show persistent differences from members of allied groups of organisms. Website: [4]", 
+            "link": "/w/index.php?title=Species_(United_States)&action=edit&redlink=1", 
+            "name": "Species (United States)"
+        }, 
+        {
+            "def": "The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (Public Law 101-646, 16 USC 4701-4741) defines this term as an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes. Website: [5]", 
+            "link": "/w/index.php?title=Unintentional_introduction_(United_States)&action=edit&redlink=1", 
+            "name": "Unintentional introduction (United States)"
+        }
+    ]
+}

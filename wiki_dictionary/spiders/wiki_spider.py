@@ -6,6 +6,15 @@ class QuotesSpider(scrapy.Spider):
     name = "wiki"
 
     start_urls = [
+
+        'https://en.wikipedia.org/wiki/Glossary_of_invasion_biology_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_gene_expression_terms',
+        'https://en.wikipedia.org/wiki/Glossary_of_astronomy',
+        'https://en.wikipedia.org/wiki/Glossary_of_classical_physics',
+        'https://en.wikipedia.org/wiki/Glossary_of_elementary_quantum_mechanics',
+        'https://en.wikipedia.org/wiki/Glossary_of_physics',
+        'https://en.wikipedia.org/wiki/Glossary_of_climate_change',
+        'https://en.wikipedia.org/wiki/Glossary_of_geology',
         'https://en.wikipedia.org/wiki/Outline_of_metalworking',
         'https://en.wikipedia.org/wiki/Heideggerian_terminology',
         'https://en.wikipedia.org/wiki/Severe_weather_terminology_(United_States)',
@@ -57,7 +66,6 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_glass_art_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_graffiti',
         'https://en.wikipedia.org/wiki/Glossary_of_literary_terms',
-        'https://en.wikipedia.org/wiki/Index_of_articles_related_to_motion_pictures',
         'https://en.wikipedia.org/wiki/Glossary_of_musical_terminology',
         'https://en.wikipedia.org/wiki/Glossary_of_jazz_and_popular_music',
         'https://en.wikipedia.org/wiki/Glossary_of_sculpting',
@@ -95,6 +103,7 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/List_of_medical_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_psychiatry',
         'https://en.wikipedia.org/wiki/Glossary_of_clinical_research',
+        'https://en.wikipedia.org/wiki/Index_of_articles_related_to_motion_pictures',
         'https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations',
         'https://en.wikipedia.org/wiki/Glossary_of_nautical_terms',
         'https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures',
@@ -123,20 +132,10 @@ class QuotesSpider(scrapy.Spider):
         'https://en.wikipedia.org/wiki/Glossary_of_entomology_terms',
         'https://en.wikipedia.org/wiki/Glossary_of_ichthyology',
         'https://en.wikipedia.org/wiki/Glossary_of_ecology',
-        'https://en.wikipedia.org/wiki/Glossary_of_invasion_biology_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_gene_expression_terms',
-        'https://en.wikipedia.org/wiki/Glossary_of_astronomy',
-        'https://en.wikipedia.org/wiki/Glossary_of_classical_physics',
-        'https://en.wikipedia.org/wiki/Glossary_of_elementary_quantum_mechanics',
-        'https://en.wikipedia.org/wiki/Glossary_of_physics',
 
-
-        'https://en.wikipedia.org/wiki/Glossary_of_climate_change',
-        'https://en.wikipedia.org/wiki/Glossary_of_geology',
     ]
 
     """
-
 
     """
 
@@ -263,9 +262,13 @@ class QuotesSpider(scrapy.Spider):
             "Severe_weather_terminology_(United_States)",
             "Glossary_of_geology",
             "Glossary_of_climate_change",
+            "Glossary_of_physics",
+            "Glossary_of_classical_physics",
+            "Glossary_of_astronomy",
+            "Glossary_of_gene_expression_terms",
 
         ]):
-            rule_name_main = './b'
+            rule_name_main = './b[1]'
             rule_name_sub = '.'
 
             rule_def_main = '.'
@@ -296,6 +299,8 @@ class QuotesSpider(scrapy.Spider):
             "Glossary_of_textile_manufacturing",
             "Appendix:Glossary_of_legal_terms",
             "Glossary_of_Islam",
+            "Glossary_of_elementary_quantum_mechanics",
+            "Glossary_of_invasion_biology_terms",
         ]):
             rule_name_main = '//dt'
             rule_name_sub = '.'

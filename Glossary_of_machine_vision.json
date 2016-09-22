@@ -21,7 +21,7 @@
         {
             "def": "3D computer graphics. 3D computer graphics are different from 2D computer graphics in that a three-dimensional representation of geometric data is stored in the computer for the purposes of performing calculations and rendering 2D images. Such images may be for later display or for real-time viewing. Despite these differences, 3D computer graphics rely on many of the same algorithms as 2D computer vector graphics in the wire frame model and 2D computer raster graphics in the final rendered display. In computer graphics software, the distinction between 2D and 3D is occasionally blurred; 2D applications may use 3D techniques to achieve effects such as lighting, and primarily 3D may use 2D rendering techniques.", 
             "link": "/wiki/3D_computer_graphics", 
-            "name": "3D computer graphics3D computer graphics"
+            "name": "3D computer graphics"
         }, 
         {
             "def": "3D scanner. This is a device that analyzes a real-world object or environment to collect data on its shape and possibly color. The collected data can then be used to construct digital, three dimensional models useful for a wide variety of applications.", 
@@ -81,7 +81,7 @@
         {
             "def": "CIE 1931 Color Space. In the study of the perception of color, one of the first mathematically defined color spaces was the CIE XYZ color space (also known as CIE 1931 color space), created by the International Commission on Illumination (CIE) in 1931.", 
             "link": "/wiki/CIE_1931_color_space", 
-            "name": "CIE 1931 Color SpaceCIE XYZ color spaceCIE 1931 color space"
+            "name": "CIE 1931 Color Space"
         }, 
         {
             "def": "CMOS. CMOS (\"see-moss\")stands for complementary metal-oxide semiconductor, is a major class of integrated circuits. CMOS imaging sensors for machine vision are cheaper than CCD sensors but more noisy.", 
@@ -191,7 +191,7 @@
         {
             "def": "Gamut. In color reproduction, including computer graphics and photography, the gamut, or color gamut /\u02c8\u0261\u00e6m\u0259t/, is a certain complete subset of colors.", 
             "link": "/wiki/Gamut", 
-            "name": "Gamutgamutcolor gamut"
+            "name": "Gamut"
         }, 
         {
             "def": "Grayscale. A grayscale digital image is an image in which the value of each pixel is a single sample. Displayed images of this sort are typically composed of shades of gray, varying from black at the weakest intensity to white at the strongest, though in principle the samples could be displayed as shades of any color, or even coded with various colors for different intensities.", 
@@ -206,12 +206,12 @@
         {
             "def": "Histogram. In statistics, a histogram is a graphical display of tabulated frequencies. A histogram is the graphical version of a table which shows what proportion of cases fall into each of several or many specified categories. The histogram differs from a bar chart in that it is the area of the bar that denotes the value, not the height, a crucial distinction when the categories are not of uniform width (Lancaster, 1974). The categories are usually specified as non-overlapping intervals of some variable. The categories (bars) must be adjacent.", 
             "link": "/wiki/Histogram", 
-            "name": "Histogramhistogram"
+            "name": "Histogram"
         }, 
         {
             "def": "Histogram (Color). In computer graphics and photography, a color histogram is a representation of the distribution of colors in an image, derived by counting the number of pixels of each of given set of color ranges in a typically two-dimensional (2D) or three-dimensional (3D) color space. A histogram is a standard statistical description of a distribution in terms of occurrence frequencies of different event classes; for color, the event classes are regions in color space.", 
             "link": "/wiki/Color_histogram", 
-            "name": "Histogram (Color)color histogram"
+            "name": "Histogram (Color)"
         }, 
         {
             "def": "HSV color space. The HSV (Hue, Saturation, Value) model, also called HSB (Hue, Saturation, Brightness), defines a color space in terms of three constituent components:\n\nHue, the color type (such as red, blue, or yellow)\nSaturation, the \"vibrancy\" of the color and colorimetric purity\nValue, the brightness of the color\n\n", 
@@ -351,7 +351,7 @@
         {
             "def": "S-video. Separate video, abbreviated S-Video and also known as Y/C (or erroneously, S-VHS and \"super video\") is an analog video signal that carries the video data as two separate signals (brightness and color), unlike composite video which carries the entire set of signals in one signal line. S-Video, as most commonly implemented, carries high-bandwidth 480i or 576i resolution video, i.e. standard definition video. It does not carry audio on the same cable.", 
             "link": "/wiki/S-video", 
-            "name": "S-videoSeparate videoS-VideoY/C"
+            "name": "S-video"
         }, 
         {
             "def": "Shutter. A shutter is a device that allows light to pass for a determined period of time, for the purpose of exposing the image sensor to the right amount of light to create a permanent image of a view.", 
@@ -436,7 +436,7 @@
         {
             "def": "Y-cable. A Y-cable or Y cable is a self describing name of a type of cable containing three ends of which one is a common end that in turn leads to a split into the remaining two ends. When looked upon, a Y-cable can resemble the Latin letter \"Y\". Y-cables are typically, but not necessarily, short (less than 12 inches), and often the ends connect to other cables. Uses may be as simple as splitting one audio or video channel into two, to more complex uses such as splicing signals from a high density computer connector to its appropriate peripheral .", 
             "link": "/wiki/Y-cable", 
-            "name": "Y-cableY-cableY cable"
+            "name": "Y-cable"
         }, 
         {
             "def": "Zoom lens. A mechanical assembly of lenses whose focal length can be changed, as opposed to a prime lens, which has a fixed focal length. See an animation of the zoom principle below.", 

@@ -41,7 +41,7 @@
         {
             "def": "Fumble: An unforced error when attempting a difficult task. Also known as a Botch.", 
             "link": null, 
-            "name": "FumbleBotch."
+            "name": "Fumble"
         }, 
         {
             "def": "Game master: The person who runs a role-playing game and arbitrates how actions are resolved and narrated. Abbreviated GM. In many games, specialized terms are used, as such Dungeon Master for someone running Dungeons & Dragons.", 
@@ -141,7 +141,7 @@
         {
             "def": "Statistic: Any attribute, advantage, disadvantage, power, skill, or other trait. In the plural, statistics refers to the information on a character sheet.", 
             "link": "/wiki/Statistic_(role-playing_games)", 
-            "name": "Statisticstatistics"
+            "name": "Statistic"
         }, 
         {
             "def": "Crunch: The mechanics of a game.[2]", 

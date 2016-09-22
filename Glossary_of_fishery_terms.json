@@ -186,7 +186,7 @@
         {
             "def": "Buoy - a floating object usually moored to the bottom. Buoys can be used as temporary markers, called dans, during Danish seine fishing to mark the anchor position of a net, or when fishing with lobster pots to mark the position of the pots.", 
             "link": "/wiki/Buoy", 
-            "name": "Buoydans"
+            "name": "Buoy"
         }, 
         {
             "def": "Bycatch - bycatch is the harvest of marine life and seabirds during fishing operations when other fish were the target. For example, bycatch might consist of a species which was not the targeted species, such as a shark caught on a tuna longline. Or it might consist of fish of the targeted species, but not of the targeted age or size. Some shrimp fisheries have a bycatch five times the weight of the caught shrimp. See also incidental catch.", 
@@ -261,7 +261,7 @@
         {
             "def": "Continental shelf - the seabed from the shore to the edge of the continental slope, covered by relatively shallow seas (known as shelf seas) and gulfs.", 
             "link": "/wiki/Continental_shelf", 
-            "name": "Continental shelfshelf seas"
+            "name": "Continental shelf"
         }, 
         {
             "def": "Continental slope - the slope which starts, usually abruptly at about a 200-metre depth, at the outer edge of the continent shelf and dips more steeply down to the deep-ocean floor (abyssal plain).", 
@@ -281,7 +281,7 @@
         {
             "def": "Crab pot fishery - a fishing technique where crabs are lured by bait into portable traps, sometimes called pots.", 
             "link": "/wiki/Lobster_trap", 
-            "name": "Crab pot fisherypots"
+            "name": "Crab pot fishery"
         }, 
         {
             "def": "Crustaceans - A group of freshwater and saltwater animals having no backbone, with jointed legs and a hard shell made of chitin. Includes crabs, lobsters, crayfish, shrimp and krill.", 
@@ -616,7 +616,7 @@
         {
             "def": "Incidental catch - the catch of non-fish species, caught in the course of commercial fishing practices. Examples of non-fish species are seabirds, and marine mammals and reptiles, such as dolphins, seals and sea turtles. Incidental mortality can be contrasted with bycatch, which is a general term for the catch of all fish and non-fish species other than the targeted species.", 
             "link": "/wiki/Incidental_catch", 
-            "name": "Incidental catchall"
+            "name": "Incidental catch"
         }, 
         {
             "def": "Individual transferable quota (ITQ) - a management tool by which the total allowable catch quota is allocated to individual fishers or companies who have long-term rights over the quota or can transfer it to others by sale, lease, or will. See also quota.", 
@@ -721,7 +721,7 @@
         {
             "def": "Longlines - a long fishing line with many short lines, called snoods and carrying hooks, attached at regular intervals. Pelagic longlines are suspended horizontally at a fixed depth using surface floats. Demersal longlines are weighted at the seabed and have closer-spaced hooks. A longline can be miles long with several thousand hooks.", 
             "link": "/wiki/Longline_fishing", 
-            "name": "Longlinessnoods"
+            "name": "Longlines"
         }, 
         {
             "def": "Mariculture - a particular branch of aquaculture where marine organisms are cultivated in the open ocean, or an enclosure of the ocean, or in tanks, ponds or raceways filled with seawater. Examples are the farming of marine fish, prawns, oysters and seaweed.", 
@@ -906,7 +906,7 @@
         {
             "def": "Photic zone - \"sun lit\" zone extending downward from a lake or ocean surface to the euphotic depth where the light intensity falls to one percent of that at the surface. The photic zone exposed to sufficient sunlight for photosynthesis to occur. The depth of the photic zone can be greatly affected by seasonal turbidity. Typical euphotic depths vary from only a few centimetres in highly turbid eutrophic lakes, to around 200 metres in the open ocean. About 90% of all marine life lives in this region.", 
             "link": "/wiki/Photic_zone", 
-            "name": "Photic zoneeuphotic"
+            "name": "Photic zone"
         }, 
         {
             "def": "Plankton - consist of any drifting organisms (animals, plants, archaea or bacteria) that inhabit the pelagic zones, particularly the surface areas, of oceans or bodies of fresh water.", 
@@ -1171,7 +1171,7 @@
         {
             "def": "Trawling - is fishing with a large bag-like net, called a trawl, which is drawn along behind a boat called a trawler. The net can be dragged along the sea bottom in order to target demersal fish, or pulled through clear water in order to target pelagic fish. Trawling along the sea bottom can result in significant bycatch and habitat destruction.", 
             "link": "/wiki/Trawling", 
-            "name": "Trawlingtrawl"
+            "name": "Trawling"
         }, 
         {
             "def": "Trophic level - The position that a species occupies in a food chain. The species it eats are at a lower trophic level, and the species that eats it are at a higher trophic level.", 

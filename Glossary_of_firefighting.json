@@ -111,7 +111,7 @@
         {
             "def": "Back burning: Australian term, for Backfiring, above.", 
             "link": null, 
-            "name": "Back burning:Backfiring"
+            "name": "Back burning:"
         }, 
         {
             "def": "Backflow preventer: Automatic valve used in hose accessories to ensure water flows only in one direction. Used in permanent fire department connections (FDC) to sprinklers and dry standpipes, as well as portable devices used in firefighting.", 
@@ -146,7 +146,7 @@
         {
             "def": "Box (Alarm): A mailslot or other file system containing a notecard with a planned response to an incident type. For example, a reported structure fire on Some Road would be tagged with Box 6; the notecard in Box 6 would contain the list of apparatus from various fire stations that should be dispatched to that incident. Assigning Boxes to areas (or even specific structures) significantly facilitated the process of getting the right tools to the right place on the initial dispatch, and helped eliminate the guesswork of \"which department has what\" on the fire scene. Boxes later evolved to contain escalation procedures - on the \"2nd alarm\", the Box would contain the next group of apparatus from various fire stations, etc. Modern CAD systems now abstract the Box Alarm concept, and allow box definitions to be triggered based on arbitrary geographic area, time of day, incident type, weather, and any other planned situation. For a given hydranted area, the \"Summer\" box will contain the usual response of engine, truck, and rescue companies. In the winter, however, the box may be modified (automatically, or manually) to include water tankers on the initial dispatch, to handle the case of frozen hydrants. The term \"Box\" comes from the fire alarm pull boxes that were commonplace in major cities for well over fifty years. This was a telegraph system that involved bells to ring out the box number. This system was in place from the 1920s (or earlier) to well into the 1960s and 1970s in some cities. Boston was one of the first (if not THE first) major U.S. Cities to have a telegraph alarm system. They installed it in 1852. The Boston Fire Department still uses this system of paper rolls and bells. The modern use of \"box cards\" based upon an imaginary box location for dispatch or move up is often known as the \"Phantom Box System\".", 
             "link": null, 
-            "name": "Box (Alarm)water tankers"
+            "name": "Box (Alarm)"
         }, 
         {
             "def": "Buffer Zone: The creation of a 'buffer-zone' implies the use of 3D defensive actions to reduce potential for an ignition of fire gases in the immediate area of a structure occupied by firefighters. This may create a temporary and more local zone of safety for firefighters, although offering far less protection than a 'safe-zone'.", 
@@ -166,7 +166,7 @@
         {
             "def": "Bushfire: Australian term, for wildfire, below.", 
             "link": "/wiki/Bushfire", 
-            "name": "Bushfirewildfire"
+            "name": "Bushfire"
         }, 
         {
             "def": "Call Firefighter: In the U.S., call firefighters respond as needed on a part-time basis to all types of emergencies. Call firefighters train with their local engine companies in their districts. Call firefighters are utilized in three different ways. \u201cFirst Responder\" call firefighter units, are those units that are staffed entirely by paid call firefighters. These firefighters respond to all emergency incidents within their jurisdictional areas and are supported by full-time companies from adjoining jurisdictions. \"Supplemental\" call firefighter units are those units that staff a second engine company from a station that is also staffed by a full-time company. These units respond to all multi-unit responses in their district, and cover the station when the career companies are committed. \"Augmentation\" call firefighters are assigned to an existing career company and respond directly to the scene to augment that company's staffing. See also Retained firefighter (U.K.)", 
@@ -451,12 +451,12 @@
         {
             "def": "Exterior attack: A method of extinguishing a fire which does not involve entering the structure. Often used when so much of the building is involved in fire that there is little or no benefit to risking firefighter safety by inserting them into the structure. May be a temporary measure when there are not sufficient personnel on scene to form an entry team and a rescue team (to rescue the entry team). Also known as Surround and drown. Compare Interior attack.", 
             "link": null, 
-            "name": "Exterior attack:Surround and drown."
+            "name": "Exterior attack:"
         }, 
         {
             "def": "Extrication: removal of a trapped victim such as a vehicle extrication, confined space rescue, or trench rescue; sometimes using hydraulic spreader, Jaws of Life, or other technical equipment.", 
             "link": null, 
-            "name": "Extricationhydraulic spreader"
+            "name": "Extrication"
         }, 
         {
             "def": "ETOH: the chemical abbreviation for ethanol, or ethyl alcohol, also used to describe someone believed to be intoxicated.", 
@@ -465,8 +465,8 @@
         }, 
         {
             "def": "FAST (or F.A.S.T.): Firefighter Assist and Search Team (also called Rapid Entry Team or Rapid Intervention Team/Crew) \u2014 firefighters assigned to stand by for rescue of other firefighters inside a structure; an implementation to support the Two-in, two-out rule; may have specialized training, experience and tools. While all of these versions of the name for a firefighter rescue crew either have been used or continue to be used in several areas, the National Incident Management System (NIMS) has determined that Rapid Intervention Crew, (\"RIC\") will be the national term. Current U.S. federally mandated training programs are in the process of standardizing this and other terms under DHS and FEMA. F.A.S.T operations became officially mandated after the Worcester, MA Cold Storage Fire, which claimed the lives of 6 firefighters, after they became disoriented in the smoke and subsequently ran out of air.", 
-            "link": "/wiki/Two-in,_two-out", 
-            "name": "FASTRapid Entry TeamRapid Intervention Team/CrewTwo-in, two-out rule"
+            "link": null, 
+            "name": "FAST"
         }, 
         {
             "def": "FDC (Fire Department Connection): Location in which pumping apparatus hooks to a buildings standpipe and or sprinkler system. Usually a 3\" female connection.", 
@@ -475,8 +475,8 @@
         }, 
         {
             "def": "Fire barn: Another term for Fire station. Originally it referred to a stable which housed horses and the fire apparatus which they hauled. Although it may be colloquially employed to describe any such structure, the term is now most commonly used in rural areas.", 
-            "link": "/wiki/Fire_station", 
-            "name": "Fire barnFire station"
+            "link": null, 
+            "name": "Fire barn"
         }, 
         {
             "def": "Fire Break: Especially in hilly or mountainous areas, roads or paths cut through brush with a tractor, bulldozer or other construction equipment. The purpose of these is to have an area with no brush, and thus, no fuel, so that a fire will hopefully burn out rather than jumping to another area with brush. Also to ensure vehicular access to brush areas.", 
@@ -496,7 +496,7 @@
         {
             "def": "Fire complex: (U.S. Complex fire) Area of fires - many of the areas have multiple fires with multiple fronts.", 
             "link": null, 
-            "name": "Fire complex:Complex fire"
+            "name": "Fire complex:"
         }, 
         {
             "def": "Fire engineering: Scientific design of materials, structures and processes for fire safety", 
@@ -521,7 +521,7 @@
         {
             "def": "Firefighter Assist and Search Team: See FAST.", 
             "link": null, 
-            "name": "Firefighter Assist and Search Team:FAST."
+            "name": "Firefighter Assist and Search Team:"
         }, 
         {
             "def": "Fire flow: The amount of water being pumped onto a fire, or required to extinguish a hypothetical fire. A critical calculation in light of the axiom that an ordinary fire will not be extinguished unless there is sufficient water to remove the heat of the fire.", 
@@ -540,8 +540,8 @@
         }, 
         {
             "def": "Fire hall Another term for Fire station.", 
-            "link": "/wiki/Fire_station", 
-            "name": "Fire hallFire station"
+            "link": null, 
+            "name": "Fire hall"
         }, 
         {
             "def": "Fire hazard: Materials, structures or processes that may result in creating a fire, permitting a fire to grow undetected, or preventing people from escaping a fire.", 
@@ -550,8 +550,8 @@
         }, 
         {
             "def": "Firehouse: Another term for Fire station.", 
-            "link": "/wiki/Fire_station", 
-            "name": "Firehouse:Fire station"
+            "link": null, 
+            "name": "Firehouse:"
         }, 
         {
             "def": "Fire hydraulics: The study of pumps, hoses, pipes, accessories and tools for moving water or other extinguishing agents from a water supply to a fire.", 
@@ -761,7 +761,7 @@
         {
             "def": "Hazard: a source of danger of personal injury or property damage; fire hazard refers to conditions that may result in fire or explosion, or may increase spread of an accidental fire, or prevent escape from fire. Under worker safety and health regulations, employers have a general duty to provide a workplace free of hazards. See also fire prevention, and HAZMAT.", 
             "link": null, 
-            "name": "Hazardfire hazardfire preventionHAZMAT"
+            "name": "Hazard"
         }, 
         {
             "def": "HAZMAT: Hazardous materials, including solids, liquids, or gases that may cause injury, death, or damage if released or triggered.", 
@@ -866,7 +866,7 @@
         {
             "def": "Interface zone (also wildland/structural interface or urban/wildland interface): The zone where wildfires threaten structures or structural fires threaten wildlands, such as in residential areas adjacent to forests. This requires both wildland firefighting and structural firefighting in the same location, which involve very different tactics and equipment.", 
             "link": null, 
-            "name": "Interface zonewildland/structural interfaceurban/wildland interface"
+            "name": "Interface zone"
         }, 
         {
             "def": "Interior attack: Inserting a team of firefighters into the burning structure, in an attempt to extinguish a blaze from inside the structure, minimizing property damage from fire, smoke, and water. Requires a minimum of four fully equipped firefighters: an entry team of at least two to enter the structure and fight the fire, and two standing by to rescue or relieve the entry team (see two in, two out). If the entry team(s) cannot extinguish the blaze, may become an Exterior Attack.", 
@@ -911,7 +911,7 @@
         {
             "def": "Ladder slide (or ladder bail) A technique used to rapidly bail out of a window and onto a ladder face-first. After exiting the window, the firefighter quickly rotates 180 degrees to descend the ladder normally.", 
             "link": null, 
-            "name": "Ladder slideladder bail"
+            "name": "Ladder slide"
         }, 
         {
             "def": "Layout: Establishing water supply. Usually done by first due engine company. Telling the next due in, to pick it up.", 
@@ -996,7 +996,7 @@
         {
             "def": "Mattydale Lay (Mattydale Load)\u00a0: The concept of storing preconnected Attack Lines on an engine, as well as storing them such that they are presented at the sides of the apparatus instead of the rear. Commonly called a Cross Lay, the technique allows for rapid deployment of attack lines from either side of the apparatus.", 
             "link": "/wiki/Mattydale_Lay_(firefighting)", 
-            "name": "Mattydale LaypreconnectedAttack LinesapparatusCross Layattack linesapparatus"
+            "name": "Mattydale Lay"
         }, 
         {
             "def": "Means of egress: The way out of a building during an emergency; may be by door, window, hallway, or exterior fire escape; local building codes will often dictate the size. location and type according to the number of occupants and the type of occupancy.", 
@@ -1251,7 +1251,7 @@
         {
             "def": "Reflash, re-kindle: A situation in which a fire, thought to be extinguished, resumes burning.", 
             "link": null, 
-            "name": "Reflashre-kindle"
+            "name": "Reflash"
         }, 
         {
             "def": "Reflash Watch: A person assigned to observe and monitor an extinguished fire, to ensure that it does not reflash or re-kindle. Aka \"Fire Watch.\"", 
@@ -1301,7 +1301,7 @@
         {
             "def": "Roof sector (Roof group, Roof division): A crew, typically a ladder company, assigned to the roof of a structure, most often for purposes of vertical ventilation during a fire. May also be assigned to check roof-mounted equipment, HVAC, etc., for fire or malfunction.", 
             "link": null, 
-            "name": "Roof sectorRoof groupRoof division"
+            "name": "Roof sector"
         }, 
         {
             "def": "Run card system: A system of pre-planning for fire protection in which information about specific detectors, hazards, or other emergency response plans is indexed by location, for rapid reference during an alarm.", 
@@ -1341,7 +1341,7 @@
         {
             "def": "Search and rescue (or SAR): Entering a fire building or collapse zone for an orderly search for victims and removal of live victims. Becomes \"recovery\" if victims are not likely to be found alive. May be done in quick primary wave and more thorough secondary search.", 
             "link": "/wiki/Search_and_rescue", 
-            "name": "Search and rescueSAR"
+            "name": "Search and rescue"
         }, 
         {
             "def": "Secondary containment: A system to contain a hazardous material should the primary means of containment (container) fail, e.g. by leakage. The secondary container is required to hold 110% of the capacity of the primary container.", 
@@ -1425,8 +1425,8 @@
         }, 
         {
             "def": "Station house: Another term for Fire station.", 
-            "link": "/wiki/Fire_station", 
-            "name": "Station house:Fire station"
+            "link": null, 
+            "name": "Station house:"
         }, 
         {
             "def": "Still Alarm: A fire alarm transmitted (as by telephone call) without sounding the signal apparatus.", 
@@ -1461,7 +1461,7 @@
         {
             "def": "Tactical firefighting: The combination of various tactical options on the fireground. These included 3D offensive water-fog; smooth-bore/straight stream (direct) attack; indirect attack; tactical ventilation including \"open-up,\" \"close-down\" and PPV methods. They key lies in careful risk assessment, recognition of specific conditions, application and training! All these various tactical options have a place on the fireground but the experienced firefighter will recognise specific conditions and utilise the most effective option, or combination of, for each individual scenario, ensuring tactical options are used effectively without conflict or breach of safety.", 
             "link": null, 
-            "name": "Tactical firefighting:training"
+            "name": "Tactical firefighting:"
         }, 
         {
             "def": "Tactical ventilation\u00a0: Venting actions by on-scene firefighters, used to gain control of a fire building's internal environment to the advantage of firefighting and rescue teams working within. Such actions may include attempts to release or direct smoke, super-heated, and burning gases from the building by either natural or forced means via vertical or horizontal openings made or existing in the structure. These actions may also include the \"closing down\" of a structure in an attempt to reduce the flow of air towards the fire. This tactic is termed anti-ventilation by the Swedish Fire Service. It is essential that firefighters remember the most dangerous opening they may create in the structure exists at the point of entry to the building.", 
@@ -1521,7 +1521,7 @@
         {
             "def": "Two-in, two-out (or \"two in/two out\"): Refers to the standard safety tactic of having one team of two firefighters enter a hazardous zone (IDLH), while at least two others stand by outside in case the first two need rescue \u2014 thus requiring a minimum of four firefighters on scene prior to starting interior attack. Also refers to the \"buddy system\" in which firefighters never enter or leave a burning structure alone.", 
             "link": "/wiki/Two-in,_two-out", 
-            "name": "Two-in, two-outtwo in/two out"
+            "name": "Two-in, two-out"
         }, 
         {
             "def": "Type I, II, III, IV, V building - U.S. classification system for fire resistance of building construction types, including definitions for \"resistive\" Type I, \"non-combustible\" Type II, \"ordinary\" Type III, heavy timber Type IV, and \"frame construction\" Type V (i.e., made entirely of wood).", 
@@ -1576,7 +1576,7 @@
         {
             "def": "Vapor pressure (equilibrium vapor pressure): The pressure of a vapor in thermodynamic equilibrium with its condensed phases in a closed system.", 
             "link": "/wiki/Vapor_pressure", 
-            "name": "Vapor pressureequilibrium vapor pressure"
+            "name": "Vapor pressure"
         }, 
         {
             "def": "Vapor suppression: Process of reducing the amount of flammable or other hazardous vapors, from a flammable liquid, mixing with air, typically by careful application of a foam blanket on top of a pool of material.", 
@@ -1661,7 +1661,7 @@
         {
             "def": "Wildfire or Wildland fire: Fire in forests, grasslands, prairies, or other natural areas, not involving structure fires (although wildland fires may threaten structures or vice versa - see interface zone.) For a complete list of terms used in wildland fire, see Glossary of wildland fire terms.", 
             "link": "/wiki/Wildfire", 
-            "name": "WildfireWildland fire"
+            "name": "Wildfire"
         }, 
         {
             "def": "Wholetime firefighter: (U.K.) A firefighter employed full-time by one of the 63 brigades in England, Scotland, Wales and Northern Ireland.", 

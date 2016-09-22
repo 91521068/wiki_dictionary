@@ -6,7 +6,7 @@
         {
             "def": "Cane, rods of glass with color, either single or multiple (see also zanfirico/twisted cane)", 
             "link": null, 
-            "name": "Canerods"
+            "name": "Cane"
         }, 
         {
             "def": "Cast,[1] Glass formed by pouring hot glass into a mold (sand casting) or kiln-casting using the cire perdue (lost wax) method. Any use of hot glass where the metal is poured out or off of a tool without being cut or broken.", 
@@ -31,7 +31,7 @@
         {
             "def": "Lampwork, alternate name Flamework,[1] the technique of forming glass using a bench top or handheld heat source, formerly lamps, more often today a bench-mounted oxy/propane torch, to shape and form the glass with the use of tongs, forceps, knives and other small tools. Borosilicate glass is the most common form of glass to be manipulated using this technique.", 
             "link": "/wiki/Lampwork", 
-            "name": "LampworkFlamework"
+            "name": "Lampwork"
         }, 
         {
             "def": "Knitted glass, incorporates the techniques of knitting, lost-wax casting, mold-making, and kiln-casting.", 
@@ -96,7 +96,7 @@
         {
             "def": "Twisty cane, a cane formed out of different coloured glass twisted together - also known as zanfirico cane", 
             "link": null, 
-            "name": "Twisty canecane"
+            "name": "Twisty cane"
         }, 
         {
             "def": "Vitreography is a term that can refer either to a particular art form or to a technique for art printmaking. As an art form, vitreography refers to a style of contained 3-dimensional scenes displayed in a shadow box frame. As a fine art printing technique is refers to the use a 3\u20448-inch-thick (9.5\u00a0mm) float glass matrix instead of the traditional matrices of metal, wood or stone.", 

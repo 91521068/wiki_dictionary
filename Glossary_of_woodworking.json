@@ -21,7 +21,7 @@
         {
             "def": "Bench dog or Bench stop - a peg standing proud of the bench surface.", 
             "link": "/wiki/Bench_dog", 
-            "name": "Bench dogBench stop"
+            "name": "Bench dog"
         }, 
         {
             "def": "Blind - joinery with mating surfaces not protruding through the face or end grain of the pieces being joined. Example - blind mortise and tenon joint", 
@@ -136,7 +136,7 @@
         {
             "def": "Dado - a slot made across the grain. Typically, the slot is made by milling, chiseled, or sawed.", 
             "link": "/wiki/Dado_(joinery)", 
-            "name": "DadoTypically, the slot is made by milling, chiseled, or sawed."
+            "name": "Dado"
         }, 
         {
             "def": "Dovetail joint - a joint technique most commonly used in woodworking joinery. Noted for its resistance to being pulled apart (tensile strength), the dovetail joint is commonly used to join the sides of a drawer to the front.", 
@@ -176,7 +176,7 @@
         {
             "def": "Fishtail chisel or gouge - a chisel or gouge with a splayed end.", 
             "link": "/wiki/Fishtail_chisel", 
-            "name": "Fishtail chiselgouge"
+            "name": "Fishtail chisel"
         }, 
         {
             "def": "Flat gouge - a gouge with minimal curvature, used for finishing and smoothing.", 
@@ -245,13 +245,13 @@
         }, 
         {
             "def": "Hand plane - see Plane.", 
-            "link": "/wiki/Plane_(tool)", 
-            "name": "Hand planePlane"
+            "link": null, 
+            "name": "Hand plane"
         }, 
         {
             "def": "Hardwood - wood from an angiosperm tree, i.e. a tree in the division Magnoliophyta. Despite the name, not necessarily very hard or dense wood (e.g. balsa is a hardwood), although generally harder than softwoods.", 
             "link": "/wiki/Hardwood", 
-            "name": "Hardwoodsoftwoods"
+            "name": "Hardwood"
         }, 
         {
             "def": "Heart shake - a shake (i.e. crack or split) radiating out from the heartwood.", 
@@ -326,17 +326,17 @@
         {
             "def": "Mortise or Mortice - a cavity or hole (generally rectangular) in a piece of wood, meant to receive a tenon or a hinge", 
             "link": "/wiki/Mortise_and_tenon", 
-            "name": "MortiseMortice"
+            "name": "Mortise"
         }, 
         {
             "def": "Mitre (UK, Cda) or Miter (US) - a joint made by fastening together pieces with the ends cut at an angle.", 
             "link": "/wiki/Miter_joint", 
-            "name": "MitreMiter"
+            "name": "Mitre"
         }, 
         {
             "def": "Mitre box (UK, Cda) or Miter box (US) - a box used for making mitre joints by having slots to guide a saw at the desired angle for the joint.", 
             "link": "/wiki/Mitre_box", 
-            "name": "Mitre boxMiter box"
+            "name": "Mitre box"
         }, 
         {
             "def": "Off fall - Scrap created by making a cut. Abbreviated as fall.", 
@@ -546,7 +546,7 @@
         {
             "def": "Tenon - is a projection on the end of a piece of wood for insertion into a mortise.", 
             "link": "/wiki/Mortise_and_tenon", 
-            "name": "Tenonmortise"
+            "name": "Tenon"
         }, 
         {
             "def": "Tread - in stairs the part that is stepped on.", 
