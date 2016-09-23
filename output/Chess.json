@@ -1,0 +1,2752 @@
+{
+    "c1": "", 
+    "c2": "Games", 
+    "c3": "Chess", 
+    "words": [
+        {
+            "def": "A pin against the king is called absolute since the pinned piece cannot legally move (as moving it would expose the king to check). Cf. relative pin.", 
+            "link": "/wiki/Absolute_pin", 
+            "name": "absolute pin "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Describes a piece that controls a number of squares, or a piece that has a number of squares available for its next move.", 
+            "link": null, 
+            "name": "active "
+        }, 
+        {
+            "def": "Suspension of a chess game with the intention to finish it later. It was once very common in high-level competition, often occurring soon after the first time control, but the practice has been abandoned due to the advent of computer analysis. See sealed move.", 
+            "link": "/wiki/Adjournment_(games)", 
+            "name": "adjournment "
+        }, 
+        {
+            "def": "Decision by a strong chess player (the adjudicator) on the outcome of an unfinished game. This practice is now uncommon in over-the-board events, but does happen in online chess when one player refuses to continue after an adjournment.", 
+            "link": null, 
+            "name": "adjudication "
+        }, 
+        {
+            "def": "To adjust the position of a piece on its square without being required to move it. A player may only do this on his or her turn to move, and he or she must first say \"I adjust\", or the French equivalent \"J'adoube\".", 
+            "link": "/wiki/Touch-move_rule", 
+            "name": "adjust (see Touch-move rule) "
+        }, 
+        {
+            "def": "A pawn that is on the opponent's side of the board (the fifth rank or higher). An advanced pawn may be weak if it is overextended, lacking support and difficult to defend, or strong if it cramps the enemy by limiting mobility. An advanced passed pawn that threatens to promote can be especially strong.", 
+            "link": null, 
+            "name": "advanced pawn "
+        }, 
+        {
+            "def": "A better position with the chance of winning the game. Evaluation factors can include space, time, material, and threats.", 
+            "link": null, 
+            "name": "advantage "
+        }, 
+        {
+            "def": "A formation in which a queen backs up two rooks on the same file.", 
+            "link": "/wiki/Alekhine%27s_gun", 
+            "name": "Alekhine's gun"
+        }, 
+        {
+            "def": "The standard way to record the moves of a chess game, using alphanumeric coordinates for the squares.", 
+            "link": "/wiki/Algebraic_notation_(chess)", 
+            "name": "algebraic notation "
+        }, 
+        {
+            "def": "The distinction between professional and amateur is not very important in chess as amateurs may win prizes, accept appearance fees, and earn any title, including World Champion. In the 19th century, \"Amateur\" was sometimes used in published game scores to conceal the name of the losing player in a Master vs. Amateur contest. It was thought to be impolite to use a player's name without permission, and the professional did not want to risk losing a customer. See also NN or N.N.", 
+            "link": null, 
+            "name": "amateur "
+        }, 
+        {
+            "def": "The study of a position to determine best play for both sides.", 
+            "link": null, 
+            "name": "analysis "
+        }, 
+        {
+            "def": "Written commentary on a game using a combination of comments, chess symbols or notation.", 
+            "link": null, 
+            "name": "annotation "
+        }, 
+        {
+            "def": "A practice, common in the 19th century, whereby a player would announce a sequence of moves, believed by him to constitute best play by both sides, that led to a forced checkmate for the announcing player in a specified number of moves (for example, \"mate in five\").", 
+            "link": null, 
+            "name": "announced mate "
+        }, 
+        {
+            "def": "A move or a plan that is not in accordance with the principles of positional play. Antipositional is used to describe moves that are part of an incorrect plan rather than a mistake made when trying to follow a correct plan. Antipositional moves are often pawn moves; since pawns cannot move backwards to return to squares they have left, their advance often creates irreparable weaknesses.", 
+            "link": null, 
+            "name": "antipositional "
+        }, 
+        {
+            "def": "An opening variation that White uses against the Sicilian Defense (1.e4 c5) other than the most common plan of 2.Nf3 followed by 3.d4 cxd4 4.Nxd4 (the Open Sicilian). Some Anti-Sicilians include the Alapin Variation (2.c3), Moscow Variation (2.Nf3 d6 3.Bb5+), Rossolimo Variation (2.Nf3 Nc6 3.Bb5), Grand Prix Attack (2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 and now 5.Bc4 or 5.Bb5), Closed Sicilian (2.Nc3 followed by g3 and Bg2), Smith\u2013Morra Gambit (2.d4 cxd4 3.c3), and Wing Gambit (2.b4).", 
+            "link": null, 
+            "name": "Anti-Sicilian"
+        }, 
+        {
+            "def": "See International Arbiter.", 
+            "link": null, 
+            "name": "arbiter "
+        }, 
+        {
+            "def": "A game which, under the tournament rules, counts as a win for Black if it ends in a draw. Typically the tournament rules allow White more time than Black in such games: the discrepancy can vary; usually in FIDE World Championships, White has six minutes, while Black only has five, but in the World Chess Championship 2012 the following time control was used: 5 minutes for White, 4 minutes for Black; plus 3 seconds increment per move from move 60. This format is typically used in playoff tiebreakers when shorter blitz games have not resolved the tie.", 
+            "link": "/wiki/Armageddon_chess", 
+            "name": "Armageddon chess "
+        }, 
+        {
+            "def": "Refers to a maneuver of several separate moves by the king and by a rook where they end up as if they had castled. Also known as castling by hand.", 
+            "link": "/wiki/Artificial_castling", 
+            "name": "artificial castling "
+        }, 
+        {
+            "def": "An assault, either short-term (e.g., after 1.e4 Nf6, Black is attacking White's pawn on e4) or long-term, for example in the form of a sustained mating attack against the enemy king or a minority attack against the opponent's queenside pawn structure. See defence.", 
+            "link": null, 
+            "name": "attack "
+        }, 
+        {
+            "def": "A type of decoy involving a sacrifice of minor or major piece on a square next to the enemy king, forcing the king to recapture and abandon the defence of another square. For example, if the black queen has interposed to block a check from the white queen as in the diagram, white may check the king from the opposite direction to win the queen.", 
+            "link": null, 
+            "name": "attraction "
+        }, 
+        {
+            "def": "A self-operating chess-playing machine. Popular attractions in the 18th and 19th centuries, these devices were hoaxes under the control of a human player. The most famous chess-playing \"automaton\" was The Turk.", 
+            "link": "/wiki/Automaton", 
+            "name": "automaton "
+        }, 
+        {
+            "def": "Symbol used for the bishop when recording chess moves in English.", 
+            "link": null, 
+            "name": "B"
+        }, 
+        {
+            "def": "A player's first rank (the one on which the pieces stand in the starting position); White's back rank is Black's eighth rank, and vice versa.", 
+            "link": null, 
+            "name": "back rank "
+        }, 
+        {
+            "def": "A checkmate delivered by a rook or queen along a back rank from which the mated king is unable to move because it is blocked by friendly pieces (usually pawns) on the second rank. This is also sometimes referred to as a back-row mate.", 
+            "link": "/wiki/Back-rank_checkmate", 
+            "name": "back-rank mate "
+        }, 
+        {
+            "def": "A situation in which a player is under threat of a back-rank mate and, having no time/option to create an escape for the king, must constantly watch and defend against that threat, for example by keeping a rook on the back rank.", 
+            "link": null, 
+            "name": "back-rank weakness "
+        }, 
+        {
+            "def": "A pawn that is behind a pawn of the same color on an adjacent file and that cannot be advanced with the support of another pawn.", 
+            "link": "/wiki/Backward_pawn", 
+            "name": "backward pawn "
+        }, 
+        {
+            "def": "A bishop that is hemmed in by the player's own pawns. See also good bishop.", 
+            "link": null, 
+            "name": "bad bishop "
+        }, 
+        {
+            "def": "A position in which a king is the only man of its color on the board.", 
+            "link": null, 
+            "name": "bare king "
+        }, 
+        {
+            "def": "A chess competition in which the players simultaneously play each other two games on two boards, each playing White on one and Black on the other. There is a clock at both boards. It removes the bonus in mini-matches of playing White first. Basque chess was first played in the 2012 Donostia Chess Festival in the Basque Country, Spain.[1]", 
+            "link": null, 
+            "name": "Basque chess or Basque system "
+        }, 
+        {
+            "def": "A formation that consists of two or more pieces on the same rank, file, or diagonal. Other chess authors interpret battery as \"an arrangement of two pieces in line with the enemy king on a rank, file, or diagonal so that if the middle piece moves a discovered check (or a threat other than a check) will be delivered.", 
+            "link": "/wiki/Battery_(chess)", 
+            "name": "battery "
+        }, 
+        {
+            "def": "British Chess Federation, the former name of the English Chess Federation. See ECF.", 
+            "link": null, 
+            "name": "BCF"
+        }, 
+        {
+            "def": "An abbreviation for the British Chess Magazine.", 
+            "link": "/wiki/British_Chess_Magazine", 
+            "name": "BCM"
+        }, 
+        {
+            "def": "An abbreviation for the 1982 openings reference book Batsford Chess Openings, by Raymond Keene and Garry Kasparov. The second edition (1989) is often called BCO-2. Cf. ECO and MCO.", 
+            "link": null, 
+            "name": "BCO"
+        }, 
+        {
+            "def": "A bad bishop that, in addition to being stuck behind its own pawns, has to stay there to defend them. They are effectively reduced to doing the work of a pawn. Bishops in the Staunton chess set are generally the same shape as pawns but larger.", 
+            "link": null, 
+            "name": "big pawn "
+        }, 
+        {
+            "def": "A strong grip or stranglehold on a position that is difficult for the opponent to break. A bind is usually an advantage in space created by advanced pawns. The Mar\u00f3czy Bind is a well-known example. See also squeeze.", 
+            "link": null, 
+            "name": "bind "
+        }, 
+        {
+            "def": " see bishop", 
+            "link": null, 
+            "name": "bishop "
+        }, 
+        {
+            "def": "In open positions, two bishops are considered to have an advantage over two knights or a knight and a bishop. (In closed positions knights may be more valuable than bishops.) The player with two bishops is said to have the bishop pair. Some evaluation systems count the bishop pair as worth half a pawn, see Chess piece relative value#Alternate valuations.", 
+            "link": null, 
+            "name": "bishop pair "
+        }, 
+        {
+            "def": "A pawn on the bishop's file, i.e. the c-file or f-file.", 
+            "link": null, 
+            "name": "bishop pawn "
+        }, 
+        {
+            "def": "A situation in which one player has only his or her light-square bishop remaining while the other has only his or her dark-square bishop remaining. In endgames, this often results in a draw if there are no other pieces (only pawns), even if one side has a material advantage of one, two or even three pawns, since the bishops control different squares (see Opposite-colored bishops endgame). In the middlegame, however, the presence of opposite-colored bishops imbalances the game and can lead to mating attacks, since each bishop attacks squares that cannot be covered by the other.", 
+            "link": null, 
+            "name": "bishops on opposite colors (or bishops of opposite colors) "
+        }, 
+        {
+            "def": "The dark-colored squares on the chessboard are often referred to as \"the black squares\" even though they are often some other dark color. Similarly, \"the black pieces\" are sometimes actually some other (usually dark) color. See also white.", 
+            "link": null, 
+            "name": "black"
+        }, 
+        {
+            "def": "The designation for the player who moves second, even though his or her pieces (\"the black pieces\") are sometimes actually some other (usually dark) color. See also White and first-move advantage.", 
+            "link": "/wiki/White_and_Black_in_chess", 
+            "name": "Black (see White and Black in chess)"
+        }, 
+        {
+            "def": "See Kriegspiel.", 
+            "link": null, 
+            "name": "blind chess "
+        }, 
+        {
+            "def": "A pair of rooks on the opponent\u2019s second rank are referred to as \u201cblind pigs\u201d because they devour everything indiscriminately.", 
+            "link": null, 
+            "name": "blind pigs "
+        }, 
+        {
+            "def": "A form of chess in which one or both players are not allowed to see the board.", 
+            "link": "/wiki/Blindfold_chess", 
+            "name": "blindfold chess "
+        }, 
+        {
+            "def": "A fast form of chess (from German Blitz, \"lightning\") with a very short time limit, usually 3 or 5 minutes per player for the entire game. With the advent of electronic chess clocks, the time remaining is often incremented by 1 or 2 seconds per move.", 
+            "link": "/wiki/Fast_chess", 
+            "name": "blitz chess (see Fast chess) "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A strategic placement of a minor piece directly in front of an enemy pawn, where it restrains the pawn's advance and gains shelter from attack. Blockading pieces are often overprotected.", 
+            "link": null, 
+            "name": "blockade "
+        }, 
+        {
+            "def": "A very bad move, an oversight (indicated by \"??\" in notation).", 
+            "link": "/wiki/Blunder_(chess)", 
+            "name": "blunder "
+        }, 
+        {
+            "def": "See chessboard.", 
+            "link": null, 
+            "name": "board "
+        }, 
+        {
+            "def": "Boden's Mate, named for Samuel Boden, is a checkmate pattern in which the king, usually having castled queenside, is checkmated by two crisscrossing bishops. Immediately prior to delivering the mate, the winning side typically plays a queen sacrifice on c3 or c6 to set up the mating position.", 
+            "link": "/wiki/Boden%27s_Mate", 
+            "name": "Boden's Mate "
+        }, 
+        {
+            "def": "An endgame position known to be a draw with perfect play. Historically this was established by reference to chess endgame literature, but in simplified positions (currently six pieces or fewer[2]) computer analysis in an endgame tablebase can be used.", 
+            "link": null, 
+            "name": "book draw "
+        }, 
+        {
+            "def": "An opening move found in standard reference books on opening theory. A game is said to be \"in book\" when both players are playing moves found in the opening references. A game is said to be \"out of book\" when the players have reached the end of the variations analyzed in the opening books, or if one of the players deviates with a novelty (or a blunder).", 
+            "link": null, 
+            "name": "book move "
+        }, 
+        {
+            "def": "An endgame position known to be a win with perfect play. Historically this was established by reference to chess endgame literature, but in simplified positions (currently six pieces or fewer[2]) computer analysis in an endgame tablebase can be used.", 
+            "link": null, 
+            "name": "book win "
+        }, 
+        {
+            "def": "A pawn advance or capture that opens a blocked position.", 
+            "link": null, 
+            "name": "break "
+        }, 
+        {
+            "def": "Destruction of a seemingly strong defense, often by means of a sacrifice.", 
+            "link": null, 
+            "name": "breakthrough "
+        }, 
+        {
+            "def": "[chiefly British] See miniature.", 
+            "link": null, 
+            "name": "brevity "
+        }, 
+        {
+            "def": "A spectacular and beautiful game of chess, generally featuring sacrificial attacks and unexpected moves. Brilliancies are not always required to feature sound play or the best moves by either side.", 
+            "link": null, 
+            "name": "brilliancy "
+        }, 
+        {
+            "def": "A prize awarded at some tournaments for the best brilliancy played in the tournament.", 
+            "link": null, 
+            "name": "brilliancy prize "
+        }, 
+        {
+            "def": "A time control method with time delay, invented by David Bronstein. When it becomes a player's turn to move, the clock waits for the delay period before starting to subtract from the player's remaining time.", 
+            "link": null, 
+            "name": "Bronstein delay"
+        }, 
+        {
+            "def": "A popular chess variant played with teams of two or more.", 
+            "link": "/wiki/Bughouse_chess", 
+            "name": "bughouse chess "
+        }, 
+        {
+            "def": "Making a path for a king in the endgame by providing protective cover against checks from line-pieces. A well-known example is the Lucena position.", 
+            "link": null, 
+            "name": "building a bridge "
+        }, 
+        {
+            "def": "A form of chess in which each side has 1 minute to make all their moves.", 
+            "link": "/wiki/Fast_chess", 
+            "name": "bullet chess (see Fast chess) "
+        }, 
+        {
+            "def": "Colloquial term for a refutation of an opening, or of previously published analysis. A famous example is Bobby Fischer's 1961 article \"A Bust to the King's Gambit\" in which he wrote, \"In my opinion, the King's Gambit is busted. It loses by force.\"[3]", 
+            "link": null, 
+            "name": "bust "
+        }, 
+        {
+            "def": "A tournament round in which a player does not have a game, usually because there are an odd number of players. A bye is normally scored as a win (1 point), although in some tournaments a player is permitted to choose to take a bye (usually in the first or last round) and score it as a draw (\u00bd point).", 
+            "link": "/wiki/Bye_(sports)", 
+            "name": "bye "
+        }, 
+        {
+            "def": "The goddess of chess, occasionally invoked to indicate luck or good fortune: \"Ca\u00efssa was with me.\"", 
+            "link": "/wiki/Ca%C3%AFssa", 
+            "name": "Ca\u00efssa "
+        }, 
+        {
+            "def": "To carefully plan a series of moves while considering possible responses.", 
+            "link": null, 
+            "name": "calculate "
+        }, 
+        {
+            "def": "A move that seems good upon initial observation of the position, and that warrants further analysis.", 
+            "link": "/wiki/Candidate_move", 
+            "name": "candidate move "
+        }, 
+        {
+            "def": "A knockout match in the Candidates Tournament.", 
+            "link": null, 
+            "name": "Candidates Match"
+        }, 
+        {
+            "def": "A tournament organised by the FIDE, the third and last qualifying cycle of the World Chess Championship. The participants are the top players of the Interzonal tournament plus possibly other players selected on the basis of rating or performance in the previous candidates tournament. The top ranking player(s) qualify(ies) for the world championship.", 
+            "link": null, 
+            "name": "Candidates Tournament"
+        }, 
+        {
+            "def": "The plan of attacking a kingside fianchetto by advancing the h-pawn. Because it is difficult for the defender's advanced g-pawn to avoid being exchanged for the h-pawn, the result will usually be an open h-file leading to the defender's king.", 
+            "link": null, 
+            "name": "can-opener "
+        }, 
+        {
+            "def": "A certain piece with which one player tries to deliver checkmate. Agreeing to play with a capped piece provides the stronger player an extra challenge, thereby conferring upon himself a handicap in chess. When the capped piece is a pawn, it is called a pion coiff\u00e9 [from French: \"capped pawn\"].", 
+            "link": null, 
+            "name": "capped piece "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0[verb] To remove the opponent's man from the board by taking it with one's own man. Except in the case of an en passant capture, the capturing man replaces the captured man on its square.", 
+            "link": null, 
+            "name": "capture "
+        }, 
+        {
+            "def": "A special move involving both the king and one rook. Its purpose is generally to protect the king and develop the rook. Castling on the kingside is sometimes called \"castling short\" and castling on the queenside is called \"castling long\"; the difference is based on whether the rook moves a short distance (two squares) or a long distance (three squares).", 
+            "link": "/wiki/Castling", 
+            "name": "castling "
+        }, 
+        {
+            "def": "A situation where one side castles and a result is that the king is in more danger at the destination than on the initial square, either immediately or because lines and diagonals can be more readily opened against it. Because beginners often falsely assume castling to always improve protection of the king, the pre-war[which?] grandmaster and leading figure of the hypermodern school Richard R\u00e9ti exhorted players to \"castle because you must, not because you can.\"", 
+            "link": null, 
+            "name": "castling into it "
+        }, 
+        {
+            "def": "Castling queenside; in chess notation: 0-0-0.", 
+            "link": null, 
+            "name": "castling long "
+        }, 
+        {
+            "def": "Castling kingside; in chess notation: 0-0.", 
+            "link": null, 
+            "name": "castling short "
+        }, 
+        {
+            "def": "See friendly game.", 
+            "link": null, 
+            "name": "casual game "
+        }, 
+        {
+            "def": "The category of a tournament is a measure of its strength based on the average FIDE rating of the participants. The category is calculated by rounding up the number: (average\u00a0rating\u00a0\u2212\u00a02250)\u00a0/\u00a025. So each category covers a 25-point rating range, starting with Category 1 which spans ratings between 2251 and 2275. A Category 18 tournament has an average rating between 2676 and 2700.", 
+            "link": null, 
+            "name": "category "
+        }, 
+        {
+            "def": "An abbreviation sometimes used for correspondence chess.", 
+            "link": null, 
+            "name": "CC"
+        }, 
+        {
+            "def": "Moving a piece or pieces toward the center of the board. In general, pieces are best placed in or near the center of the board because they control a large number of squares and are available for play on either flank as needed. Because of their limited mobility, knights in particular benefit from being centralized. There are several chess aphorisms referring to this principle: \"A knight on the rim is dim [or, grim]\" and \"A knight on the side cannot abide.\"", 
+            "link": "/wiki/Chess_strategy#Control_of_the_center", 
+            "name": "centralisation (or centralization) "
+        }, 
+        {
+            "def": "A pawn on the king's file (e-file) or queen's file (d-file).", 
+            "link": null, 
+            "name": "central pawn "
+        }, 
+        {
+            "def": "The four squares in the middle of the board.", 
+            "link": null, 
+            "name": "centre (or center) "
+        }, 
+        {
+            "def": "See central pawn.", 
+            "link": null, 
+            "name": "centre pawn (or center pawn) "
+        }, 
+        {
+            "def": "Slang for a primitive trap, often set in the hope of swindling a win or a draw from a lost position.", 
+            "link": null, 
+            "name": "cheapo "
+        }, 
+        {
+            "def": "A direct attack on the king by an enemy man. The attacked king is said to be in check. In casual games a player usually announces \"check\", however this is not a requirement in tournament games.", 
+            "link": "/wiki/Check_(chess)", 
+            "name": "check "
+        }, 
+        {
+            "def": "A position in which a player's king is in check and the player has no legal move (i.e. cannot move out of or escape the check). A player whose king is checkmated loses the game.", 
+            "link": "/wiki/Checkmate", 
+            "name": "checkmate "
+        }, 
+        {
+            "def": "A chess variant with a randomized positioning of the back-rank pieces to start the game. Also known as Fischer Random Chess.", 
+            "link": "/wiki/Chess960", 
+            "name": "Chess960"
+        }, 
+        {
+            "def": "The failure of a player to see a good move or danger that he or she would normally consider obvious.[4] The term was coined by Siegbert Tarrasch. Similar to Kotov syndrome.", 
+            "link": null, 
+            "name": "Chess blindness "
+        }, 
+        {
+            "def": "The chequered board used in chess, consisting of 64 squares (eight rows by eight columns) arranged in two alternating colors, light and dark.", 
+            "link": "/wiki/Chessboard", 
+            "name": "chessboard "
+        }, 
+        {
+            "def": "The movable figures placed on the board in a game of chess. Includes both pieces and pawns.", 
+            "link": null, 
+            "name": "chessman "
+        }, 
+        {
+            "def": "A device made up of two adjacent clocks and buttons, keeping track of the total time each player takes for their moves. Immediately after moving, the player hits his or her button, which simultaneously stops their clock and starts their opponent's. The picture shown displays an analogue clock where the term flag fall originates. Modern clocks are digital.", 
+            "link": "/wiki/Game_clock", 
+            "name": "chess clock (or game clock) "
+        }, 
+        {
+            "def": "See algebraic notation and descriptive notation.", 
+            "link": null, 
+            "name": "chess notation "
+        }, 
+        {
+            "def": "Also called composition.", 
+            "link": "/wiki/Chess_problem", 
+            "name": "chess problem "
+        }, 
+        {
+            "def": "A chess-like game played using a different board, pieces, or rules than standard chess.", 
+            "link": "/wiki/Chess_variant", 
+            "name": "chess variant "
+        }, 
+        {
+            "def": "Slang for making capture(s) or exchange(s). See also wood.", 
+            "link": null, 
+            "name": "chop wood "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An opening system geared towards forming a full pawn center. See also hypermodern.", 
+            "link": null, 
+            "name": "classical "
+        }, 
+        {
+            "def": "See Greek gift sacrifice.", 
+            "link": null, 
+            "name": "classical bishop sacrifice "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Removal of pieces from a rank, file or diagonal so that a bishop, rook or queen is free to move along it.", 
+            "link": null, 
+            "name": "clearance "
+        }, 
+        {
+            "def": "In a game played clock move, a move is considered completed only after the clock is pressed. For example, one could touch a piece, then move a different piece\u2014as long as the player has not pressed their clock button. This way of playing is uncommon but can be seen in casual games, rather than in tournaments, which are very likely to use the touch move rule.", 
+            "link": null, 
+            "name": "clock move "
+        }, 
+        {
+            "def": "Time (consumed or remaining) on the chess clock, in a tournament game.", 
+            "link": null, 
+            "name": "clock time "
+        }, 
+        {
+            "def": "A file on which White and Black each have a pawn.", 
+            "link": null, 
+            "name": "closed file "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A position with few open lines (files or diagonals), generally characterized by interlocking pawn chains, cramped positions with few opportunities to exchange, and extensive maneuvering behind lines. Such a position may later become an open game. See also positional play.", 
+            "link": "/wiki/Closed_Game", 
+            "name": "closed game (or Closed Game) "
+        }, 
+        {
+            "def": "A tournament in which only invited or qualifying players may participate, as opposed to an open tournament. Also called an invitational tournament.", 
+            "link": null, 
+            "name": "closed tournament "
+        }, 
+        {
+            "def": "Adjective used to describe a move, player, or style of play characterized by risky, positionally dubious play that sets traps for the opponent. The name comes from the notion that one would expect to see such play in skittles games played in a coffeehouse or similar setting, particularly in games played for stakes or blitz chess. The Blackburne Shilling Gambit is a typical example of coffeehouse play.", 
+            "link": null, 
+            "name": "coffeehouse "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The white or black pieces. See White and Black in chess.", 
+            "link": null, 
+            "name": "color (or colour) "
+        }, 
+        {
+            "def": "A clever sequence of moves, often involving a sacrifice, to gain the advantage. The moves of the opponent are usually forced (i.e. a combination does not give the opponent too many possible lines of continuation).", 
+            "link": "/wiki/Combination_(chess)", 
+            "name": "combination "
+        }, 
+        {
+            "def": "An imbalanced reciprocal return. For example, sacrificing material for development, or trading a bishop for one or two pawns.", 
+            "link": "/wiki/Compensation_(chess)", 
+            "name": "compensation "
+        }, 
+        {
+            "def": "Colloquial term for a (typically unthematic or obscure) move more likely to be played by a computer than a human.", 
+            "link": null, 
+            "name": "computer move "
+        }, 
+        {
+            "def": "Passed pawns on adjacent files. These are considered to be unusually powerful (often worth a minor piece or rook if on the sixth rank or above and not properly blockaded) because they can advance together. Also see connected pawns.", 
+            "link": "/wiki/Passed_pawn", 
+            "name": "connected passed pawns "
+        }, 
+        {
+            "def": "Refers to two or more pawns of the same color on adjacent files. See also isolated pawns.", 
+            "link": "/wiki/Connected_pawns", 
+            "name": "connected pawns "
+        }, 
+        {
+            "def": "Two rooks of the same color on the same rank or file with no pawns or pieces between them. Connected rooks are usually desirable. Players often connect rooks on their own first rank or along an open file. Cf. doubled rooks.", 
+            "link": null, 
+            "name": "connected rooks "
+        }, 
+        {
+            "def": "The improvement of a player's position by the reposition of one or more pieces to better square(s), typically after a player's attack or combination has left his or her pieces in poor positions or uncoordinated.", 
+            "link": null, 
+            "name": "consolidation "
+        }, 
+        {
+            "def": "Having one or more pieces that attack any of the four centre squares; an important strategy, and one of the main aims of openings.", 
+            "link": "/wiki/Chess_strategy#Control_of_the_center", 
+            "name": "control of the centre (or control of the center) "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An unintended solution of a chess problem. See also cook.", 
+            "link": null, 
+            "name": "cook "
+        }, 
+        {
+            "def": "This is chess played at a long time control by long-distance correspondence. Traditionally correspondence chess was played though the post; today it is usually played over a correspondence chess server or by email. Typically, one move is transmitted in every correspondence.", 
+            "link": "/wiki/Correspondence_chess", 
+            "name": "correspondence chess "
+        }, 
+        {
+            "def": "Squares of reciprocal (or mutual) zugzwang often found in king and pawn endgames. Also known as related squares.", 
+            "link": "/wiki/Corresponding_squares", 
+            "name": "corresponding squares "
+        }, 
+        {
+            "def": "An attack that responds to an attack by the opponent.", 
+            "link": null, 
+            "name": "counterattack "
+        }, 
+        {
+            "def": "A gambit offered by Black, for example the Greco Counter Gambit, usually called the Latvian Gambit today (1.e4 e5 2.Nf3 f5?!); the Albin Countergambit (1.d4 d5 2.c4 e5); and the Falkbeer Countergambit (1.e4 e5 2.f4 d5). An opening need not have \"countergambit\" in its name to be one; for instance, the Benko Gambit (1.d4 Nf6 2.c4 c5 3.d5 b5), Englund Gambit (1.d4 e5?!), the Budapest Gambit (1.d4 Nf6 2.c4 e5), the Blackburne Shilling Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4?!) and many lines of the Two Knights Defense (e.g. 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 and now 4...Bc5!? [the Wilkes\u2013Barre Variation or Traxler Counterattack], 4...Nxe4?!, 4...d5 5.exd5 Na5 6.Bb5+ c6 [the main line], 4...d5 5.exd5 Nd4 [the Fritz Variation], and 4...d5 5.exd5 b5 [the Ulvestad Variation]) are all examples of countergambits.", 
+            "link": null, 
+            "name": "countergambit "
+        }, 
+        {
+            "def": "Active maneuvering by the player in an inferior or defensive position.", 
+            "link": null, 
+            "name": "counterplay "
+        }, 
+        {
+            "def": "To protect a piece or control a square.", 
+            "link": null, 
+            "name": "cover "
+        }, 
+        {
+            "def": "A position with limited mobility.", 
+            "link": null, 
+            "name": "cramped "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A position of key importance in determining the soundness of an opening variation. In opening preparation, if one side can demonstrate an advantage in a critical position, the other side must either find an improvement or else abandon that variation as inferior.", 
+            "link": null, 
+            "name": "critical position "
+        }, 
+        {
+            "def": "See key square.", 
+            "link": null, 
+            "name": "critical square "
+        }, 
+        {
+            "def": "A cross-check is a check played in reply to a check, especially when the original check is blocked by a piece which itself either delivers check or reveals a discovered check from another piece.", 
+            "link": "/wiki/Cross-check", 
+            "name": "cross-check "
+        }, 
+        {
+            "def": "An arrangement of the results of every game in a tournament in tabular form. The names of the players run down the left side of the table in numbered rows. The names may be listed in order of results, alphabetically, or in pairing order, but results order is most common. The columns are also numbered, each one corresponding to the player in the same numbered row. Each table cell records the outcome of the game between the players on the intersecting row and column, using 1 for a win, 0 for a loss, and \u00bd for a draw. (In a double round-robin tournament each cell contains two entries, as each pair of players plays two games alternating White and Black.) Every game is recorded twice, once from the perspective of each player. The diagonal cells that correspond to the player playing himself are marked with a * or \u00d7 or other symbol since they are not used. For examples see Hastings 1895 chess tournament, Nottingham 1936 chess tournament, and AVRO tournament.", 
+            "link": null, 
+            "name": "crosstable "
+        }, 
+        {
+            "def": "Slang for a quick win, especially an overwhelming attack versus poor defensive play. A crushing move is a decisive one.", 
+            "link": null, 
+            "name": "crush "
+        }, 
+        {
+            "def": "The 32 dark-colored squares on the chessboard, such as a1 and h8. A dark square is always located at a player's left hand corner.", 
+            "link": null, 
+            "name": "dark squares "
+        }, 
+        {
+            "def": "One of the two bishops that moves on the dark squares, situated on c1 and f8 in the initial position.", 
+            "link": null, 
+            "name": "dark-square bishop "
+        }, 
+        {
+            "def": "A drawn position in which neither player has any realistic chance to win. A dead draw may refer to a position in which it is impossible for either player to win (such as insufficient material), or it may refer to a simple, lifeless position which would require a major blunder before either side would have a chance to win.", 
+            "link": null, 
+            "name": "dead draw "
+        }, 
+        {
+            "def": "This is a chess tactic used to lure a piece to an unfavourable square.", 
+            "link": "/wiki/Decoy_(chess)", 
+            "name": "decoy "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A move or plan which tries to meet the opponent's attack.", 
+            "link": null, 
+            "name": "defence (or defense) "
+        }, 
+        {
+            "def": "The inverse of a decoy (see above). Whereas a decoy involves luring an enemy piece to a bad square, a deflection involves luring an enemy piece away from a good square; typically, away from a square on which it defends another piece or threat. Deflection is thus closely related to overloading.", 
+            "link": null, 
+            "name": "deflect "
+        }, 
+        {
+            "def": "A large standing chess board used to analyse a game or show a game in progress. Johann L\u00f6wenthal invented the demonstration board in 1857.", 
+            "link": null, 
+            "name": "demonstration board "
+        }, 
+        {
+            "def": "An old system of recording chess moves, used primarily in the English and Spanish speaking countries through the 1970s or 1980s. Now replaced by the standard algebraic notation.", 
+            "link": "/wiki/Descriptive_chess_notation", 
+            "name": "descriptive notation "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A piece that seems determined to give itself up, typically either to bring about stalemate or perpetual check.", 
+            "link": "/wiki/Desperado_(chess)", 
+            "name": "desperado "
+        }, 
+        {
+            "def": "In the opening, moving a piece from its original square to make it more active. To redevelop a piece means to move it to a better square after it has already been developed. Efficient, effective development of one's pieces is one of the key objectives of the opening phase of the game.", 
+            "link": null, 
+            "name": "develop "
+        }, 
+        {
+            "def": "A line of squares of the same color touching corner to corner, along which a queen or bishop can move.", 
+            "link": null, 
+            "name": "diagonal "
+        }, 
+        {
+            "def": "An attack made by a queen, rook or bishop when another piece or pawn moves out of its way.", 
+            "link": "/wiki/Discovered_attack", 
+            "name": "discovered attack "
+        }, 
+        {
+            "def": "A discovered attack to the king. This occurs when a player moves a piece, resulting in another piece putting their opponent's king in check.", 
+            "link": "/wiki/Discovered_check", 
+            "name": "discovered check "
+        }, 
+        {
+            "def": "A situation whereby capture of a piece is unavoidable despite it having wide freedom of movement. Usually occurs in chess problems. In practical play, an example of domination is a knight on d1 facing an opponent's bishop on d4, other pieces being absent; the bishop covers all of the squares to which the knight may move.", 
+            "link": "/wiki/Domination_(chess)", 
+            "name": "domination "
+        }, 
+        {
+            "def": "Two attacks made with one move: these attacks may be made by the same piece (in which case it is a fork); or by different pieces (a situation which may arise via a discovered attack in which the moved piece also makes a threat). The attacks may directly threaten opposing pieces, or may be threats of another kind: for instance, to capture the queen and deliver checkmate.", 
+            "link": null, 
+            "name": "double attack "
+        }, 
+        {
+            "def": "A check delivered by two pieces at the same time. A double check necessarily involves a discovered check. By its nature a double check cannot be met by interposing a defending piece in the line of attack, or by capturing an attacker; when subjected to a double check, the attacked king must move, which makes the double check especially powerful as an attacking tactic.", 
+            "link": "/wiki/Double_check", 
+            "name": "double check "
+        }, 
+        {
+            "def": "A pair of pawns of the same color on the same file; generally considered a weakness due to their inability to defend each other.", 
+            "link": "/wiki/Doubled_pawns", 
+            "name": "doubled pawns "
+        }, 
+        {
+            "def": "A powerful position in which two of a player's rooks are placed on the same file or rank with no other chessmen between them. In this position, they defend each other while attacking both laterally and along the shared row. The position especially can be decisive when achieved during the endgame phase of play.", 
+            "link": null, 
+            "name": "doubled rooks "
+        }, 
+        {
+            "def": "A game that ends without victory for either player. Most drawn games are draws by agreement. The other ways that a game can end in a draw are stalemate, threefold repetition, the fifty-move rule, and insufficient material. A position is said to be a draw (or a \"drawn position\" or \"theoretical draw\") if either player can, through correct play, eventually force the game into a position where the game must end in a draw, regardless of the moves made by the other player. A draw is usually scored as \u00bd point, although in some matches only wins are counted and draws are ignored.", 
+            "link": "/wiki/Draw_(chess)", 
+            "name": "draw "
+        }, 
+        {
+            "def": "A game which is ended by both players accepting a draw. See also resign.", 
+            "link": "/wiki/Draw_by_agreement", 
+            "name": "draw by agreement "
+        }, 
+        {
+            "def": "Hypothetical scenario whereby elite-level chess players, aided by modern computer analysis, become so good that they never make mistakes, leading to endless drawn games (since chess is widely believed to be drawn with best play from both sides).", 
+            "link": null, 
+            "name": "draw death "
+        }, 
+        {
+            "def": "An opening variation that commonly ends in a draw, for example 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+, a line in the Rubinstein Variation of the Four Knights Game. See Collection of drawing lines.[5] Often such a variation is played because one or both players are eager to draw the game.", 
+            "link": null, 
+            "name": "drawing line "
+        }, 
+        {
+            "def": "An opening line played with the intent of drawing the game. This may or may not be a line commonly thought of as a drawing line. In high-level chess and correspondence chess, a player well-versed in opening theory may even use as a drawing weapon a sharp opening that has been analyzed to a drawn position in a number of lines, such as the Marshall Attack in the Ruy Lopez, and the Sveshnikov and Poisoned Pawn variations of the Sicilian Defense. One example of the successful employment of a drawing weapon was the 2000 World Chess Championship match between Garry Kasparov and Vladimir Kramnik, where the latter used the Berlin Defense to the Ruy Lopez as a drawing weapon with great effect, drawing all four games with that opening.", 
+            "link": null, 
+            "name": "drawing weapon "
+        }, 
+        {
+            "def": "An adjective describing a position or game that is likely to end in a draw.", 
+            "link": null, 
+            "name": "drawish "
+        }, 
+        {
+            "def": "A type of chess handicap where one player (Black in an Armageddon game) only has to draw in order to win the match.", 
+            "link": null, 
+            "name": "draw odds "
+        }, 
+        {
+            "def": "A poor chess player. Also patzer, woodpusher.", 
+            "link": null, 
+            "name": "duffer "
+        }, 
+        {
+            "def": "A style of play in which the activity of the pieces is favoured over more positional considerations, even to the point of accepting permanent structural or spatial weaknesses. Dynamism stemmed from the teachings of the Hypermodern School and challenged the dogma found in more classical teachings, such as those put forward by Wilhelm Steinitz and Siegbert Tarrasch.", 
+            "link": null, 
+            "name": "dynamism "
+        }, 
+        {
+            "def": "The English Chess Federation (ECF) is the governing chess organisation in England and is one of the federations of the FIDE. It was known as the British Chess Federation (BCF) until 2005 when it was renamed.", 
+            "link": "/wiki/English_Chess_Federation", 
+            "name": "ECF"
+        }, 
+        {
+            "def": "The Encyclopaedia of Chess Openings (ECO), a standard and comprehensive chess opening reference. Also a classification system (ECO code) for chess openings that assigns an alphanumeric code from A00 to E99 to each opening.", 
+            "link": "/wiki/Encyclopaedia_of_Chess_Openings", 
+            "name": "ECO"
+        }, 
+        {
+            "def": "An edge is a small but meaningful advantage in the position against one's opponent. It is often said White has an edge in the starting position, since he or she moves first (see First-move advantage in chess).", 
+            "link": null, 
+            "name": "edge "
+        }, 
+        {
+            "def": "The Elo rating system is a method for calculating the relative skill levels of chess players, named after the Hungarian Arpad Elo. Since 2012, FIDE publishes a monthly international chess rating list using the Elo system.", 
+            "link": "/wiki/Elo_rating_system", 
+            "name": "Elo rating system"
+        }, 
+        {
+            "def": "A suboptimal forcing move played with the intent of seizing initiative at any cost, usually following a setback. Pointless checks are an extremely common type of emotional move.", 
+            "link": null, 
+            "name": "emotional move "
+        }, 
+        {
+            "def": "[from French: \"in the act of passing\"] The rule that allows a pawn that has just advanced two squares to be captured by an enemy pawn that is on the same rank and adjacent file. The pawn can be taken as if it had advanced only one square. Capturing en passant is possible only on the next move.", 
+            "link": null, 
+            "name": "en passant "
+        }, 
+        {
+            "def": "[from French: \"in a position to be taken\",[6][7] often italicized] En prise describes a piece or pawn exposed to a material-winning capture by the opponent. This is either a hanging piece, an undefended pawn, a piece attacked by a less valuable attacker, or a piece or pawn defended insufficiently. For instance, 1.e4 Nf6 2.Nf3? leaves White's e-pawn en prise.", 
+            "link": null, 
+            "name": "en prise "
+        }, 
+        {
+            "def": "The stage of the game when there are few pieces left on the board. The endgame follows the middlegame.", 
+            "link": "/wiki/Chess_endgame", 
+            "name": "endgame "
+        }, 
+        {
+            "def": "A computerized database of endgames with a small number of pieces, providing perfect play for both players, and thus completely solving those endgames. By 2012, tablebases have been calculated for all positions with up to seven pieces.", 
+            "link": "/wiki/Endgame_tablebase", 
+            "name": "endgame tablebase "
+        }, 
+        {
+            "def": "A checkmate position where the king is blocked on both sides by his or her own rooks.", 
+            "link": "/wiki/Epaulette_mate", 
+            "name": "epaulette mate "
+        }, 
+        {
+            "def": "An abbreviation for Extended Position Description.", 
+            "link": null, 
+            "name": "EPD"
+        }, 
+        {
+            "def": "To create a position where the players have equal chances of winning (referred to as: equality). This may be either static equality, where a draw is likely (for example, a balanced endgame), or certain equality (for example, by perpetual check), or dynamic equality, where White and Black have equal chances of winning the game. In opening theory, since White has the advantage of the first move, lines that equalise are relatively good for Black.", 
+            "link": null, 
+            "name": "equalise (or equalize) "
+        }, 
+        {
+            "def": "See flight square.", 
+            "link": null, 
+            "name": "escape square "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The capture of a pair of pieces, one white and the other black, usually of the same type (i.e., rook for rook, knight for knight, etc.), or of bishop for knight (two pieces that are considered almost equal in value).", 
+            "link": "/wiki/Exchange_(chess)", 
+            "name": "exchange "
+        }, 
+        {
+            "def": "This is a type of opening in which there is an early, voluntary exchange of pawns or pieces.", 
+            "link": "/wiki/Exchange_variation", 
+            "name": "exchange variation "
+        }, 
+        {
+            "def": "A contest of one or more games played for the purpose of public entertainment, as opposed to a match or tournament. An exhibition may pit two masters against each other, in which case chess clocks are normally used and the contest is quite serious. A simultaneous exhibition/display has one or more masters play many celebrity or amateur opponents at once, and is often not timed.", 
+            "link": null, 
+            "name": "exhibition "
+        }, 
+        {
+            "def": "The central sixteen squares of the chessboard.", 
+            "link": null, 
+            "name": "expanded centre (or expanded center) "
+        }, 
+        {
+            "def": "A king lacking pawns to shield it from enemy attack.", 
+            "link": null, 
+            "name": "exposed king "
+        }, 
+        {
+            "def": "A Forsyth-Edwards Notation derivative format that contains the position on the chessboard, but not the game. It is primarily used to test chess engines.", 
+            "link": null, 
+            "name": "Extended Position Description (EPD) "
+        }, 
+        {
+            "def": "A knight fork that simultaneously attacks the enemy king (giving check), queen, and possibly other pieces.", 
+            "link": null, 
+            "name": "family fork (or family check) "
+        }, 
+        {
+            "def": "An abbreviation for figurine algebraic notation, which substitutes symbols for letters to represent piece names (e.g. \u265ef3 instead of Nf3).", 
+            "link": null, 
+            "name": "FAN"
+        }, 
+        {
+            "def": "A form of chess in which both sides are given less time to make their moves than under the normal tournament time controls. See also: Rapid chess, Blitz chess, Bullet chess.", 
+            "link": "/wiki/Fast_chess", 
+            "name": "fast chess "
+        }, 
+        {
+            "def": "An abbreviation for Forsyth\u2013Edwards Notation.", 
+            "link": null, 
+            "name": "FEN"
+        }, 
+        {
+            "def": "[Italian, \"little flank\"] Refers to the development of a bishop to the board's longest diagonal on the file of the adjacent knight (b2 or g2 for White; b7 or g7 for Black), or the moves to develop a bishop to one of those squares. A fianchetto usually occurs after moving the pawn on that file forward one square (sometimes two). The Italian word is pronounced \"fyan-ketto\", however English speakers commonly use the spelling pronunciation \"fee-an-chetto\".", 
+            "link": "/wiki/Fianchetto", 
+            "name": "fianchetto "
+        }, 
+        {
+            "def": "The World Chess Federation (F\u00e9d\u00e9ration Internationale des \u00c9checs), the primary international chess organizing and governing body. The abbreviated name FIDE is nearly always used in place of the full name in French.", 
+            "link": "/wiki/FIDE", 
+            "name": "FIDE"
+        }, 
+        {
+            "def": "A chess title ranking below International Master.", 
+            "link": "/wiki/FIDE_Master", 
+            "name": "FIDE Master (FM) "
+        }, 
+        {
+            "def": "A draw may be claimed if no capture or pawn move has occurred in the last fifty moves by either side.", 
+            "link": "/wiki/Fifty-move_rule", 
+            "name": "fifty-move rule "
+        }, 
+        {
+            "def": "A column of the chessboard. A specific file can be named either using its position in algebraic notation, a\u2013h, or by using its position in descriptive notation. For example, the f-file or the king bishop file comprises the squares f1\u2013f8 (or KB1\u2013KB8 in descriptive notation).", 
+            "link": null, 
+            "name": "file "
+        }, 
+        {
+            "def": "An error caused by unthinkingly touching the wrong piece, forcing the player to move that piece in accordance with the touch-move rule.", 
+            "link": null, 
+            "name": "fingerfehler"
+        }, 
+        {
+            "def": "See top board.", 
+            "link": null, 
+            "name": "first board "
+        }, 
+        {
+            "def": "The slight (by most accounts) advantage that White has by virtue of moving first.", 
+            "link": "/wiki/First-move_advantage_in_chess", 
+            "name": "first-move advantage "
+        }, 
+        {
+            "def": "The expression \"the first player\" is sometimes used to refer to White.", 
+            "link": null, 
+            "name": "first player "
+        }, 
+        {
+            "def": "A time control method with time delay, invented by Bobby Fischer. When it becomes a player's turn to move, the delay is added to the player's remaining time.", 
+            "link": null, 
+            "name": "Fischer delay"
+        }, 
+        {
+            "def": "See Chess960.", 
+            "link": null, 
+            "name": "Fischer Random (or Fischerandom) "
+        }, 
+        {
+            "def": "See Blitz chess.", 
+            "link": null, 
+            "name": "five-minute chess "
+        }, 
+        {
+            "def": "Part of an analogue chess clock, usually red, that indicates when the minute hand passes the hour. To \"flag\" someone means winning the game on the basis of the opponent exceeding the time control.", 
+            "link": null, 
+            "name": "flag "
+        }, 
+        {
+            "def": "The queenside a-, b-, and c-file, or the kingside f-, g-, and h-file, also called wing; distinguished from the center d-file and e-file.", 
+            "link": null, 
+            "name": "flank "
+        }, 
+        {
+            "def": "A chess opening played by White and typified by play on one or both flanks.", 
+            "link": "/wiki/Flank_opening", 
+            "name": "flank opening "
+        }, 
+        {
+            "def": "Derogatory; a player who makes a queen sortie early in the game with no objective other than the hope of causing panic is flashing the queen at their opponent.", 
+            "link": null, 
+            "name": "flash the queen "
+        }, 
+        {
+            "def": "A square to which a piece can move, which allows it to escape attack. Also called escape square. See also luft.", 
+            "link": "/wiki/Flight_square", 
+            "name": "flight square "
+        }, 
+        {
+            "def": "An abbreviation for the FIDE Master title.", 
+            "link": null, 
+            "name": "FM"
+        }, 
+        {
+            "def": "The square upon which a player focuses an attack, for example by repeatedly attacking that square or sacrificing a piece there. For example, in an attack upon an uncastled king, f7 for Black (or f2 for White) is a common focal point. Examples of attacks on the focal point f7 include the Fried Liver Attack (initiated by a knight sacrifice on f7) and the primitive Scholar's Mate (ending with checkmate on f7).", 
+            "link": null, 
+            "name": "focal point "
+        }, 
+        {
+            "def": "The shortest possible chess game ending in mate: 1.f3 e5 2.g4 Qh4# (or minor variations on this).", 
+            "link": "/wiki/Fool%27s_mate", 
+            "name": "Fool's mate "
+        }, 
+        {
+            "def": "A sequence of two or more moves culminating in checkmate that the opponent cannot prevent.", 
+            "link": null, 
+            "name": "forced mate "
+        }, 
+        {
+            "def": "A move that is the only one which does not result in a serious disadvantage for the moving player. Forced can also be used to describe a sequence of moves for which the player has no viable alternative, for example \"the forced win of a piece\" or \"a forced checkmate\". In these cases the player cannot avoid the loss of a piece or checkmate, respectively.", 
+            "link": null, 
+            "name": "forced move "
+        }, 
+        {
+            "def": "A move which presents a threat and limits the opponent's responses. Chaining together several forcing moves may result in a combination.", 
+            "link": null, 
+            "name": "forcing move "
+        }, 
+        {
+            "def": "Refers to losing the game by absence or by exceeding the time control (forfeit on time).", 
+            "link": null, 
+            "name": "forfeit "
+        }, 
+        {
+            "def": "A simultaneous attack by a single piece on two (or more) of the opponent's pieces (or other direct target, such as a mate threat). When the attacker is a knight the tactic is often specifically called a knight fork. Some sources state that only a knight can give a fork and that the term double attack is correct when another piece is involved, but this is by no means universal usage.", 
+            "link": "/wiki/Fork_(chess)", 
+            "name": "fork "
+        }, 
+        {
+            "def": "A standard notation for describing a particular board position of a chess game. The purpose of FEN notation is to provide all the necessary information to restart a game from a particular position.", 
+            "link": "/wiki/Forsyth%E2%80%93Edwards_Notation", 
+            "name": "Forsyth\u2013Edwards Notation (FEN) "
+        }, 
+        {
+            "def": "In endgame theory, a fortress is an impenetrable position which, if obtained by the side with a material disadvantage, will result in a draw due to the stronger side's inability to make progress. Some writers have also used the term more loosely to describe a defensive setup, such as a castled king's position.", 
+            "link": "/wiki/Fortress_(chess)", 
+            "name": "fortress "
+        }, 
+        {
+            "def": "A game that is not played as part of a match, tournament, or exhibition. Often the game is not timed, but if a chess clock is used rapid time controls are common. The term refers only to the circumstances in which the game is played, not the relationship between the players or the intensity of the competition. Also called a casual game.", 
+            "link": null, 
+            "name": "friendly game "
+        }, 
+        {
+            "def": "A sacrifice (usually of a pawn) used to gain an early advantage in space or time in the opening.", 
+            "link": "/wiki/Gambit", 
+            "name": "gambit "
+        }, 
+        {
+            "def": "The record of a game in some form of notation. In over-the-board tournaments, the game score is recorded on a score sheet.", 
+            "link": null, 
+            "name": "game score "
+        }, 
+        {
+            "def": "[French, \"look out!\"] A warning to the opponent that their queen is under direct attack, similar to the announcement of \"check\". This warning is no longer customary.", 
+            "link": null, 
+            "name": "gardez "
+        }, 
+        {
+            "def": "An abbreviation for Grandmaster.", 
+            "link": null, 
+            "name": "GM"
+        }, 
+        {
+            "def": "Metaphorically, a hypothetical player who always plays perfectly. Such a player's rating has been estimated to be around 3600.", 
+            "link": null, 
+            "name": "God"
+        }, 
+        {
+            "def": "A bishop that has greater mobility, because the player's own pawns are on squares of color opposite to that of the bishop. See also bad bishop.", 
+            "link": null, 
+            "name": "good bishop "
+        }, 
+        {
+            "def": "The highest title a chess player can attain (besides World Champion). When used precisely, it is the title awarded by FIDE starting in 1950, but it can be used to describe someone of comparable ability. The term International Grandmaster or IGM would refer only to the FIDE title.", 
+            "link": "/wiki/Grandmaster_(chess)", 
+            "name": "Grandmaster (GM) "
+        }, 
+        {
+            "def": "A game in which the players quickly agree to a draw after making little or no effort to win. This may be a very boring game, for example 1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bf4 Bf5 7.e3 e6 1\u20442\u20131\u20442 (draw agreed), or a superficially exciting game played with a variation the players know leads to a draw, for example 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.0-0 Bg4 6.h3 h5 7.c3 Qd3 8.hxg4 hxg4 9.Nxe5 Bd6 (a pseudo-sacrifice of Black's queen) 10.Nxd3 Bh2+ 11.Kh1 Bd6+ and Black draws by perpetual check. Although originally used to refer to such games between grandmasters, the term is now used colloquially to refer to any such game.", 
+            "link": "/wiki/Draw_by_agreement#Grandmaster_draw", 
+            "name": "grandmaster draw "
+        }, 
+        {
+            "def": "Also known as the classical bishop sacrifice, it is a typical sacrifice of a bishop by White playing Bxh7+ or Black playing Bxh2+ against a castled king to initiate a mating attack.", 
+            "link": "/wiki/Greek_gift_sacrifice", 
+            "name": "Greek gift sacrifice"
+        }, 
+        {
+            "def": "A file on which only one player has no pawns.", 
+            "link": "/wiki/Half-open_file", 
+            "name": "half-open file "
+        }, 
+        {
+            "def": "See odds.", 
+            "link": "/wiki/Chess_handicap", 
+            "name": "handicap "
+        }, 
+        {
+            "def": "Unprotected and exposed to capture. It is not the same as en prise since a piece en prise may be protected. To \"hang a piece\" is to lose it by failing to move or protect it.", 
+            "link": null, 
+            "name": "hanging "
+        }, 
+        {
+            "def": "Two friendly pawns on adjacent files, with no further friendly pawns on the files either side of them. The term is used almost exclusively for pawns on the c- and d-files, and usually for two pawns on the same rank (side by side). They can be a strength, a weakness or neutral depending on the position. They are typically an attacking rather than a defensive asset.", 
+            "link": "/wiki/Pawn_structure#The_Queen.27s_Gambit_.E2.80.93_hanging_pawns", 
+            "name": "hanging pawns "
+        }, 
+        {
+            "def": "A player's light-square and dark-square bishops placed so that they occupy adjacent diagonals; named for the mid-19th century master Daniel Harrwitz. For example, White has Harrwitz bishops in the Danish Gambit after 1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2. Harrwitz bishops can be a potent attacking force in the middlegame. Also called raking bishops.", 
+            "link": null, 
+            "name": "Harrwitz bishops"
+        }, 
+        {
+            "def": "See major piece.", 
+            "link": null, 
+            "name": "heavy piece "
+        }, 
+        {
+            "def": "A square that a player does not, and cannot in the future, control with a friendly pawn. The definition is applied conditionally based on the position: the square must have some positional significance to the opponent for it to be considered a hole \u2013 squares on the first and second ranks are not holes. An example of a hole is e4 in the Stonewall Attack.", 
+            "link": null, 
+            "name": "hole "
+        }, 
+        {
+            "def": "Rank one for White; rank eight for Black. See back rank.", 
+            "link": null, 
+            "name": "home rank "
+        }, 
+        {
+            "def": "See rank.", 
+            "link": null, 
+            "name": "horizontal line "
+        }, 
+        {
+            "def": "Synonym for Harrwitz bishops used by Nimzowitsch in My System possibly in reference to Bernhard Horwitz.", 
+            "link": null, 
+            "name": "Horwitz bishops (or Horrwitz bishops) "
+        }, 
+        {
+            "def": "a move a human would make, as opposed to the kind of move that only a computer would make.", 
+            "link": null, 
+            "name": "human move "
+        }, 
+        {
+            "def": "A pairing technique invented in 1921 by George Dickson Hutton for matching teams of players in which only one game is required per player. Has been used regularly for correspondence team events and for matches between many teams conducted on one day. Also called jamboree pairing.", 
+            "link": null, 
+            "name": "Hutton pairing"
+        }, 
+        {
+            "def": "Describes an opening system geared towards controlling the center with pieces from the flanks as opposed to occupying it with pawns. See also classical.", 
+            "link": "/wiki/Hypermodernism_(chess)", 
+            "name": "hypermodern "
+        }, 
+        {
+            "def": "See International Correspondence Chess Federation.", 
+            "link": null, 
+            "name": "ICCA"
+        }, 
+        {
+            "def": "An abbreviation for the International Correspondence Chess Federation.", 
+            "link": null, 
+            "name": "ICCF"
+        }, 
+        {
+            "def": "An abbreviation for Internet chess server.", 
+            "link": null, 
+            "name": "ICS"
+        }, 
+        {
+            "def": "An abbreviation for the older term International Grandmaster. The modern usage is Grandmaster (GM).", 
+            "link": null, 
+            "name": "IGM"
+        }, 
+        {
+            "def": "A move that is not permitted by the rules of chess. An illegal move discovered during the course of a game must be corrected.", 
+            "link": null, 
+            "name": "illegal move "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A position in a game that is a consequence of an illegal move or an incorrect starting position.", 
+            "link": null, 
+            "name": "illegal position "
+        }, 
+        {
+            "def": "An abbreviation for the International Master title.", 
+            "link": null, 
+            "name": "IM"
+        }, 
+        {
+            "def": "A difference between positions of the white and black pieces. An imbalanced position is one where White and Black both have unique advantages and chance to win by using those advantages. Conversely, a balanced position is often more drawish.", 
+            "link": null, 
+            "name": "imbalance "
+        }, 
+        {
+            "def": "A move that is not the best, but not as bad as a blunder.", 
+            "link": null, 
+            "name": "inaccuracy "
+        }, 
+        {
+            "def": "See passive.", 
+            "link": null, 
+            "name": "inactive "
+        }, 
+        {
+            "def": "Refers to the amount of time added to each player's time before each move. For instance, Rapid chess might be played with \"25 minutes plus 10 second per move increment\", meaning that each player starts with 25 minutes on their clock, and this increments by 10 seconds after (or before) each move, usually using the Fischer Delay method. See Time control#Compensation (delay methods).", 
+            "link": null, 
+            "name": "increment "
+        }, 
+        {
+            "def": "A fianchettoed bishop, characteristic of the Indian defences, the King's Indian and the Queen's Indian.", 
+            "link": null, 
+            "name": "Indian bishop"
+        }, 
+        {
+            "def": "A chess opening that begins 1.d4 Nf6. Originally used to describe queen's pawn defences involving the fianchetto of one or both black bishops, it is now used to describe all Black defences after 1.d4 Nf6 that do not transpose into the Queen's Gambit.", 
+            "link": "/wiki/Indian_defence", 
+            "name": "Indian defence (or Indian defense) "
+        }, 
+        {
+            "def": "The advantage a player who is making threats has over his or her opponent who must respond to them. The attacking player is said to \"have the initiative\" and can often dictate the turn of play. The initiative often results from an advantage in time or space. The notion of the initiative was used by Steinitz (e.g. The Sixth American Chess Congress) and by Capablanca in his Chess Fundamentals (Chapter 4).", 
+            "link": "/wiki/Initiative_(chess)", 
+            "name": "initiative "
+        }, 
+        {
+            "def": "An endgame scenario in which all pawns have been captured, and one side has only its king remaining while the other has only its king, a king plus a knight, or a king plus a bishop. A king plus bishop versus a king plus bishop with the bishops on the same color is also a draw, since neither side can checkmate, regardless of play. Situations where checkmate is possible only if the inferior side blunders are covered by the fifty-move rule. See Draw (chess)#Draws in all games.", 
+            "link": null, 
+            "name": "insufficient material "
+        }, 
+        {
+            "def": "The interruption of the line between an attacked piece and its defender by sacrificially interposing a piece.", 
+            "link": "/wiki/Interference_(chess)", 
+            "name": "interference "
+        }, 
+        {
+            "def": "See zwischenzug.", 
+            "link": null, 
+            "name": "intermediate move "
+        }, 
+        {
+            "def": "See zwischenzug.", 
+            "link": null, 
+            "name": "intermezzo "
+        }, 
+        {
+            "def": "A tournament official who arbitrates disputes and performs other duties such as keeping the score when players are under time pressure.", 
+            "link": "/wiki/International_Arbiter", 
+            "name": "International Arbiter"
+        }, 
+        {
+            "def": "The International Correspondence Chess Federation was founded in 1951 to replace the International Correspondence Chess Association (ICCA).", 
+            "link": "/wiki/International_Correspondence_Chess_Federation", 
+            "name": "International Correspondence Chess Federation (ICCF) "
+        }, 
+        {
+            "def": "The original name of the FIDE title now simply called Grandmaster (GM).", 
+            "link": null, 
+            "name": "International Grandmaster (IGM) "
+        }, 
+        {
+            "def": "A chess title that ranks below Grandmaster but above FIDE Master.", 
+            "link": "/wiki/International_Master", 
+            "name": "International Master (IM) "
+        }, 
+        {
+            "def": "An external server that provides the facility to play, discuss, and view chess over the Internet.", 
+            "link": "/wiki/Internet_chess_server", 
+            "name": "Internet chess server (ICS) "
+        }, 
+        {
+            "def": "To move a piece between an attacking piece and its target, blocking the line of attack. Interposing a piece is one of the three possible responses to a check (the others being to move the king, or capture the attacking piece).", 
+            "link": null, 
+            "name": "interpose "
+        }, 
+        {
+            "def": "A tournament organised by the FIDE starting from the 1950s to 1993. It was the second qualifying cycle of the World Chess Championship. The participants were selected from the top players of the Zonal tournaments. The top ranking players qualified for the Candidates Tournament. Since 1998 the winners of the zonal tournaments have played short matches against each other over a few weeks in a knockout-style competition to determine who is eligible for the Candidates Tournament.", 
+            "link": "/wiki/Interzonal", 
+            "name": "Interzonal tournament "
+        }, 
+        {
+            "def": "An abbreviation for isolated queen pawn. See also isolani.", 
+            "link": null, 
+            "name": "IQP"
+        }, 
+        {
+            "def": "In early 19th century chess literature, all openings which did not begin with either 1.e4 e5 or 1.d4 d5 were classified as \"irregular\". As opening theory developed and many openings previously considered \"irregular\" became standard (e.g. the Sicilian Defence), the term gradually became less common. Opening books today are more likely to describe debuts such as 1.b4 (the Sokolsky Opening) as \"uncommon\" or \"unorthodox\".", 
+            "link": "/wiki/Irregular_chess_opening", 
+            "name": "irregular opening "
+        }, 
+        {
+            "def": "A tongue-in-cheek term for tripled isolated pawns, so dubbed by Tony Miles in 1979.[8]", 
+            "link": null, 
+            "name": "Irish pawn center"
+        }, 
+        {
+            "def": "Refers to a d-pawn with no pawns of the same color on the adjacent c-file and e-file, and is a synonym for isolated queen pawn. The term was coined by Nimzowitsch, who considered the isolani as a weapon of attack in the middlegame but an endgame weakness; he considered the problem of hanging pawns to be related. See also Pawn structure#The Queen's Gambit \u2013 Isolani.", 
+            "link": "/wiki/Isolated_pawn#Isolated_queen_pawn", 
+            "name": "isolani "
+        }, 
+        {
+            "def": "A pawn with no pawn of the same color on an adjacent file.", 
+            "link": "/wiki/Isolated_pawn", 
+            "name": "isolated pawn "
+        }, 
+        {
+            "def": "A white bishop developed to c4 or a black bishop developed to c5. A bishop so developed is characteristic of the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4 (particularly the Giuoco Piano, 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5, where both players have Italian bishops), and stands in contrast to the \"Spanish\" bishop on b5 characteristic of the Ruy Lopez. Likewise, \"Italian\" may be used as an adjective denoting an opening where one or both players has an Italian bishop, such as after 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4, the Italian Four Knights Game.", 
+            "link": null, 
+            "name": "Italian bishop"
+        }, 
+        {
+            "def": "[from French] \"I adjust\", pronounced:\u00a0[\u0292a.dub]. A player says \"j'adoube\" as the international signal that he or she intends to adjust the position of a piece on the board without being subject to the touched piece rule. The verb adouber, literally \"to dub\" (raise to the knighthood) is rarely used in contemporary French outside of this context. A local language equivalent, e.g. \"I am adjusting\" is generally acceptable.", 
+            "link": "/wiki/Touch-move_rule", 
+            "name": "j'adoube (see Touch-move rule) "
+        }, 
+        {
+            "def": "Symbol used for the king when recording chess moves in English.", 
+            "link": null, 
+            "name": "K"
+        }, 
+        {
+            "def": "A pairing system where a player plays an opponent who is close in the ranking. Named after the Dutch inventor of the system, and useful when the number of participants exceeds the number of playing rounds. See also Swiss tournament and round-robin tournament.", 
+            "link": null, 
+            "name": "Keizer system"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An important square.", 
+            "link": "/wiki/Key_square", 
+            "name": "key square "
+        }, 
+        {
+            "def": "The King's Gambit Accepted chess opening.", 
+            "link": "/wiki/King%27s_Gambit#King.27s_Gambit_Accepted", 
+            "name": "KGA"
+        }, 
+        {
+            "def": "The King's Gambit Declined chess opening.", 
+            "link": "/wiki/King%27s_Gambit#King.27s_Gambit_Declined", 
+            "name": "KGD"
+        }, 
+        {
+            "def": "The King's Indian Attack chess opening.", 
+            "link": "/wiki/King%27s_Indian_Attack", 
+            "name": "KIA"
+        }, 
+        {
+            "def": "As a spectator, making comments on a chess game that can be heard by the players. Kibitzing on a serious game while it is in progress (rather than during a post-mortem) is a serious breach of chess etiquette.", 
+            "link": "/wiki/Kibitzer", 
+            "name": "kibitz "
+        }, 
+        {
+            "def": "Attacking a piece, often a knight, with a pawn, so that it will move. Kicking a piece may lead to gaining a tempo, or may force the opponent to concede control of key squares. Cecil Purdy termed a kick on a bishop \"biffing the bishop\".", 
+            "link": null, 
+            "name": "kick "
+        }, 
+        {
+            "def": "The King's Indian Defence chess opening.", 
+            "link": "/wiki/King%27s_Indian_Defence", 
+            "name": "KID"
+        }, 
+        {
+            "def": " see king", 
+            "link": null, 
+            "name": "king "
+        }, 
+        {
+            "def": "The bishop that was on the kingside at the start of the game. The terms king knight and king rook are also used. Sometimes abbreviated \"KB\", \"KN\", and \"KR\" respectively.", 
+            "link": null, 
+            "name": "king bishop (or king's bishop) "
+        }, 
+        {
+            "def": "A sustained attack on the enemy king that results in the king being driven a far distance from its initial position, typically resulting in its checkmate. Some of the most famous games featuring king hunts are Edward Lasker\u2013Thomas, Polugaevsky\u2013Nezhmetdinov, and Kasparov\u2013Topalov.[9]", 
+            "link": null, 
+            "name": "king hunt "
+        }, 
+        {
+            "def": "The knight that was on the kingside at the start of the game. The terms king bishop and king rook are also used. Sometimes abbreviated \"KN\", \"KB\", and \"KR\" respectively.", 
+            "link": null, 
+            "name": "king knight (or king's knight) "
+        }, 
+        {
+            "def": "A pawn on the king's file, i.e. the e-file. Sometimes abbreviated \"KP\". Also king bishop pawn (KBP), king knight pawn (KNP), and king rook pawn (KRP) for a pawn on the f-, g-, or h-file respectively.", 
+            "link": null, 
+            "name": "king pawn (or king's pawn) "
+        }, 
+        {
+            "def": "The side of the board (half-board) the kings are on at the start of the game (the e- through h-files), as opposed to the queenside. Note: the kingside is one and the same half of the board for both White and Black. It never changes during the game, also after 0-0-0 by both players the kingside remains as it was from the start. (Both kings can be located at the queenside)", 
+            "link": null, 
+            "name": "kingside (or king's side) "
+        }, 
+        {
+            "def": "A consecutive series of king moves designed to bring the king to a safer square. For example, if a player has castled kingside but the opponent has sacrificed a piece to destroy the kingside pawn cover, they may choose to walk the king over to the queenside to shelter behind the queenside pawns.", 
+            "link": null, 
+            "name": "king walk "
+        }, 
+        {
+            "def": " see knight", 
+            "link": null, 
+            "name": "knight "
+        }, 
+        {
+            "def": "A pawn on the knight's file, i.e. the b-file or g-file. Sometimes abbreviated \"NP\".", 
+            "link": null, 
+            "name": "knight pawn (or knight's pawn) "
+        }, 
+        {
+            "def": "A mathematical treatment of a knight \"touring\" the chessboard, i.e. repeatedly moving as it does in the game so as to visit each square exactly once.", 
+            "link": "/wiki/Knight%27s_tour", 
+            "name": "knight's tour "
+        }, 
+        {
+            "def": "A tournament conducted as a series of matches in which the winner of each match advances to the next round and the loser is eliminated. Well-known chess tournaments held in the knockout format include London 1851 and the 2007 Chess World Cup. Cf. round-robin tournament and Swiss tournament.", 
+            "link": "/wiki/Single-elimination_tournament", 
+            "name": "knockout tournament (see Single-elimination tournament) "
+        }, 
+        {
+            "def": "This phenomenon, first described by Alexander Kotov, can occur when a player does not find a good plan after thinking long and hard on a position. The player, under time pressure, then suddenly decides to make a move, often a terrible one which was not analysed properly.", 
+            "link": "/wiki/Kotov_syndrome", 
+            "name": "Kotov syndrome"
+        }, 
+        {
+            "def": "A popular chess variant in which players do not know the moves of the other and determine their moves based on limited information from a monitoring umpire. This variant of the game is sometimes referred to as blind chess, but should not be confused with blindfold chess.", 
+            "link": "/wiki/Kriegspiel_(chess)", 
+            "name": "Kriegspiel"
+        }, 
+        {
+            "def": "The symbol sometimes used for the knight when recording chess moves in descriptive notation, mainly in older literature. An N is used instead in algebraic notation and in later descriptive notation to avoid confusion with K, the symbol for the king.", 
+            "link": null, 
+            "name": "Kt"
+        }, 
+        {
+            "def": "Slang for queen. To \"bring out the lady\" means to develop the queen.", 
+            "link": null, 
+            "name": "lady "
+        }, 
+        {
+            "def": "The rules of chess.", 
+            "link": "/wiki/Rules_of_chess", 
+            "name": "laws of chess "
+        }, 
+        {
+            "def": "The 32 light-colored squares on the chessboard, such as h1 and a8.", 
+            "link": null, 
+            "name": "light squares "
+        }, 
+        {
+            "def": "One of the two bishops moving on the light squares, situated on f1 or c8 in the initial position.", 
+            "link": null, 
+            "name": "light-square bishop "
+        }, 
+        {
+            "def": "A form of chess with an extremely short time limit, either Blitz chess or Bullet chess.", 
+            "link": null, 
+            "name": "lightning chess "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A sequence of moves, usually in the opening or in analyzing a position.", 
+            "link": null, 
+            "name": "line "
+        }, 
+        {
+            "def": "A piece whose movement is defined to be along straight lines of squares (i.e. the rook, bishop, and queen).", 
+            "link": null, 
+            "name": "line-piece "
+        }, 
+        {
+            "def": "See simplification.", 
+            "link": null, 
+            "name": "liquidation "
+        }, 
+        {
+            "def": "One of the two diagonals with eight squares (a1\u2013h8 or h1\u2013a8).", 
+            "link": null, 
+            "name": "long diagonal "
+        }, 
+        {
+            "def": "A bishop, rook, or queen.", 
+            "link": null, 
+            "name": "long-range piece "
+        }, 
+        {
+            "def": "A piece vulnerable to opponent attacks because it is undefended and cannot easily be withdrawn or supported.", 
+            "link": null, 
+            "name": "loose piece "
+        }, 
+        {
+            "def": "A position vulnerable to opponent attacks because it is overextended or its pieces are uncoordinated.", 
+            "link": null, 
+            "name": "loose position "
+        }, 
+        {
+            "def": "Slang for a move that loses the game.", 
+            "link": null, 
+            "name": "loser "
+        }, 
+        {
+            "def": "See Tempo.", 
+            "link": null, 
+            "name": "losing a tempo "
+        }, 
+        {
+            "def": "A defeat for one of the two players, which may occur due to that player being checkmated by the other player, resigning, exceeding the time control, or being forfeited by the tournament director. Chess being a zero-sum game, this results in a win for the other player, except in the very rare circumstance where the tournament director forfeits both players, for example for cheating or both players exceeding the time control (the latter does not normally result in a double forfeit today).", 
+            "link": null, 
+            "name": "loss "
+        }, 
+        {
+            "def": "A well-known rook and pawn versus rook endgame position in which the player with the extra pawn can force a win by cutting off the opponent's king and placing a rook on the 4th rank in order to block the opponent's rook checks, thereby allowing the pawn to queen.", 
+            "link": "/wiki/Lucena_position", 
+            "name": "Lucena position"
+        }, 
+        {
+            "def": "[from German: air] Space made for a castled king to give it a flight square to prevent a back-rank mate. Usually luft is made by moving a pawn on the second rank in front of the king. See also flight square.", 
+            "link": "/wiki/Luft", 
+            "name": "luft "
+        }, 
+        {
+            "def": "Another term for attraction.", 
+            "link": null, 
+            "name": "magnet "
+        }, 
+        {
+            "def": "The principal, most important, or most often played variation of an opening or piece of analysis. For example, 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5 7.0-0 Nc6 8.d5 Ne7 is often referred to as the main line of the King's Indian Defence.", 
+            "link": null, 
+            "name": "main line "
+        }, 
+        {
+            "def": "A queen or rook, also known as a heavy piece.", 
+            "link": null, 
+            "name": "major piece "
+        }, 
+        {
+            "def": "A larger numbers of pawns on one flank opposed by a smaller number of the opponent's; often a player with a majority on one flank has a minority on the other.", 
+            "link": null, 
+            "name": "majority "
+        }, 
+        {
+            "def": "A piece or a pawn, when the term piece is used as exclusive of pawns.", 
+            "link": null, 
+            "name": "man "
+        }, 
+        {
+            "def": "A bind on the light squares in the centre, particularly d5, obtained by White by placing pawns on c4 and e4. Named for G\u00e9za Mar\u00f3czy, it originally referred to formations arising in some variations of the Sicilian Defence, but the name is now also applied to similar setups in the English Opening and the Queen's Indian Defence. It was once greatly feared by Black but means of countering it have been developed since the 1980s and earlier.", 
+            "link": "/wiki/Mar%C3%B3czy_Bind", 
+            "name": "Mar\u00f3czy Bind"
+        }, 
+        {
+            "def": "Loosely, a strong chess player who would be expected to beat most amateurs. It may also refer to a formal title such as International Master or National Master. Standards vary, but a master will usually have an Elo rating of over 2200.", 
+            "link": null, 
+            "name": "master "
+        }, 
+        {
+            "def": "A competition between two individuals or two teams. A match may be the entire competition, or it may be a round in a knockout tournament or team tournament. Unlike in some sports where the word match is sometimes used to describe a single game, a chess match always consists of at least two games (and often many more).", 
+            "link": null, 
+            "name": "match "
+        }, 
+        {
+            "def": "Short for checkmate.", 
+            "link": null, 
+            "name": "mate "
+        }, 
+        {
+            "def": "All of a player's pieces and pawns on the board. The player with pieces and pawns of greater value is said to have a \"material advantage\". When a player gains a material advantage they are also said to be \"winning material\". See Chess piece relative value.", 
+            "link": null, 
+            "name": "material "
+        }, 
+        {
+            "def": "Playstyle characterised by a willingness to win material at the expense of positional considerations. Chess computers are often materialistic.", 
+            "link": null, 
+            "name": "materialism "
+        }, 
+        {
+            "def": "An attack aimed at checkmating the enemy king.", 
+            "link": null, 
+            "name": "mating attack "
+        }, 
+        {
+            "def": "A position or series of moves that leads to forced mate.", 
+            "link": null, 
+            "name": "mating net "
+        }, 
+        {
+            "def": "Modern Chess Openings, a popular chess opening reference. Often the edition is also given, as in \"MCO-14\", the 14th edition. Cf. ECO.", 
+            "link": "/wiki/Modern_Chess_Openings", 
+            "name": "MCO"
+        }, 
+        {
+            "def": "The part of a chess game that follows the opening and comes before the endgame, beginning after the pieces are developed in the opening. This is usually roughly moves 20 through 40.", 
+            "link": "/wiki/Chess_middlegame", 
+            "name": "middlegame "
+        }, 
+        {
+            "def": "A short game (usually no more than 20 to 25 moves), for example: 1.e3 e5 2.Qf3 d5 3.Nc3 e4 4.Qf4?? Bd6! and White resigned in NN\u2013K\u00fcnzel (1900, Europe)[10] because his queen is trapped. However, a significant minority of authors include games up to 30 moves.[11] Usually only decisive games (not draws) are considered miniatures. Ideally, a miniature should not be spoiled by an obvious blunder by the losing side. A miniature may also qualify as a brilliancy. The Opera game is a famous example. Sometimes called a brevity [chiefly British].", 
+            "link": null, 
+            "name": "miniature "
+        }, 
+        {
+            "def": "The exchange of a bishop for a knight.", 
+            "link": null, 
+            "name": "minor exchange "
+        }, 
+        {
+            "def": "A bishop or knight.", 
+            "link": null, 
+            "name": "minor piece "
+        }, 
+        {
+            "def": "An advance of pawns on the side of the board where one has fewer pawns than the opponent, usually carried out to provoke a weakness.", 
+            "link": null, 
+            "name": "minority attack "
+        }, 
+        {
+            "def": "Pawns on central squares able to advance without becoming weak.", 
+            "link": null, 
+            "name": "mobile pawn centre (or mobile pawn center) "
+        }, 
+        {
+            "def": "The ability of a piece, or of a player's pieces collectively, to move around the board. (In computer chess this is often measured by the number of legal moves available.) Effectively means much the same as space.", 
+            "link": null, 
+            "name": "mobility "
+        }, 
+        {
+            "def": "A full move is a turn by both players, White and Black. A turn by either White or Black is a half-move, or (in computer context) one ply.", 
+            "link": null, 
+            "name": "move "
+        }, 
+        {
+            "def": "The sequence of moves one chooses to play an opening or execute a plan. Different move orders often have different advantages and disadvantages. For example, 1.d4 Nf6 2.Nf3 avoids the Budapest Gambit (2.c4 e5!?), but makes it impossible for White to play the S\u00e4misch Variation (2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3) or Four Pawns Attack (5.f4) against the King's Indian Defence, and to transpose to certain lines of the Nimzo-Indian Defence and Queen's Gambit Declined, Exchange Variation where the knight goes to e2 instead of f3. See transposition.", 
+            "link": null, 
+            "name": "move order "
+        }, 
+        {
+            "def": "Following Nimzowitsch's idea, a move with a rook that seems to have no threat or purpose, but which actually discourages the opponent from a certain type of action (prophylaxis), or sets up a very deep, well-concealed plan.", 
+            "link": null, 
+            "name": "mysterious rook move "
+        }, 
+        {
+            "def": "Symbol used for the knight when recording chess moves in English.", 
+            "link": null, 
+            "name": "N"
+        }, 
+        {
+            "def": "An abbreviation sometimes used for the chess opening reference Nunn's Chess Openings. Cf. ECO and MCO.", 
+            "link": null, 
+            "name": "NCO"
+        }, 
+        {
+            "def": "Used in a game score in place of a player whose name is not known. The origin of this usage is uncertain. It may be an abbreviation of the Latin nomina (names), it may be short for the Latin phrase nomen nescio, \"name unknown\" (literally \"I do not know the name\") or it may come from the use of \"N or NN\" (later read as \"N or M\") in the Anglican Catechism. See also Amateur.", 
+            "link": null, 
+            "name": "NN (or N.N.) "
+        }, 
+        {
+            "def": "A performance at a chess tournament that indicates a player is ready to receive a title, or the level of performance needed. In addition to other requirements, a certain number of norms is generally required to earn a title. See Grandmaster and International Master.", 
+            "link": "/wiki/Norm_(chess)", 
+            "name": "norm "
+        }, 
+        {
+            "def": "See theoretical novelty.", 
+            "link": null, 
+            "name": "novelty "
+        }, 
+        {
+            "def": "A strongly positioned knight in enemy territory. Knights can control a maximum of eight squares at a time, but often these squares are insignificant ones such as a White knight on f3 controlling g1. A White knight on e6, on the other hand, would control useful territory in all eight directions, like the eight tentacles of an octopus.", 
+            "link": null, 
+            "name": "octopus "
+        }, 
+        {
+            "def": "This refers to the stronger player giving the weaker player some sort of advantage in order to make the game more competitive. It may be an advantage in material, in extra moves, in time on the clock, or some combination of those elements. Since the advent of the chess clock, time odds have become more common than material odds. In \"time odds\" the stronger player may begin the game with only one or two minutes on the clock, while the weaker player may be given five or more minutes on the clock.", 
+            "link": "/wiki/Chess_handicap", 
+            "name": "odds (or handicap) "
+        }, 
+        {
+            "def": "See skittles.", 
+            "link": null, 
+            "name": "offhand game "
+        }, 
+        {
+            "def": "An international team chess tournament organized biennially by FIDE. Each team represents a FIDE member country.", 
+            "link": "/wiki/Chess_Olympiad", 
+            "name": "Olympiad"
+        }, 
+        {
+            "def": "The move notation for kingside castling. (PGN format uses Os; FIDE uses 0s.)", 
+            "link": null, 
+            "name": "O-O (or 0-0) "
+        }, 
+        {
+            "def": "The move notation for queenside castling. (PGN format uses Os; FIDE uses 0s.)", 
+            "link": null, 
+            "name": "O-O-O (or 0-0-0) "
+        }, 
+        {
+            "def": "A file on which there are no pawns. A file on which only one player has no pawns is said to be half-open.", 
+            "link": "/wiki/Open_file", 
+            "name": "open file "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A game in which exchanges have opened files and diagonals, as opposed to a closed game.", 
+            "link": "/wiki/Open_Game", 
+            "name": "open game (or Open Game) "
+        }, 
+        {
+            "def": "A tournament where anyone can enter, regardless of rating or invitation. Cf. closed tournament.", 
+            "link": null, 
+            "name": "open tournament "
+        }, 
+        {
+            "def": "The beginning moves of the game, roughly the first 10\u201320 moves. In the opening players set up their pawn structures, develop their pieces, and typically castle. The opening precedes the middlegame.", 
+            "link": "/wiki/Chess_opening", 
+            "name": "opening "
+        }, 
+        {
+            "def": "Home study and analysis of openings and defenses that one expects to play, or meet, in later tournament or match games. In high-level play, an important part of this is the search for theoretical novelties that improve upon previous play or previously published analysis.", 
+            "link": null, 
+            "name": "opening preparation "
+        }, 
+        {
+            "def": "The set of openings played by a particular player. The breadth of different players' repertoires varies from very narrow to very broad. For example, a player who always opens with 1.e4; always meets 1.e4 with the Sicilian Defence, and the Najdorf Variation of it if allowed; and always meets 1.d4, 1.c4, or 1.Nf3 with 1...f5, intending to play the Dutch Defence, has a very narrow opening repertoire. Bent Larsen, who opened at various times with 1.e4, 1.d4, 1.c4, 1.f4, 1.Nf3, 1.b3, and 1.g3, and played a large number of different defences as Black, had a very broad opening repertoire.", 
+            "link": null, 
+            "name": "opening repertoire "
+        }, 
+        {
+            "def": "An opening, such as the Colle System or Hippopotamus Defence, that is defined by one player's moves, which can be played generally regardless of the moves of the opponent.", 
+            "link": null, 
+            "name": "opening system "
+        }, 
+        {
+            "def": "See bishops on opposite colors.", 
+            "link": null, 
+            "name": "opposite-colored bishops (or opposite-coloured bishops) "
+        }, 
+        {
+            "def": "A situation in which two kings stand on the same rank, file or diagonal with one empty square between them. The player to move may be forced to move the king to a less advantageous square. Opposition is a particularly important concept in endgames.", 
+            "link": "/wiki/Opposition_(chess)", 
+            "name": "opposition "
+        }, 
+        {
+            "def": "Both sides playing their best move at each turn, or one of equally good alternatives. One side tries to win as quickly as possible while the other side tries to delay it as long as possible, or optimal play may result in a draw.", 
+            "link": "/wiki/Best_response", 
+            "name": "optimal play (see best response) "
+        }, 
+        {
+            "def": "An abbreviation for over the board.", 
+            "link": null, 
+            "name": "OTB"
+        }, 
+        {
+            "def": "An outpost is a square protected by a pawn that is in or near the enemy's stronghold. Outposts are a favourable position from which to launch an attack, particularly using a knight.", 
+            "link": "/wiki/Outpost_(chess)", 
+            "name": "outpost "
+        }, 
+        {
+            "def": "A passed pawn that is near the edge of the board and far away from other pawns. In the endgame, such a pawn can often constitute a strong advantage for its owner as it diverts the opponent's forces in order to restrain its advance, allowing its owner free rein elsewhere on the board.", 
+            "link": "/wiki/Passed_pawn#Outside_passed_pawn", 
+            "name": "outside passed pawn "
+        }, 
+        {
+            "def": "A position where a player has moved a piece or group of pieces (usually pawns) away from the rest in such a way that they are too difficult to defend.", 
+            "link": null, 
+            "name": "overextended "
+        }, 
+        {
+            "def": "A piece that has too many defensive duties. An overloaded piece can sometimes be deflected, or required to abandon one of its defensive duties.", 
+            "link": "/wiki/Overloading_(chess)", 
+            "name": "overloaded or overloading "
+        }, 
+        {
+            "def": "The strategy of protecting a pawn or specific square of the chessboard more than is immediately necessary. This serves to dissuade the opponent from attacking that specific point and provides greater freedom of movement for the pieces protecting that square. This can cause an opponent to pursue a faulty plan or no plan at all. Aron Nimzowitsch was one of the foremost proponents of overprotection.", 
+            "link": null, 
+            "name": "overprotection "
+        }, 
+        {
+            "def": "A move made in error, usually a blunder, due to a miscalculation or missed observation.", 
+            "link": null, 
+            "name": "oversight "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A game played face-to-face with the opponent, as opposed to a remote opponent as in online chess or correspondence chess.", 
+            "link": null, 
+            "name": "over the board (OTB) "
+        }, 
+        {
+            "def": "A synonym for overloaded.", 
+            "link": null, 
+            "name": "overworked "
+        }, 
+        {
+            "def": "The assignment of opponents in a tournament. Pairing is made more difficult in chess because of the need to try to give each player an equal number of games playing White and Black and to try to not assign a player the same color in too many consecutive games. The most common pairing methods used in chess tournaments are round-robin and the Swiss system.", 
+            "link": null, 
+            "name": "pairing "
+        }, 
+        {
+            "def": "A pawn that has no pawn of the opposite color on its file or on any adjacent files on its way to queening.", 
+            "link": "/wiki/Passed_pawn", 
+            "name": "passed pawn "
+        }, 
+        {
+            "def": "A passed pawn.", 
+            "link": null, 
+            "name": "passer "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A piece that is able to move to or control relatively few squares, also referred to as an inactive piece.", 
+            "link": null, 
+            "name": "passive "
+        }, 
+        {
+            "def": "The sacrifice of a piece, by moving a different piece, leaving the sacrificed piece under attack.", 
+            "link": null, 
+            "name": "passive sacrifice "
+        }, 
+        {
+            "def": "A weak chess player (German: patzen, to bungle). See also woodpusher.", 
+            "link": null, 
+            "name": "patzer "
+        }, 
+        {
+            "def": " see pawn", 
+            "link": null, 
+            "name": "pawn "
+        }, 
+        {
+            "def": "A type of odds game, common in the 18th and 19th centuries, in which the superior player plays Black and begins the game with one of his or her pawns, usually the king bishop pawn, removed from the board.", 
+            "link": "/wiki/Chess_handicap", 
+            "name": "pawn and move "
+        }, 
+        {
+            "def": "A player's pawns in the board centre. By extension, pawns on the squares adjacent to the centre may also be considered as part of the pawn centre. Having an ample pawn centre was considered a huge advantage until the hypermodernist school nuanced this judgment. See King's Indian Defence, Four Pawns Attack for an example of an opening leading to an extended pawn centre.", 
+            "link": null, 
+            "name": "pawn centre (or pawn center) "
+        }, 
+        {
+            "def": "A locked diagonal formation of pawns, each one supported by a friendly pawn diagonally behind and blocked by an enemy pawn directly ahead. Aron Nimzowitsch considered pawn chains extensively, and recommended attacking the enemy pawn chain at its base. See pawn structure.", 
+            "link": null, 
+            "name": "pawn chain "
+        }, 
+        {
+            "def": "A group of pawns of one color on consecutive files with no other pawns of the same color on any adjacent files. A pawn island consisting of one pawn is called an isolated pawn.", 
+            "link": null, 
+            "name": "pawn island "
+        }, 
+        {
+            "def": "A situation where both opponents are pushing a passed pawn in effort to be first to promote.", 
+            "link": null, 
+            "name": "pawn race "
+        }, 
+        {
+            "def": "An attacking technique where a group of pawns on one wing is advanced to break up the defence.", 
+            "link": "/wiki/Pawn_storm", 
+            "name": "pawn storm "
+        }, 
+        {
+            "def": "The placement of the pawns is known as the pawn structure. As pawns are the least mobile of the pieces and the only pieces unable to move backwards, the position of the pawns greatly influences the character of the game.", 
+            "link": "/wiki/Pawn_structure", 
+            "name": "pawn structure "
+        }, 
+        {
+            "def": "An abbreviation for the Professional Chess Association.", 
+            "link": null, 
+            "name": "PCA"
+        }, 
+        {
+            "def": "A number reflecting the approximate rating level at which a player performed in a particular tournament or match. It is often calculated by adding together the player's performances in each individual game, using the opponent's rating for a draw, adding 400 points to the opponent's rating for a win, and subtracting 400 points from the opponent's rating for a loss, then dividing by the total number of games. For example, a player who beat a 2400-rated player, lost to a 2600, drew a 2500, and beat a 2300, would have a performance rating of 2550 (2800 + 2200 + 2500 + 2700, divided by 4).", 
+            "link": null, 
+            "name": "performance rating "
+        }, 
+        {
+            "def": "An endless series of checks used to force a draw by repetition, usually by the player with the inferior position. The most common, but not the only, form of draw by repetition. Usually shortened to perpetual. To have a perpetual is to have the possibility of forcing a draw by perpetual check. This can be a form of insurance against an unsuccessful winning plan. \"If the pawn doesn't promote, I've always got a perpetual with the queen.\"", 
+            "link": "/wiki/Perpetual_check", 
+            "name": "perpetual check "
+        }, 
+        {
+            "def": "A move played to convince the opponent that their position is hopeless and they should resign. This could be an ostentatious sacrifice of a queen for a rook leaving an easily won pawn ending, or an unnecessary underpromotion.", 
+            "link": null, 
+            "name": "persuader "
+        }, 
+        {
+            "def": "An abbreviation for Portable Game Notation.", 
+            "link": null, 
+            "name": "PGN"
+        }, 
+        {
+            "def": "Usually refers to an important chess endgame which illustrates a drawing technique when the defender has a king and rook versus a king, rook, and pawn. It is also known as the third rank defence, because of the importance of the rook on the third rank cutting off the opposing king. It was analyzed by Philidor in 1777. See also Rook and pawn versus rook endgame.", 
+            "link": "/wiki/Philidor_position", 
+            "name": "Philidor position"
+        }, 
+        {
+            "def": "One of the chessmen or figures used to play the game\u2014king, queen, rook, bishop, knight or pawn. Each piece type has its own rules of movement on the board. The word \"piece\" can refer to any chess piece including pawns (as in the touched piece rule), or it can refer to a minor piece (as in \"I hung a piece\"), depending on context. It can also mean a major or minor piece, as in \"White needs to get some pieces to the kingside.\"", 
+            "link": "/wiki/Chess_piece", 
+            "name": "piece "
+        }, 
+        {
+            "def": "When a piece cannot move (either legally or advisedly) because doing so would expose a valuable piece, usually the king or queen, to attack. Pins against the king are called absolute because it is then illegal to move the pinned piece. Other pins are called relative pins.", 
+            "link": "/wiki/Pin_(chess)", 
+            "name": "pin "
+        }, 
+        {
+            "def": "A strategy used by a chess player to make optimal use of his or her advantages in a specific position while minimizing the impact of his or her positional disadvantages.", 
+            "link": null, 
+            "name": "plan "
+        }, 
+        {
+            "def": "Said of an opening or move that gives the person playing it a tenable position, for example \"Petroff's Defense is playable.\" or (after 1.e4 e5 2.Bc4 Nf6 3.Nc3 Nxe4 4.Nxe4) \"4... d5 is the only playable move\", implying that there are other legal moves, but they all leave the player in a worse position.", 
+            "link": null, 
+            "name": "playable "
+        }, 
+        {
+            "def": "an idiomatic expression meaning to make a move without analyzing the move.", 
+            "link": null, 
+            "name": "play by hand "
+        }, 
+        {
+            "def": "Term mainly used in computer chess to denote one play of either White or Black. Thus equal to half a move.", 
+            "link": "/wiki/Ply_(chess)", 
+            "name": "ply "
+        }, 
+        {
+            "def": "An abbreviation for Portable Game Notation.", 
+            "link": null, 
+            "name": "PGN"
+        }, 
+        {
+            "def": "An unprotected pawn which, if captured, causes positional problems or material loss.", 
+            "link": null, 
+            "name": "poisoned pawn "
+        }, 
+        {
+            "def": "A variation of the Najdorf Variation of the Sicilian Defence, where some players call White's pawn on b2 a poisoned pawn since capturing it is dangerous for Black.", 
+            "link": "/wiki/Poisoned_Pawn_Variation", 
+            "name": "Poisoned Pawn Variation"
+        }, 
+        {
+            "def": "This is a popular computer-processible ASCII format for recording chess games (both the moves and related data).", 
+            "link": "/wiki/Portable_Game_Notation", 
+            "name": "Portable Game Notation (PGN) "
+        }, 
+        {
+            "def": "Play dominated by long-term maneuvering for advantage rather than by short-term attacks and threats, and requiring judgment more than extensive calculation of variations, as distinguished from tactics.", 
+            "link": null, 
+            "name": "positional play "
+        }, 
+        {
+            "def": "A player who specializes in positional play, as distinguished from a tactician.", 
+            "link": null, 
+            "name": "positional player "
+        }, 
+        {
+            "def": "A sacrifice in which the lost material is not regained via a combination, but instead gains positional compensation. These typically require deep positional understanding and are often overlooked by computers. Also known as a \"true sacrifice\", as opposed to a pseudo-sacrifice or sham sacrifice.", 
+            "link": null, 
+            "name": "positional sacrifice "
+        }, 
+        {
+            "def": "Analysis of a game after it has concluded, typically by one or both players and sometimes with spectators (kibitzers) contributing as well. A player who has just lost the game thanks to a dubious move will often win the post-mortem by finding a better one.", 
+            "link": null, 
+            "name": "post-mortem "
+        }, 
+        {
+            "def": "A well-analyzed novelty in the opening which is not published but first used against an opponent in competitive play.", 
+            "link": null, 
+            "name": "prepared variation "
+        }, 
+        {
+            "def": "A Russian term for simple strategic devices that depend on pawn structure.", 
+            "link": "/wiki/Priyome", 
+            "name": "priyome "
+        }, 
+        {
+            "def": "An elegant and counterintuitive tactical shot, of the type generally found in chess problems rather than in actual play, can be termed problem-like.", 
+            "link": null, 
+            "name": "problem-like "
+        }, 
+        {
+            "def": "The Professional Chess Association (PCA) was a rival organisation to FIDE, the international chess organization. The PCA was created in 1993 by Garry Kasparov and Nigel Short for the marketing and organization of their chess world championship. The PCA lost its main sponsor, Intel, in 1996 and folded soon after.", 
+            "link": "/wiki/Professional_Chess_Association", 
+            "name": "Professional Chess Association (PCA) "
+        }, 
+        {
+            "def": "Advancing a pawn to the eighth rank, converting it to a queen, rook, bishop or knight. Promotion to a piece other than a queen is called underpromotion.", 
+            "link": "/wiki/Promotion_(chess)", 
+            "name": "promotion "
+        }, 
+        {
+            "def": "\n[adjective: prophylactic] Prophylactic techniques include the blockade, overprotection, and the mysterious rook move.\n", 
+            "link": "/wiki/Prophylaxis_(chess)", 
+            "name": "prophylaxis "
+        }, 
+        {
+            "def": "A passed pawn that is supported by another pawn.", 
+            "link": null, 
+            "name": "protected passed pawn "
+        }, 
+        {
+            "def": "See sham sacrifice.", 
+            "link": null, 
+            "name": "pseudo-sacrifice "
+        }, 
+        {
+            "def": "To move a pawn forward.", 
+            "link": null, 
+            "name": "push "
+        }, 
+        {
+            "def": "Symbol used for the queen when recording chess moves in English.", 
+            "link": null, 
+            "name": "Q"
+        }, 
+        {
+            "def": "The Queen's Gambit Accepted chess opening.", 
+            "link": "/wiki/Queen%27s_Gambit_Accepted", 
+            "name": "QGA"
+        }, 
+        {
+            "def": "The Queen's Gambit Declined chess opening.", 
+            "link": "/wiki/Queen%27s_Gambit_Declined", 
+            "name": "QGD"
+        }, 
+        {
+            "def": "The Queen's Indian Defence chess opening.", 
+            "link": "/wiki/Queen%27s_Indian_Defence", 
+            "name": "QID"
+        }, 
+        {
+            "def": "A round-robin style tournament between four players, where each participant plays every other participant once.", 
+            "link": null, 
+            "name": "quad "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0 see queen", 
+            "link": null, 
+            "name": "queen "
+        }, 
+        {
+            "def": "The bishop that was on the queenside at the start of the game. The terms queen knight and queen rook are also used. Sometimes abbreviated \"QB\", \"QN\", and \"QR\" respectively.", 
+            "link": null, 
+            "name": "queen bishop (or queen's bishop) "
+        }, 
+        {
+            "def": "A pawn on the queen's file, i.e. the d-file. Sometimes abbreviated \"QP\". Also queen rook pawn (QRP), queen knight pawn (QNP), and queen bishop pawn (QBP) for a pawn on the a-, b-, or c-file respectively.", 
+            "link": null, 
+            "name": "queen pawn (or queen's pawn) "
+        }, 
+        {
+            "def": "Promotion to a queen. Also called promotion. Rarely used to indicate promotion to a knight, rook, or bishop as well (underpromotion).", 
+            "link": null, 
+            "name": "queening "
+        }, 
+        {
+            "def": "The side of the board (board-half) the queens are on at the start of the game (the a- through d-file), as opposed to the kingside.", 
+            "link": null, 
+            "name": "queenside (or queen's side) "
+        }, 
+        {
+            "def": "Same as sudden death.", 
+            "link": null, 
+            "name": "quickplay finish "
+        }, 
+        {
+            "def": "A move that does not attack or capture an enemy piece.", 
+            "link": null, 
+            "name": "quiet move "
+        }, 
+        {
+            "def": "Symbol used for the rook when recording chess moves in English.", 
+            "link": null, 
+            "name": "R"
+        }, 
+        {
+            "def": "Another term for Harrwitz bishops.", 
+            "link": null, 
+            "name": "raking bishops "
+        }, 
+        {
+            "def": "A row of the chessboard. In algebraic notation, ranks are numbered 1\u20138 starting from White's side of the board; however, players customarily refer to ranks (but not files) from their own perspectives. For example: White's king and other pieces start on his or her first (or \"back\") rank, whereas Black calls the same rank the eighth rank; White's seventh rank is Black's second; and so on. If neither perspective is given, White's view is assumed. This relative reference to ranks was formalized in the older descriptive notation.", 
+            "link": null, 
+            "name": "rank "
+        }, 
+        {
+            "def": "A form of chess with reduced time limit, usually 30 minutes per player.", 
+            "link": "/wiki/Fast_chess", 
+            "name": "rapid chess (see fast chess) "
+        }, 
+        {
+            "def": "To demonstrate that a strategy, move, or opening is not as good as previously thought (often, that it leads to a loss), or that previously published analysis is unsound. A refutation is sometimes colloquially referred to as a bust. A refutation in the context of chess problems or endgame studies is often called a cook.", 
+            "link": null, 
+            "name": "refute "
+        }, 
+        {
+            "def": "See corresponding squares.", 
+            "link": null, 
+            "name": "related squares "
+        }, 
+        {
+            "def": "A pin, where it is legal to move the pinned piece. See also absolute pin.", 
+            "link": null, 
+            "name": "relative pin "
+        }, 
+        {
+            "def": "A move a player has available. Such a move may not be crucial to the position on the board, but being able to force the opponent to move by making a reserve move can on occasion result in a significant advantage.", 
+            "link": "/wiki/Tempo_(chess)#Reserve_tempo", 
+            "name": "reserve tempo "
+        }, 
+        {
+            "def": "To concede loss of the game. A resignation is usually indicated by stopping the clocks, and sometimes by offering a handshake or saying \"I resign\". The traditional way to resign is by tipping over one's king, but this is rarely done nowadays.[12] In master and serious amateur play, it is much more common for a game to be resigned than for it to end with checkmate, because experienced players can foresee checkmate well in advance.", 
+            "link": "/wiki/Rules_of_chess#Resigning", 
+            "name": "resign "
+        }, 
+        {
+            "def": "A player who in a hopeless position intentionally runs out of time to avoid having to resign can be said to have resigned on time. This is usually performed in a more subtle manner than that of Curt von Bardeleben walking out of the tournament hall against Wilhelm Steinitz. A player low on time and in a losing position may simply \"forget\" to pay any attention to the clock.", 
+            "link": null, 
+            "name": "resign on time "
+        }, 
+        {
+            "def": "Romantic chess was the style of chess prevalent in the 19th century. It is characterized by bold attacks and sacrifices.", 
+            "link": "/wiki/Romantic_chess", 
+            "name": "Romantic chess"
+        }, 
+        {
+            "def": " see rook", 
+            "link": null, 
+            "name": "rook "
+        }, 
+        {
+            "def": "A maneuver that places a rook in front of its own pawns, often on the third or fourth rank. This can allow the rook to treat a half-open file as if it were an open file, or a closed file as if it were half-open.", 
+            "link": null, 
+            "name": "rook lift "
+        }, 
+        {
+            "def": "A pawn on the rook's file, i.e. the a-file or h-file.", 
+            "link": null, 
+            "name": "rook pawn "
+        }, 
+        {
+            "def": "This is a tournament in which each participant plays every other participant an equal number of times, for example in the Hastings 1895 chess tournament. In a double round-robin tournament the participants play each other exactly twice, once with white and once with black, for example in the Piatigorsky Cup. A round robin tournament is commonly used if the number of participants is relatively small. See also Swiss tournament.", 
+            "link": "/wiki/Round-robin_tournament", 
+            "name": "round-robin tournament "
+        }, 
+        {
+            "def": "A fork between king and queen.", 
+            "link": null, 
+            "name": "royal fork "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A king or queen.", 
+            "link": null, 
+            "name": "royal piece "
+        }, 
+        {
+            "def": "Refers to unique attributes of the king: being subject to check and checkmate, the inability to be captured, and the ability to castle.", 
+            "link": null, 
+            "name": "royal powers "
+        }, 
+        {
+            "def": "Alternate notation for the knight piece. Used rather than the K, which is for king. From the German Springer [English: \"jumper\"].", 
+            "link": null, 
+            "name": "S"
+        }, 
+        {
+            "def": "Short for sacrifice, usually used to describe a sacrifice for a mating attack.", 
+            "link": null, 
+            "name": "sac "
+        }, 
+        {
+            "def": "A move or capture that voluntarily gives up material in return for an advantage such as space, development, or an attack. A sacrifice in the opening is called a gambit, especially when applied to a pawn.", 
+            "link": "/wiki/Sacrifice_(chess)", 
+            "name": "sacrifice "
+        }, 
+        {
+            "def": "An abbreviation for standard (or short) algebraic notation (e.g. 1.Nf3), as opposed to long algebraic notation (e.g. 1.Ng1-f3).", 
+            "link": null, 
+            "name": "SAN"
+        }, 
+        {
+            "def": "[from French] See blindfold chess.", 
+            "link": null, 
+            "name": "sans voir "
+        }, 
+        {
+            "def": "A four-move checkmate (common among novices) in which White plays 1.e4, follows with Qh5 (or Qf3) and Bc4, and finishes with 4.Qxf7#.", 
+            "link": "/wiki/Scholar%27s_Mate", 
+            "name": "Scholar's Mate "
+        }, 
+        {
+            "def": "A record of the moves of a particular game, usually expressed in algebraic notation.", 
+            "link": null, 
+            "name": "score "
+        }, 
+        {
+            "def": "The sheet of paper used to record a game in progress. During formal games, it is usual for both players to record the game using a score sheet. A completed score sheet contains the game score.", 
+            "link": null, 
+            "name": "score sheet "
+        }, 
+        {
+            "def": "Lengthy OTB games can be adjourned. To prevent unfair advantage, the players can agree on the next move being secretly recorded in a sealed envelope. Upon resumption, the arbiter makes the sealed move and the game continues. See also adjournment.", 
+            "link": null, 
+            "name": "sealed move "
+        }, 
+        {
+            "def": "An assistant hired to help a player in preparation for and during a major match or tournament. The second assists in areas such as opening preparation.[13] The second assisted with adjournment analysis, before the practice of adjournments was abandoned in the 1990s.", 
+            "link": null, 
+            "name": "second "
+        }, 
+        {
+            "def": "The expression \"the second player\" is sometimes used to refer to Black.", 
+            "link": null, 
+            "name": "second player "
+        }, 
+        {
+            "def": "See windmill.", 
+            "link": null, 
+            "name": "seesaw "
+        }, 
+        {
+            "def": "A chess opening that begins with White playing 1.d4 and Black replying with a move other than 1...d5. See also open game and closed game.", 
+            "link": "/wiki/Semi-Closed_Game", 
+            "name": "semi-closed game "
+        }, 
+        {
+            "def": "A chess opening that begins with White playing 1.e4 and Black replying with a move other than 1...e5. Also called half-open or asymmetrical king pawn openings. See also open game and closed game.", 
+            "link": "/wiki/Semi-Open_Game", 
+            "name": "semi-open game "
+        }, 
+        {
+            "def": "An offer of material which is made at no risk, as acceptance would lead to the gain of equal or greater material or checkmate. This is in contrast to a true sacrifice in which the compensation is less tangible. Also called a pseudo-sacrifice.", 
+            "link": "/wiki/Sacrifice_(chess)#Real_versus_sham", 
+            "name": "sham sacrifice "
+        }, 
+        {
+            "def": "Risky, double-edged, highly tactical. Sharp can be used to describe moves, maneuvers, positions, and styles of play.", 
+            "link": null, 
+            "name": "sharp "
+        }, 
+        {
+            "def": "Slang for an unexpected or sharp move that typically makes a tactical threat or technical challenge for the opponent.", 
+            "link": null, 
+            "name": "shot "
+        }, 
+        {
+            "def": "A strategy of exchanging pieces of equal value. Simplification can be used defensively to reduce the size of an attacking force. It can also be used by a player with an advantage to amplify that advantage or reduce the opponent's counterplay. Simplification is also used as an attempt to obtain a draw, or as an attempt to gain an advantage by players who are strong in endgame play with simplified positions. Also liquidation and trading.", 
+            "link": null, 
+            "name": "simplification "
+        }, 
+        {
+            "def": "A form of chess in which one (usually expert) player plays against several (usually novice) players simultaneously. Is often an exhibition.", 
+            "link": "/wiki/Simultaneous_exhibition", 
+            "name": "simultaneous chess "
+        }, 
+        {
+            "def": "An attack to a valuable piece, compelling it to move to avoid capture and thus exposing a less valuable piece which can then be taken.", 
+            "link": "/wiki/Skewer_(chess)", 
+            "name": "skewer "
+        }, 
+        {
+            "def": "A casual or \"pickup\" game, usually played without a chess clock. At chess tournaments, a skittles room is where one goes to play for fun while waiting for the next formal game.", 
+            "link": null, 
+            "name": "skittles "
+        }, 
+        {
+            "def": "A checkmate delivered by a knight in which the mated king is unable to move owing to it being surrounded (or smothered) by its own pieces. This could occur, for example, after 1.e4 Nc6 2.Ne2 Ne5, and now either 3.c3?? Nd3# or 3.g3?? Nf3#. Smothered mate is often achieved by sacrificing the queen.", 
+            "link": "/wiki/Smothered_mate", 
+            "name": "smothered mate "
+        }, 
+        {
+            "def": "In the tournament played by Sofia rules, players are not allowed to draw by agreement. They could have draws by stalemate, threefold repetition, fifty-move rule, or insufficient material. Other draws are allowed only if the arbiter declares the game reached a drawn position.", 
+            "link": "/wiki/Draw_by_agreement#Only_theoretical_draws_allowed_.28Sofia_Rules.29", 
+            "name": "Sofia rules"
+        }, 
+        {
+            "def": "An adjective used to describe a move, opening, or manner of play that is characterized by minimal risk-taking and emphasis on quiet positional play rather than wild tactics.", 
+            "link": null, 
+            "name": "solid "
+        }, 
+        {
+            "def": "Correct. A sound sacrifice has sufficient compensation, a sound chess opening or variation has no known refutation, and a sound composition has no cooks.", 
+            "link": null, 
+            "name": "sound "
+        }, 
+        {
+            "def": "A queen development in front of its own pawns, often early in the opening, usually for the purpose of exploiting an advantage in space or punishing an error by the opponent. So called because the queen is usually developed behind its own pawns for its protection. See flashing the queen.", 
+            "link": null, 
+            "name": "sortie "
+        }, 
+        {
+            "def": "The squares controlled by a player. A player controlling more squares than the other is said to have a spatial advantage. Effectively means much the same as mobility.", 
+            "link": null, 
+            "name": "space "
+        }, 
+        {
+            "def": "A white king bishop developed to b5. This is characteristic of the Ruy Lopez, also known as the Spanish Opening.", 
+            "link": null, 
+            "name": "Spanish bishop"
+        }, 
+        {
+            "def": "See Blitz chess.", 
+            "link": null, 
+            "name": "speed chess "
+        }, 
+        {
+            "def": "A harmless check given by a player who is about to be checkmated that serves no purpose other than to momentarily delay the defeat.", 
+            "link": null, 
+            "name": "spite check "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Gradually increasing the pressure of a bind.", 
+            "link": null, 
+            "name": "squeeze "
+        }, 
+        {
+            "def": "A position in which the player whose turn it is to move has no legal move and his or her king is not in check. A stalemate results in an immediate draw.", 
+            "link": "/wiki/Stalemate", 
+            "name": "stalemate "
+        }, 
+        {
+            "def": "The standard design of chess pieces, required for use in competition.", 
+            "link": "/wiki/Staunton_chess_set", 
+            "name": "Staunton chess set"
+        }, 
+        {
+            "def": "A stem game is the chess game featuring the first use of a particular opening variation. Sometimes, the player or the venue of the stem game is then used to refer to that opening.", 
+            "link": null, 
+            "name": "stem game "
+        }, 
+        {
+            "def": "Win characterised by gradual accumulation of advantages and complete prevention of counterplay.", 
+            "link": null, 
+            "name": "strategic crush "
+        }, 
+        {
+            "def": "Evaluation of game positions and setting up goals and longer-term plans for future play, as opposed to a tactic which is a shorter-term plan typically consisting of a well-defined sequence of moves and their contingent moves from a given game position.", 
+            "link": "/wiki/Chess_strategy", 
+            "name": "strategy "
+        }, 
+        {
+            "def": "A forceful or good move, a position having good winning chances, a highly rated player or one successful in tournaments, or a tournament having a sizable number of strong players competing, such as grandmasters. A \"strong showing\" refers to a player's high win ratio in a tournament. Opposite of weakness\u200a/weak, for example, a weak square.", 
+            "link": null, 
+            "name": "strength (or strong) "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The stronger side is the side with a material or positional advantage.", 
+            "link": null, 
+            "name": "stronger side "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A \"strongpoint defense\" means an opening which defends and retains a central pawn (White: e4 or d4; Black: e5 or d5), as opposed to exchanging the pawn and relinquishing occupation of that central square.", 
+            "link": null, 
+            "name": "strongpoint "
+        }, 
+        {
+            "def": "The most straightforward time control for a chess game: each player has a fixed amount of time available to make all moves. See also Fast chess.", 
+            "link": null, 
+            "name": "sudden death "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A ruse by which a player in a losing position tricks his or her opponent, and thereby achieves a win or draw instead of the expected loss. See also cheapo.", 
+            "link": "/wiki/Swindle_(chess)", 
+            "name": "swindle "
+        }, 
+        {
+            "def": "This is a tournament that uses the Swiss system to determine player pairings. The basic idea is that every round each player is paired with an opponent with the same (or close to the same) score. The 33rd Chess Olympiad is an example of a Swiss tournament. See also round-robin tournament.", 
+            "link": "/wiki/Swiss-system_tournament", 
+            "name": "Swiss tournament (see Swiss-system tournament)"
+        }, 
+        {
+            "def": "A symmetrical position on the chessboard means the positions of one's pieces are exactly mirrored by the opponent's pieces. This most often occurs when Black mimics White's opening moves. Black is said to break symmetry when he or she makes a move no longer imitating White's move.", 
+            "link": null, 
+            "name": "symmetry "
+        }, 
+        {
+            "def": "\nfrom Arabic \u0637\u0628\u064a\u0639\u0629 \u1e6dab\u012b\u0295a, \"normal manner\"\n", 
+            "link": null, 
+            "name": "tabia (or tabiya) "
+        }, 
+        {
+            "def": "See endgame tablebase.", 
+            "link": null, 
+            "name": "tablebase "
+        }, 
+        {
+            "def": "A player who specializes in tactical play, as distinguished from a positional player.", 
+            "link": null, 
+            "name": "tactician "
+        }, 
+        {
+            "def": "Play characterized by short-term attacks and threats, often requiring extensive calculation by the players, as distinguished from positional play.", 
+            "link": "/wiki/Chess_tactics", 
+            "name": "tactics "
+        }, 
+        {
+            "def": "Used in casual games whereby both players agree to undo one or more moves.", 
+            "link": null, 
+            "name": "takeback "
+        }, 
+        {
+            "def": "Named after Siegbert Tarrasch, this refers to the general principle that rooks usually should be placed behind passed pawns, either one's own or one's opponent's.", 
+            "link": "/wiki/Tarrasch_rule", 
+            "name": "Tarrasch rule"
+        }, 
+        {
+            "def": "As abbreviation for tournament director.", 
+            "link": null, 
+            "name": "TD"
+        }, 
+        {
+            "def": "The manner in which a player converts an advantageous position into a win.", 
+            "link": null, 
+            "name": "technique "
+        }, 
+        {
+            "def": "An extra move, an initiative at development. A player gains a tempo (usually in the opening) by making the opponent move the same piece twice or defend an enemy piece. In the endgame, one may wish to lose a tempo by triangulation to gain the opposition. (Plural: tempos or tempi.)", 
+            "link": "/wiki/Tempo_(chess)", 
+            "name": "tempo "
+        }, 
+        {
+            "def": "A position in which there are one or more exchanges possible, such as a pair of pawns facing each other on a diagonal where either can capture the other, is said to contain tension. Such a situation differs from a threat in that it does not need to be immediately resolved \u2013 for example, if both pawns are defended. The consequences of resolving the tension must be constantly considered by both players, in case there is a possibility of winning or losing material. This makes calculating the best move more complicated, and so there is a natural temptation to release the tension by making a like-for-like exchange (see simplification) or by moving the attacked piece. To keep the tension is to avoid resolving it, which is sometimes good advice depending on the position.", 
+            "link": null, 
+            "name": "tension "
+        }, 
+        {
+            "def": "This term is used in written analysis of chess games to refer to a move actually played in the game as opposed to other possible moves. Can be shortened to \"text\", for example \"The text is inferior as it allows ...f5\". Text moves are usually in bold whereas analysis moves are not.", 
+            "link": null, 
+            "name": "text move "
+        }, 
+        {
+            "def": "A move or plan suited to the demands of the position. Most openings have well-known thematic moves associated with them, for example Black's ...c5 in the [French Defence]] is a thematic move, whereas blocking the c-pawn with ...Nc6 would be unthematic. Moves may be thematic but still bad due to their inferior timing, or unthematic but still good due to a quirk of the position.", 
+            "link": null, 
+            "name": "thematic "
+        }, 
+        {
+            "def": "A chess tournament in which every game must begin with a particular chess opening specified by the organizers, for example the Budapest Gambit (1.d4 Nf6 2.c4 e5).", 
+            "link": null, 
+            "name": "theme tournament "
+        }, 
+        {
+            "def": "A new move in an opening. Also called simply a novelty.", 
+            "link": null, 
+            "name": "theoretical novelty (TN) "
+        }, 
+        {
+            "def": "A plan or move that, if left unattended, would result in an immediate depreciation of the opponent's position.", 
+            "link": null, 
+            "name": "threat "
+        }, 
+        {
+            "def": "A draw may be claimed if the same position occurs three times with the same player to move, and with each player having the same set of legal moves each time (the latter includes the right to take en passant and the right to castle).", 
+            "link": "/wiki/Threefold_repetition", 
+            "name": "threefold repetition "
+        }, 
+        {
+            "def": "This refers to a number of different systems that are used to break ties, and thus designate a single winner, where multiple players or teams tie for the same place in a Swiss system chess tournament.", 
+            "link": "/wiki/Tie-breaking_in_Swiss-system_tournaments", 
+            "name": "tiebreaks (see tie-breaking in Swiss-system tournaments) "
+        }, 
+        {
+            "def": "Opportunities to make moves: similar meaning to tempo. A move that does not alter the position significantly is described as \"wasting time\", and forcing the other player to waste time is described as \"gaining time\".", 
+            "link": null, 
+            "name": "time "
+        }, 
+        {
+            "def": "The allowed time to finish a game, usually measured by a chess clock. A time control can require either a certain number of moves be made per time period (e.g., 40 moves in 2\u00bd hours) or it can limit the length of the entire game (e.g., 5 minutes per game for blitz). Hybrid schemes are used, and time delay controls have become popular since the widespread use of digital clocks.", 
+            "link": "/wiki/Time_control", 
+            "name": "time control "
+        }, 
+        {
+            "def": "A time control which makes it possible for a player to avoid having an ever-decreasing amount of time remaining (as is the case with sudden death). The most important time delays in chess are Bronstein delay and Fischer delay.", 
+            "link": null, 
+            "name": "time delay "
+        }, 
+        {
+            "def": "Having very little time on one's clock (especially less than five minutes) to complete one's remaining moves. See time control.", 
+            "link": null, 
+            "name": "time pressure (or time trouble) "
+        }, 
+        {
+            "def": "An abbreviation for theoretical novelty.", 
+            "link": null, 
+            "name": "TN"
+        }, 
+        {
+            "def": "In team chess, the player who is assigned to face the strongest opponents. Also called first board. Second board faces the next strongest players, followed by third board, and so on. Generally board assignments must be made before the competition begins and players may not switch boards, although reserve players are often allowed as substitutes.", 
+            "link": null, 
+            "name": "top board "
+        }, 
+        {
+            "def": "Slang for promotion.", 
+            "link": null, 
+            "name": "touchdown "
+        }, 
+        {
+            "def": "The rule requiring a player who touches a piece that has at least one legal move to move that piece (and, if the player moves the piece to a particular square and takes his or her hand off it, to move it to that square). Castling must be initiated by moving the king first, so a player who touches his or her rook may be required to move it, without castling. The rule also requires a player who touches an opponent's piece to capture it if possible. A player wishing to touch a piece to adjust its position on a square without being required to move it signals this intent by saying \"J'adoube\" or \"I adjust\". This way of playing is common in official games, in favour of clock move.", 
+            "link": "/wiki/Touch-move_rule", 
+            "name": "touched piece rule (or touch-move rule) "
+        }, 
+        {
+            "def": "A competition involving more than two players or teams, generally played at a single venue (or series of venues) in a relatively short period of time. A tournament is divided into rounds, with each round consisting either of individual games or matches in the case of knockout tournaments and team tournaments. The assignment of opponents is called pairing, with the most popular systems being round-robin and Swiss. Tournaments are usually referred to by combining the city in which they were played with the year, as in \"London 1851\", although there are well-known exceptions, such as \"AVRO 1938\".", 
+            "link": "/wiki/Chess_tournament", 
+            "name": "tournament "
+        }, 
+        {
+            "def": "A book recording the scores of all the games in a tournament, usually with analysis of the best or most important games and some background on the event and its participants. One well-known example is Bronstein's Zurich International Chess Tournament 1953. The less comprehensive tournament bulletin is usually issued between the rounds of a prestigious event, giving the players and world media an instant record of the games of the previous round. Individual copies may be bundled together at the conclusion of the event to provide an inexpensive alternative to the tournament book.", 
+            "link": null, 
+            "name": "tournament book "
+        }, 
+        {
+            "def": "Organizer and arbiter of a tournament, responsible for enforcing the tournament rules and the Laws of Chess. Also tournament controller [chiefly British].", 
+            "link": null, 
+            "name": "tournament director (TD) "
+        }, 
+        {
+            "def": "See exchange.", 
+            "link": null, 
+            "name": "trade "
+        }, 
+        {
+            "def": "To reach a position by transposition.", 
+            "link": null, 
+            "name": "transition "
+        }, 
+        {
+            "def": "Arriving at a position using a different sequence of moves.", 
+            "link": "/wiki/Transposition_(chess)", 
+            "name": "transposition "
+        }, 
+        {
+            "def": "A move which may tempt the opponent to play a losing move. See also swindle.", 
+            "link": null, 
+            "name": "trap "
+        }, 
+        {
+            "def": "A position of mutual zugzwang in which either player would lose if it is their turn to move.", 
+            "link": null, 
+            "name": "tr\u00e9buchet "
+        }, 
+        {
+            "def": "A technique used in king and pawn endgames (less commonly seen with other pieces) to lose a tempo and gain the opposition.", 
+            "link": "/wiki/Triangulation_(chess)", 
+            "name": "triangulation "
+        }, 
+        {
+            "def": "Three pawns of the same color on the same file; generally considered a weakness due to their inability to defend each other.", 
+            "link": "/wiki/Doubled_pawns#Tripled_and_quadrupled_pawns", 
+            "name": "tripled pawns "
+        }, 
+        {
+            "def": "Endgame analysis by Alexey Troitsky of two knights versus a pawn found certain pawn positions that result in win, draw or loss. The resulting pawn positions on each file form what is known as the Troitsky line or Troitsky position.", 
+            "link": "/wiki/Troitsky_line", 
+            "name": "Troitsky line (or Troitzky line) "
+        }, 
+        {
+            "def": "Synonym for bishop pair.", 
+            "link": null, 
+            "name": "two bishops (or The two bishops) "
+        }, 
+        {
+            "def": "This is a chess tactic (also known as removal of the guard) in which a defensive piece is captured, leaving one of the opponent's pieces undefended or underdefended.", 
+            "link": "/wiki/Undermining_(chess)", 
+            "name": "undermining "
+        }, 
+        {
+            "def": "Promoting a pawn to a rook, bishop, or knight instead of a queen. Rarely seen unless the knight can deliver a crucial check, or when promotion to a rook or a bishop instead of a queen is necessary to avoid stalemate.", 
+            "link": "/wiki/Promotion_(chess)", 
+            "name": "underpromotion "
+        }, 
+        {
+            "def": "This is a nonprofit organization, the governing chess organization within the United States, and one of the federations of the FIDE.", 
+            "link": "/wiki/United_States_Chess_Federation", 
+            "name": "United States Chess Federation (USCF) "
+        }, 
+        {
+            "def": "See irregular opening.", 
+            "link": "/wiki/Unorthodox_opening", 
+            "name": "unorthodox opening "
+        }, 
+        {
+            "def": "The act of breaking a pin by interposing a second piece between the attacker and the target. This allows the piece that was formerly pinned to move.", 
+            "link": null, 
+            "name": "unpinning "
+        }, 
+        {
+            "def": "A positive term; to get out of a cramped or otherwise awkward position without suffering any disadvantage. Often this awkward position is the result of a gambit by the opponent, and so a player who unravels successfully can look forward to an endgame advantage thanks to their extra material.", 
+            "link": null, 
+            "name": "unravel "
+        }, 
+        {
+            "def": "Antonym of sound.", 
+            "link": null, 
+            "name": "unsound "
+        }, 
+        {
+            "def": "An abbreviation for the United States Chess Federation.", 
+            "link": null, 
+            "name": "USCF"
+        }, 
+        {
+            "def": "A sacrifice made for the purpose of clearing a square for a different piece of the same color.", 
+            "link": null, 
+            "name": "vacating sacrifice "
+        }, 
+        {
+            "def": "A player who exchanges a large number of pieces without consideration for their position is simply \"vacuum cleaning\" the board. \"Getting the vacuum cleaner out\" can be thought of as an extreme form of simplification, which is often a useful strategy.", 
+            "link": null, 
+            "name": "vacuum cleaner "
+        }, 
+        {
+            "def": "A move which opens one line and closes another.", 
+            "link": null, 
+            "name": "valve "
+        }, 
+        {
+            "def": "See chess variant.", 
+            "link": null, 
+            "name": "variant "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A sequence of moves or an alternative line of play, often applied to the opening. A variation does not have to have been played in a game, it may also be a possibility that occurs only in analysis.", 
+            "link": "/wiki/Variation_(game_tree)", 
+            "name": "variation "
+        }, 
+        {
+            "def": "See file.", 
+            "link": null, 
+            "name": "vertical line "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A passive but harmless move played while waiting for initiative from the opponent.", 
+            "link": null, 
+            "name": "waiting move "
+        }, 
+        {
+            "def": "An abbreviation for the World Chess Championship.", 
+            "link": "/wiki/World_Chess_Championship", 
+            "name": "WCC"
+        }, 
+        {
+            "def": "A square that cannot be easily defended from attack by an opponent. Often a weak square is unable to be defended by pawns (a hole) and can be theoretically occupied by a piece. Exchange or loss of a bishop may make all squares of that bishop's color weak resulting in a \"weak square complex\" on the light squares or the dark squares.", 
+            "link": null, 
+            "name": "weak square "
+        }, 
+        {
+            "def": "An abbreviation for the Woman FIDE Master title.", 
+            "link": null, 
+            "name": "WFM"
+        }, 
+        {
+            "def": "An abbreviation for the Woman Grandmaster title.", 
+            "link": null, 
+            "name": "WGM"
+        }, 
+        {
+            "def": "The light-colored squares on the chessboard are often referred to as \"the white squares\" even though they often are some other light color. Similarly, \"the white pieces\" are sometimes actually some other (usually light) color. See also black.", 
+            "link": null, 
+            "name": "white"
+        }, 
+        {
+            "def": "The designation for the player who moves first, even though the corresponding pieces, referred to as \"the white pieces\", are sometimes actually some other (usually light) color. See also Black and first-move advantage.", 
+            "link": "/wiki/White_and_Black_in_chess", 
+            "name": "White (see White and Black in chess)"
+        }, 
+        {
+            "def": "An extremely unclear or complicated position or move.", 
+            "link": null, 
+            "name": "wild "
+        }, 
+        {
+            "def": "An abbreviation for the Woman International Master title.", 
+            "link": null, 
+            "name": "WIM"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A victory for one of the two players in a game, which may occur due to checkmate, resignation by the other player, the other player exceeding the time control, or the other player being forfeited by the tournament director. Chess being a zero-sum game, this results in a loss for the other player. An exception is a win as a result of a tournament bye.", 
+            "link": null, 
+            "name": "win "
+        }, 
+        {
+            "def": "A combination in which two pieces work together to deliver an alternating series of checks and discovered checks in such a way that the opposing king is required to move on each turn. It is a potent technique since on every other move, the discovered check may allow the non-checking piece to capture an enemy piece without losing a tempo. The most famous example is Torre\u2013Lasker, Moscow 1925. Also called a seesaw.", 
+            "link": "/wiki/Windmill_(chess)", 
+            "name": "windmill "
+        }, 
+        {
+            "def": "The queenside a-, b-, and c-file, or the kingside f-, g-, and h-file. Also called flank.", 
+            "link": null, 
+            "name": "wing "
+        }, 
+        {
+            "def": "The name given to variations of several openings in which one player gambits a wing pawn, usually the b-pawn.", 
+            "link": "/wiki/Wing_Gambit", 
+            "name": "Wing Gambit"
+        }, 
+        {
+            "def": "The FIDE chess rules describe that \"The game is draw when a position is reached from which a checkmate cannot occur by any possible series of legal moves\" (FIDE rule 9.6).", 
+            "link": null, 
+            "name": "winning material "
+        }, 
+        {
+            "def": "A number calculated by taking the percentage of games won by a player plus half the percentage of drawn games. Thus, if out of 100 games a player wins 40, draws 32, and loses 28, her winning percentage is 40 plus half of 32, i.e. 56 percent.", 
+            "link": null, 
+            "name": "winning percentage "
+        }, 
+        {
+            "def": "A position is said to be a winning if one specified side, with correct play, can eventually force a checkmate against any defence (i.e. perfect defence). Also called a won game.", 
+            "link": null, 
+            "name": "winning position "
+        }, 
+        {
+            "def": "A women-only chess title ranking below Woman International Master.", 
+            "link": "/wiki/Woman_FIDE_Master", 
+            "name": "Woman FIDE Master (WFM) "
+        }, 
+        {
+            "def": "The highest ranking gender-restricted chess title except for Women's World Champion.", 
+            "link": "/wiki/Woman_Grandmaster", 
+            "name": "Woman Grandmaster (WGM) "
+        }, 
+        {
+            "def": "A women-only chess title ranking below Woman Grandmaster and above Woman FIDE Master.", 
+            "link": "/wiki/Woman_International_Master", 
+            "name": "Woman International Master (WIM) "
+        }, 
+        {
+            "def": "See winning position.", 
+            "link": null, 
+            "name": "won game "
+        }, 
+        {
+            "def": "Slang for pieces. \"A lot of wood came off the board\" conveys that several piece exchanges occurred.", 
+            "link": null, 
+            "name": "wood "
+        }, 
+        {
+            "def": "A weak chess player, also referred to as a patzer or duffer. Colloquial, typically intended as criticism.", 
+            "link": null, 
+            "name": "woodpusher "
+        }, 
+        {
+            "def": "A winner of the World Chess Championship.", 
+            "link": null, 
+            "name": "World Champion"
+        }, 
+        {
+            "def": "See wrong rook pawn.", 
+            "link": "/wiki/Wrong_bishop", 
+            "name": "wrong-colored bishop (or wrong bishop) "
+        }, 
+        {
+            "def": "With a bishop, a rook pawn may be the wrong rook pawn, depending on whether or not the bishop controls its promotion square.", 
+            "link": "/wiki/Wrong_rook_pawn", 
+            "name": "wrong rook pawn "
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An attack upon two pieces in a line, similar to a pin, synonymous with skewer.", 
+            "link": "/wiki/X-ray_(chess)", 
+            "name": "x-ray "
+        }, 
+        {
+            "def": "[German, \"time crisis\"] Having very little time on the clock to complete the remaining moves of a timed game. Synonymous with time pressure and \"time trouble\".", 
+            "link": null, 
+            "name": "zeitnot "
+        }, 
+        {
+            "def": "Tournaments organised by FIDE, the first qualifying cycle of the World Chess Championship. Each zonal tournament features top players of a certain geographical zone. Up until 1993 the winners went on to Interzonal tournaments. This was replaced by a system where the winners now play each other in knockout-style competitions to determine who goes on to the Candidates Tournament.", 
+            "link": null, 
+            "name": "Zonal tournaments "
+        }, 
+        {
+            "def": "[German, \"compulsion to move\"] When a player is put at a disadvantage by having to make a move; where any legal move weakens the position. Zugzwang usually occurs in the endgame, and rarely in the middlegame.", 
+            "link": "/wiki/Zugzwang", 
+            "name": "zugzwang "
+        }, 
+        {
+            "def": "[German, \"in between check\"] A zwischenzug that is a check.", 
+            "link": null, 
+            "name": "zwischenschach "
+        }, 
+        {
+            "def": "[German, \"inbetween move\"] An \"inbetween\" move played before the expected reply. In general, this involves responding to a threat by posing an even bigger threat to the opponent, forcing him to respond to the threat first.", 
+            "link": "/wiki/Zwischenzug", 
+            "name": "zwischenzug "
+        }
+    ]
+}

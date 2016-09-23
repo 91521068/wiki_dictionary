@@ -1,0 +1,3217 @@
+{
+    "c1": "", 
+    "c2": "Medicine", 
+    "c3": "Medical roots", 
+    "words": [
+        {
+            "def": "not, without", 
+            "link": null, 
+            "name": "a-, an-"
+        }, 
+        {
+            "def": "from; away from", 
+            "link": null, 
+            "name": "ab-"
+        }, 
+        {
+            "def": "Of or relating to the abdomen", 
+            "link": null, 
+            "name": "abdomin-"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-ac, -acal"
+        }, 
+        {
+            "def": "thorn or spine", 
+            "link": null, 
+            "name": "acanth-"
+        }, 
+        {
+            "def": "Of or relating to hearing", 
+            "link": null, 
+            "name": "acou- [1]"
+        }, 
+        {
+            "def": "extremity, topmost", 
+            "link": null, 
+            "name": "acr(o)-"
+        }, 
+        {
+            "def": "hearing", 
+            "link": null, 
+            "name": "-acusis"
+        }, 
+        {
+            "def": "toward, in the direction of", 
+            "link": null, 
+            "name": "-ad"
+        }, 
+        {
+            "def": "at, increase, on, toward", 
+            "link": null, 
+            "name": "ad-"
+        }, 
+        {
+            "def": "Of or relating to a gland", 
+            "link": null, 
+            "name": "aden(o)-, aden(i)-"
+        }, 
+        {
+            "def": "Of or relating to fat or fatty tissue", 
+            "link": null, 
+            "name": "adip(o)-"
+        }, 
+        {
+            "def": "Of or relating to adrenal glands", 
+            "link": null, 
+            "name": "adren(o)-"
+        }, 
+        {
+            "def": "blood condition", 
+            "link": "/wiki/British_English", 
+            "name": "-aemia (BrE)"
+        }, 
+        {
+            "def": "air, gas", 
+            "link": null, 
+            "name": "aer(o)-"
+        }, 
+        {
+            "def": "sensation", 
+            "link": null, 
+            "name": "aesthesio- (BrE)"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-al"
+        }, 
+        {
+            "def": "Denoting a white or pale color", 
+            "link": null, 
+            "name": "alb-"
+        }, 
+        {
+            "def": "pain", 
+            "link": null, 
+            "name": "alge(si)-"
+        }, 
+        {
+            "def": "pain", 
+            "link": null, 
+            "name": "-algia, alg(i)o-"
+        }, 
+        {
+            "def": "Denoting something as different, or as an addition", 
+            "link": null, 
+            "name": "all(o)-"
+        }, 
+        {
+            "def": "Denoting something as positioned on both sides; describing both of two", 
+            "link": null, 
+            "name": "ambi-"
+        }, 
+        {
+            "def": "Pertaining to the membranous fetal sac (amnion)", 
+            "link": null, 
+            "name": "amni-"
+        }, 
+        {
+            "def": "on both sides", 
+            "link": null, 
+            "name": "amph(i)-,"
+        }, 
+        {
+            "def": "starchy, carbohydrate-related", 
+            "link": null, 
+            "name": "amylo-"
+        }, 
+        {
+            "def": "not, without", 
+            "link": null, 
+            "name": "an-"
+        }, 
+        {
+            "def": "back, again, up", 
+            "link": null, 
+            "name": "ana-"
+        }, 
+        {
+            "def": "pertaining to a man", 
+            "link": null, 
+            "name": "andr(o)-"
+        }, 
+        {
+            "def": "blood vessel", 
+            "link": null, 
+            "name": "angi(o)-"
+        }, 
+        {
+            "def": "Describing something as unequal", 
+            "link": null, 
+            "name": "aniso-"
+        }, 
+        {
+            "def": "Denoting something as crooked or bent", 
+            "link": null, 
+            "name": "ankyl(o)-, ancyl(o)-"
+        }, 
+        {
+            "def": "Describing something as positioned in front of another thing", 
+            "link": null, 
+            "name": "ante-"
+        }, 
+        {
+            "def": "Describing something as 'against' or 'opposed to' another", 
+            "link": null, 
+            "name": "anti-"
+        }, 
+        {
+            "def": "away, separated from, derived from", 
+            "link": null, 
+            "name": "apo-"
+        }, 
+        {
+            "def": "first, primitive", 
+            "link": null, 
+            "name": "arch-"
+        }, 
+        {
+            "def": "Of or pertaining to a male; masculine", 
+            "link": null, 
+            "name": "arsen(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to an artery", 
+            "link": null, 
+            "name": "arteri(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the joints, limbs", 
+            "link": null, 
+            "name": "arthr(o)-"
+        }, 
+        {
+            "def": "joint", 
+            "link": null, 
+            "name": "articul(o)-"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-ary"
+        }, 
+        {
+            "def": "enzyme", 
+            "link": null, 
+            "name": "-ase"
+        }, 
+        {
+            "def": "weakness", 
+            "link": null, 
+            "name": "-asthenia"
+        }, 
+        {
+            "def": "imperfect or incomplete development", 
+            "link": null, 
+            "name": "atel(o)-"
+        }, 
+        {
+            "def": "fatty deposit, soft gruel-like deposit", 
+            "link": null, 
+            "name": "ather(o)-"
+        }, 
+        {
+            "def": "process", 
+            "link": null, 
+            "name": "-ation"
+        }, 
+        {
+            "def": "an atrium (esp. heart atrium)", 
+            "link": null, 
+            "name": "atri(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the ear", 
+            "link": null, 
+            "name": "aur(i)-"
+        }, 
+        {
+            "def": "self", 
+            "link": null, 
+            "name": "aut(o)-"
+        }, 
+        {
+            "def": "increase; growth", 
+            "link": null, 
+            "name": "aux(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the armpit (uncommon as a prefix)", 
+            "link": null, 
+            "name": "axill-"
+        }, 
+        {
+            "def": "nitrogenous compound", 
+            "link": null, 
+            "name": "azo(to)-"
+        }, 
+        {
+            "def": "Pertaining to bacteria", 
+            "link": null, 
+            "name": "bacteri(o)-"
+        }, 
+        {
+            "def": "Of the glans penis or glans clitoridis", 
+            "link": null, 
+            "name": "balano-"
+        }, 
+        {
+            "def": "Of or pertaining to base", 
+            "link": null, 
+            "name": "bas(o)-"
+        }, 
+        {
+            "def": "twice, double", 
+            "link": null, 
+            "name": "bi-"
+        }, 
+        {
+            "def": "life", 
+            "link": null, 
+            "name": "bio-"
+        }, 
+        {
+            "def": "germ or bud", 
+            "link": null, 
+            "name": "blast(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the eyelid", 
+            "link": null, 
+            "name": "blephar(o)-"
+        }, 
+        {
+            "def": "Of or relating to the arm", 
+            "link": null, 
+            "name": "brachi(o)-"
+        }, 
+        {
+            "def": "Indicating 'short' or less commonly 'little'", 
+            "link": null, 
+            "name": "brachy-"
+        }, 
+        {
+            "def": "'slow'", 
+            "link": null, 
+            "name": "brady-"
+        }, 
+        {
+            "def": "of or relating to the bronchus", 
+            "link": null, 
+            "name": "bronch(i)-"
+        }, 
+        {
+            "def": "Of or pertaining to the cheek", 
+            "link": null, 
+            "name": "bucc(o)-"
+        }, 
+        {
+            "def": "bursa (fluid sac between the bones)", 
+            "link": null, 
+            "name": "burs(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to hair", 
+            "link": null, 
+            "name": "capill-"
+        }, 
+        {
+            "def": "Pertaining to the head (as a whole)", 
+            "link": null, 
+            "name": "capit-"
+        }, 
+        {
+            "def": "cancer", 
+            "link": null, 
+            "name": "carcin(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the heart", 
+            "link": null, 
+            "name": "cardi(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the wrist", 
+            "link": null, 
+            "name": "carp(o)-"
+        }, 
+        {
+            "def": "down, under", 
+            "link": null, 
+            "name": "cata-"
+        }, 
+        {
+            "def": "pouching, hernia", 
+            "link": null, 
+            "name": "-cele"
+        }, 
+        {
+            "def": "surgical puncture for aspiration", 
+            "link": null, 
+            "name": "-centesis"
+        }, 
+        {
+            "def": "Of or pertaining to the head (as a whole)", 
+            "link": null, 
+            "name": "cephal(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the cornu; a horn", 
+            "link": null, 
+            "name": "cerat(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the cerebellum", 
+            "link": null, 
+            "name": "cerebell(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the brain", 
+            "link": null, 
+            "name": "cerebr(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the neck, the cervix", 
+            "link": null, 
+            "name": "cervic-"
+        }, 
+        {
+            "def": "Of or pertaining to the lips", 
+            "link": null, 
+            "name": "cheil(o)-"
+        }, 
+        {
+            "def": "chemistry, drug", 
+            "link": null, 
+            "name": "chem(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the hand", 
+            "link": null, 
+            "name": "chir(o)-, cheir(o)-"
+        }, 
+        {
+            "def": "Denoting a green color", 
+            "link": null, 
+            "name": "chlor(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to bile", 
+            "link": null, 
+            "name": "chol(e)-"
+        }, 
+        {
+            "def": "Of or pertaining to the gallbladder", 
+            "link": null, 
+            "name": "cholecyst(o)-"
+        }, 
+        {
+            "def": "cartilage, gristle, granule, granular", 
+            "link": null, 
+            "name": "chondr(i)o-"
+        }, 
+        {
+            "def": "color", 
+            "link": null, 
+            "name": "chrom(ato)-"
+        }, 
+        {
+            "def": "killing, destroying", 
+            "link": null, 
+            "name": "-cidal, -cide"
+        }, 
+        {
+            "def": "Of or pertaining to the cilia, the eyelashes; eyelids", 
+            "link": null, 
+            "name": "cili-"
+        }, 
+        {
+            "def": "Denoting something as 'around' another", 
+            "link": null, 
+            "name": "circum-"
+        }, 
+        {
+            "def": "on this side", 
+            "link": null, 
+            "name": "cis-"
+        }, 
+        {
+            "def": "break", 
+            "link": null, 
+            "name": "clast"
+        }, 
+        {
+            "def": "spindle", 
+            "link": null, 
+            "name": "clostr-"
+        }, 
+        {
+            "def": "with, together, in association", 
+            "link": null, 
+            "name": "co-"
+        }, 
+        {
+            "def": "colon", 
+            "link": null, 
+            "name": "col-, colo-, colono-"
+        }, 
+        {
+            "def": "Of or pertaining to the vagina", 
+            "link": null, 
+            "name": "colp(o)-"
+        }, 
+        {
+            "def": "with, together", 
+            "link": null, 
+            "name": "com-"
+        }, 
+        {
+            "def": "against", 
+            "link": null, 
+            "name": "contra"
+        }, 
+        {
+            "def": "with, together", 
+            "link": null, 
+            "name": "cor-"
+        }, 
+        {
+            "def": "Of or pertaining to the heart (uncommon as a prefix)", 
+            "link": null, 
+            "name": "cord-"
+        }, 
+        {
+            "def": "Applied to processes and parts of the body describing them likened or similar to horns", 
+            "link": null, 
+            "name": "cornu-"
+        }, 
+        {
+            "def": "pertaining to heart", 
+            "link": null, 
+            "name": "coron(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the ribs", 
+            "link": null, 
+            "name": "cost-"
+        }, 
+        {
+            "def": "Of or relating to the hip, haunch, or hip-joint", 
+            "link": null, 
+            "name": "cox-"
+        }, 
+        {
+            "def": "Belonging or relating to the cranium", 
+            "link": null, 
+            "name": "crani(o)-"
+        }, 
+        {
+            "def": "to secrete", 
+            "link": null, 
+            "name": "-crine, crin(o)"
+        }, 
+        {
+            "def": "cold", 
+            "link": null, 
+            "name": "cry(o)-"
+        }, 
+        {
+            "def": "skin", 
+            "link": null, 
+            "name": "cutane-"
+        }, 
+        {
+            "def": "Denotes a blue color", 
+            "link": null, 
+            "name": "cyan(o)-"
+        }, 
+        {
+            "def": "circle, cycle", 
+            "link": null, 
+            "name": "cycl-"
+        }, 
+        {
+            "def": "Denotes something as bent (uncommon as a prefix)", 
+            "link": null, 
+            "name": "cyph(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the urinary bladder", 
+            "link": null, 
+            "name": "cyst(o)-, cyst(i)-"
+        }, 
+        {
+            "def": "cell", 
+            "link": null, 
+            "name": "cyt(o)-, -cyte"
+        }, 
+        {
+            "def": "Of or pertaining to tears", 
+            "link": null, 
+            "name": "dacry(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to a finger, toe", 
+            "link": null, 
+            "name": "-dactyl(o)-"
+        }, 
+        {
+            "def": "from, down, or away from", 
+            "link": null, 
+            "name": "de-"
+        }, 
+        {
+            "def": "Of or pertaining to teeth", 
+            "link": null, 
+            "name": "dent-"
+        }, 
+        {
+            "def": "Of or pertaining to the skin", 
+            "link": null, 
+            "name": "dermat(o)-, derm(o)-"
+        }, 
+        {
+            "def": "binding", 
+            "link": null, 
+            "name": "-desis"
+        }, 
+        {
+            "def": "right, on the right side", 
+            "link": null, 
+            "name": "dextr(o)-"
+        }, 
+        {
+            "def": "two", 
+            "link": null, 
+            "name": "di-"
+        }, 
+        {
+            "def": "through, during, across", 
+            "link": null, 
+            "name": "dia-"
+        }, 
+        {
+            "def": "apart, separation", 
+            "link": null, 
+            "name": "dif-"
+        }, 
+        {
+            "def": "Of or pertaining to the finger [rare as a root]", 
+            "link": null, 
+            "name": "digit-"
+        }, 
+        {
+            "def": "twofold", 
+            "link": null, 
+            "name": "diplo-"
+        }, 
+        {
+            "def": "suffix meaning \"(condition of) thirst\"'", 
+            "link": null, 
+            "name": "-dipsia"
+        }, 
+        {
+            "def": "separation, taking apart", 
+            "link": null, 
+            "name": "dis-"
+        }, 
+        {
+            "def": "Of or pertaining to the back", 
+            "link": null, 
+            "name": "dors(o)-, dors(i)-"
+        }, 
+        {
+            "def": "running, conduction, course", 
+            "link": null, 
+            "name": "dromo-"
+        }, 
+        {
+            "def": "duodenum, twelve: upper part of the small intestine (twelve inches long on average), connects to the stomach", 
+            "link": null, 
+            "name": "duodeno-"
+        }, 
+        {
+            "def": "force, energy, power", 
+            "link": null, 
+            "name": "dynam(o)-"
+        }, 
+        {
+            "def": "pain", 
+            "link": null, 
+            "name": "-dynia"
+        }, 
+        {
+            "def": "bad, difficult, defective, abnormal", 
+            "link": null, 
+            "name": "dys-"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-eal"
+        }, 
+        {
+            "def": "out, away", 
+            "link": null, 
+            "name": "ec-"
+        }, 
+        {
+            "def": "outer, outside", 
+            "link": null, 
+            "name": "ect(o)-"
+        }, 
+        {
+            "def": "expansion, dilation", 
+            "link": null, 
+            "name": "-ectasia, -ectasis"
+        }, 
+        {
+            "def": "Denotes a surgical operation or removal of a body part. Resection, excision", 
+            "link": null, 
+            "name": "-ectomy"
+        }, 
+        {
+            "def": "vomiting condition", 
+            "link": null, 
+            "name": "-emesis"
+        }, 
+        {
+            "def": "blood condition (Am Engl)", 
+            "link": null, 
+            "name": "-emia"
+        }, 
+        {
+            "def": "Of or pertaining to the brain. Also see Cerebro.", 
+            "link": null, 
+            "name": "encephal(o)-"
+        }, 
+        {
+            "def": "Denotes something as 'inside' or 'within'", 
+            "link": null, 
+            "name": "endo-"
+        }, 
+        {
+            "def": "Red", 
+            "link": null, 
+            "name": "eosin(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the intestine", 
+            "link": null, 
+            "name": "enter(o)-"
+        }, 
+        {
+            "def": "on, upon", 
+            "link": null, 
+            "name": "epi-"
+        }, 
+        {
+            "def": "Of or pertaining to the pubic region, the loins", 
+            "link": null, 
+            "name": "episi(o)-"
+        }, 
+        {
+            "def": "Denotes a red color", 
+            "link": null, 
+            "name": "erythr(o)-"
+        }, 
+        {
+            "def": "gullet (AmE)", 
+            "link": null, 
+            "name": "-esophageal, -esophago-"
+        }, 
+        {
+            "def": "sensation (AmE)", 
+            "link": null, 
+            "name": "esthesio-"
+        }, 
+        {
+            "def": "true, good, well, new", 
+            "link": null, 
+            "name": "eu-"
+        }, 
+        {
+            "def": "out of, away from", 
+            "link": null, 
+            "name": "ex-"
+        }, 
+        {
+            "def": "Denotes something as 'outside' another", 
+            "link": null, 
+            "name": "exo-"
+        }, 
+        {
+            "def": "outside", 
+            "link": null, 
+            "name": "extra-"
+        }, 
+        {
+            "def": "Of or pertaining to the face", 
+            "link": null, 
+            "name": "faci(o)-"
+        }, 
+        {
+            "def": "fiber", 
+            "link": null, 
+            "name": "fibr-"
+        }, 
+        {
+            "def": "fine, hair-like", 
+            "link": null, 
+            "name": "filli-"
+        }, 
+        {
+            "def": "hole, opening, or aperature, particularly in bone", 
+            "link": null, 
+            "name": "foramen"
+        }, 
+        {
+            "def": "Used to form adjectives indicating 'having the form of'", 
+            "link": null, 
+            "name": "-form"
+        }, 
+        {
+            "def": "before or ahead", 
+            "link": null, 
+            "name": "fore-"
+        }, 
+        {
+            "def": "A hollow or depressed area; trench or channel", 
+            "link": null, 
+            "name": "fossa"
+        }, 
+        {
+            "def": "Of or pertaining to the forehead", 
+            "link": null, 
+            "name": "front-"
+        }, 
+        {
+            "def": "milk", 
+            "link": null, 
+            "name": "galact(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the stomach", 
+            "link": null, 
+            "name": "gastr(o)-"
+        }, 
+        {
+            "def": "(1) Denotes the sense 'born in, from' (2) Denotes the sense 'of a certain kind'", 
+            "link": null, 
+            "name": "-gen"
+        }, 
+        {
+            "def": "Formative, pertaining to producing", 
+            "link": null, 
+            "name": "-genic"
+        }, 
+        {
+            "def": "Of or pertaining to the knee", 
+            "link": null, 
+            "name": "genu-"
+        }, 
+        {
+            "def": "Taste", 
+            "link": null, 
+            "name": "-geusia"
+        }, 
+        {
+            "def": "Of or pertaining to the gums", 
+            "link": null, 
+            "name": "gingiv-"
+        }, 
+        {
+            "def": "Denoting a grey or bluish-grey colour", 
+            "link": null, 
+            "name": "glauc(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the tongue", 
+            "link": null, 
+            "name": "gloss(o)-, glott(o)-"
+        }, 
+        {
+            "def": "sweet", 
+            "link": null, 
+            "name": "gluco-"
+        }, 
+        {
+            "def": "sugar", 
+            "link": null, 
+            "name": "glyc(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the jaw", 
+            "link": null, 
+            "name": "gnath(o)-"
+        }, 
+        {
+            "def": "knowledge", 
+            "link": null, 
+            "name": "-gnosis"
+        }, 
+        {
+            "def": "seed, semen; also, reproductive", 
+            "link": null, 
+            "name": "gon(o)-"
+        }, 
+        {
+            "def": "record or picture", 
+            "link": null, 
+            "name": "-gram, -gramme"
+        }, 
+        {
+            "def": "instrument used to record data or picture", 
+            "link": null, 
+            "name": "-graph"
+        }, 
+        {
+            "def": "process of recording", 
+            "link": null, 
+            "name": "-graphy"
+        }, 
+        {
+            "def": "woman", 
+            "link": null, 
+            "name": "gyno-, gynaeco- (BrE), gyneco- (AmE)"
+        }, 
+        {
+            "def": "to wander in mind", 
+            "link": null, 
+            "name": "halluc-"
+        }, 
+        {
+            "def": "Of or pertaining to blood", 
+            "link": null, 
+            "name": "hemat-, haemato- (haem-, hem-)"
+        }, 
+        {
+            "def": "blood (AmE)", 
+            "link": null, 
+            "name": "hema- or hemo-"
+        }, 
+        {
+            "def": "blood vessels", 
+            "link": null, 
+            "name": "hemangi or hemangio-"
+        }, 
+        {
+            "def": "one-half", 
+            "link": null, 
+            "name": "hemi-"
+        }, 
+        {
+            "def": "Of or pertaining to the liver", 
+            "link": null, 
+            "name": "hepat- (hepatic-)"
+        }, 
+        {
+            "def": "Denotes something as 'the other' (of two), as an addition, or different", 
+            "link": null, 
+            "name": "heter(o)-"
+        }, 
+        {
+            "def": "sweat", 
+            "link": null, 
+            "name": "hidr(o)-"
+        }, 
+        {
+            "def": "tissue", 
+            "link": null, 
+            "name": "hist(o)-, histio-"
+        }, 
+        {
+            "def": "similar", 
+            "link": null, 
+            "name": "home(o)-"
+        }, 
+        {
+            "def": "Denotes something as 'the same' as another or common", 
+            "link": null, 
+            "name": "hom(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the shoulder (or [rarely] the upper arm)", 
+            "link": null, 
+            "name": "humer(o)-"
+        }, 
+        {
+            "def": "water", 
+            "link": null, 
+            "name": "hydr(o)-"
+        }, 
+        {
+            "def": "Denotes something as 'extreme' or 'beyond normal'", 
+            "link": null, 
+            "name": "hyper-"
+        }, 
+        {
+            "def": "Denotes something as 'below normal'", 
+            "link": null, 
+            "name": "hyp(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the womb, the uterus", 
+            "link": null, 
+            "name": "hyster(o)-"
+        }, 
+        {
+            "def": "condition, formation, or presence of", 
+            "link": null, 
+            "name": "-i-asis"
+        }, 
+        {
+            "def": "Of or pertaining to medicine, or a physician (uncommon as a prefix; common as a suffix, see -iatry)", 
+            "link": null, 
+            "name": "iatr(o)-"
+        }, 
+        {
+            "def": "Denotes a field in medicine of a certain body component", 
+            "link": null, 
+            "name": "-iatry"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-ic"
+        }, 
+        {
+            "def": "small", 
+            "link": null, 
+            "name": "-icle"
+        }, 
+        {
+            "def": "organized knowledge, treatment", 
+            "link": null, 
+            "name": "-ics"
+        }, 
+        {
+            "def": "self, one's own", 
+            "link": null, 
+            "name": "idio-"
+        }, 
+        {
+            "def": "ileum", 
+            "link": null, 
+            "name": "ileo-"
+        }, 
+        {
+            "def": "below", 
+            "link": null, 
+            "name": "infra-"
+        }, 
+        {
+            "def": "between, among", 
+            "link": null, 
+            "name": "inter-"
+        }, 
+        {
+            "def": "within", 
+            "link": null, 
+            "name": "intra-"
+        }, 
+        {
+            "def": "same", 
+            "link": null, 
+            "name": "ipsi-"
+        }, 
+        {
+            "def": "iris", 
+            "link": null, 
+            "name": "irid(o)-"
+        }, 
+        {
+            "def": "restriction", 
+            "link": null, 
+            "name": "isch-"
+        }, 
+        {
+            "def": "Of or pertaining to the ischium, the hip-joint", 
+            "link": null, 
+            "name": "ischio-"
+        }, 
+        {
+            "def": "condition, disease", 
+            "link": null, 
+            "name": "-ism"
+        }, 
+        {
+            "def": "spasm, contraction", 
+            "link": null, 
+            "name": "-ismus"
+        }, 
+        {
+            "def": "Denoting something as being 'equal'", 
+            "link": null, 
+            "name": "iso-"
+        }, 
+        {
+            "def": "one who specializes in", 
+            "link": null, 
+            "name": "-ist"
+        }, 
+        {
+            "def": "the nature of, resembling", 
+            "link": null, 
+            "name": "-ite"
+        }, 
+        {
+            "def": "inflammation", 
+            "link": null, 
+            "name": "-itis"
+        }, 
+        {
+            "def": "structure, tissue", 
+            "link": null, 
+            "name": "-ium"
+        }, 
+        {
+            "def": "Near to, alongside or next to", 
+            "link": null, 
+            "name": "juxta (iuxta)"
+        }, 
+        {
+            "def": "potassium", 
+            "link": null, 
+            "name": "kal-"
+        }, 
+        {
+            "def": "nucleus", 
+            "link": null, 
+            "name": "karyo-"
+        }, 
+        {
+            "def": "cornea (eye or skin)", 
+            "link": null, 
+            "name": "kerat(o)-"
+        }, 
+        {
+            "def": "movement", 
+            "link": null, 
+            "name": "kin(e)-, kin(o), kinesi(o)-"
+        }, 
+        {
+            "def": "hollow", 
+            "link": null, 
+            "name": "koil(o)-"
+        }, 
+        {
+            "def": "humped", 
+            "link": null, 
+            "name": "kyph(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the lip", 
+            "link": null, 
+            "name": "labi(o)-"
+        }, 
+        {
+            "def": "tear", 
+            "link": null, 
+            "name": "lacrim(o)-"
+        }, 
+        {
+            "def": "milk", 
+            "link": null, 
+            "name": "lact(i)-, lact(o)"
+        }, 
+        {
+            "def": "Of or pertaining to the abdomen-wall, flank", 
+            "link": null, 
+            "name": "lapar(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the larynx, the lower throat cavity where the voice box is", 
+            "link": null, 
+            "name": "laryng(o)-"
+        }, 
+        {
+            "def": "lateral", 
+            "link": null, 
+            "name": "latero-"
+        }, 
+        {
+            "def": "smooth", 
+            "link": null, 
+            "name": "lei(o)-"
+        }, 
+        {
+            "def": "attack, seizure", 
+            "link": null, 
+            "name": "-lepsis, -lepsy"
+        }, 
+        {
+            "def": "light, slender", 
+            "link": null, 
+            "name": "lept(o)-"
+        }, 
+        {
+            "def": "Denoting a white color", 
+            "link": null, 
+            "name": "leuc(o)-, leuk(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the tongue", 
+            "link": null, 
+            "name": "lingu(a)-, lingu(o)-"
+        }, 
+        {
+            "def": "fat", 
+            "link": null, 
+            "name": "lip(o)-"
+        }, 
+        {
+            "def": "stone, calculus", 
+            "link": null, 
+            "name": "lith(o)-"
+        }, 
+        {
+            "def": "speech", 
+            "link": null, 
+            "name": "log(o)-"
+        }, 
+        {
+            "def": "Denotes someone who studies a certain field: _____-logy; a specialist; one who treats", 
+            "link": null, 
+            "name": "-logist"
+        }, 
+        {
+            "def": "Denotes the academic study or practice of a certain field; The study of", 
+            "link": null, 
+            "name": "-logy"
+        }, 
+        {
+            "def": "Of or relating to the part of the trunk between the lowest ribs and the pelvis.", 
+            "link": null, 
+            "name": "lumb(o)-'''lumb(a)-"
+        }, 
+        {
+            "def": "lymph", 
+            "link": null, 
+            "name": "lymph(o)-"
+        }, 
+        {
+            "def": "dissolution", 
+            "link": null, 
+            "name": "lys(o)-, -lytic"
+        }, 
+        {
+            "def": "Destruction, separation", 
+            "link": null, 
+            "name": "-lysis"
+        }, 
+        {
+            "def": "large, long", 
+            "link": null, 
+            "name": "macr(o)-"
+        }, 
+        {
+            "def": "softening", 
+            "link": null, 
+            "name": "-malacia"
+        }, 
+        {
+            "def": "Of or pertaining to the breast", 
+            "link": null, 
+            "name": "mamm(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the nipple", 
+            "link": null, 
+            "name": "mammill(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the hand", 
+            "link": null, 
+            "name": "manu-"
+        }, 
+        {
+            "def": "Of or pertaining to the breast", 
+            "link": null, 
+            "name": "mast(o)-"
+        }, 
+        {
+            "def": "enlargement, million", 
+            "link": null, 
+            "name": "meg(a)-, megal(o)-, -megaly"
+        }, 
+        {
+            "def": "black color", 
+            "link": null, 
+            "name": "melan(o)-"
+        }, 
+        {
+            "def": "extremity", 
+            "link": null, 
+            "name": "melos"
+        }, 
+        {
+            "def": "membrane", 
+            "link": null, 
+            "name": "mening(o)-"
+        }, 
+        {
+            "def": "month, menstrual cycle", 
+            "link": null, 
+            "name": "men(o)-"
+        }, 
+        {
+            "def": "part", 
+            "link": null, 
+            "name": "mero-"
+        }, 
+        {
+            "def": "middle", 
+            "link": null, 
+            "name": "mes(o)-"
+        }, 
+        {
+            "def": "after, beyond or change", 
+            "link": null, 
+            "name": "meta-"
+        }, 
+        {
+            "def": "instrument used to measure or count", 
+            "link": null, 
+            "name": "-meter"
+        }, 
+        {
+            "def": "process of measuring", 
+            "link": null, 
+            "name": "-metry"
+        }, 
+        {
+            "def": "Pertaining to conditions or instruments of the uterus", 
+            "link": null, 
+            "name": "metr(o)-"
+        }, 
+        {
+            "def": "denoting something as small, or relating to smallness, millionth", 
+            "link": null, 
+            "name": "micro-"
+        }, 
+        {
+            "def": "thousandth", 
+            "link": null, 
+            "name": "milli-"
+        }, 
+        {
+            "def": "single", 
+            "link": null, 
+            "name": "mon(o)-"
+        }, 
+        {
+            "def": "form, shape", 
+            "link": null, 
+            "name": "morph(o)-"
+        }, 
+        {
+            "def": "muscle", 
+            "link": null, 
+            "name": "muscul(o)-"
+        }, 
+        {
+            "def": "Of or relating to muscle", 
+            "link": null, 
+            "name": "my(o)-"
+        }, 
+        {
+            "def": "fungus", 
+            "link": null, 
+            "name": "myc(o)-"
+        }, 
+        {
+            "def": "Of or relating to bone marrow or spinal cord", 
+            "link": null, 
+            "name": "myel(o)-"
+        }, 
+        {
+            "def": "Of or relating to molar teeth or lower jaw", 
+            "link": null, 
+            "name": "myl(o)-"
+        }, 
+        {
+            "def": "ten thousand", 
+            "link": null, 
+            "name": "myri-"
+        }, 
+        {
+            "def": "eardrum", 
+            "link": null, 
+            "name": "myring(o)-"
+        }, 
+        {
+            "def": "mucus", 
+            "link": null, 
+            "name": "myx(o)-"
+        }, 
+        {
+            "def": "numb, sleep", 
+            "link": null, 
+            "name": "narc(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the nose", 
+            "link": null, 
+            "name": "nas(o)-"
+        }, 
+        {
+            "def": "death", 
+            "link": null, 
+            "name": "necr(o)-"
+        }, 
+        {
+            "def": "new", 
+            "link": null, 
+            "name": "neo-"
+        }, 
+        {
+            "def": "Of or pertaining to the kidney", 
+            "link": null, 
+            "name": "nephr(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to nerves and the nervous system [Uncommon as a root: neuro- mostly always used]", 
+            "link": null, 
+            "name": "nerv-"
+        }, 
+        {
+            "def": "Of or pertaining to nerves and the nervous system", 
+            "link": null, 
+            "name": "neur(i)-, neur(o)-"
+        }, 
+        {
+            "def": "pain, injury, hurt", 
+            "link": null, 
+            "name": "noci-"
+        }, 
+        {
+            "def": "normal", 
+            "link": null, 
+            "name": "normo-"
+        }, 
+        {
+            "def": "Of or pertaining to the eye", 
+            "link": null, 
+            "name": "ocul(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to teeth", 
+            "link": null, 
+            "name": "odont(o)-"
+        }, 
+        {
+            "def": "pain", 
+            "link": null, 
+            "name": "odyn(o)-"
+        }, 
+        {
+            "def": "gullet", 
+            "link": null, 
+            "name": "-oesophageal, oesophago- (BrE)"
+        }, 
+        {
+            "def": "resemblance to", 
+            "link": null, 
+            "name": "-oid"
+        }, 
+        {
+            "def": "small or little", 
+            "link": null, 
+            "name": "ole"
+        }, 
+        {
+            "def": "Denoting something as 'having little, having few'", 
+            "link": null, 
+            "name": "olig(o)-"
+        }, 
+        {
+            "def": "shoulder", 
+            "link": null, 
+            "name": "om(o)-"
+        }, 
+        {
+            "def": "tumor, mass, fluid collection", 
+            "link": null, 
+            "name": "-oma (singular), -omata (plural)"
+        }, 
+        {
+            "def": "Of or pertaining to the navel, the umbilicus", 
+            "link": null, 
+            "name": "omphal(o)-"
+        }, 
+        {
+            "def": "tumor, bulk, volume", 
+            "link": null, 
+            "name": "onco-"
+        }, 
+        {
+            "def": "Of or pertaining to the nail (of a finger or toe)", 
+            "link": null, 
+            "name": "onych(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to an (egg), a woman's egg, the ovum", 
+            "link": null, 
+            "name": "oo-"
+        }, 
+        {
+            "def": "Of or pertaining to the woman's (ovary)", 
+            "link": null, 
+            "name": "oophor(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the (eye)", 
+            "link": null, 
+            "name": "ophthalm(o)-"
+        }, 
+        {
+            "def": "Examination or inspection", 
+            "link": null, 
+            "name": "-opsy"
+        }, 
+        {
+            "def": "Of or relating to chemical properties of the eye", 
+            "link": null, 
+            "name": "optic(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the mouth", 
+            "link": null, 
+            "name": "or(o)-"
+        }, 
+        {
+            "def": "one who", 
+            "link": null, 
+            "name": "-or"
+        }, 
+        {
+            "def": "testis", 
+            "link": null, 
+            "name": "orchi(o)-, orchid(o)-, orch(o)-"
+        }, 
+        {
+            "def": "Denoting something as straight or correct", 
+            "link": null, 
+            "name": "orth(o)-"
+        }, 
+        {
+            "def": "a condition, disease or increase", 
+            "link": null, 
+            "name": "-osis"
+        }, 
+        {
+            "def": "bony", 
+            "link": null, 
+            "name": "osse-"
+        }, 
+        {
+            "def": "bone", 
+            "link": null, 
+            "name": "ossi-"
+        }, 
+        {
+            "def": "bone", 
+            "link": null, 
+            "name": "ost(e)-, oste(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the ear", 
+            "link": null, 
+            "name": "ot(o)-"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-ous"
+        }, 
+        {
+            "def": "Of or pertaining to the ovaries", 
+            "link": null, 
+            "name": "ovari(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the eggs, the ovum", 
+            "link": null, 
+            "name": "ovo-, ovi-, ov-"
+        }, 
+        {
+            "def": "addition of oxygen", 
+            "link": null, 
+            "name": "oxo-"
+        }, 
+        {
+            "def": "sharp, acid, acute, oxygen", 
+            "link": null, 
+            "name": "oxy-"
+        }, 
+        {
+            "def": "thick", 
+            "link": null, 
+            "name": "pachy-"
+        }, 
+        {
+            "def": "Of or pertaining to the eyelid (uncommon as a root)", 
+            "link": null, 
+            "name": "palpebr-"
+        }, 
+        {
+            "def": "Denoting something as 'complete' or containing 'everything'", 
+            "link": null, 
+            "name": "pan-, pant(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the nipple (of the chest/breast)", 
+            "link": null, 
+            "name": "papill-"
+        }, 
+        {
+            "def": "Indicates papulosity, a small elevation or swelling in the skin, a pimple, swelling", 
+            "link": null, 
+            "name": "papul(o)-"
+        }, 
+        {
+            "def": "alongside of", 
+            "link": null, 
+            "name": "para-"
+        }, 
+        {
+            "def": "slight paralysis", 
+            "link": null, 
+            "name": "-paresis"
+        }, 
+        {
+            "def": "small", 
+            "link": null, 
+            "name": "parvo-"
+        }, 
+        {
+            "def": "disease", 
+            "link": null, 
+            "name": "path(o)-"
+        }, 
+        {
+            "def": "Denotes (with a negative sense) a disease, or disorder", 
+            "link": null, 
+            "name": "-pathy"
+        }, 
+        {
+            "def": "Few", 
+            "link": null, 
+            "name": "pauci-"
+        }, 
+        {
+            "def": "breast or chest", 
+            "link": null, 
+            "name": "pector-"
+        }, 
+        {
+            "def": "Of or pertaining to the foot; -footed", 
+            "link": null, 
+            "name": "ped-, -ped-, -pes"
+        }, 
+        {
+            "def": "Of or pertaining to the child", 
+            "link": null, 
+            "name": "ped-, pedo-"
+        }, 
+        {
+            "def": "hip bone", 
+            "link": null, 
+            "name": "pelv(i)-, pelv(o)-"
+        }, 
+        {
+            "def": "deficiency", 
+            "link": null, 
+            "name": "-penia"
+        }, 
+        {
+            "def": "Of or pertaining to the penis", 
+            "link": null, 
+            "name": "peo-"
+        }, 
+        {
+            "def": "Denotes something relating to digestion, or the digestive tract.", 
+            "link": null, 
+            "name": "-pepsia"
+        }, 
+        {
+            "def": "through", 
+            "link": null, 
+            "name": "per-"
+        }, 
+        {
+            "def": "Denoting something with a position 'surrounding' or 'around' another", 
+            "link": null, 
+            "name": "peri-"
+        }, 
+        {
+            "def": "fixation", 
+            "link": null, 
+            "name": "-pexy"
+        }, 
+        {
+            "def": "lens-shaped", 
+            "link": null, 
+            "name": "phaco-"
+        }, 
+        {
+            "def": "Forms terms denoting conditions relating to eating or ingestion", 
+            "link": null, 
+            "name": "-phage, -phagia"
+        }, 
+        {
+            "def": "eating, devouring", 
+            "link": null, 
+            "name": "-phago-"
+        }, 
+        {
+            "def": "Forms nouns that denote a person who 'feeds on' the first element or part of the word", 
+            "link": null, 
+            "name": "phagist-"
+        }, 
+        {
+            "def": "Forms nouns that denotes 'feeding on' the first element or part of the word", 
+            "link": null, 
+            "name": "-phagy"
+        }, 
+        {
+            "def": "phallus", 
+            "link": null, 
+            "name": "phallo-"
+        }, 
+        {
+            "def": "drug, medication", 
+            "link": null, 
+            "name": "pharmaco-"
+        }, 
+        {
+            "def": "Of or pertaining to the pharynx, the upper throat cavity", 
+            "link": null, 
+            "name": "pharyng(o)-"
+        }, 
+        {
+            "def": "attraction for", 
+            "link": null, 
+            "name": "-phil(ia)"
+        }, 
+        {
+            "def": "Of or pertaining to the (blood) veins, a vein", 
+            "link": null, 
+            "name": "phleb(o)-"
+        }, 
+        {
+            "def": "exaggerated fear, sensitivity, aversion", 
+            "link": null, 
+            "name": "-phobia"
+        }, 
+        {
+            "def": "sound", 
+            "link": null, 
+            "name": "phon(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to light or its chemical properties, now historic and used rarely. See the common root phot(o)- below.", 
+            "link": null, 
+            "name": "phos-"
+        }, 
+        {
+            "def": "Of or pertaining to light", 
+            "link": null, 
+            "name": "phot(o)-"
+        }, 
+        {
+            "def": "the mind", 
+            "link": null, 
+            "name": "phren(i)-, phren(o)-, phrenico"
+        }, 
+        {
+            "def": "to grow", 
+            "link": null, 
+            "name": "phyt-"
+        }, 
+        {
+            "def": "Pear", 
+            "link": null, 
+            "name": "piri-"
+        }, 
+        {
+            "def": "formation, development", 
+            "link": null, 
+            "name": "-plasia"
+        }, 
+        {
+            "def": "surgical repair, reconstruction", 
+            "link": null, 
+            "name": "-plasty"
+        }, 
+        {
+            "def": "paralysis", 
+            "link": null, 
+            "name": "-plegia"
+        }, 
+        {
+            "def": "more, excessive, multiple", 
+            "link": null, 
+            "name": "pleio-"
+        }, 
+        {
+            "def": "Of or pertaining to the ribs", 
+            "link": null, 
+            "name": "pleur-"
+        }, 
+        {
+            "def": "stroke or seizure", 
+            "link": null, 
+            "name": "-plexy"
+        }, 
+        {
+            "def": "air, breath, lung", 
+            "link": null, 
+            "name": "pne-, pneum-"
+        }, 
+        {
+            "def": "Of or pertaining to the foot, -footed", 
+            "link": null, 
+            "name": "pod-, -pod-, -pus"
+        }, 
+        {
+            "def": "production", 
+            "link": null, 
+            "name": "-poiesis"
+        }, 
+        {
+            "def": "Denoting a grey color", 
+            "link": null, 
+            "name": "polio-"
+        }, 
+        {
+            "def": "Denotes a 'plurality' of something", 
+            "link": null, 
+            "name": "poly-"
+        }, 
+        {
+            "def": "pore, porous", 
+            "link": null, 
+            "name": "por(o)-"
+        }, 
+        {
+            "def": "Denotes a purple color", 
+            "link": null, 
+            "name": "porphyr(o)-"
+        }, 
+        {
+            "def": "Denotes something as 'after' or 'behind' another", 
+            "link": null, 
+            "name": "post-"
+        }, 
+        {
+            "def": "Denotes something as 'before' another (in [physical] position or time)", 
+            "link": null, 
+            "name": "pre-"
+        }, 
+        {
+            "def": "old age", 
+            "link": null, 
+            "name": "presby(o)-"
+        }, 
+        {
+            "def": "Denotes something as 'first' or 'most-important'", 
+            "link": null, 
+            "name": "prim-"
+        }, 
+        {
+            "def": "Denotes something as 'before' another (in [physical] position or time)", 
+            "link": null, 
+            "name": "pro-"
+        }, 
+        {
+            "def": "anus, rectum", 
+            "link": null, 
+            "name": "proct(o)-"
+        }, 
+        {
+            "def": "face", 
+            "link": null, 
+            "name": "prosop(o)-"
+        }, 
+        {
+            "def": "Denotes something as 'first' or 'most important'", 
+            "link": null, 
+            "name": "prot(o)-"
+        }, 
+        {
+            "def": "Denotes something false or fake", 
+            "link": null, 
+            "name": "pseud(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the mind", 
+            "link": null, 
+            "name": "psych(e)-, psych(o)"
+        }, 
+        {
+            "def": "Pertaining to a wing", 
+            "link": null, 
+            "name": "pterygo-"
+        }, 
+        {
+            "def": "Itching", 
+            "link": null, 
+            "name": "psor-"
+        }, 
+        {
+            "def": "falling, drooping, downward placement, prolapse", 
+            "link": null, 
+            "name": "-ptosis"
+        }, 
+        {
+            "def": "(a spitting), spitting, hemoptysis, the spitting of blood derived from the lungs or bronchial tubes", 
+            "link": null, 
+            "name": "-ptysis"
+        }, 
+        {
+            "def": "Of or relating to the lungs", 
+            "link": null, 
+            "name": "pulmon-, pulmo-"
+        }, 
+        {
+            "def": "pelvis", 
+            "link": null, 
+            "name": "pyel(o)-"
+        }, 
+        {
+            "def": "to thicken (as the nucleus does in early stages of cell death)", 
+            "link": null, 
+            "name": "pykno-"
+        }, 
+        {
+            "def": "pus", 
+            "link": null, 
+            "name": "py(o)-"
+        }, 
+        {
+            "def": "fever", 
+            "link": null, 
+            "name": "pyr(o)-"
+        }, 
+        {
+            "def": "four", 
+            "link": null, 
+            "name": "quadr(i)-"
+        }, 
+        {
+            "def": "radiation", 
+            "link": null, 
+            "name": "radi-"
+        }, 
+        {
+            "def": "referring to the beginning, or the root, of a structure, usually a nerve or a vein", 
+            "link": null, 
+            "name": "radic-"
+        }, 
+        {
+            "def": "again, back", 
+            "link": null, 
+            "name": "re-"
+        }, 
+        {
+            "def": "rectum", 
+            "link": null, 
+            "name": "rect-"
+        }, 
+        {
+            "def": "Of or pertaining to the kidney", 
+            "link": null, 
+            "name": "ren-"
+        }, 
+        {
+            "def": "net", 
+            "link": null, 
+            "name": "reticul(o)-"
+        }, 
+        {
+            "def": "backward, behind", 
+            "link": null, 
+            "name": "retro-"
+        }, 
+        {
+            "def": "rod shaped, striated", 
+            "link": null, 
+            "name": "rhabd(o)-"
+        }, 
+        {
+            "def": "spine", 
+            "link": null, 
+            "name": "rhachi(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the nose", 
+            "link": null, 
+            "name": "rhin(o)-"
+        }, 
+        {
+            "def": "Denoting a rose-red color", 
+            "link": null, 
+            "name": "rhod(o)-"
+        }, 
+        {
+            "def": "burst forth", 
+            "link": null, 
+            "name": "-rrhage"
+        }, 
+        {
+            "def": "rapid flow of blood", 
+            "link": null, 
+            "name": "-rrhagia"
+        }, 
+        {
+            "def": "surgical suturing", 
+            "link": null, 
+            "name": "-rrhaphy"
+        }, 
+        {
+            "def": "flowing, discharge", 
+            "link": null, 
+            "name": "-rrhea (AmE)"
+        }, 
+        {
+            "def": "rupture", 
+            "link": null, 
+            "name": "-rrhexis"
+        }, 
+        {
+            "def": "flowing, discharge", 
+            "link": null, 
+            "name": "-rrhoea (BrE)"
+        }, 
+        {
+            "def": "Of or pertaining to the red nucleus of the brain", 
+            "link": null, 
+            "name": "rubr(o)-"
+        }, 
+        {
+            "def": "Break or burst", 
+            "link": null, 
+            "name": "-rupt"
+        }, 
+        {
+            "def": "Of or pertaining to tubes e.g. fallopian tubes", 
+            "link": null, 
+            "name": "salping(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to blood", 
+            "link": null, 
+            "name": "sangui-, sanguine-"
+        }, 
+        {
+            "def": "muscular, fleshlike", 
+            "link": null, 
+            "name": "sarco-"
+        }, 
+        {
+            "def": "split, cleft", 
+            "link": null, 
+            "name": "schist(o)-"
+        }, 
+        {
+            "def": "Denoting something 'split' or 'double-sided'", 
+            "link": null, 
+            "name": "schiz(o)-"
+        }, 
+        {
+            "def": "hard", 
+            "link": null, 
+            "name": "scler(o)-"
+        }, 
+        {
+            "def": "hardening", 
+            "link": null, 
+            "name": "-sclerosis"
+        }, 
+        {
+            "def": "twisted", 
+            "link": null, 
+            "name": "scoli(o)-"
+        }, 
+        {
+            "def": "instrument for viewing", 
+            "link": null, 
+            "name": "-scope"
+        }, 
+        {
+            "def": "use of instrument for viewing", 
+            "link": null, 
+            "name": "-scopy"
+        }, 
+        {
+            "def": "darkness", 
+            "link": null, 
+            "name": "scoto-"
+        }, 
+        {
+            "def": "one-half, partly", 
+            "link": null, 
+            "name": "semi-"
+        }, 
+        {
+            "def": "saliva, salivary gland", 
+            "link": null, 
+            "name": "sial(o)-"
+        }, 
+        {
+            "def": "sigmoid, S-shaped curvature", 
+            "link": null, 
+            "name": "sigmoid(o)-"
+        }, 
+        {
+            "def": "left, left side", 
+            "link": null, 
+            "name": "sinistr(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the sinus", 
+            "link": null, 
+            "name": "sinus-"
+        }, 
+        {
+            "def": "food, grain", 
+            "link": null, 
+            "name": "sito-"
+        }, 
+        {
+            "def": "body, bodily", 
+            "link": null, 
+            "name": "somat(o)-, somatico-"
+        }, 
+        {
+            "def": "slit, fissure", 
+            "link": null, 
+            "name": "-spadias"
+        }, 
+        {
+            "def": "spasm", 
+            "link": null, 
+            "name": "spasmo-"
+        }, 
+        {
+            "def": "semen, spermatozoa", 
+            "link": null, 
+            "name": "sperma-, spermo-, spermato-"
+        }, 
+        {
+            "def": "viscera", 
+            "link": null, 
+            "name": "splanchn(i)-, splanchn(o)-"
+        }, 
+        {
+            "def": "spleen", 
+            "link": null, 
+            "name": "splen(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the spine, the vertebra", 
+            "link": null, 
+            "name": "spondyl(o)-"
+        }, 
+        {
+            "def": "Denoting something as 'full of scales' or 'scaly'", 
+            "link": null, 
+            "name": "squamos(o)-"
+        }, 
+        {
+            "def": "contraction", 
+            "link": null, 
+            "name": "-stalsis"
+        }, 
+        {
+            "def": "stopping, standing", 
+            "link": null, 
+            "name": "-stasis"
+        }, 
+        {
+            "def": "dripping, trickling", 
+            "link": null, 
+            "name": "-staxis"
+        }, 
+        {
+            "def": "Denoting something as 'narrow in shape' or pertaining to narrowness", 
+            "link": null, 
+            "name": "sten(o)-"
+        }, 
+        {
+            "def": "abnormal narrowing in a blood vessel or other tubular organ or structure", 
+            "link": null, 
+            "name": "-stenosis"
+        }, 
+        {
+            "def": "Of or pertaining to the upper chest, chest, the area above the breast and under the neck", 
+            "link": null, 
+            "name": "steth(o)-"
+        }, 
+        {
+            "def": "strength, force, power", 
+            "link": null, 
+            "name": "stheno-"
+        }, 
+        {
+            "def": "mouth; an artificially created opening[4]", 
+            "link": null, 
+            "name": "stom(a)"
+        }, 
+        {
+            "def": "Of or pertaining to the mouth", 
+            "link": null, 
+            "name": "stomat(o)-"
+        }, 
+        {
+            "def": "creation of an opening", 
+            "link": null, 
+            "name": "-stomy"
+        }, 
+        {
+            "def": "beneath, under", 
+            "link": null, 
+            "name": "sub-"
+        }, 
+        {
+            "def": "in excess, above, superior", 
+            "link": null, 
+            "name": "super-"
+        }, 
+        {
+            "def": "above, excessive", 
+            "link": null, 
+            "name": "supra-"
+        }, 
+        {
+            "def": "Indicates similarity, likeness, or being together; assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.", 
+            "link": null, 
+            "name": "sy, syl-, sym-, syn-, sys-"
+        }, 
+        {
+            "def": "Denoting something as fast, irregularly fast", 
+            "link": null, 
+            "name": "tachy-"
+        }, 
+        {
+            "def": "pressure", 
+            "link": null, 
+            "name": "-tension, -tensive"
+        }, 
+        {
+            "def": "Monster", 
+            "link": null, 
+            "name": "terato-"
+        }, 
+        {
+            "def": "rigid, tense", 
+            "link": null, 
+            "name": "tetan-"
+        }, 
+        {
+            "def": "case, sheath", 
+            "link": null, 
+            "name": "thec-"
+        }, 
+        {
+            "def": "Of or pertaining to a nipple (uncommon as a prefix)", 
+            "link": null, 
+            "name": "thel-"
+        }, 
+        {
+            "def": "Denoting something as 'relating to a woman, feminine'", 
+            "link": null, 
+            "name": "thely-"
+        }, 
+        {
+            "def": "treatment", 
+            "link": null, 
+            "name": "therap-"
+        }, 
+        {
+            "def": "heat", 
+            "link": null, 
+            "name": "therm(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the upper chest, chest; the area above the breast and under the neck", 
+            "link": null, 
+            "name": "thorac(i)-, thorac(o)-, thoracico-"
+        }, 
+        {
+            "def": "Of or relating to a blood clot, clotting of blood", 
+            "link": null, 
+            "name": "thromb(o)-"
+        }, 
+        {
+            "def": "thyroid", 
+            "link": null, 
+            "name": "thyr(o)-"
+        }, 
+        {
+            "def": "emotions", 
+            "link": null, 
+            "name": "thym-"
+        }, 
+        {
+            "def": "pertaining to", 
+            "link": null, 
+            "name": "-tic"
+        }, 
+        {
+            "def": "childbirth", 
+            "link": null, 
+            "name": "toco-"
+        }, 
+        {
+            "def": "cutting instrument", 
+            "link": null, 
+            "name": "-tome"
+        }, 
+        {
+            "def": "act of cutting; incising, incision", 
+            "link": null, 
+            "name": "-tomy"
+        }, 
+        {
+            "def": "tone, tension, pressure", 
+            "link": null, 
+            "name": "ton-"
+        }, 
+        {
+            "def": "tension", 
+            "link": null, 
+            "name": "-tony"
+        }, 
+        {
+            "def": "place, topical", 
+            "link": null, 
+            "name": "top(o)-"
+        }, 
+        {
+            "def": "twisted", 
+            "link": null, 
+            "name": "tort(i)-"
+        }, 
+        {
+            "def": "toxin, poison", 
+            "link": null, 
+            "name": "tox(i)-, tox(o)-, toxic(o)-"
+        }, 
+        {
+            "def": "trachea", 
+            "link": null, 
+            "name": "trache(a)-"
+        }, 
+        {
+            "def": "Of or pertaining to the neck", 
+            "link": null, 
+            "name": "trachel(o)-"
+        }, 
+        {
+            "def": "Denoting something as moving or situated across or through", 
+            "link": null, 
+            "name": "trans-"
+        }, 
+        {
+            "def": "three", 
+            "link": null, 
+            "name": "tri-"
+        }, 
+        {
+            "def": "Of or pertaining to hair, hair-like structure", 
+            "link": null, 
+            "name": "trich(i)-, trichia, trich(o)-"
+        }, 
+        {
+            "def": "crushing", 
+            "link": null, 
+            "name": "-tripsy"
+        }, 
+        {
+            "def": "nourishment, development", 
+            "link": null, 
+            "name": "-trophy"
+        }, 
+        {
+            "def": "eardrum", 
+            "link": null, 
+            "name": "tympan(o)-"
+        }, 
+        {
+            "def": "small", 
+            "link": null, 
+            "name": "-ula, -ule"
+        }, 
+        {
+            "def": "beyond, excessive", 
+            "link": null, 
+            "name": "ultra-"
+        }, 
+        {
+            "def": "Of or pertaining to the navel, the umbilicus", 
+            "link": null, 
+            "name": "umbilic-"
+        }, 
+        {
+            "def": "Of or pertaining to the nail, a claw", 
+            "link": null, 
+            "name": "ungui-"
+        }, 
+        {
+            "def": "one", 
+            "link": null, 
+            "name": "un(i)-"
+        }, 
+        {
+            "def": "Of or pertaining to urine, the urinary system", 
+            "link": null, 
+            "name": "ur-"
+        }, 
+        {
+            "def": "uric acid", 
+            "link": null, 
+            "name": "uric-"
+        }, 
+        {
+            "def": "Of or pertaining to urine, the urinary system", 
+            "link": null, 
+            "name": "urin-"
+        }, 
+        {
+            "def": "Of or pertaining to the uterus or womb", 
+            "link": null, 
+            "name": "uter(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the vagina", 
+            "link": null, 
+            "name": "vagin-"
+        }, 
+        {
+            "def": "swollen or twisted vein", 
+            "link": null, 
+            "name": "varic(o)-"
+        }, 
+        {
+            "def": "duct, blood vessel", 
+            "link": null, 
+            "name": "vas(o)-"
+        }, 
+        {
+            "def": "blood vessel", 
+            "link": null, 
+            "name": "vasculo-"
+        }, 
+        {
+            "def": "Of or pertaining to the veins, venous blood, and the vascular system", 
+            "link": null, 
+            "name": "ven-"
+        }, 
+        {
+            "def": "Of or pertaining to the belly; the stomach cavities", 
+            "link": null, 
+            "name": "ventr(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the ventricles; any hollow region inside an organ", 
+            "link": null, 
+            "name": "ventricul(o)-"
+        }, 
+        {
+            "def": "turning", 
+            "link": null, 
+            "name": "-version"
+        }, 
+        {
+            "def": "Of or pertaining to the bladder", 
+            "link": null, 
+            "name": "vesic(o)-"
+        }, 
+        {
+            "def": "Of or pertaining to the internal organs, the viscera", 
+            "link": null, 
+            "name": "viscer(o)-"
+        }, 
+        {
+            "def": "Denoting a yellow color, an abnormally yellow color", 
+            "link": null, 
+            "name": "xanth(o)-"
+        }, 
+        {
+            "def": "Foreign, different", 
+            "link": null, 
+            "name": "xen(o)-"
+        }, 
+        {
+            "def": "dry, desert-like", 
+            "link": null, 
+            "name": "xer(o)-"
+        }, 
+        {
+            "def": "sword", 
+            "link": null, 
+            "name": "xiph-"
+        }, 
+        {
+            "def": "condition or process of", 
+            "link": null, 
+            "name": "-y"
+        }, 
+        {
+            "def": "animal, animal life", 
+            "link": null, 
+            "name": "zo(o)-"
+        }, 
+        {
+            "def": "fermentation", 
+            "link": null, 
+            "name": "zym(o)-"
+        }, 
+        {
+            "def": "-pepsia", 
+            "link": null, 
+            "name": "Digestion"
+        }, 
+        {
+            "def": "-pathy", 
+            "link": null, 
+            "name": "Disease"
+        }, 
+        {
+            "def": "-phagia", 
+            "link": null, 
+            "name": "Eating"
+        }, 
+        {
+            "def": "lapar-", 
+            "link": null, 
+            "name": "abdomen"
+        }, 
+        {
+            "def": "aort(o)-", 
+            "link": null, 
+            "name": "aorta"
+        }, 
+        {
+            "def": "brachi-", 
+            "link": null, 
+            "name": "arm"
+        }, 
+        {
+            "def": "maschal-", 
+            "link": null, 
+            "name": "armpit"
+        }, 
+        {
+            "def": "arteri-", 
+            "link": null, 
+            "name": "artery"
+        }, 
+        {
+            "def": "not-", 
+            "link": null, 
+            "name": "back"
+        }, 
+        {
+            "def": "\u2013", 
+            "link": null, 
+            "name": "big toe"
+        }, 
+        {
+            "def": "cyst-", 
+            "link": null, 
+            "name": "bladder"
+        }, 
+        {
+            "def": "haemat-, hemat- (haem-, hem-)", 
+            "link": null, 
+            "name": "blood"
+        }, 
+        {
+            "def": "thromb-", 
+            "link": null, 
+            "name": "blood clot"
+        }, 
+        {
+            "def": "angi-", 
+            "link": null, 
+            "name": "blood vessel"
+        }, 
+        {
+            "def": "somat-, som-", 
+            "link": null, 
+            "name": "body"
+        }, 
+        {
+            "def": "oste-", 
+            "link": null, 
+            "name": "bone"
+        }, 
+        {
+            "def": "myel-", 
+            "link": null, 
+            "name": "bone marrow, marrow"
+        }, 
+        {
+            "def": "encephal(o)-", 
+            "link": null, 
+            "name": "brain"
+        }, 
+        {
+            "def": "mast-", 
+            "link": null, 
+            "name": "breast"
+        }, 
+        {
+            "def": "steth-", 
+            "link": null, 
+            "name": "chest"
+        }, 
+        {
+            "def": "parei-", 
+            "link": null, 
+            "name": "cheek"
+        }, 
+        {
+            "def": "ot(o)-", 
+            "link": null, 
+            "name": "ear"
+        }, 
+        {
+            "def": "oo-", 
+            "link": null, 
+            "name": "eggs, ova"
+        }, 
+        {
+            "def": "ophthalm(o)-", 
+            "link": null, 
+            "name": "eye"
+        }, 
+        {
+            "def": "blephar(o)-", 
+            "link": null, 
+            "name": "eyelid"
+        }, 
+        {
+            "def": "prosop(o)-", 
+            "link": null, 
+            "name": "face"
+        }, 
+        {
+            "def": "salping(o)-", 
+            "link": null, 
+            "name": "fallopian tubes"
+        }, 
+        {
+            "def": "lip(o)-", 
+            "link": null, 
+            "name": "fat, fatty tissue"
+        }, 
+        {
+            "def": "dactyl(o)-", 
+            "link": null, 
+            "name": "finger"
+        }, 
+        {
+            "def": "-", 
+            "link": null, 
+            "name": "forehead"
+        }, 
+        {
+            "def": "cholecyst(o)-", 
+            "link": null, 
+            "name": "gallbladder"
+        }, 
+        {
+            "def": "gon(o)-, phall(o)-", 
+            "link": null, 
+            "name": "genitals, sexually undifferentiated"
+        }, 
+        {
+            "def": "aden(o)-", 
+            "link": null, 
+            "name": "gland"
+        }, 
+        {
+            "def": "balan(o)-", 
+            "link": null, 
+            "name": "glans penis or clitoridis"
+        }, 
+        {
+            "def": "-", 
+            "link": null, 
+            "name": "gums"
+        }, 
+        {
+            "def": "trich(o)-", 
+            "link": null, 
+            "name": "hair"
+        }, 
+        {
+            "def": "cheir(o)-, chir(o)-", 
+            "link": null, 
+            "name": "hand"
+        }, 
+        {
+            "def": "cephal(o)-", 
+            "link": null, 
+            "name": "head"
+        }, 
+        {
+            "def": "cardi(o)-", 
+            "link": null, 
+            "name": "heart"
+        }, 
+        {
+            "def": "-", 
+            "link": null, 
+            "name": "hip, hip-joint"
+        }, 
+        {
+            "def": "cerat(o)-", 
+            "link": null, 
+            "name": "horn"
+        }, 
+        {
+            "def": "enter(o)-", 
+            "link": null, 
+            "name": "intestine"
+        }, 
+        {
+            "def": "gnath(o)-", 
+            "link": null, 
+            "name": "jaw"
+        }, 
+        {
+            "def": "nephr(o)-", 
+            "link": null, 
+            "name": "kidney"
+        }, 
+        {
+            "def": "gon-", 
+            "link": null, 
+            "name": "knee"
+        }, 
+        {
+            "def": "cheil(o)-, chil(o)-", 
+            "link": null, 
+            "name": "lip"
+        }, 
+        {
+            "def": "hepat(o)-, (hepatic-)", 
+            "link": null, 
+            "name": "liver"
+        }, 
+        {
+            "def": "episi(o)-", 
+            "link": null, 
+            "name": "loins, pubic region"
+        }, 
+        {
+            "def": "pneumon-", 
+            "link": null, 
+            "name": "lungs"
+        }, 
+        {
+            "def": "myel(o)-", 
+            "link": null, 
+            "name": "marrow, bone marrow"
+        }, 
+        {
+            "def": "psych-", 
+            "link": null, 
+            "name": "mind"
+        }, 
+        {
+            "def": "stomat(o)-", 
+            "link": null, 
+            "name": "mouth"
+        }, 
+        {
+            "def": "my(o)-", 
+            "link": null, 
+            "name": "muscle"
+        }, 
+        {
+            "def": "onych(o)-", 
+            "link": null, 
+            "name": "nail"
+        }, 
+        {
+            "def": "omphal(o)-", 
+            "link": null, 
+            "name": "navel"
+        }, 
+        {
+            "def": "trachel(o)-", 
+            "link": null, 
+            "name": "neck"
+        }, 
+        {
+            "def": "neur(o)-", 
+            "link": null, 
+            "name": "nerve; the nervous system"
+        }, 
+        {
+            "def": "thele-", 
+            "link": null, 
+            "name": "nipple, teat"
+        }, 
+        {
+            "def": "rhin(o)-", 
+            "link": null, 
+            "name": "nose"
+        }, 
+        {
+            "def": "oophor(o)-", 
+            "link": null, 
+            "name": "ovary"
+        }, 
+        {
+            "def": "pyel(o)-", 
+            "link": null, 
+            "name": "pelvis"
+        }, 
+        {
+            "def": "pe(o)-", 
+            "link": null, 
+            "name": "penis"
+        }, 
+        {
+            "def": "cor-, core-, coro-", 
+            "link": null, 
+            "name": "pupil (of the eye)"
+        }, 
+        {
+            "def": "pleur(o)-", 
+            "link": null, 
+            "name": "rib"
+        }, 
+        {
+            "def": "thorac(i)-, thorac(o)-", 
+            "link": null, 
+            "name": "rib cage"
+        }, 
+        {
+            "def": "om(o)-", 
+            "link": null, 
+            "name": "shoulder"
+        }, 
+        {
+            "def": "-", 
+            "link": null, 
+            "name": "sinus"
+        }, 
+        {
+            "def": "dermat(o)-, (derm-)", 
+            "link": null, 
+            "name": "skin"
+        }, 
+        {
+            "def": "crani(o)-", 
+            "link": null, 
+            "name": "skull"
+        }, 
+        {
+            "def": "gastr(o)-", 
+            "link": null, 
+            "name": "stomach"
+        }, 
+        {
+            "def": "orchi(o)-, orchid(o)-", 
+            "link": null, 
+            "name": "testis"
+        }, 
+        {
+            "def": "pharyng(o)-", 
+            "link": null, 
+            "name": "throat (upper throat cavity)"
+        }, 
+        {
+            "def": "laryng(o)-", 
+            "link": null, 
+            "name": "throat (lower throat cavity/voice box])"
+        }, 
+        {
+            "def": "-", 
+            "link": null, 
+            "name": "thumb"
+        }, 
+        {
+            "def": "odont(o)-", 
+            "link": null, 
+            "name": "tooth"
+        }, 
+        {
+            "def": "gloss-, glott-", 
+            "link": null, 
+            "name": "tongue"
+        }, 
+        {
+            "def": "dactyl(o)-", 
+            "link": null, 
+            "name": "toe"
+        }, 
+        {
+            "def": "cel-, onc(o)-", 
+            "link": null, 
+            "name": "tumour"
+        }, 
+        {
+            "def": "ureter(o)-", 
+            "link": null, 
+            "name": "ureter"
+        }, 
+        {
+            "def": "urethr(o)-, urethr(a)-", 
+            "link": null, 
+            "name": "urethra"
+        }, 
+        {
+            "def": "ur(o)-", 
+            "link": null, 
+            "name": "urine, urinary system"
+        }, 
+        {
+            "def": "salping(o)-", 
+            "link": null, 
+            "name": "uterine tubes"
+        }, 
+        {
+            "def": "hyster(o)-, metr(o)-", 
+            "link": null, 
+            "name": "uterus"
+        }, 
+        {
+            "def": "colp(o)-", 
+            "link": null, 
+            "name": "vagina"
+        }, 
+        {
+            "def": "phleb(o)-", 
+            "link": null, 
+            "name": "vein"
+        }, 
+        {
+            "def": "episi(o)-", 
+            "link": null, 
+            "name": "vulva"
+        }, 
+        {
+            "def": "hyster(o)-, metr(o)-", 
+            "link": null, 
+            "name": "womb"
+        }, 
+        {
+            "def": "carp(o)-", 
+            "link": null, 
+            "name": "wrist"
+        }, 
+        {
+            "def": "melan-", 
+            "link": null, 
+            "name": "black"
+        }, 
+        {
+            "def": "cyan-", 
+            "link": null, 
+            "name": "blue"
+        }, 
+        {
+            "def": "poli-", 
+            "link": null, 
+            "name": "gray, grey"
+        }, 
+        {
+            "def": "chlor-", 
+            "link": null, 
+            "name": "green"
+        }, 
+        {
+            "def": "porphyr(o)-", 
+            "link": null, 
+            "name": "purple"
+        }, 
+        {
+            "def": "erythr(o)-, rhod(o)-", 
+            "link": null, 
+            "name": "red"
+        }, 
+        {
+            "def": "cirrh(o)-", 
+            "link": null, 
+            "name": "red-orange"
+        }, 
+        {
+            "def": "leuc-, leuk-", 
+            "link": null, 
+            "name": "white"
+        }, 
+        {
+            "def": "xanth-", 
+            "link": null, 
+            "name": "yellow"
+        }, 
+        {
+            "def": "cac(o)-, dys-", 
+            "link": null, 
+            "name": "bad, incorrect"
+        }, 
+        {
+            "def": "ankyl(o)-", 
+            "link": null, 
+            "name": "bent, crooked"
+        }, 
+        {
+            "def": "mega-, megal(o)-", 
+            "link": null, 
+            "name": "big"
+        }, 
+        {
+            "def": "megist-", 
+            "link": null, 
+            "name": "biggest"
+        }, 
+        {
+            "def": "eury-", 
+            "link": null, 
+            "name": "broad, wide"
+        }, 
+        {
+            "def": "cry(o)-", 
+            "link": null, 
+            "name": "cold"
+        }, 
+        {
+            "def": "necr(o)-", 
+            "link": null, 
+            "name": "dead"
+        }, 
+        {
+            "def": "is(o)-", 
+            "link": null, 
+            "name": "equal"
+        }, 
+        {
+            "def": "pseud(o)-", 
+            "link": null, 
+            "name": "false"
+        }, 
+        {
+            "def": "thely-", 
+            "link": null, 
+            "name": "female, feminine"
+        }, 
+        {
+            "def": "platy-", 
+            "link": null, 
+            "name": "flat"
+        }, 
+        {
+            "def": "eu-", 
+            "link": null, 
+            "name": "good, well"
+        }, 
+        {
+            "def": "mega-, megal(o)-", 
+            "link": null, 
+            "name": "great"
+        }, 
+        {
+            "def": "scler(o)-", 
+            "link": null, 
+            "name": "hard"
+        }, 
+        {
+            "def": "bar(o)-", 
+            "link": null, 
+            "name": "heavy"
+        }, 
+        {
+            "def": "coel(o)-", 
+            "link": null, 
+            "name": "hollow"
+        }, 
+        {
+            "def": "megal(o)-", 
+            "link": null, 
+            "name": "huge"
+        }, 
+        {
+            "def": "cac(o)-, dys-", 
+            "link": null, 
+            "name": "incorrect, bad"
+        }, 
+        {
+            "def": "poikil(o)", 
+            "link": null, 
+            "name": "irregular"
+        }, 
+        {
+            "def": "mega-", 
+            "link": null, 
+            "name": "large; extremely large"
+        }, 
+        {
+            "def": "megist-", 
+            "link": null, 
+            "name": "largest"
+        }, 
+        {
+            "def": "macr(o)-", 
+            "link": null, 
+            "name": "long"
+        }, 
+        {
+            "def": "arseno-", 
+            "link": null, 
+            "name": "male, masculine"
+        }, 
+        {
+            "def": "sten(o)-", 
+            "link": null, 
+            "name": "narrow"
+        }, 
+        {
+            "def": "ne(o)-", 
+            "link": null, 
+            "name": "new"
+        }, 
+        {
+            "def": "orth(o)-", 
+            "link": null, 
+            "name": "normal, correct"
+        }, 
+        {
+            "def": "paleo-", 
+            "link": null, 
+            "name": "old"
+        }, 
+        {
+            "def": "oxy-", 
+            "link": null, 
+            "name": "sharp"
+        }, 
+        {
+            "def": "brachy-", 
+            "link": null, 
+            "name": "short"
+        }, 
+        {
+            "def": "micr(o)-", 
+            "link": null, 
+            "name": "small"
+        }, 
+        {
+            "def": "-", 
+            "link": null, 
+            "name": "smallest"
+        }, 
+        {
+            "def": "brady-", 
+            "link": null, 
+            "name": "slow"
+        }, 
+        {
+            "def": "tachy-", 
+            "link": null, 
+            "name": "fast"
+        }, 
+        {
+            "def": "malac(o)-", 
+            "link": null, 
+            "name": "soft"
+        }, 
+        {
+            "def": "orth(o)-", 
+            "link": null, 
+            "name": "straight"
+        }, 
+        {
+            "def": "pachy-", 
+            "link": null, 
+            "name": "thick"
+        }, 
+        {
+            "def": "poikilo-", 
+            "link": null, 
+            "name": "varied, various"
+        }, 
+        {
+            "def": "eu-", 
+            "link": null, 
+            "name": "well, good"
+        }, 
+        {
+            "def": "eury-", 
+            "link": null, 
+            "name": "wide, broad"
+        }, 
+        {
+            "def": "peri-", 
+            "link": null, 
+            "name": "around"
+        }, 
+        {
+            "def": "levo-", 
+            "link": null, 
+            "name": "left"
+        }, 
+        {
+            "def": "mes(o)-", 
+            "link": null, 
+            "name": "middle"
+        }, 
+        {
+            "def": "dexi(o)-", 
+            "link": null, 
+            "name": "right"
+        }, 
+        {
+            "def": "peri-", 
+            "link": null, 
+            "name": "surrounding"
+        }, 
+        {
+            "def": "diplo-", 
+            "link": null, 
+            "name": "double"
+        }, 
+        {
+            "def": "oligo-", 
+            "link": null, 
+            "name": "few"
+        }, 
+        {
+            "def": "hemi-", 
+            "link": null, 
+            "name": "half"
+        }, 
+        {
+            "def": "poly-", 
+            "link": null, 
+            "name": "many, much"
+        }, 
+        {
+            "def": "dis-", 
+            "link": null, 
+            "name": "twice"
+        }
+    ]
+}

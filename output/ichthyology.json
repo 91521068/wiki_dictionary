@@ -1,0 +1,1327 @@
+{
+    "c1": "", 
+    "c2": "Biology", 
+    "c3": "ichthyology", 
+    "words": [
+        {
+            "def": "belly", 
+            "link": null, 
+            "name": "Abdomen"
+        }, 
+        {
+            "def": "pertaining to the belly", 
+            "link": null, 
+            "name": "Abdominal"
+        }, 
+        {
+            "def": "a series of bones at the base of the pectoral rays.", 
+            "link": null, 
+            "name": "Actinosts"
+        }, 
+        {
+            "def": "tapering gradually to a point", 
+            "link": null, 
+            "name": "Acuminate"
+        }, 
+        {
+            "def": "sharp, pointed", 
+            "link": null, 
+            "name": "Acute"
+        }, 
+        {
+            "def": "a small fleshy fin which lacks fin rays.", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Adipose fin"
+        }, 
+        {
+            "def": "joined together", 
+            "link": null, 
+            "name": "Adnate"
+        }, 
+        {
+            "def": "pressed against the body", 
+            "link": null, 
+            "name": "Adpressed"
+        }, 
+        {
+            "def": "the fin on the median line behind the vent", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Anal fin"
+        }, 
+        {
+            "def": "the most anterior point of the anal fin base", 
+            "link": null, 
+            "name": "Anal fin origin"
+        }, 
+        {
+            "def": "a modification of the anal fin of males of certain live-bearing species in the family Goodeidae. It is used to transfer reproductive products to the female during mating.", 
+            "link": "/wiki/Andropodium", 
+            "name": "Andropodium"
+        }, 
+        {
+            "def": "grown firmly together", 
+            "link": null, 
+            "name": "Ankylosed"
+        }, 
+        {
+            "def": "relating to the front portion", 
+            "link": null, 
+            "name": "Anterior"
+        }, 
+        {
+            "def": "turned forward", 
+            "link": null, 
+            "name": "Antrose"
+        }, 
+        {
+            "def": "placed close together", 
+            "link": null, 
+            "name": "Approximate"
+        }, 
+        {
+            "def": "roughness of surface", 
+            "link": null, 
+            "name": "Asperity"
+        }, 
+        {
+            "def": "without symmetry", 
+            "link": null, 
+            "name": "Asymmetrical"
+        }, 
+        {
+            "def": "tapering to a point, usually in reference to a tail", 
+            "link": null, 
+            "name": "Attenuate"
+        }, 
+        {
+            "def": "pertaining to the axilla or upper angle of the pectoral fin", 
+            "link": null, 
+            "name": "Axillary"
+        }, 
+        {
+            "def": "an enlarged, pointed scale projecting from the insertion of the pectoral or pelvic fin.)", 
+            "link": null, 
+            "name": "Axillary process"
+        }, 
+        {
+            "def": "an elongated fleshy projection, usually about the head", 
+            "link": "/wiki/Barbel_(anatomy)", 
+            "name": "Barbel"
+        }, 
+        {
+            "def": "pertaining to the base, at the base", 
+            "link": null, 
+            "name": "Basal"
+        }, 
+        {
+            "def": "the part of a projection, (commonly a fin), which is connected to the body", 
+            "link": null, 
+            "name": "Base"
+        }, 
+        {
+            "def": "living at a depth between 1000 m and 4000 m, but well off the bottom", 
+            "link": "/wiki/Pelagic_zone", 
+            "name": "Bathypelagic"
+        }, 
+        {
+            "def": "bottom-dwelling, living on the sea bed", 
+            "link": "/wiki/Benthic_zone", 
+            "name": "Benthic"
+        }, 
+        {
+            "def": "pertaining to fishes that swim just above the seabed at depths below about 200 m (the edge of the continental shelf)", 
+            "link": null, 
+            "name": "Benthopelagic"
+        }, 
+        {
+            "def": "having two cusps or points", 
+            "link": null, 
+            "name": "Bicuspid"
+        }, 
+        {
+            "def": "cleft in two", 
+            "link": null, 
+            "name": "Bifid"
+        }, 
+        {
+            "def": "forked, or divided into two parts or branches", 
+            "link": null, 
+            "name": "Bifurcate"
+        }, 
+        {
+            "def": "pertaining to the gills", 
+            "link": null, 
+            "name": "Branchial"
+        }, 
+        {
+            "def": "the gill opening", 
+            "link": null, 
+            "name": "Branchial aperture"
+        }, 
+        {
+            "def": "The membrane connecting the branchiostegal rays and enclosing the gill chamber ventrally.", 
+            "link": null, 
+            "name": "Branchiostegal membrane"
+        }, 
+        {
+            "def": "bony rays supporting the gill membranes behind the lower jaw", 
+            "link": null, 
+            "name": "Branchiostegals, Branchiostegal ray(s)"
+        }, 
+        {
+            "def": "a stiff hair-like projection", 
+            "link": null, 
+            "name": "Bristle"
+        }, 
+        {
+            "def": "a bony shield", 
+            "link": null, 
+            "name": "Buckler"
+        }, 
+        {
+            "def": "species other than the target species that are caught incidentally in a trawl", 
+            "link": null, 
+            "name": "Bycatch"
+        }, 
+        {
+            "def": "shaped like a canine tooth, conical in form", 
+            "link": null, 
+            "name": "Caniniform"
+        }, 
+        {
+            "def": "a horny or bony covering encasing the body", 
+            "link": null, 
+            "name": "Carapace"
+        }, 
+        {
+            "def": "small set conical outgrowths in a close set patch or band; usually refers to a band of close set small conical teeth", 
+            "link": null, 
+            "name": "Cardiform"
+        }, 
+        {
+            "def": "keeled, having a ridge along the middle line", 
+            "link": null, 
+            "name": "Carinate"
+        }, 
+        {
+            "def": "a fleshy outgrowth", 
+            "link": null, 
+            "name": "Caruncle"
+        }, 
+        {
+            "def": "pertaining to the tail", 
+            "link": null, 
+            "name": "Caudal"
+        }, 
+        {
+            "def": "the tail fin", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Caudal fin"
+        }, 
+        {
+            "def": "the region of the body between the end of the anal fin and the base of the caudal fin", 
+            "link": "/wiki/Fish_anatomy", 
+            "name": "Caudal peduncle"
+        }, 
+        {
+            "def": "fringed with eyelash-like projections", 
+            "link": null, 
+            "name": "Ciliated"
+        }, 
+        {
+            "def": "small, thin appendages, often subdivided into branches.", 
+            "link": null, 
+            "name": "Cirri"
+        }, 
+        {
+            "def": "singular of cirri (see above)", 
+            "link": null, 
+            "name": "Cirrus"
+        }, 
+        {
+            "def": "the external reproductive organs of male sharks, rays and chimaeras", 
+            "link": "/wiki/Fish_anatomy#Internal_fertilization", 
+            "name": "Claspers"
+        }, 
+        {
+            "def": "grown together", 
+            "link": null, 
+            "name": "Coalesced"
+        }, 
+        {
+            "def": "flattened laterally", 
+            "link": null, 
+            "name": "Compressed"
+        }, 
+        {
+            "def": "joined together", 
+            "link": null, 
+            "name": "Confluent"
+        }, 
+        {
+            "def": "cone shaped, with a cylindrical base and a pointed tip", 
+            "link": null, 
+            "name": "Conical"
+        }, 
+        {
+            "def": "a scaly covering behind the pectorals of some fishes", 
+            "link": null, 
+            "name": "Corselet"
+        }, 
+        {
+            "def": "body colouration which is dark above and lighter below", 
+            "link": "/wiki/Countershading", 
+            "name": "Countershading"
+        }, 
+        {
+            "def": "having the edge slightly scalloped", 
+            "link": null, 
+            "name": "Crenulate"
+        }, 
+        {
+            "def": "pertaining to the skin", 
+            "link": null, 
+            "name": "Cutaneous"
+        }, 
+        {
+            "def": "rough-edged scale", 
+            "link": "/wiki/Ctenoid_scale", 
+            "name": "Ctenoid scale"
+        }, 
+        {
+            "def": "smooth-edged scale", 
+            "link": "/wiki/Cycloid_scale", 
+            "name": "Cycloid scale"
+        }, 
+        {
+            "def": "temporary, falling off", 
+            "link": null, 
+            "name": "Deciduous"
+        }, 
+        {
+            "def": "living on or near the sea bed", 
+            "link": null, 
+            "name": "Demersal"
+        }, 
+        {
+            "def": "resembling a tree or shrub", 
+            "link": null, 
+            "name": "Dendritic"
+        }, 
+        {
+            "def": "the \"unfolding\" of a protein resulting in a lessening of its biological properties. In the case of some fish toxins, denaturing with hot water can lessen painful symptoms.", 
+            "link": null, 
+            "name": "Denature"
+        }, 
+        {
+            "def": "with tooth-like projections", 
+            "link": null, 
+            "name": "Dentate"
+        }, 
+        {
+            "def": "a little tooth, having an edge with small projecting teeth, the placoid scales of cartilaginous fishes", 
+            "link": null, 
+            "name": "Denticle, denticulate"
+        }, 
+        {
+            "def": "flattened from top to bottom", 
+            "link": null, 
+            "name": "Depressed"
+        }, 
+        {
+            "def": "pertaining to the skin", 
+            "link": null, 
+            "name": "Dermal"
+        }, 
+        {
+            "def": "a fold of loose skin", 
+            "link": null, 
+            "name": "Dewlap"
+        }, 
+        {
+            "def": "the flattened head and body of various fishes such as stingrays, which also commonly includes the pectoral and ventral fins", 
+            "link": null, 
+            "name": "Disc"
+        }, 
+        {
+            "def": "remote from the point of attachment", 
+            "link": null, 
+            "name": "Distal"
+        }, 
+        {
+            "def": "pertaining to the back", 
+            "link": null, 
+            "name": "Dorsal"
+        }, 
+        {
+            "def": "the upper (dorsal) surface of the head or body", 
+            "link": null, 
+            "name": "Dorsum"
+        }, 
+        {
+            "def": "the fin on a fish's back", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Dorsal fin"
+        }, 
+        {
+            "def": "the most anterior point of the dorsal fin base", 
+            "link": null, 
+            "name": "Dorsal fin origin"
+        }, 
+        {
+            "def": "cartilaginous fishes - sharks, rays and allies", 
+            "link": null, 
+            "name": "Elasmobranchs"
+        }, 
+        {
+            "def": "a cell that generates electricity", 
+            "link": null, 
+            "name": "Electrocyte"
+        }, 
+        {
+            "def": "extended, drawn out", 
+            "link": null, 
+            "name": "Elongate"
+        }, 
+        {
+            "def": "with the margin slightly hollowed", 
+            "link": null, 
+            "name": "Emarginate"
+        }, 
+        {
+            "def": "restricted to a particular region, for example endemic to Australia", 
+            "link": null, 
+            "name": "Endemic"
+        }, 
+        {
+            "def": "with a smooth margin", 
+            "link": null, 
+            "name": "Entire"
+        }, 
+        {
+            "def": "referring to organisms living on the bottom surface", 
+            "link": null, 
+            "name": "Epibenthic"
+        }, 
+        {
+            "def": "referring to organisms living in the region between the surface and 200 m depth", 
+            "link": "/wiki/Pelagic_zone", 
+            "name": "Epipelagic"
+        }, 
+        {
+            "def": "capable of being raised or erected, often referring to spines", 
+            "link": null, 
+            "name": "Erectile"
+        }, 
+        {
+            "def": "the lure or \"bait\" on the end of the illicium of some anglerfishes and relatives", 
+            "link": "/wiki/Anglerfish", 
+            "name": "Esca"
+        }, 
+        {
+            "def": "living in estuaries", 
+            "link": null, 
+            "name": "Estuarine"
+        }, 
+        {
+            "def": "scythe-shaped, long, narrow, and curved", 
+            "link": null, 
+            "name": "Falcate"
+        }, 
+        {
+            "def": "curved like a scythe", 
+            "link": null, 
+            "name": "Falciform"
+        }, 
+        {
+            "def": "a slender or thread-like structure", 
+            "link": null, 
+            "name": "Filament"
+        }, 
+        {
+            "def": "thread-like", 
+            "link": null, 
+            "name": "Filiform"
+        }, 
+        {
+            "def": "fringed at the margin", 
+            "link": null, 
+            "name": "Fimbriate"
+        }, 
+        {
+            "def": "embryonic tissue which develops into a fin", 
+            "link": null, 
+            "name": "Finfold"
+        }, 
+        {
+            "def": "a small fin, positioned behind the dorsal or anal fins, that is supported by a ray or rays", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Finlet"
+        }, 
+        {
+            "def": "living in rivers", 
+            "link": null, 
+            "name": "Fluviatile"
+        }, 
+        {
+            "def": "the posterior tip of the fin that is closest to the most posterior point of the fin base", 
+            "link": null, 
+            "name": "Free rear tips (of fins)"
+        }, 
+        {
+            "def": "a ridge running along the top of the head along the midline", 
+            "link": null, 
+            "name": "Frontal ridge"
+        }, 
+        {
+            "def": "forked", 
+            "link": null, 
+            "name": "Furcate"
+        }, 
+        {
+            "def": "tapering towards both ends", 
+            "link": null, 
+            "name": "Fusiform"
+        }, 
+        {
+            "def": "Armor-like scales coated with ganoin found in gars and bichirs.", 
+            "link": "/wiki/Ganoid_scale", 
+            "name": "Ganoid scales"
+        }, 
+        {
+            "def": "a small, fleshy tube behind the anus in some fishes, from which the sperm or eggs are released; the sex of a fish often can be determined by the shape of its papilla.", 
+            "link": "/wiki/Genital_papilla", 
+            "name": "Genital papilla"
+        }, 
+        {
+            "def": "the bony arches to which the gills are attached", 
+            "link": null, 
+            "name": "Gill arches"
+        }, 
+        {
+            "def": "or bony flap that covers the gills, the operculum", 
+            "link": null, 
+            "name": "Gill cover"
+        }, 
+        {
+            "def": "a series of projections along the posterior edge of the gill arch, the site of gas exchange", 
+            "link": null, 
+            "name": "Gill filaments"
+        }, 
+        {
+            "def": "membranes covering the gill openings, attached to the branchiostegals", 
+            "link": null, 
+            "name": "Gill membranes"
+        }, 
+        {
+            "def": "opening behind each operculum, leading to the gills", 
+            "link": null, 
+            "name": "Gill opening"
+        }, 
+        {
+            "def": "a series of appendages along the anterior edges of the gill arches", 
+            "link": null, 
+            "name": "Gill rakers"
+        }, 
+        {
+            "def": "organs for breathing the oxygen contained in water, and for excreting carbon dioxide from the blood", 
+            "link": "/wiki/Gill", 
+            "name": "Gills, Branchiae"
+        }, 
+        {
+            "def": "the tongue bone", 
+            "link": null, 
+            "name": "Glossohyal"
+        }, 
+        {
+            "def": "a modification of the anal fin of males of certain live-bearing species in the families Anablepidae and Poeciliidae. It is used to transfer reproductive products to the female during mating.", 
+            "link": "/wiki/Gonopodium", 
+            "name": "Gonopodium"
+        }, 
+        {
+            "def": "Sexually ripe", 
+            "link": null, 
+            "name": "Gravid"
+        }, 
+        {
+            "def": "pertaining to the region behind the chin and between the sides of the lower jaw", 
+            "link": null, 
+            "name": "Gular region"
+        }, 
+        {
+            "def": "the distance from the tip of the snout (or upper lip) to the most posterior point of the opercular margin", 
+            "link": null, 
+            "name": "Head length"
+        }, 
+        {
+            "def": "not symmetric (sharks)", 
+            "link": null, 
+            "name": "Heterocercal fin"
+        }, 
+        {
+            "def": "symmetric", 
+            "link": null, 
+            "name": "Homocercal fin"
+        }, 
+        {
+            "def": "similarity of features based on common evolutionary descent", 
+            "link": "/wiki/Homology_(biology)", 
+            "name": "Homology"
+        }, 
+        {
+            "def": "a condition resulting in enlargement of areas of bone.", 
+            "link": null, 
+            "name": "Hyperostosis"
+        }, 
+        {
+            "def": "translucent or transparent", 
+            "link": null, 
+            "name": "Hyaline"
+        }, 
+        {
+            "def": "the joint between the caudal fin and the last of the vertebrae", 
+            "link": null, 
+            "name": "Hypural joint"
+        }, 
+        {
+            "def": "the flattened bony plate at the posterior end of the vertebral column, formed from parts of the posterior vertebrae.", 
+            "link": null, 
+            "name": "Hypural plate"
+        }, 
+        {
+            "def": "fish eggs and larvae", 
+            "link": null, 
+            "name": "Ichthyoplankton"
+        }, 
+        {
+            "def": "a \"fishing rod-like\" appendage on the head, usually a modified dorsal fin spine", 
+            "link": "/wiki/Anglerfish", 
+            "name": "Illicium"
+        }, 
+        {
+            "def": "overlapping, like the shingles on a roof", 
+            "link": null, 
+            "name": "Imbricate"
+        }, 
+        {
+            "def": "with a notched margin (often referring to fin membranes)", 
+            "link": null, 
+            "name": "Incised"
+        }, 
+        {
+            "def": "the front or cutting teeth", 
+            "link": null, 
+            "name": "Incisors"
+        }, 
+        {
+            "def": "pertaining to the lower side (usually of the head)", 
+            "link": null, 
+            "name": "Inferior"
+        }, 
+        {
+            "def": "between the dorsal fins", 
+            "link": null, 
+            "name": "Interdorsal"
+        }, 
+        {
+            "def": "the space between the orbits", 
+            "link": null, 
+            "name": "Interorbital"
+        }, 
+        {
+            "def": "a structure to facilitate sperm transfer in some internally fertilizating species", 
+            "link": null, 
+            "name": "Intromittent organ"
+        }, 
+        {
+            "def": "a fleshy flap or lobe-like structure in the eye, short and rounded, simple or multiply branched.", 
+            "link": null, 
+            "name": "Iris lappet"
+        }, 
+        {
+            "def": "the fleshy projection of the body separating the gill openings", 
+            "link": null, 
+            "name": "Isthmus"
+        }, 
+        {
+            "def": "pertaining to the throat", 
+            "link": null, 
+            "name": "Jugular"
+        }, 
+        {
+            "def": "placed near together", 
+            "link": null, 
+            "name": "Juxtaposed"
+        }, 
+        {
+            "def": "organs involved in excretion and regulation of water balance", 
+            "link": null, 
+            "name": "Kidneys"
+        }, 
+        {
+            "def": "spear-shaped, gradually tapering toward the extremity", 
+            "link": null, 
+            "name": "Lanceolate"
+        }, 
+        {
+            "def": "pertaining to the lips", 
+            "link": null, 
+            "name": "Labial"
+        }, 
+        {
+            "def": "shallow grooves around the lips", 
+            "link": null, 
+            "name": "Labial furrows"
+        }, 
+        {
+            "def": "small fleshy projections around the lips", 
+            "link": null, 
+            "name": "Labial papillae"
+        }, 
+        {
+            "def": "at or toward the side", 
+            "link": null, 
+            "name": "Lateral"
+        }, 
+        {
+            "def": "a series of muciferous tubes forming a raised line along the side of the body", 
+            "link": "/wiki/Lateral_line", 
+            "name": "Lateral line"
+        }, 
+        {
+            "def": "tallness and narrowness of the skull - in fish usually refers to \"elongate highly compressed transparent, ribbon-like larval stage\" (source FishBase glossary)", 
+            "link": null, 
+            "name": "Leptocephalic"
+        }, 
+        {
+            "def": "a digestive and storage organ", 
+            "link": null, 
+            "name": "Liver"
+        }, 
+        {
+            "def": "the number of scale rows above the lateral line from the first pored lateral line scale to the caudal fin base.", 
+            "link": null, 
+            "name": "Longitudinal series (scales)"
+        }, 
+        {
+            "def": "shaped like a crescent moon, with long upper and lower lobes", 
+            "link": null, 
+            "name": "Lunate"
+        }, 
+        {
+            "def": "the upper jaw, or pertaining thereto", 
+            "link": null, 
+            "name": "Maxilla, Maxillary"
+        }, 
+        {
+            "def": "the hindmost bones of the upper jaw; preceded by the premaxillaries", 
+            "link": null, 
+            "name": "Maxillae, Maxillaries"
+        }, 
+        {
+            "def": "pertaining to the middle", 
+            "link": null, 
+            "name": "Median, medially"
+        }, 
+        {
+            "def": "fins located on the median line of the fish; the dorsal, anal and caudal fins", 
+            "link": null, 
+            "name": "Median fins"
+        }, 
+        {
+            "def": "between the middle and the sides", 
+            "link": null, 
+            "name": "Mediolateral"
+        }, 
+        {
+            "def": "A cell (chromatophore) containing melanin or other black pigment", 
+            "link": "/wiki/Melanophore", 
+            "name": "Melanophore"
+        }, 
+        {
+            "def": "a bone of the pectoral arch or shoulder girdle", 
+            "link": null, 
+            "name": "Mesocoracoid"
+        }, 
+        {
+            "def": "refers to the region of the open ocean between 200 m and 1000 m in depth", 
+            "link": "/wiki/Pelagic_zone", 
+            "name": "Mesopelagic"
+        }, 
+        {
+            "def": "fishes that live in the mesopelagic zone", 
+            "link": null, 
+            "name": "Mesopelagic fishes"
+        }, 
+        {
+            "def": "the middle stratum of water, well below the surface and well above the seabed. See also mesopelagic.", 
+            "link": null, 
+            "name": "Midwater"
+        }, 
+        {
+            "def": "fishes that live in the midwater", 
+            "link": null, 
+            "name": "Midwater fishes"
+        }, 
+        {
+            "def": "blunt and rounded grinding teeth", 
+            "link": null, 
+            "name": "Molars"
+        }, 
+        {
+            "def": "form and structure of an organism", 
+            "link": "/wiki/Morphology_(biology)", 
+            "name": "Morphology"
+        }, 
+        {
+            "def": "producing or containing mucous or slime", 
+            "link": null, 
+            "name": "Muciferous"
+        }, 
+        {
+            "def": "blocks of lateral trunk muscles", 
+            "link": "/wiki/Myotome", 
+            "name": "Myotomes"
+        }, 
+        {
+            "def": "blocks of muscle corresponding to number of vertebrae, easily seen in larval fishes and used for identifying specimens.", 
+            "link": "/wiki/Myomere", 
+            "name": "Myomeres"
+        }, 
+        {
+            "def": "upper surface of the body behind the head and before the dorsal fin", 
+            "link": null, 
+            "name": "Nape"
+        }, 
+        {
+            "def": "pertaining to the nostrils", 
+            "link": null, 
+            "name": "Nasal"
+        }, 
+        {
+            "def": "between the nostrils and mouth", 
+            "link": null, 
+            "name": "Nasoral"
+        }, 
+        {
+            "def": "an inner eyelid", 
+            "link": null, 
+            "name": "Nictitating membrane"
+        }, 
+        {
+            "def": "a rudimentary of embryonic spinal column", 
+            "link": "/wiki/Notochord", 
+            "name": "Notochord"
+        }, 
+        {
+            "def": "pertaining to the nape", 
+            "link": null, 
+            "name": "Nuchal"
+        }, 
+        {
+            "def": "faintly marked, scarcely evident", 
+            "link": null, 
+            "name": "Obsolete"
+        }, 
+        {
+            "def": "blunt", 
+            "link": null, 
+            "name": "Obtuse"
+        }, 
+        {
+            "def": "pertaining to the posterior part of the skull", 
+            "link": null, 
+            "name": "Occipital"
+        }, 
+        {
+            "def": "an eye-like spot", 
+            "link": null, 
+            "name": "Ocellus"
+        }, 
+        {
+            "def": "pertaining to the eye", 
+            "link": null, 
+            "name": "Ocular"
+        }, 
+        {
+            "def": "a dermal tooth", 
+            "link": "/wiki/Odontode", 
+            "name": "Odontode"
+        }, 
+        {
+            "def": "the gullet", 
+            "link": "/wiki/Oesophagus", 
+            "name": "Oesophagus"
+        }, 
+        {
+            "def": "the large bone which forms the upper posterior part of the operculum", 
+            "link": null, 
+            "name": "Opercle"
+        }, 
+        {
+            "def": "the bony flap that covers the gills", 
+            "link": "/wiki/Operculum_(fish)", 
+            "name": "operculum"
+        }, 
+        {
+            "def": "pertaining to the operculum", 
+            "link": null, 
+            "name": "Opercular"
+        }, 
+        {
+            "def": "spine projecting from the operculum (view the fish figure)", 
+            "link": null, 
+            "name": "Opercular spine"
+        }, 
+        {
+            "def": "the eye socket", 
+            "link": "/wiki/Orbit_(anatomy)", 
+            "name": "Orbit"
+        }, 
+        {
+            "def": "the most anterior point of a fin base", 
+            "link": null, 
+            "name": "Origin"
+        }, 
+        {
+            "def": "bony", 
+            "link": null, 
+            "name": "Osseus"
+        }, 
+        {
+            "def": "egg-shaped", 
+            "link": null, 
+            "name": "Ovate"
+        }, 
+        {
+            "def": "the roof of the mouth", 
+            "link": null, 
+            "name": "Palate"
+        }, 
+        {
+            "def": "the bones on each side of the palate", 
+            "link": "/wiki/Palatine_bone", 
+            "name": "Palatines"
+        }, 
+        {
+            "def": "a small fleshy projection(s)", 
+            "link": null, 
+            "name": "Papilla (papillae)"
+        }, 
+        {
+            "def": "covered with papillae", 
+            "link": null, 
+            "name": "Papillose"
+        }, 
+        {
+            "def": "pertaining to the breast", 
+            "link": null, 
+            "name": "Pectoral"
+        }, 
+        {
+            "def": "the anterior or uppermost of the paired fins, which correspond to the anterior limbs of the higher vertebrates", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Pectoral fins"
+        }, 
+        {
+            "def": "the bones to which the pectoral fin is attached", 
+            "link": null, 
+            "name": "Pectoral girdle"
+        }, 
+        {
+            "def": "usually referred to as the caudal peduncle, the region of the body between the end of the anal fin and the base of the caudal fin", 
+            "link": "/wiki/Fish_anatomy#Types_of_fin", 
+            "name": "Peduncle"
+        }, 
+        {
+            "def": "living on or in the open seas", 
+            "link": "/wiki/Pelagic_zone", 
+            "name": "Pelagic"
+        }, 
+        {
+            "def": "the bones to which the ventral fins are attached", 
+            "link": null, 
+            "name": "Pelvic girdle"
+        }, 
+        {
+            "def": "paired fins behind or below the pectoral fins", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Pelvic fins"
+        }, 
+        {
+            "def": "bones behind the gills in the oesophagus or gullet", 
+            "link": null, 
+            "name": "Pharyngeal bones"
+        }, 
+        {
+            "def": "teeth within the pharynx", 
+            "link": "/wiki/Pharyngeal_teeth", 
+            "name": "Pharyngeal teeth"
+        }, 
+        {
+            "def": "the back part of the throat, into which the gill slits open", 
+            "link": null, 
+            "name": "Pharynx"
+        }, 
+        {
+            "def": "a circular light-producing organ on the surface of a fish", 
+            "link": null, 
+            "name": "Photophore"
+        }, 
+        {
+            "def": "Teeth-like scales found in sharks and rays.", 
+            "link": "/wiki/Placoid_scale", 
+            "name": "Placoid scales"
+        }, 
+        {
+            "def": "towards the hind end of the fish", 
+            "link": null, 
+            "name": "Posterior"
+        }, 
+        {
+            "def": "behind the eye", 
+            "link": null, 
+            "name": "Postorbital"
+        }, 
+        {
+            "def": "anterior to the tail portion", 
+            "link": null, 
+            "name": "Precaudal"
+        }, 
+        {
+            "def": "two bones forming the front portion of the upper jaw", 
+            "link": null, 
+            "name": "Premaxillaries"
+        }, 
+        {
+            "def": "spine positioned above and in front of the eye", 
+            "link": null, 
+            "name": "Preocular spine"
+        }, 
+        {
+            "def": "the bone between the cheek and the gill cover", 
+            "link": "/wiki/Preopercle", 
+            "name": "Preopercle, preoperculum"
+        }, 
+        {
+            "def": "spine projecting from the preopercule (see preopercle) (view the fish figure)", 
+            "link": null, 
+            "name": "Preopercular spine"
+        }, 
+        {
+            "def": "the area under and in front of the eyes", 
+            "link": null, 
+            "name": "Preorbital"
+        }, 
+        {
+            "def": "capable of extending forward", 
+            "link": null, 
+            "name": "Protractile"
+        }, 
+        {
+            "def": "capable of extending forward, often referring to the jaws of fishes", 
+            "link": null, 
+            "name": "Protrusible"
+        }, 
+        {
+            "def": "nearest", 
+            "link": null, 
+            "name": "Proximal"
+        }, 
+        {
+            "def": "small gills developed on the inner side of the gill cover", 
+            "link": null, 
+            "name": "Pseudobranchiae"
+        }, 
+        {
+            "def": "stiff ossified lobes or prongs in the tip of the intromittent organ", 
+            "link": null, 
+            "name": "Pseudoclasper"
+        }, 
+        {
+            "def": "an internal cartilage or bone that supports a median fin ray or spine", 
+            "link": "/wiki/Pterygiophore", 
+            "name": "Pterygiophore"
+        }, 
+        {
+            "def": "finger-like pouches connected with the alimentary canal (the gut)", 
+            "link": null, 
+            "name": "Pyloric caecae"
+        }, 
+        {
+            "def": "one branch or one half of the jaw", 
+            "link": null, 
+            "name": "Ramus"
+        }, 
+        {
+            "def": "a jointed, segmented rod which supports a fin", 
+            "link": null, 
+            "name": "Ray"
+        }, 
+        {
+            "def": "turned backward", 
+            "link": null, 
+            "name": "Retrose"
+        }, 
+        {
+            "def": "a projecting snout or beak", 
+            "link": null, 
+            "name": "Rostrum"
+        }, 
+        {
+            "def": "rough", 
+            "link": null, 
+            "name": "Rugose"
+        }, 
+        {
+            "def": "pertains to the pattern/arrangement/presence of scales", 
+            "link": null, 
+            "name": "Scalation"
+        }, 
+        {
+            "def": "any external horny or bony plate", 
+            "link": "/wiki/Fish_anatomy#Skin", 
+            "name": "Scute"
+        }, 
+        {
+            "def": "notched like a saw", 
+            "link": null, 
+            "name": "Serrate"
+        }, 
+        {
+            "def": "bristles or hairs", 
+            "link": null, 
+            "name": "Setae"
+        }, 
+        {
+            "def": "the posterior part of the dorsal fin which is composed of jointed rays", 
+            "link": null, 
+            "name": "Soft dorsal"
+        }, 
+        {
+            "def": "shovel-like; having a broad, flat and rounded shape", 
+            "link": null, 
+            "name": "Spatulate"
+        }, 
+        {
+            "def": "a sharp projecting point; an unjointed support in the anterior portions of the dorsal and anal fins", 
+            "link": null, 
+            "name": "Spine"
+        }, 
+        {
+            "def": "spine-like or composed of spines", 
+            "link": null, 
+            "name": "Spinous, spiniform, spinate"
+        }, 
+        {
+            "def": "the anterior part of the dorsal fin supported by spines", 
+            "link": null, 
+            "name": "Spinous dorsal"
+        }, 
+        {
+            "def": "respiratory openings behind the eyes in sharks and rays", 
+            "link": null, 
+            "name": "Spiracles"
+        }, 
+        {
+            "def": "the length of a fish measured from the tip of the snout to the posterior extremity of the hypurals, the expanded bones at the end of the backbone that support the caudal fin", 
+            "link": null, 
+            "name": "Standard length (SL)"
+        }, 
+        {
+            "def": "almost at the edge", 
+            "link": null, 
+            "name": "Submarginal"
+        }, 
+        {
+            "def": "below the eye", 
+            "link": null, 
+            "name": "Suborbital"
+        }, 
+        {
+            "def": "above or on the upper surface", 
+            "link": null, 
+            "name": "Superior"
+        }, 
+        {
+            "def": "the bone forming a connection between the back of the skull and the pectoral girdle", 
+            "link": null, 
+            "name": "Supracleithrum"
+        }, 
+        {
+            "def": "above the side", 
+            "link": null, 
+            "name": "Supralateral"
+        }, 
+        {
+            "def": "a supplemental bone lying along the upper edge of the maxillary", 
+            "link": null, 
+            "name": "Supramaxillary"
+        }, 
+        {
+            "def": "positioned above the eye", 
+            "link": null, 
+            "name": "Supraocular"
+        }, 
+        {
+            "def": "above the eye", 
+            "link": null, 
+            "name": "Supraorbital"
+        }, 
+        {
+            "def": "a flap or filament of skin positioned above the eye", 
+            "link": null, 
+            "name": "Supraorbital tentacle"
+        }, 
+        {
+            "def": "a bone uniting the shoulder girdle with the skull", 
+            "link": null, 
+            "name": "Suprascapular"
+        }, 
+        {
+            "def": "the line of union of two bones or plates", 
+            "link": null, 
+            "name": "Suture"
+        }, 
+        {
+            "def": "a sac filled with gas, lying beneath the backbone", 
+            "link": "/wiki/Swimbladder", 
+            "name": "Swimbladder"
+        }, 
+        {
+            "def": "point of junction of the two sides of the jaw", 
+            "link": null, 
+            "name": "Symphysis"
+        }, 
+        {
+            "def": "similarly arranged on both sides", 
+            "link": null, 
+            "name": "Symmetrical"
+        }, 
+        {
+            "def": "a member of Teleostei, an infraclass containing most of the bony fishes", 
+            "link": "/wiki/Teleost", 
+            "name": "Teleost"
+        }, 
+        {
+            "def": "at the end", 
+            "link": null, 
+            "name": "Terminal"
+        }, 
+        {
+            "def": "marked with little checks or squares, like tiles", 
+            "link": "/wiki/Tessellation", 
+            "name": "Tessellated"
+        }, 
+        {
+            "def": "pertaining to the chest", 
+            "link": "/wiki/Thorax", 
+            "name": "Thoracic"
+        }, 
+        {
+            "def": "the chest region, just behind the head", 
+            "link": "/wiki/Thorax", 
+            "name": "Thorax"
+        }, 
+        {
+            "def": "the length from the tip of the snout to the tip of the tail", 
+            "link": "/wiki/Fish_measurement", 
+            "name": "Total length"
+        }, 
+        {
+            "def": "crosswise", 
+            "link": "/wiki/Transverse_plane", 
+            "name": "Transverse"
+        }, 
+        {
+            "def": "with three lobes", 
+            "link": null, 
+            "name": "Trilobate"
+        }, 
+        {
+            "def": "with three cusps or points", 
+            "link": null, 
+            "name": "Tricuspid"
+        }, 
+        {
+            "def": "terminating abruptly, as if cut off square", 
+            "link": null, 
+            "name": "Truncate"
+        }, 
+        {
+            "def": "the region of a fish between the head and tail, or the last gill slit and vent", 
+            "link": null, 
+            "name": "Trunk"
+        }, 
+        {
+            "def": "a small, usually hard excrescence or lump", 
+            "link": "/wiki/Tubercle", 
+            "name": "Tubercle"
+        }, 
+        {
+            "def": "resembling a tube", 
+            "link": null, 
+            "name": "Tubiform, tubuliform"
+        }, 
+        {
+            "def": "the location from which the type specimen was collected.", 
+            "link": null, 
+            "name": "Type locality"
+        }, 
+        {
+            "def": "waved", 
+            "link": null, 
+            "name": "Undulated"
+        }, 
+        {
+            "def": "a papilla through which the urinary waste and gametes leave the body", 
+            "link": null, 
+            "name": "Urogenital papilla"
+        }, 
+        {
+            "def": "the external opening of the alimentary canal, the anus", 
+            "link": null, 
+            "name": "Vent"
+        }, 
+        {
+            "def": "pertaining to the abdominal or lower surface", 
+            "link": "/wiki/Anatomical_terms_of_location#General_usage", 
+            "name": "Ventral"
+        }, 
+        {
+            "def": "paired fins behind or below the pectoral fins", 
+            "link": "/wiki/Fish_anatomy#Fins", 
+            "name": "Ventral fins"
+        }, 
+        {
+            "def": "fins on the median line of the body; the dorsal, anal, and caudal fins", 
+            "link": null, 
+            "name": "Vertical fins"
+        }, 
+        {
+            "def": "reduced, or very poorly developed", 
+            "link": "/wiki/Vestigial_structure", 
+            "name": "Vestigial"
+        }, 
+        {
+            "def": "small, slender teeth forming velvety bands", 
+            "link": null, 
+            "name": "Villiform teeth"
+        }, 
+        {
+            "def": "a bone forming the front part of the roof of the mouth", 
+            "link": "/wiki/Vomer_bone", 
+            "name": "Vomer"
+        }, 
+        {
+            "def": "teeth on the vomer (see above)", 
+            "link": null, 
+            "name": "Vomerine teeth"
+        }, 
+        {
+            "def": "An adaptation found in Ostariophysi to improve hearing; includes the Weberian ossicles.", 
+            "link": "/wiki/Weberian_apparatus", 
+            "name": "Weberian apparatus"
+        }
+    ]
+}

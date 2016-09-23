@@ -1,0 +1,302 @@
+{
+    "c1": "", 
+    "c2": "Mathematics", 
+    "c3": "probability and statistics", 
+    "words": [
+        {
+            "def": "Another name for elementary event", 
+            "link": "/wiki/Elementary_event", 
+            "name": "atomic event"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A sample that is not representative of the population", 
+            "link": "/wiki/Bias_(statistics)", 
+            "name": "bias"
+        }, 
+        {
+            "def": "Data that can take only two values, usually represented by 0 and 1", 
+            "link": "/wiki/Binary_data", 
+            "name": "binary data"
+        }, 
+        {
+            "def": "A statistical study in which the objective is to measure the effect of some variable on an outcome relative to a different variable. For example, how will my headache feel if I take aspirin, versus if I do not take aspirin? Causal studies may be either experimental or observational.[1]", 
+            "link": "/wiki/Causality#Statistics_and_economics", 
+            "name": "causal study"
+        }, 
+        {
+            "def": "In a statistical study, concomitants are any variables whose values are unaffected by treatments, such as a unit\u2019s age, gender, and cholesterol level before starting a diet (treatment).[1]", 
+            "link": null, 
+            "name": "concomitants"
+        }, 
+        {
+            "def": "Given two jointly distributed random variables X and Y, the conditional probability distribution of Y given X (written \"Y | X\") is the probability distribution of Y when X is known to be a particular value", 
+            "link": "/wiki/Conditional_distribution", 
+            "name": "conditional distribution"
+        }, 
+        {
+            "def": "The probability of some event A, assuming event B. Conditional probability is written P(A|B), and is read \"the probability of A, given B\"", 
+            "link": "/wiki/Conditional_probability", 
+            "name": "conditional probability"
+        }, 
+        {
+            "def": "In inferential statistics, a CI is a range of plausible values for the population mean.[2] For example, based on a study of sleep habits among 100 people, a researcher may estimate that the overall population sleeps somewhere between 5 and 9 hours per night. This is different from the sample mean, which can be measured directly.", 
+            "link": "/wiki/Confidence_interval", 
+            "name": "confidence interval"
+        }, 
+        {
+            "def": "Also known as a confidence coefficient, the confidence level indicates the probability that the confidence interval (range) captures the true population mean. For example, a confidence interval with a 95 percent confidence level has a 95 percent chance of capturing the population mean. Technically, this means that, if the experiment were repeated many times, 95 percent of the CIs would contain the true population mean.[2]", 
+            "link": null, 
+            "name": "confidence level"
+        }, 
+        {
+            "def": "Also called correlation coefficient, a numeric measure of the strength of linear relationship between two random variables (one can use it to quantify, for example, how shoe size and height are correlated in the population). An example is the Pearson product-moment correlation coefficient, which is found by dividing the covariance of the two variables by the product of their standard deviations. Independent variables have a correlation of 0", 
+            "link": "/wiki/Correlation", 
+            "name": "correlation"
+        }, 
+        {
+            "def": "Data arising from counting that can take only non-negative integer values", 
+            "link": "/wiki/Count_data", 
+            "name": "count data"
+        }, 
+        {
+            "def": "Given two random variables X and Y, with expected values \n  \n    \n      \n        E\n        (\n        X\n        )\n        =\n        \u03bc\n      \n    \n    {\\displaystyle E(X)=\\mu }\n  \n and \n  \n    \n      \n        E\n        (\n        Y\n        )\n        =\n        \u03bd\n      \n    \n    {\\displaystyle E(Y)=\\nu }\n  \n, covariance is defined as the expected value of random variable \n  \n    \n      \n        (\n        X\n        \u2212\n        \u03bc\n        )\n        (\n        Y\n        \u2212\n        \u03bd\n        )\n      \n    \n    {\\displaystyle (X-\\mu )(Y-\\nu )}\n  \n, and is written \n  \n    \n      \n        cov\n        \u2061\n        (\n        X\n        ,\n        Y\n        )\n      \n    \n    {\\displaystyle \\operatorname {cov} (X,Y)}\n  \n. It is used for measuring correlation", 
+            "link": "/wiki/Covariance", 
+            "name": "covariance"
+        }, 
+        {
+            "def": "A sample and the associated data points", 
+            "link": "/wiki/Data_set", 
+            "name": "data set"
+        }, 
+        {
+            "def": "A typed measurement\u00a0\u2014 it can be a Boolean value, a real number, a vector (in which case it's also called a data vector), etc", 
+            "link": "/wiki/Data_point", 
+            "name": "data point"
+        }, 
+        {
+            "def": "An event with only one element. For example, when pulling a card out of a deck, \"getting the jack of spades\" is an elementary event, while \"getting a king or an ace\" is not", 
+            "link": "/wiki/Elementary_event", 
+            "name": "elementary event"
+        }, 
+        {
+            "def": "A function of the known data that is used to estimate an unknown parameter; an estimate is the result from the actual application of the function to a particular set of data. The mean can be used as an estimator", 
+            "link": "/wiki/Estimator", 
+            "name": "estimator"
+        }, 
+        {
+            "def": "The sum of the probability of each possible outcome of the experiment multiplied by its payoff (\"value\"). Thus, it represents the average amount one \"expects\" to win per bet if bets with identical odds are repeated many times. For example, the expected value of a six-sided die roll is 3.5. The concept is similar to the mean. The expected value of random variable X is typically written E(X) for the operator and \n  \n    \n      \n        \u03bc\n      \n    \n    {\\displaystyle \\mu }\n  \n (mu) for the parameter", 
+            "link": "/wiki/Expected_value", 
+            "name": "expected value"
+        }, 
+        {
+            "def": "Any procedure that can be infinitely repeated and has a well-defined set of outcomes", 
+            "link": "/wiki/Experiment_(probability_theory)", 
+            "name": "experiment"
+        }, 
+        {
+            "def": "A subset of the sample space (a possible experiment's outcome), to which a probability can be assigned. For example, on rolling a die, \"getting a five or a six\" is an event (with a probability of one third if the die is fair)", 
+            "link": "/wiki/Event_(probability_theory)", 
+            "name": "event"
+        }, 
+        {
+            "def": "Given two random variables X and Y, the joint distribution of X and Y is the probability distribution of X and Y together", 
+            "link": "/wiki/Joint_distribution", 
+            "name": "joint distribution"
+        }, 
+        {
+            "def": "The probability of two events occurring together. The joint probability of A and B is written \n  \n    \n      \n        P\n        (\n        A\n        \u2229\n        B\n        )\n      \n    \n    {\\displaystyle P(A\\cap B)}\n  \n or \n  \n    \n      \n        P\n        (\n        A\n        ,\n        \u00a0\n        B\n        )\n        .\n      \n    \n    {\\displaystyle P(A,\\ B).}\n  \n", 
+            "link": "/wiki/Joint_probability", 
+            "name": "joint probability"
+        }, 
+        {
+            "def": "A measure of the \"peakedness\" of the probability distribution of a real-valued random variable. Higher kurtosis means more of the variance is due to infrequent extreme deviations, as opposed to frequent modestly sized deviations", 
+            "link": "/wiki/Kurtosis", 
+            "name": "kurtosis"
+        }, 
+        {
+            "def": "A conditional probability function considered a function of its second argument with its first argument held fixed. For example, imagine pulling a numbered ball with the number k from a bag of n balls, numbered 1 to n. Then you could describe a likelihood function for the random variable N as the probability of getting k given that there are n balls\u00a0: the likelihood will be 1/n for n greater or equal to k, and 0 for n smaller than k. Unlike a probability distribution function, this likelihood function will not sum up to 1 on the sample space", 
+            "link": "/wiki/Likelihood_function", 
+            "name": "likelihood function"
+        }, 
+        {
+            "def": "Given two jointly distributed random variables X and Y, the marginal distribution of X is simply the probability distribution of X ignoring information about Y", 
+            "link": "/wiki/Marginal_distribution", 
+            "name": "marginal distribution"
+        }, 
+        {
+            "def": "The probability of an event, ignoring any information about other events. The marginal probability of A is written P(A). Contrast with conditional probability", 
+            "link": "/wiki/Marginal_probability", 
+            "name": "marginal probability"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The expected value of a random variable", 
+            "link": "/wiki/Mean", 
+            "name": "mean"
+        }, 
+        {
+            "def": "A vector whose components are random variables on the same probability space", 
+            "link": "/wiki/Multivariate_random_variable", 
+            "name": "multivariate random variable"
+        }, 
+        {
+            "def": "A collection of events is mutually independent if for any subset of the collection, the joint probability of all events occurring is equal to the product of the joint probabilities of the individual events. Think of the result of a series of coin-flips. This is a stronger condition than pairwise independence", 
+            "link": "/wiki/Mutual_independence", 
+            "name": "mutual independence"
+        }, 
+        {
+            "def": "The statement being tested in a test of statistical significance Usually the null hypothesis is a statement of 'no effect' or 'no difference'.\"[3] For example, if one wanted to test whether light has an effect on sleep, the null hypothesis would be that there is no effect. It is often symbolized as H0.", 
+            "link": "/wiki/Null_hypothesis", 
+            "name": "null hypothesis"
+        }, 
+        {
+            "def": "A pairwise independent collection of random variables is a set of random variables any two of which are independent", 
+            "link": "/wiki/Pairwise_independence", 
+            "name": "pairwise independence"
+        }, 
+        {
+            "def": "Can be a population parameter, a distribution parameter, an unobserved parameter (with different shades of meaning). In statistics, this is often a quantity to be estimated", 
+            "link": "/wiki/Statistical_parameter", 
+            "name": "parameter"
+        }, 
+        {
+            "def": "In Bayesian inference, this represents prior beliefs or other information that is available before new data or observations are taken into account", 
+            "link": "/wiki/Prior_probability", 
+            "name": "prior probability"
+        }, 
+        {
+            "def": "See parameter", 
+            "link": "/wiki/Population_parameter", 
+            "name": "population parameter"
+        }, 
+        {
+            "def": "The result of a Bayesian analysis that encapsulates the combination of prior beliefs or information with observed data", 
+            "link": "/wiki/Posterior_probability", 
+            "name": "posterior probability"
+        }, 
+        {
+            "def": "Describes the probability in a continuous probability distribution. For example, you can't say that the probability of a man being six feet tall is 20%, but you can say he has 20% of chances of being between five and six feet tall. Probability density is given by a probability density function. Contrast with probability mass", 
+            "link": "/wiki/Probability_density_function", 
+            "name": "probability density"
+        }, 
+        {
+            "def": "Gives the probability distribution for a continuous random variable", 
+            "link": "/wiki/Probability_density_function", 
+            "name": "probability density function"
+        }, 
+        {
+            "def": "A function that gives the probability of all elements in a given space: see List of probability distributions", 
+            "link": "/wiki/Probability_distribution", 
+            "name": "probability distribution"
+        }, 
+        {
+            "def": "The probability of events in a probability space", 
+            "link": "/wiki/Probability_measure", 
+            "name": "probability measure"
+        }, 
+        {
+            "def": "A sample space over which a probability measure has been defined", 
+            "link": "/wiki/Probability_space", 
+            "name": "probability space"
+        }, 
+        {
+            "def": "A measurable function on a probability space, often real-valued. The distribution function of a random variable gives the probability of different results. We can also derive the mean and variance of a random variable", 
+            "link": "/wiki/Random_variable", 
+            "name": "random variable"
+        }, 
+        {
+            "def": "The length of the smallest interval which contains all the data", 
+            "link": "/wiki/Range_(statistics)", 
+            "name": "range"
+        }, 
+        {
+            "def": "In a statistical study, any variables whose values may have been affected by the treatments, such as cholesterol levels after following a particular diet for six months.[1]", 
+            "link": null, 
+            "name": "responses"
+        }, 
+        {
+            "def": "That part of a population which is actually observed", 
+            "link": "/wiki/Statistical_sample", 
+            "name": "sample"
+        }, 
+        {
+            "def": "The arithmetic mean of a sample of values drawn from the population. It is denoted by \n  \n    \n      \n        \n          \n            x\n            \u00af\n          \n        \n      \n    \n    {\\displaystyle {\\overline {x}}}\n  \n. An example is the average test score of a subset of 10 students from a class. Sample mean is used as an estimator of the population mean, which in this example would be the average test score of all of the students in the class.", 
+            "link": null, 
+            "name": "sample mean"
+        }, 
+        {
+            "def": "The set of possible outcomes of an experiment. For example, the sample space for rolling a six-sided die will be {1, 2, 3, 4, 5, 6}", 
+            "link": "/wiki/Sample_space", 
+            "name": "sample space"
+        }, 
+        {
+            "def": "A process of selecting observations to obtain knowledge about a population. There are many methods to choose on which sample to do the observations", 
+            "link": "/wiki/Sampling_(statistics)", 
+            "name": "sampling"
+        }, 
+        {
+            "def": "The probability distribution, under repeated sampling of the population, of a given statistic", 
+            "link": "/wiki/Sampling_distribution", 
+            "name": "sampling distribution"
+        }, 
+        {
+            "def": "A measure of the asymmetry of the probability distribution of a real-valued random variable. Roughly speaking, a distribution has positive skew (right-skewed) if the higher tail is longer and negative skew (left-skewed) if the lower tail is longer (confusing the two is a common error)", 
+            "link": "/wiki/Skewness", 
+            "name": "skewness"
+        }, 
+        {
+            "def": "The most commonly used measure of statistical dispersion. It is the Square root of the variance, and is generally written \n  \n    \n      \n        \u03c3\n      \n    \n    {\\displaystyle \\sigma }\n  \n (Sigma)", 
+            "link": "/wiki/Standard_deviation", 
+            "name": "standard deviation"
+        }, 
+        {
+            "def": "The result of applying a statistical algorithm to a data set. It can also be described as an observable random variable", 
+            "link": "/wiki/Statistic", 
+            "name": "statistic"
+        }, 
+        {
+            "def": "Two events are independent if the outcome of one does not affect that of the other (for example, getting a 1 on one die roll does not affect the probability of getting a 1 on a second roll). Similarly, when we assert that two random variables are independent, we intuitively mean that knowing something about the value of one of them does not yield any information about the value of the other", 
+            "link": "/wiki/Statistical_independence", 
+            "name": "statistical independence"
+        }, 
+        {
+            "def": "Inference about a population from a random sample drawn from it or, more generally, about a random process from its observed behavior during a finite period of time", 
+            "link": "/wiki/Statistical_inference", 
+            "name": "statistical inference"
+        }, 
+        {
+            "def": "A set of entities about which statistical inferences are to be drawn, often based on random sampling. One can also talk about a population of measurements or values", 
+            "link": "/wiki/Statistical_population", 
+            "name": "statistical population"
+        }, 
+        {
+            "def": "Statistical variability is a measure of how diverse some data is. It can be expressed by the variance or the standard deviation", 
+            "link": "/wiki/Statistical_dispersion", 
+            "name": "statistical dispersion"
+        }, 
+        {
+            "def": "A parameter that indexes a family of probability distributions", 
+            "link": "/wiki/Statistical_parameter", 
+            "name": "statistical parameter"
+        }, 
+        {
+            "def": "Variables in a statistical study that are conceptually manipulable. For example, in a health study, following a certain diet is a treatment whereas age is not.[1]", 
+            "link": null, 
+            "name": "treatments"
+        }, 
+        {
+            "def": "Can refer to each individual repetition when talking about an experiment composed of any fixed number of them. As an example, one can think of an experiment being any number from one to n coin tosses, say 17. In this case, one toss can be called a trial to avoid confusion, since the whole experiment is composed of 17 ones.", 
+            "link": "/wiki/Experiment_(probability_theory)", 
+            "name": "trial"
+        }, 
+        {
+            "def": "In a statistical study, the objects to which treatments are assigned. For example, in a study examining the effects of smoking cigarettes, the units would be people.[1]", 
+            "link": null, 
+            "name": "units"
+        }, 
+        {
+            "def": "A measure of its statistical dispersion of a random variable, indicating how far from the expected value its values Typically are. The variance of random variable X is typically designated as \n  \n    \n      \n        var\n        \u2061\n        (\n        X\n        )\n      \n    \n    {\\displaystyle \\operatorname {var} (X)}\n  \n, \n  \n    \n      \n        \n          \u03c3\n          \n            X\n          \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle \\sigma _{X}^{2}}\n  \n, or simply \n  \n    \n      \n        \n          \u03c3\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle \\sigma ^{2}}\n  \n", 
+            "link": "/wiki/Variance", 
+            "name": "variance"
+        }
+    ]
+}

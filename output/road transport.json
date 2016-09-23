@@ -1,0 +1,987 @@
+{
+    "c1": "", 
+    "c2": "Transportation", 
+    "c3": "road transport", 
+    "words": [
+        {
+            "def": "A specific category of three-lane road, consisting of two lanes in one direction and one lane in the other, alternating every few kilometres, and separated usually with a steel cable barrier.", 
+            "link": "/wiki/2%2B1_road", 
+            "name": "2+1 road"
+        }, 
+        {
+            "def": "A specific type of dual carriageway being built in Ireland, Sweden, and Finland, consisting of two lanes in each direction separated by a steel cable barrier.", 
+            "link": "/wiki/2%2B2_road", 
+            "name": "2+2 road"
+        }, 
+        {
+            "def": "\nSee three-way junction\n", 
+            "link": null, 
+            "name": "3-way junction or 3-way intersection"
+        }, 
+        {
+            "def": "A transportation and traffic information telephone hotline in some regions of the United States and Canada that was initially designated for road weather information.", 
+            "link": "/wiki/5-1-1", 
+            "name": "5-1-1"
+        }, 
+        {
+            "def": "\nSee frontage road\n", 
+            "link": null, 
+            "name": "Access road"
+        }, 
+        {
+            "def": "A highway that splits off the mainline and reconnects some distance later.", 
+            "link": "/wiki/Alternate_route", 
+            "name": "Alternate route or optional route"
+        }, 
+        {
+            "def": "A junction at which two or more roads cross at the same level or grade.", 
+            "link": "/wiki/At-grade_intersection", 
+            "name": "At-grade intersection"
+        }, 
+        {
+            "def": "A measure of total volume of vehicle traffic on a segment of road for a year divided by 365 days to produce an average.", 
+            "link": "/wiki/Annual_average_daily_traffic", 
+            "name": "Annual average daily traffic (AADT)"
+        }, 
+        {
+            "def": "A high-capacity urban road designed to deliver traffic at the highest possible level of service.", 
+            "link": "/wiki/Arterial_road", 
+            "name": "Arterial road or arterial thoroughfare"
+        }, 
+        {
+            "def": "A highway that supplements a major or mainline highway.", 
+            "link": "/wiki/Auxiliary_route", 
+            "name": "Auxiliary route"
+        }, 
+        {
+            "def": "A method of collecting tolls on highways using toll barriers at regularly spaced intervals on the toll road's mainline, usually charging a flat rate at each barrier.", 
+            "link": "/wiki/Barrier_toll_system", 
+            "name": "Barrier toll system or open toll system"
+        }, 
+        {
+            "def": "\nSee ring road\n", 
+            "link": null, 
+            "name": "Beltway"
+        }, 
+        {
+            "def": "A road traffic control measure designed to prevent congestion and gridlock at junctions. The surface of the junction is typically marked with a criss-cross grid of diagonal painted lines (or only two lines crossing each other in the box), and vehicles may not enter the area so marked unless their exit from the junction is clear (or, if turning, to await a gap in the oncoming traffic flow).", 
+            "link": "/wiki/Box_junction", 
+            "name": "Box junction"
+        }, 
+        {
+            "def": "A lane restricted to buses, and sometimes certain other vehicles such as taxis.", 
+            "link": "/wiki/Bus_lane", 
+            "name": "Bus lane"
+        }, 
+        {
+            "def": "An auxiliary route that passes through the central business district of a city.", 
+            "link": "/wiki/Business_route", 
+            "name": "Business route or city route"
+        }, 
+        {
+            "def": "\nSee stack interchange\n", 
+            "link": null, 
+            "name": "Butterfly junction"
+        }, 
+        {
+            "def": "An auxiliary route that relieves congestion along the mainline by routing traffic around a city or congested area. Can also be used to refer to a segment of road built to reroute the mainline away from a city or congested area.", 
+            "link": "/wiki/Bypass_(road)", 
+            "name": "Bypass"
+        }, 
+        {
+            "def": "The gradient of the road surface at 90\u00b0 to the direction of travel; the difference in height between the edge and the crown of the road.", 
+            "link": "/wiki/Cant_(road/rail)", 
+            "name": "Cant or camber"
+        }, 
+        {
+            "def": "A width of road on which a vehicle is not restricted by any physical barriers or separation to move laterally. A roadway can comprise one or more carriageways; single carriageways may contain both directions of traffic for the roadway, while multiple carriageways can separate traffic by direction or type.", 
+            "link": "/wiki/Carriageway", 
+            "name": "Carriageway"
+        }, 
+        {
+            "def": "A retroreflective safety device used in road marking and the first of a range of raised pavement markers.", 
+            "link": "/wiki/Cat%27s_eye_(road)", 
+            "name": "Cat's eye"
+        }, 
+        {
+            "def": "\nSee median strip\n", 
+            "link": null, 
+            "name": "Central reservation"
+        }, 
+        {
+            "def": "\nSee ring road\n", 
+            "link": null, 
+            "name": "Circumferential highway"
+        }, 
+        {
+            "def": "\nSee business route\n", 
+            "link": null, 
+            "name": "City route"
+        }, 
+        {
+            "def": "\nSee ticket system\n", 
+            "link": null, 
+            "name": "Closed toll collection system"
+        }, 
+        {
+            "def": "A two-level interchange in which turns are handled by eight total ramp or slip roads, four of which form loops that give the interchange the shape of a cloverleaf from the air. Each ramp allows traffic from one direction of a roadway to access only one direction of the crossroad: e.g. from northbound to eastbound while a separate ramp connects from northbound to westbound. Traffic is fully grade separated; it does not need to stop to make any of the connections between the two roadways.", 
+            "link": "/wiki/Cloverleaf_interchange", 
+            "name": "Cloverleaf interchange or cloverleaf junction"
+        }, 
+        {
+            "def": "\nSee hurricane evacuation route\n", 
+            "link": null, 
+            "name": "Coastal evacuation route"
+        }, 
+        {
+            "def": "\nSee local-express lanes\n", 
+            "link": null, 
+            "name": "Collector\u2013distributor lanes"
+        }, 
+        {
+            "def": "An instance of one physical road bearing two or more different highway, motorway, or other route numbers.", 
+            "link": "/wiki/Concurrency_(road)", 
+            "name": "Concurrency"
+        }, 
+        {
+            "def": "An auxiliary route that provides a shortcut between two routes or a connection between two routes that otherwise do no connect.", 
+            "link": "/wiki/Connector_(road)", 
+            "name": "Connector or cutoff"
+        }, 
+        {
+            "def": "A highway defined in the constitution of the place in which it is located. Only found in Minnesota.", 
+            "link": "/wiki/Constitutional_route", 
+            "name": "Constitutional route"
+        }, 
+        {
+            "def": "An intersection where vehicles attempting to turn across the opposing direction of traffic (left in right-hand drive jurisdictions; right in left-hand drive jurisdictions) cross before they enter the intersection. No left turn signal in the intersection is then necessary.", 
+            "link": "/wiki/Continuous-flow_intersection", 
+            "name": "Continuous-flow intersection, CFI, crossover displaced left-turn, XDL, or DLT"
+        }, 
+        {
+            "def": "\nSee seagull intersection\n", 
+            "link": null, 
+            "name": "Continuous green T-intersection"
+        }, 
+        {
+            "def": "The reversal of direction of traffic in a lane, to facilitate emergency evacuations, roadworks, or events.", 
+            "link": "/wiki/Contraflow_lane_reversal", 
+            "name": "Contraflow lane reversal"
+        }, 
+        {
+            "def": "A type of highway which has been designed for high-speed vehicular traffic, with all traffic flow and ingress/egress regulated.", 
+            "link": "/wiki/Controlled-access_highway", 
+            "name": "Controlled-access highway, motorway, or freeway"
+        }, 
+        {
+            "def": "\nSee rumble strips\n", 
+            "link": null, 
+            "name": "The corduroy"
+        }, 
+        {
+            "def": "A road in the United States and in the Canadian province of Ontario that is designated and/or maintained by the county highway department.", 
+            "link": "/wiki/County_highway", 
+            "name": "County highway, county road, or county route"
+        }, 
+        {
+            "def": "\nSee one-way pair\n", 
+            "link": null, 
+            "name": "Couplet"
+        }, 
+        {
+            "def": "\nSee pedestrian crossing\n", 
+            "link": null, 
+            "name": "Crosswalk"
+        }, 
+        {
+            "def": "A street with only one inlet/outlet.", 
+            "link": "/wiki/Cul-de-sac", 
+            "name": "Cul-de-sac, dead end, closed, no through road, no exit, court, or no outlet"
+        }, 
+        {
+            "def": "\nSee cul-de-sac\n", 
+            "link": null, 
+            "name": "Dead end"
+        }, 
+        {
+            "def": "A former highway which was removed from the highway system is said to be decommissioned. The term also applies to a designation which was removed from a highway system, such as when the U.S. Route 66 was removed from the United States Numbered Highway System in 1985. The physical roadbed typically remains usable, and it may then receive a different designation as another classification of road.[1][2]", 
+            "link": "/wiki/Decommissioned_highway", 
+            "name": "Decommissioned highway"
+        }, 
+        {
+            "def": "An interchange between a freeway and a minor road where the off-ramp diverges only slightly from the freeway and runs directly across the minor road at an at-grade intersection, becoming an on-ramp that returns to the freeway in similar fashion.", 
+            "link": "/wiki/Diamond_interchange", 
+            "name": "Diamond interchange"
+        }, 
+        {
+            "def": "\nSee stack interchange\n", 
+            "link": null, 
+            "name": "Directional interchange"
+        }, 
+        {
+            "def": "A type of diamond interchange in which the two directions of traffic on the non-freeway road cross to the opposite side on both sides of the bridge at the freeway.", 
+            "link": "/wiki/Diverging_diamond_interchange", 
+            "name": "Diverging diamond interchange, DDI, double crossover diamond interchange, or DCD"
+        }, 
+        {
+            "def": "\nSee continuous-flow intersection\n", 
+            "link": null, 
+            "name": "DLT"
+        }, 
+        {
+            "def": "A class of highway with two carriageways for traffic traveling in opposite directions separated by a median strip or central reservation.", 
+            "link": "/wiki/Dual_carriageway", 
+            "name": "Dual carriageway or divided highway"
+        }, 
+        {
+            "def": "Regulations that govern the activities of commercial truck drivers, most notably limiting the number of hours a person may drive during the day or week.", 
+            "link": "/wiki/Drivers%27_working_hours", 
+            "name": "Drivers' working hours"
+        }, 
+        {
+            "def": "\nSee variable-message sign\n", 
+            "link": null, 
+            "name": "Dynamic message sign"
+        }, 
+        {
+            "def": "A system of toll collection where a driver attaches a transponder to his or her vehicle or where a camera recognizes the vehicle registration plates. Tolls are charged automatically to the driver, either by prepaid account or by regular billing, when the vehicle passes through a toll booth or gantry.", 
+            "link": "/wiki/Electronic_toll_collection", 
+            "name": "Electronic toll collection"
+        }, 
+        {
+            "def": "\nSee runaway truck ramp\n", 
+            "link": null, 
+            "name": "Escape lane or emergency escape ramp"
+        }, 
+        {
+            "def": "\nSee hurricane evacuation route\n", 
+            "link": null, 
+            "name": "Evacuation route"
+        }, 
+        {
+            "def": "A number assigned to a road junction, usually an exit from a freeway.", 
+            "link": "/wiki/Exit_number", 
+            "name": "Exit number"
+        }, 
+        {
+            "def": "\nSee limited-access road\n", 
+            "link": null, 
+            "name": "Expressway"
+        }, 
+        {
+            "def": "A highway that connects rural or agricultural areas to market towns.", 
+            "link": "/wiki/Farm-to-market_road", 
+            "name": "Farm-to-market road, ranch-to-market road, farm road, or ranch road"
+        }, 
+        {
+            "def": "\nSee controlled-access highway\n", 
+            "link": null, 
+            "name": "Freeway"
+        }, 
+        {
+            "def": "A local road running parallel to a higher-speed, limited-access road.", 
+            "link": "/wiki/Frontage_road", 
+            "name": "Frontage road, access road, service road, or parallel road"
+        }, 
+        {
+            "def": "A flood plain crossing built at or close to the natural ground level,[3] designed to be submerged under water, but withstand such conditions\u2014typically used when flood frequency or time span is minimal, traffic volumes are low, and the cost of a bridge is uneconomic.[4]", 
+            "link": "/wiki/Floodway_(road)", 
+            "name": "Floodway"
+        }, 
+        {
+            "def": "\nSee sidewalk\n", 
+            "link": null, 
+            "name": "Footpath or footway"
+        }, 
+        {
+            "def": "\nSee traffic island\n", 
+            "link": null, 
+            "name": "Ghost island"
+        }, 
+        {
+            "def": "A triangular piece of land found where roads merge or split.", 
+            "link": "/wiki/Gore_(road)", 
+            "name": "Gore, gore point, gore zone, or merge nose"
+        }, 
+        {
+            "def": "The degree by which a road rises or declines, affected by fills and cuts designed and built to reduce the steepness of a road.", 
+            "link": "/wiki/Grade_(slope)", 
+            "name": "Grade, slope, incline, gradient, pitch or rise"
+        }, 
+        {
+            "def": "The method of aligning a junction of two or more road axes at different heights (grades) so that they will not disrupt the traffic flow on other transit routes when they cross each other.", 
+            "link": "/wiki/Grade_separation", 
+            "name": "Grade separation"
+        }, 
+        {
+            "def": "\nSee rumble strips\n", 
+            "link": null, 
+            "name": "Growlers"
+        }, 
+        {
+            "def": "A system designed to keep people or vehicles from (in most cases unintentionally) straying into dangerous or off-limits areas.", 
+            "link": "/wiki/Guard_rail", 
+            "name": "Guard rail, guardrail, guide rail, or railing"
+        }, 
+        {
+            "def": "A bend in a road with a very acute inner angle that resembles a hairpin/bobby pin, making it necessary for an oncoming vehicle to turn almost 180\u00b0 to continue on the road.", 
+            "link": "/wiki/Hairpin_turn", 
+            "name": "Hairpin turn, hairpin bend, hairpin corner, or hairpin curve"
+        }, 
+        {
+            "def": "The business of transporting goods by road or rail.", 
+            "link": "/wiki/Haulage", 
+            "name": "Haulage"
+        }, 
+        {
+            "def": "A lane reserved for vehicles carrying two or more passengers or other exempted vehicles.", 
+            "link": "/wiki/High-occupancy_vehicle_lane", 
+            "name": "High-occupancy vehicle lane or HOV lane"
+        }, 
+        {
+            "def": "An HOV lane that charges a toll for vehicles that do not meet HOV regulations.", 
+            "link": "/wiki/High-occupancy_toll_lane", 
+            "name": "High-occupancy toll lane or HOT lane"
+        }, 
+        {
+            "def": "\nSee seagull intersection\n", 
+            "link": null, 
+            "name": "High-T intersection"
+        }, 
+        {
+            "def": "Any public road or other public way on land. It is used for major roads, but also includes other public roads and public tracks.", 
+            "link": "/wiki/Highway", 
+            "name": "Highway"
+        }, 
+        {
+            "def": "A graphical representation of a route number, which serves as navigational aid", 
+            "link": "/wiki/Highway_shield", 
+            "name": "Highway shield or route marker"
+        }, 
+        {
+            "def": "\nSee scenic route\n", 
+            "link": null, 
+            "name": "Holiday route"
+        }, 
+        {
+            "def": "A right turn made from the left lane (countries that drive on the left), or a left turn made from the right lane (countries that drive on the right).", 
+            "link": "/wiki/Hook_turn", 
+            "name": "Hook turn"
+        }, 
+        {
+            "def": "A highway in the United States that is a specified route for hurricane evacuation.", 
+            "link": "/wiki/Hurricane_evacuation_route", 
+            "name": "Hurricane evacuation route, coastal evacuation route, or evacuation route"
+        }, 
+        {
+            "def": "\nSee grade\n", 
+            "link": null, 
+            "name": "Incline"
+        }, 
+        {
+            "def": "A road junction that typically uses grade separation, and one or more ramps, to permit traffic on at least one highway to pass through the junction without directly crossing any other traffic stream.", 
+            "link": "/wiki/Interchange_(road)", 
+            "name": "Interchange"
+        }, 
+        {
+            "def": "An at-grade road junction of two or more roads either meeting or crossing.", 
+            "link": "/wiki/Intersection_(road)", 
+            "name": "Intersection"
+        }, 
+        {
+            "def": "A modular concrete or plastic barrier employed to separate lanes of traffic.", 
+            "link": "/wiki/Jersey_barrier", 
+            "name": "Jersey barrier, Jersey wall, K-rail, or Ontario tall wall"
+        }, 
+        {
+            "def": "\nSee superstreet\n", 
+            "link": null, 
+            "name": "J-turn"
+        }, 
+        {
+            "def": "A type of ramp or slip road where instead of a standard left turn being made from the left lane, left-turning traffic uses a ramp on the right side of the road (in countries that drive on the right).", 
+            "link": "/wiki/Jughandle", 
+            "name": "Jughandle or Jersey left"
+        }, 
+        {
+            "def": "A location where multiple roads intersect, allowing vehicular traffic to change from one road to another.", 
+            "link": "/wiki/Junction_(road)", 
+            "name": "Junction"
+        }, 
+        {
+            "def": "\nSee Jersey barrier\n", 
+            "link": null, 
+            "name": "K-rail"
+        }, 
+        {
+            "def": "\nSee three-point turn\n", 
+            "link": null, 
+            "name": "K-turn"
+        }, 
+        {
+            "def": "\nSee road train\n", 
+            "link": null, 
+            "name": "Land train"
+        }, 
+        {
+            "def": "Part of a carriageway or roadway that is designated for use by a single line of vehicles, to control and guide drivers and reduce traffic conflicts.[5]", 
+            "link": "/wiki/Lane", 
+            "name": "Lane"
+        }, 
+        {
+            "def": "A highway defined by laws passed in a legislature. The numbering of such highways may or may not correspond to the numbers familiar to the posted route number.", 
+            "link": null, 
+            "name": "Legislative route"
+        }, 
+        {
+            "def": "\nSee right-in/right-out\n", 
+            "link": null, 
+            "name": "Left-in/left-out (LILO)"
+        }, 
+        {
+            "def": "A measurement used to describe the quality of traffic on a highway. Levels range from free flowing traffic to constant traffic jams.", 
+            "link": "/wiki/Level_of_service", 
+            "name": "Level of service"
+        }, 
+        {
+            "def": "A highway or arterial road for high-speed traffic which has many or most characteristics of a controlled-access highway, including limited or no access to adjacent property, some degree of separation of opposing traffic flow, use of grade separated interchanges to some extent, prohibition of some modes of transport such as bicycles or horses and very few or no intersecting cross-streets. The definitions and degrees of isolation from local traffic allowed varies between countries and regions.[6]", 
+            "link": "/wiki/Limited-access_road", 
+            "name": "Limited-access road or expressway"
+        }, 
+        {
+            "def": "An arrangement of roadways within a major highway where long distance traffic can use lanes with fewer interchanges compared to local traffic which use 'local' or 'collector' lanes that have access to all interchanges.", 
+            "link": "/wiki/Local-express_lanes", 
+            "name": "Local-express lanes or collector\u2013distributor lanes"
+        }, 
+        {
+            "def": "\nSee Texas U-turn\n", 
+            "link": null, 
+            "name": "Loop Around"
+        }, 
+        {
+            "def": "\nSee truck\n", 
+            "link": null, 
+            "name": "Lorry"
+        }, 
+        {
+            "def": "\nSee truck driver\n", 
+            "link": null, 
+            "name": "Lorry driver"
+        }, 
+        {
+            "def": "A manual published by the Federal Highway Administration in the United States, or similar manuals published by state departments of transportation, that specifies the standards for traffic signs, highway markings, and traffic signals (collectively \"traffic control devices\"). The manual includes specifications on typefaces, colors, and shapes of signs, as well as placement of these traffic control devices.", 
+            "link": null, 
+            "name": "Manual of Uniform Traffic Control Devices"
+        }, 
+        {
+            "def": "\nSee variable-message sign\n", 
+            "link": null, 
+            "name": "Matrix sign"
+        }, 
+        {
+            "def": "The reserved area that separates opposing lanes of traffic on divided roadways. The reserved area may simply be paved or grass, but can be adapted to other functions, such as decorative landscaping, trees, a median barrier, or railway or streetcar lines.", 
+            "link": "/wiki/Median_strip", 
+            "name": "Median strip or central reservation"
+        }, 
+        {
+            "def": "The process of reducing the number of lanes available to traffic, commonly from two lanes to one.", 
+            "link": "/wiki/Merge_(traffic)", 
+            "name": "Merge"
+        }, 
+        {
+            "def": "\nSee gore\n", 
+            "link": null, 
+            "name": "Merge nose"
+        }, 
+        {
+            "def": "An at-grade intersection design which replaces each left turn with a right turn followed by a U-turn, or a U-turn followed by a right turn", 
+            "link": "/wiki/Michigan_left", 
+            "name": "Michigan left"
+        }, 
+        {
+            "def": "One of a series of numbered markers placed along a road or boundary at intervals of one mile or occasionally, parts of a mile.", 
+            "link": "/wiki/Milestone", 
+            "name": "Milestone, mile markers, mileposts or mile post"
+        }, 
+        {
+            "def": "\nSee controlled-access highway\n", 
+            "link": null, 
+            "name": "Motorway"
+        }, 
+        {
+            "def": "A road numbered consistently throughout a country. Maintenance of the road may be performed at the national level or it may be devolved to states or provinces or to lower levels of administration. The Interstate Highway System, Trans-Canada Highway, and German autobahns are examples of national highways.", 
+            "link": "/wiki/Highway_systems_by_country", 
+            "name": "National highway"
+        }, 
+        {
+            "def": "\nSee cul-de-sac\n", 
+            "link": null, 
+            "name": "No through road, no exit, or no outlet"
+        }, 
+        {
+            "def": "A pair of parallel, usually one-way streets that carry opposite directions of traffic.", 
+            "link": "/wiki/One-way_pair", 
+            "name": "One-way pair, one-way couple, or couplet"
+        }, 
+        {
+            "def": "\nSee Jersey barrier\n", 
+            "link": null, 
+            "name": "Ontario tall wall"
+        }, 
+        {
+            "def": "A form of electronic toll collection where tolls are collected at highway speeds without the need for tollbooths.", 
+            "link": "/wiki/Open_road_tolling", 
+            "name": "Open road tolling"
+        }, 
+        {
+            "def": "\nSee barrier toll system\n", 
+            "link": null, 
+            "name": "Open toll system"
+        }, 
+        {
+            "def": "\nSee alternate route\n", 
+            "link": null, 
+            "name": "Optional route"
+        }, 
+        {
+            "def": "\nSee ring road\n", 
+            "link": null, 
+            "name": "Orbital"
+        }, 
+        {
+            "def": "\nSee traffic island\n", 
+            "link": null, 
+            "name": "Painted island"
+        }, 
+        {
+            "def": "\nSee frontage road\n", 
+            "link": null, 
+            "name": "Parallel road"
+        }, 
+        {
+            "def": "A broad, landscaped highway thoroughfare, particularly a roadway in a park or connecting to a park from which trucks and other heavy vehicles are excluded.[7]", 
+            "link": "/wiki/Parkway", 
+            "name": "Parkway"
+        }, 
+        {
+            "def": "An interchange that has loop ramps, as in a cloverleaf, but does not have the full set of eight ramps. These use between four and seven ramps and are not full grade-separated; traffic making certain movements between the intersecting roadways must stop.", 
+            "link": "/wiki/Partial_cloverleaf_interchange", 
+            "name": "Partial cloverleaf interchange, or parclo"
+        }, 
+        {
+            "def": "\nFor the material, see road surface. For the path, see sidewalk.\n", 
+            "link": null, 
+            "name": "Pavement"
+        }, 
+        {
+            "def": "A designated place for pedestrians to cross a road.", 
+            "link": "/wiki/Pedestrian_crossing", 
+            "name": "Pedestrian crossing or crosswalk"
+        }, 
+        {
+            "def": "\nSee grade\n", 
+            "link": null, 
+            "name": "Pitch"
+        }, 
+        {
+            "def": "\nFor the type of easement, see right-of-way\nThe traffic principle that establishes who has the right to go first when the intended courses of vehicles or pedestrians intersect.", 
+            "link": "/wiki/Right_of_way_(traffic)", 
+            "name": "Priority or right of way"
+        }, 
+        {
+            "def": "\nSee state highway\n", 
+            "link": null, 
+            "name": "Provincial highway, provincial road, or provincial route"
+        }, 
+        {
+            "def": "An intersection between two roads with an additional \"quadrant roadway\" between two legs of the intersecting roads. Left turns (in right-hand traffic countries) or right turns (in left-hand traffic countries) are made via the quadrant roadway rather than at the main intersection.", 
+            "link": "/wiki/Quadrant_roadway_intersection", 
+            "name": "Quadrant roadway intersection or quadrant intersection"
+        }, 
+        {
+            "def": "\nSee guard rail\n", 
+            "link": null, 
+            "name": "Railing"
+        }, 
+        {
+            "def": "A road surface marker used on roads, usually made with plastic, ceramic, thermoplastic paint or occasionally metal, and come in a variety of shapes and colors.", 
+            "link": "/wiki/Raised_pavement_marker", 
+            "name": "Raised pavement marker or raised reflective marker"
+        }, 
+        {
+            "def": "\nSee slip road\n", 
+            "link": null, 
+            "name": "Ramp"
+        }, 
+        {
+            "def": "\nSee farm-to-market road\n", 
+            "link": null, 
+            "name": "Ranch-to-market road or ranch road"
+        }, 
+        {
+            "def": "A public facility, located next to a large thoroughfare such as a highway, expressway, or freeway at which drivers and passengers can rest, eat, or refuel without exiting on to secondary roads.", 
+            "link": "/wiki/Rest_area", 
+            "name": "Rest area, travel plaza, rest stop, or service area"
+        }, 
+        {
+            "def": "\nSee superstreet\n", 
+            "link": null, 
+            "name": "Restricted crossing U-turn (RCUT) or Reduced Conflict Intersection"
+        }, 
+        {
+            "def": "A lane in which traffic may travel in either direction, depending on certain conditions. Typically, it is meant to improve traffic flow during rush hours, by having overhead traffic lights and lighted street signs notify drivers which lanes are open or closed to driving or turning.", 
+            "link": "/wiki/Reversible_lane", 
+            "name": "Reversible lane or tidal flow"
+        }, 
+        {
+            "def": "A type of three-way road intersection where turning movements of vehicles are restricted. A RIRO permits only right turns and a LILO permits only left turns. RIRO is typical when vehicles drive on the right, and LILO is usual where vehicles drive on the left.", 
+            "link": "/wiki/Right-in/right-out", 
+            "name": "Right-in/right-out (RIRO) or left-in/left-out (LILO)"
+        }, 
+        {
+            "def": "\nFor the traffic principle, see priority\nA type of easement granted or reserved over the land for transportation purposes, this can be for a highway, public footpath, rail transport, canal, as well as electrical transmission lines, oil and gas pipelines.[8]", 
+            "link": "/wiki/Right-of-way_(transportation)", 
+            "name": "Right-of-way"
+        }, 
+        {
+            "def": "A highway or series of highways that encircle a city or town.", 
+            "link": "/wiki/Ring_road", 
+            "name": "Ring road, beltway, circumferential highway, or orbital"
+        }, 
+        {
+            "def": "\nSee grade\n", 
+            "link": null, 
+            "name": "Rise"
+        }, 
+        {
+            "def": "\nSee traffic sign\n", 
+            "link": null, 
+            "name": "Road sign"
+        }, 
+        {
+            "def": "Durable surface material laid down on an area intended to sustain vehicular or foot traffic.", 
+            "link": "/wiki/Road_surface", 
+            "name": "Road surface or pavement"
+        }, 
+        {
+            "def": "Mechanical (cat's-eye reflectors), non-mechanical (paint), or temporary devices used on a road surface that convey information to motorists, most commonly to delineate traffic lanes or to promote road safety.", 
+            "link": "/wiki/Road_surface_marking", 
+            "name": "Road surface marking"
+        }, 
+        {
+            "def": "A method of trucking where a tractor pulls two or more trailers.", 
+            "link": "/wiki/Road_train", 
+            "name": "Road train or land train"
+        }, 
+        {
+            "def": "A type of circular intersection or junction in which road traffic flows almost continuously in one direction around a central island.[9]", 
+            "link": "/wiki/Roundabout", 
+            "name": "Roundabout, rotary, or traffic circle"
+        }, 
+        {
+            "def": "\nSee highway shield\n", 
+            "link": null, 
+            "name": "Route marker"
+        }, 
+        {
+            "def": "A combination of letters and/or numbers that serve to identify a particular road. Route numbers may be assigned randomly or as part of a regional numbering scheme.", 
+            "link": "/wiki/Route_number", 
+            "name": "Route number, road number, or route identifier"
+        }, 
+        {
+            "def": "A road surface mark used to alert inattentive drivers of potential danger, by causing a tactile vibration and audible rumbling transmitted through the wheels into the vehicle interior.", 
+            "link": "/wiki/Rumble_strip", 
+            "name": "Rumble strips, sleeper lines, rumple strips, audible lines, the corduroy, or growlers"
+        }, 
+        {
+            "def": "An emergency lane with a sand or gravel-filled bed large enough to accommodate and safely stop large trucks, usually adjacent to a road with a steep down-hill grade.", 
+            "link": "/wiki/Runaway_truck_ramp", 
+            "name": "Runaway truck ramp, runaway truck lane, escape lane, emergency escape ramp or truck arrester bed"
+        }, 
+        {
+            "def": "A specially designated road that travels through an area of natural beauty or cultural interest, or along a historic route.", 
+            "link": "/wiki/Scenic_route", 
+            "name": "Scenic route, tourist road, tourist route, tourist drive, holiday route, theme route, or scenic byway"
+        }, 
+        {
+            "def": "A type of three-way road intersection, usually used on high traffic volume roads and dual carriageways. In this type of intersection, one direction of traffic travels straight through without stopping while those wishing to turn onto the side road at the intersection simply bear into a separate lane, which forms one 'wing' of the seagull. Here, they meet the opposite carriageway and the side road. Traffic wishing to turn out of the side road, simply cross the intersecting carriageway and drive up the other 'wing' of the seagull, and merge onto the other carriageway.", 
+            "link": "/wiki/Seagull_intersection", 
+            "name": "Seagull intersection, continuous green T-intersection, turbo-T, or High-T intersection"
+        }, 
+        {
+            "def": "A road on which the surface has been permanently sealed by the use of a pavement treatment, such as bitumen.", 
+            "link": "/wiki/Sealed_road", 
+            "name": "Sealed road"
+        }, 
+        {
+            "def": "\nSee rest area\n", 
+            "link": null, 
+            "name": "Service area"
+        }, 
+        {
+            "def": "\nSee frontage road\n", 
+            "link": null, 
+            "name": "Service road"
+        }, 
+        {
+            "def": "A path along the side of a road.", 
+            "link": "/wiki/Sidewalk", 
+            "name": "Sidewalk, footpath, footway, or pavement"
+        }, 
+        {
+            "def": "A reserved lane by the verge of a road or motorway.", 
+            "link": "/wiki/Shoulder_(road)", 
+            "name": "Shoulder"
+        }, 
+        {
+            "def": "A road with one, two, or more lanes arranged within a roadway or carriageway with no physical separation of opposing flows of traffic.", 
+            "link": "/wiki/Single_carriageway", 
+            "name": "Single carriageway or undivided highway"
+        }, 
+        {
+            "def": "A variant of the diamond interchange most often used in urban areas where conservation of space is necessitated.", 
+            "link": "/wiki/Single_point_urban_interchange", 
+            "name": "Single point urban interchange or SPUI"
+        }, 
+        {
+            "def": "\nSee rumble strips\n", 
+            "link": null, 
+            "name": "Sleeper lines"
+        }, 
+        {
+            "def": "A connector road between the intersecting roads of an interchange.", 
+            "link": "/wiki/Slip_road", 
+            "name": "Slip road or ramp"
+        }, 
+        {
+            "def": "\nSee grade\n", 
+            "link": null, 
+            "name": "Slope"
+        }, 
+        {
+            "def": "A nickname sometimes given to a complicated or massively intertwined road traffic interchange that resembles a plate of spaghetti. The term was originally used to refer to the Gravelly Hill Interchange on the M6 in Birmingham.[10]", 
+            "link": "/wiki/Spaghetti_Junction", 
+            "name": "Spaghetti Junction"
+        }, 
+        {
+            "def": "A prefixed and/or suffixed numbered road in the United States that forms a loop or spur of a more dominant route of the same route number and system.", 
+            "link": "/wiki/Special_route", 
+            "name": "Special route"
+        }, 
+        {
+            "def": "A family of traffic calming devices that use vertical deflection to slow motor-vehicle traffic in order to improve safety conditions.", 
+            "link": "/wiki/Speed_bump", 
+            "name": "Speed bump, speed hump, speed ramp, speed cushion, or speed table"
+        }, 
+        {
+            "def": "The maximum (or minimum in some cases) speed at which road vehicles may travel legally on particular stretches of road.", 
+            "link": "/wiki/Speed_limit", 
+            "name": "Speed limit"
+        }, 
+        {
+            "def": "An highway that branches off of the mainline and goes to an area that is not served by the mainline highway.", 
+            "link": "/wiki/Spur_route", 
+            "name": "Spur route"
+        }, 
+        {
+            "def": "A free-flowing, grade-separated junction between two roads, where movements are handled by semi-directional flyovers or under ramps. Vehicles first exit the main carriageway, then complete the turn via a ramp that crosses both highways, eventually merging with the traffic from the opposite side of the interchange.", 
+            "link": "/wiki/Stack_interchange", 
+            "name": "Stack interchange, butterfly junction, or directional interchange"
+        }, 
+        {
+            "def": "A road numbered or maintained by a state or province.", 
+            "link": "/wiki/State_highway", 
+            "name": "State highway, state road, state route, provincial highway, provincial road, or provincial route"
+        }, 
+        {
+            "def": "A diagram that describes a road and its features along a straight line.", 
+            "link": "/wiki/Straight-line_diagram", 
+            "name": "Straight-line diagram or strip map"
+        }, 
+        {
+            "def": "\nSee unused highway\n", 
+            "link": null, 
+            "name": "Stub ramp, stub street, stub-out, stub, or ski jump"
+        }, 
+        {
+            "def": "An at-grade intersection where traffic on the minor road cannot go straight across. Traffic on the minor road wishing to turn left or continue straight must turn right onto the major road, then, a short distance away, use a U-turn (or crossover) lane in the median before either going straight or making a right turn when they intersect the other half of the minor road.", 
+            "link": "/wiki/Superstreet", 
+            "name": "Superstreet, restricted crossing U-turn (RCUT), J-turn, or Reduced Conflict Intersection"
+        }, 
+        {
+            "def": "A two-lane surface road built to highway standards, typically including partial control of access, occasional passing lanes and hard shoulders.", 
+            "link": "/wiki/Super_two", 
+            "name": "Super two, super two-lane highway, or wide two lane"
+        }, 
+        {
+            "def": "A lane allowing cars traveling on one side of a one-way frontage road to U-turn onto the opposite frontage road (typically crossing over or under a freeway or expressway).", 
+            "link": "/wiki/Texas_U-turn", 
+            "name": "Texas U-turn, Texas turnaround, or Loop Around"
+        }, 
+        {
+            "def": "A method of turning a vehicle around (making a 180\u00b0 turn) in close quarters, such as in the middle of a road at a point other than an intersection.", 
+            "link": "/wiki/Three-point_turn", 
+            "name": "Three-point turn or K-turn"
+        }, 
+        {
+            "def": "a type of road intersection with three arms. A Y junction generally has 3 arms of equal size. A T junction also has 3 arms, but one of the arms is generally a minor road connecting to larger road.", 
+            "link": "/wiki/Three-way_junction", 
+            "name": "Three-way junction, 3-way junction, 3-way intersection, Y junction, Y intersection, T junction, or T intersection"
+        }, 
+        {
+            "def": "A toll road where motorists pay a toll rate based on the distance traveled from their origin to their destination exit. Motorists take a ticket when entering the road and pay the toll and surrender the ticket upon exiting.", 
+            "link": "/wiki/Ticket_system", 
+            "name": "Ticket system or closed toll collection system"
+        }, 
+        {
+            "def": "A road for which a fee (or toll) is assessed for passage.", 
+            "link": "/wiki/Toll_road", 
+            "name": "Toll road, turnpike, or tollway"
+        }, 
+        {
+            "def": "\nSee scenic route\n", 
+            "link": null, 
+            "name": "Tourist road, tourist route, tourist drive, or theme route"
+        }, 
+        {
+            "def": "Pedestrians, ridden or herded animals, vehicles, streetcars, buses and other conveyances, either singly or together, that use roads for purposes of travel.", 
+            "link": "/wiki/Traffic", 
+            "name": "Traffic"
+        }, 
+        {
+            "def": "\nSee roundabout\n", 
+            "link": null, 
+            "name": "Traffic circle"
+        }, 
+        {
+            "def": "A solid or painted object in a road that channelises traffic.", 
+            "link": "/wiki/Traffic_island", 
+            "name": "Traffic island, painted island, or ghost island"
+        }, 
+        {
+            "def": "Signaling devices positioned at road intersections, pedestrian crossings and other locations to control competing flows of traffic.", 
+            "link": "/wiki/Traffic_light", 
+            "name": "Traffic light"
+        }, 
+        {
+            "def": "A method of conveying information to people who are using a road. Depending on location, the main color of the sign can tell the motorist what type of information is presented on the sign.", 
+            "link": "/wiki/Traffic_sign", 
+            "name": "Traffic sign or road sign"
+        }, 
+        {
+            "def": "\nSee rest area\n", 
+            "link": null, 
+            "name": "Travel plaza"
+        }, 
+        {
+            "def": "A vehicle designed to carry cargo.", 
+            "link": "/wiki/Truck", 
+            "name": "Truck or lorry"
+        }, 
+        {
+            "def": "\nSee runaway truck ramp\n", 
+            "link": null, 
+            "name": "Truck arrester bed"
+        }, 
+        {
+            "def": "A person who earns a living by driving a truck", 
+            "link": "/wiki/Truck_driver", 
+            "name": "Truck driver, trucker or truckie, lorry driver, or driver"
+        }, 
+        {
+            "def": "A bypass designed for heavy truck traffic.", 
+            "link": "/wiki/Truck_route", 
+            "name": "Truck route"
+        }, 
+        {
+            "def": "A type of junction that allows traffic traveling in one direction on a road to efficiently make a U-turn typically without backing up or making dangerous maneuvers in the middle of the traffic stream.", 
+            "link": "/wiki/Turnaround_(road)", 
+            "name": "Turnaround"
+        }, 
+        {
+            "def": "When a motorist must exit a highway to continue traveling on the same numbered route.", 
+            "link": null, 
+            "name": "Turn off to stay on (TOTSO)"
+        }, 
+        {
+            "def": "\nSee seagull intersection\n", 
+            "link": null, 
+            "name": "Turbo-T"
+        }, 
+        {
+            "def": "An expressway with only one lane in each direction, and usually no median barrier.", 
+            "link": "/wiki/Two-lane_expressway", 
+            "name": "Two-lane expressway"
+        }, 
+        {
+            "def": "A single carriageway with one lane for each direction.", 
+            "link": "/wiki/Two-lane_road", 
+            "name": "Two-lane road"
+        }, 
+        {
+            "def": "\nSee single carriageway\n", 
+            "link": null, 
+            "name": "Undivided highway"
+        }, 
+        {
+            "def": "A highway or highway ramp that was partially or fully constructed, but was unused or later closed.", 
+            "link": "/wiki/Unused_highway", 
+            "name": "Unused highway, ski jump, stub ramp, stub street, stub-out, or stub"
+        }, 
+        {
+            "def": "A 180\u00b0 rotation to reverse the direction of travel so called because the maneuver looks like the letter U.", 
+            "link": "/wiki/U-turn", 
+            "name": "U-turn"
+        }, 
+        {
+            "def": "A traffic sign that can display important messages about special events to motorists. Commute times, weather alerts, Amber alerts, and advanced notices of road construction or accidents are common messages.", 
+            "link": "/wiki/Variable-message_sign", 
+            "name": "Variable-message sign, dynamic message sign, or matrix sign"
+        }, 
+        {
+            "def": "A multilateral treaty designed to increase road safety and aid international road traffic by standardizing the signing system for road traffic (road signs, traffic lights and road markings) in use internationally.", 
+            "link": "/wiki/Vienna_Convention_on_Road_Signs_and_Signals", 
+            "name": "Vienna Convention on Road Signs and Signals"
+        }, 
+        {
+            "def": "An international treaty designed to facilitate international road traffic and to increase road safety by establishing standard traffic rules among the contracting parties.", 
+            "link": "/wiki/Vienna_Convention_on_Road_Traffic", 
+            "name": "Vienna Convention on Road Traffic"
+        }, 
+        {
+            "def": "A checkpoint along a highway to inspect vehicular weights. Usually, trucks and commercial vehicles are subject to the inspection.", 
+            "link": "/wiki/Weigh_station", 
+            "name": "Weigh station"
+        }, 
+        {
+            "def": "\nSee super two\n", 
+            "link": null, 
+            "name": "Wide two lane"
+        }, 
+        {
+            "def": "A concurrency between two roads with opposite signed directions, e.g. a westbound highway and an eastbound highway. Often, the physical roadbed is actually headed in a totally different cardinal direction.", 
+            "link": "/wiki/Wrong-way_concurrency", 
+            "name": "Wrong-way concurrency"
+        }, 
+        {
+            "def": "\nSee continuous-flow intersection\n", 
+            "link": null, 
+            "name": "XDL"
+        }, 
+        {
+            "def": "An abbreviation for road crossing, primarily used in North America", 
+            "link": "/wiki/Xing_(disambiguation)", 
+            "name": "Xing or x-ing"
+        }, 
+        {
+            "def": "\nSee three-way junction\n", 
+            "link": null, 
+            "name": "Y junction or Y intersection"
+        }, 
+        {
+            "def": "A pedestrian crossing marked by alternating dark and light stripes, which typically gives extra rights of way to pedestrians.", 
+            "link": "/wiki/Zebra_crossing", 
+            "name": "Zebra crossing"
+        }
+    ]
+}

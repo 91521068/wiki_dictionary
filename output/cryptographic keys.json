@@ -1,0 +1,202 @@
+{
+    "c1": "", 
+    "c2": "Mathematics", 
+    "c3": "cryptographic keys", 
+    "words": [
+        {
+            "def": "40-bit key - key with a length of 40 bits, once the upper limit of what could be exported from the U.S. and other countries without a license. Considered very insecure. See key size for a discussion of this and other lengths.", 
+            "link": null, 
+            "name": "40-bit key"
+        }, 
+        {
+            "def": "authentication key - Key used in a keyed-hash message authentication code, or HMAC.", 
+            "link": null, 
+            "name": "authentication key"
+        }, 
+        {
+            "def": "benign key - (NSA) a key that has been protected by encryption or other means so that it can be distributed without fear of its being stolen. Also called BLACK key.", 
+            "link": null, 
+            "name": "benign key"
+        }, 
+        {
+            "def": "content-encryption key (CEK) a key that may be further encrypted using a KEK, where the content may be a message, audio, image, video, executable code, etc.", 
+            "link": null, 
+            "name": "content-encryption key (CEK)"
+        }, 
+        {
+            "def": "crypto ignition key An NSA key storage device (KSD-64) shaped to look like an ordinary physical key.", 
+            "link": null, 
+            "name": "crypto ignition key"
+        }, 
+        {
+            "def": "cryptovariable - NSA calls the output of a stream cipher a key or key stream. It often uses the term cryptovariable for the bits that control the stream cipher, what the public cryptographic community calls a key.", 
+            "link": null, 
+            "name": "cryptovariable"
+        }, 
+        {
+            "def": "data encryption key (DEK) used to encrypt the underlying data.", 
+            "link": null, 
+            "name": "data encryption key (DEK)"
+        }, 
+        {
+            "def": "derived key - keys computed by applying a predetermined hash algorithm or key derivation function to a password or, better, a passphrase.", 
+            "link": null, 
+            "name": "derived key"
+        }, 
+        {
+            "def": "DRM key - A key used in Digital Rights Management to protect media", 
+            "link": null, 
+            "name": "DRM key"
+        }, 
+        {
+            "def": "electronic key - (NSA) key that is distributed in electronic (as opposed to paper) form. See EKMS.", 
+            "link": null, 
+            "name": "electronic key"
+        }, 
+        {
+            "def": "ephemeral key - A key that only exists within the lifetime of a communication session.", 
+            "link": null, 
+            "name": "ephemeral key"
+        }, 
+        {
+            "def": "expired key - Key that was issued for a use in a limited time frame (cryptoperiod in NSA parlance) which has passed and, hence, the key is no longer valid.", 
+            "link": null, 
+            "name": "expired key"
+        }, 
+        {
+            "def": "FIREFLY key - (NSA) keys used in an NSA system based on public key cryptography.", 
+            "link": null, 
+            "name": "FIREFLY key"
+        }, 
+        {
+            "def": "Key derivation function (KDF) - function used to derive a key from a secret value, e.g. to derive KEK from Diffie-Hellman key exchange.[citation needed]", 
+            "link": null, 
+            "name": "Key derivation function (KDF)"
+        }, 
+        {
+            "def": "key encryption key (KEK) - key used to protect MEK keys (or DEK/TEK if MEK is not used).", 
+            "link": null, 
+            "name": "key encryption key (KEK)"
+        }, 
+        {
+            "def": "key production key (KPK) -Key used to initialize a keystream generator for the production of other electronically generated keys.", 
+            "link": null, 
+            "name": "key production key (KPK)"
+        }, 
+        {
+            "def": "key fill - (NSA) loading keys into a cryptographic device. See fill device.", 
+            "link": null, 
+            "name": "key fill"
+        }, 
+        {
+            "def": "master key - key from which all other keys (or a large group of keys) can be derived. Analogous to a physical key that can open all the doors in a building.", 
+            "link": null, 
+            "name": "master key"
+        }, 
+        {
+            "def": "master encryption key (MEK) - Used to encrypt the DEK/TEK key.", 
+            "link": null, 
+            "name": "master encryption key (MEK)"
+        }, 
+        {
+            "def": "one time pad (OTP or OTPad) - keying material that should be as long as the plaintext and should only be used once. If truly random and not reused it's the most secure encryption method. See one-time pad article.", 
+            "link": null, 
+            "name": "one time pad (OTP or OTPad)"
+        }, 
+        {
+            "def": "one time password (OTP) - One time password based on a prebuilt single use code list or based on a mathematical formula with a secret seed known to both parties, uses event or time to modify output (see TOTP/HOTP).", 
+            "link": null, 
+            "name": "one time password (OTP)"
+        }, 
+        {
+            "def": "paper key - (NSA) keys that are distributed in paper form, such as printed lists of settings for rotor machines, or keys in punched card or paper tape formats. Paper keys are easily copied. See Walker spy ring, RED key.", 
+            "link": null, 
+            "name": "paper key"
+        }, 
+        {
+            "def": "poem key - Keys used by OSS agents in World War II in the form of a poem that was easy to remember. See Leo Marks.", 
+            "link": null, 
+            "name": "poem key"
+        }, 
+        {
+            "def": "Public/private key - in public key cryptography, separate keys are used to encrypt and decrypt a message. The encryption key (public key) need not be kept secret and can be published. The decryption or private key must be kept secret to maintain confidentiality. Public keys are often distributed in a signed public key certificate.", 
+            "link": null, 
+            "name": "Public/private key"
+        }, 
+        {
+            "def": "pre-placed key - (NSA) large numbers of keys (perhaps a year's supply) that are loaded into an encryption device allowing frequent key change without refill.", 
+            "link": null, 
+            "name": "pre-placed key"
+        }, 
+        {
+            "def": "RED key - (NSA) symmetric key in a format that can be easily copied, e.g. paper key or unencrypted electronic key. Opposite of BLACK or benign key.", 
+            "link": null, 
+            "name": "RED key"
+        }, 
+        {
+            "def": "revoked key - a public key that should no longer be used, typically because its owner is no longer in the role for which it was issued or because it may have been compromised. Such keys are placed on a certificate revocation list or CRL.", 
+            "link": null, 
+            "name": "revoked key"
+        }, 
+        {
+            "def": "session key - key used for one message or an entire communications session. See traffic encryption key.", 
+            "link": "/wiki/Session_key", 
+            "name": "session key"
+        }, 
+        {
+            "def": "symmetric key - a key that is used both to encrypt and decrypt a message. Symmetric keys are typically used with a cipher and must be kept secret to maintain confidentiality.", 
+            "link": null, 
+            "name": "symmetric key"
+        }, 
+        {
+            "def": "traffic encryption key (TEK)/data encryption key (DEK) - a symmetric key that is used to encrypt messages. TEKs are typically changed frequently, in some systems daily and in others for every message. See session key. DEK is used to specify any data form type (in communication payloads or anywhere else).", 
+            "link": null, 
+            "name": "traffic encryption key (TEK)/data encryption key (DEK)"
+        }, 
+        {
+            "def": "transmission security key (TSK) - (NSA) seed for a pseudorandom number generator that is used to control a radio in frequency hopping or direct-sequence spread spectrum modes. See SINCGARS, electronic warfare.", 
+            "link": null, 
+            "name": "transmission security key (TSK)"
+        }, 
+        {
+            "def": "seed key - (NSA) a key used to initialize a cryptographic device so it can accept operational keys using benign transfer techniques. Also a key used to initialize a pseudorandom number generator to generate other keys.", 
+            "link": null, 
+            "name": "seed key"
+        }, 
+        {
+            "def": "signature key - public key cryptography can also be used to electronically sign messages. The private key is used to create the electronic signature, the public key is used to verify the signature. Separate public/private key pairs must be used for signing and encryption. The former is called signature keys.", 
+            "link": null, 
+            "name": "signature key"
+        }, 
+        {
+            "def": "stream key - the output of a stream cipher as opposed to the key (or cryptovariable in NSA parlance) that controls the cipher", 
+            "link": null, 
+            "name": "stream key"
+        }, 
+        {
+            "def": "training key - (NSA) unclassified key used for instruction and practice exercises.", 
+            "link": null, 
+            "name": "training key"
+        }, 
+        {
+            "def": "Type 1 key - (NSA) keys used to protect classified information. See Type 1 product.", 
+            "link": null, 
+            "name": "Type 1 key"
+        }, 
+        {
+            "def": "Type 2 key - (NSA) keys used to protect sensitive but unclassified (SBU) information. See Type 2 product.", 
+            "link": null, 
+            "name": "Type 2 key"
+        }, 
+        {
+            "def": "Vernam key - Type of key invented by Gilbert Vernam in 1918. See stream key.", 
+            "link": null, 
+            "name": "Vernam key"
+        }, 
+        {
+            "def": "zeroized key - key that has been erased (see zeroisation.)", 
+            "link": null, 
+            "name": "zeroized key"
+        }
+    ]
+}

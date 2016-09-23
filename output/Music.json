@@ -1,0 +1,3107 @@
+{
+    "c1": "", 
+    "c2": "Art", 
+    "c3": "Music", 
+    "words": [
+        {
+            "def": "at, to, by, for, in, in the style of...", 
+            "link": null, 
+            "name": "a or \u00e0 (Fre)\u00a0"
+        }, 
+        {
+            "def": "see a due", 
+            "link": null, 
+            "name": "a 2\u00a0"
+        }, 
+        {
+            "def": "Return to normal tempo after a deviation. Not recommended in string parts, due to possible confusion with battuto (qv.); use a tempo, which means the same thing.", 
+            "link": null, 
+            "name": "a battuta\u00a0"
+        }, 
+        {
+            "def": "Up to the performer", 
+            "link": null, 
+            "name": "a bene placito\u00a0"
+        }, 
+        {
+            "def": "(i.e. without instrumental accompaniment)", 
+            "link": "/wiki/A_cappella", 
+            "name": "a cappella\u00a0"
+        }, 
+        {
+            "def": "A free and capricious approach to tempo", 
+            "link": "/wiki/A_capriccio", 
+            "name": "a capriccio\u00a0"
+        }, 
+        {
+            "def": "intended as a duet; for two voices or instruments; together; two instruments are to play in unison after a solo passage for one of the instruments", 
+            "link": "/wiki/A_due", 
+            "name": "a due"
+        }, 
+        {
+            "def": "To nothing; an indication to hold a fermata until it dies away (this only works with instruments which cannot sustain a note)", 
+            "link": null, 
+            "name": "a nessuna cosa\u00a0"
+        }, 
+        {
+            "def": "To nothing; an indication to make a diminuendo which fades to pppp", 
+            "link": null, 
+            "name": "a niente\u00a0"
+        }, 
+        {
+            "def": "At pleasure (i.e. the performer need not follow the rhythm strictly, for example in a cadenza)", 
+            "link": null, 
+            "name": "a piacere\u00a0"
+        }, 
+        {
+            "def": "Sight-read (lit. \"at first sight\") (i.e. played or sung from written notation but without prior review of the written material)", 
+            "link": null, 
+            "name": "a prima vista\u00a0"
+        }, 
+        {
+            "def": "In time (i.e. the performer should return to the main tempo of the piece, such as after an accelerando or ritardando); also may be found in combination with other terms such as a tempo giusto (in strict time) or a tempo di menuetto (at the speed of a minuet)", 
+            "link": null, 
+            "name": "a tempo\u00a0"
+        }, 
+        {
+            "def": "off, organ stops or mutes", 
+            "link": null, 
+            "name": "ab (Ger)\u00a0"
+        }, 
+        {
+            "def": "muffled, muted", 
+            "link": null, 
+            "name": "abafando (Por)\u00a0"
+        }, 
+        {
+            "def": "free, unrestrained, passionate", 
+            "link": null, 
+            "name": "abandon or avec (Fre)\u00a0"
+        }, 
+        {
+            "def": "free, relaxed", 
+            "link": null, 
+            "name": "abbandonatamente, con abbandono\u00a0"
+        }, 
+        {
+            "def": "but", 
+            "link": null, 
+            "name": "aber (Ger)\u00a0"
+        }, 
+        {
+            "def": "Expressive and caressing", 
+            "link": "/wiki/Accarezz%C3%A9vole", 
+            "name": "accarezz\u00e9vole\u00a0"
+        }, 
+        {
+            "def": "Accelerating; gradually increasing the tempo", 
+            "link": null, 
+            "name": "accelerando (accel.)\u00a0"
+        }, 
+        {
+            "def": "suddenly increasing the tempo", 
+            "link": null, 
+            "name": "accelerato\u00a0"
+        }, 
+        {
+            "def": "Emphasize, make a particular part more important", 
+            "link": null, 
+            "name": "accent\u00a0"
+        }, 
+        {
+            "def": "Accented; with emphasis", 
+            "link": null, 
+            "name": "accentato/accentuato\u00a0"
+        }, 
+        {
+            "def": "Ignited, on fire", 
+            "link": null, 
+            "name": "acceso\u00a0"
+        }, 
+        {
+            "def": "Music that is easy to listen to/understand", 
+            "link": null, 
+            "name": "accessible\u00a0"
+        }, 
+        {
+            "def": "Broken down, crushed; the sounding of the notes of a chord not quite simultaneously, but from bottom to top.", 
+            "link": null, 
+            "name": "acciaccato\u00a0"
+        }, 
+        {
+            "def": "Crushing (i.e. a very fast grace note that is \"crushed\" against the note that follows and takes up no value in the measure)", 
+            "link": "/wiki/Acciaccatura", 
+            "name": "acciaccatura\u00a0"
+        }, 
+        {
+            "def": "Accompanied (i.e. with the accompaniment following the soloist, who may speed up or slow down at will)", 
+            "link": null, 
+            "name": "accompagnato\u00a0"
+        }, 
+        {
+            "def": "Precision; accuracy con accuratezza: with precision", 
+            "link": null, 
+            "name": "accuratezza\u00a0"
+        }, 
+        {
+            "def": "Relating to music produced by instruments, as opposed to electric or electronic means", 
+            "link": "/wiki/Acoustic_music", 
+            "name": "acoustic\u00a0"
+        }, 
+        {
+            "def": "At liberty (i.e. the speed and manner of execution are left to the performer)", 
+            "link": "/wiki/Ad_libitum", 
+            "name": "ad libitum (commonly ad lib; Latin)\u00a0"
+        }, 
+        {
+            "def": "Rather slow (but faster than adagio)", 
+            "link": null, 
+            "name": "adagietto\u00a0"
+        }, 
+        {
+            "def": "At ease (i.e. play slowly)", 
+            "link": null, 
+            "name": "adagio\u00a0"
+        }, 
+        {
+            "def": "Very, very slow", 
+            "link": null, 
+            "name": "adagissimo\u00a0"
+        }, 
+        {
+            "def": "Anguished", 
+            "link": null, 
+            "name": "affannato, affannoso\u00a0"
+        }, 
+        {
+            "def": "with affect (that is, with emotion)", 
+            "link": null, 
+            "name": "affetto or con affetto"
+        }, 
+        {
+            "def": "With affect (that is, with emotion); see also con affetto", 
+            "link": null, 
+            "name": "affettuoso, affettuosamente, or affectueusement (Fre)\u00a0"
+        }, 
+        {
+            "def": "Hurrying, pressing onwards", 
+            "link": null, 
+            "name": "affrettando\u00a0"
+        }, 
+        {
+            "def": "Swiftly", 
+            "link": null, 
+            "name": "agile\u00a0"
+        }, 
+        {
+            "def": "Agitated", 
+            "link": null, 
+            "name": "agitato\u00a0"
+        }, 
+        {
+            "def": "To the, in the manner of (al before masculine nouns, alla before feminine)", 
+            "link": null, 
+            "name": "al or alla\u00a0"
+        }, 
+        {
+            "def": "lit. \"no restriction\", used in con alcuna licenza to mean (play) with some freedom in the time, see rubato", 
+            "link": null, 
+            "name": "alcuna licenza\u00a0"
+        }, 
+        {
+            "def": "\"at the octave\", see ottava", 
+            "link": null, 
+            "name": "all' ottava\u00a0"
+        }, 
+        {
+            "def": "In cut-time; two beats per measure or the equivalent thereof", 
+            "link": null, 
+            "name": "alla breve\u00a0"
+        }, 
+        {
+            "def": "In the style of a march", 
+            "link": null, 
+            "name": "alla marcia\u00a0"
+        }, 
+        {
+            "def": "In the style of a Polonaise", 
+            "link": null, 
+            "name": "alla polacca\u00a0"
+        }, 
+        {
+            "def": "Broadening, becoming a little slower each time", 
+            "link": null, 
+            "name": "allargando\u00a0"
+        }, 
+        {
+            "def": "A little lively, moderately fast", 
+            "link": null, 
+            "name": "allegretto\u00a0"
+        }, 
+        {
+            "def": "A moderately quick tempo", 
+            "link": null, 
+            "name": "allegretto vivace\u00a0"
+        }, 
+        {
+            "def": "Cheerfulness, joyfulness", 
+            "link": null, 
+            "name": "allegrezza\u00a0"
+        }, 
+        {
+            "def": "Very fast, though slower than presto", 
+            "link": null, 
+            "name": "allegrissimo\u00a0"
+        }, 
+        {
+            "def": "Cheerful or brisk; but commonly interpreted as lively, fast", 
+            "link": null, 
+            "name": "allegro\u00a0"
+        }, 
+        {
+            "def": "Than", 
+            "link": null, 
+            "name": "als (Ger)\u00a0"
+        }, 
+        {
+            "def": "A jazz term which instructs chord-playing musicians such as a jazz pianist or jazz guitarist to perform a dominant (V7) chord with at least one (often both) altered (sharpened or flattened) 5th or 9th", 
+            "link": null, 
+            "name": "alt (Eng), alt dom, or altered dominant\u00a0"
+        }, 
+        {
+            "def": "Very high", 
+            "link": null, 
+            "name": "altissimo\u00a0"
+        }, 
+        {
+            "def": "High; often refers to a particular range of voice, higher than a tenor but lower than a soprano", 
+            "link": null, 
+            "name": "alto\u00a0"
+        }, 
+        {
+            "def": "Lift or raise the mutes (i.e. remove mutes)", 
+            "link": null, 
+            "name": "alzate sordini\u00a0"
+        }, 
+        {
+            "def": "At the bridge (i.e. playing a bowed string instrument near its bridge, which produces a heavier, stronger tone). See sul ponticello.", 
+            "link": null, 
+            "name": "am Steg (Ger)\u00a0"
+        }, 
+        {
+            "def": "Amiable, pleasant", 
+            "link": null, 
+            "name": "amabile\u00a0"
+        }, 
+        {
+            "def": "Range between highest and lowest note", 
+            "link": "/wiki/Ambitus", 
+            "name": "ambitus\u00a0"
+        }, 
+        {
+            "def": "Love, con amore: with love, tenderly", 
+            "link": null, 
+            "name": "amore or amor (in Spanish/Portuguese and sometimes in Italian)\u00a0"
+        }, 
+        {
+            "def": "Loving", 
+            "link": null, 
+            "name": "amoroso\u00a0"
+        }, 
+        {
+            "def": "A note or notes that precede the first full bar; a pickup", 
+            "link": "/wiki/Anacrusis", 
+            "name": "anacrusis\u00a0"
+        }, 
+        {
+            "def": "Used to refer to a fugue subject of above-average length", 
+            "link": "/wiki/Andamento", 
+            "name": "andamento\u00a0"
+        }, 
+        {
+            "def": "At a walking pace (i.e. at a moderate tempo)", 
+            "link": null, 
+            "name": "andante\u00a0"
+        }, 
+        {
+            "def": "Slightly faster than andante (but earlier it is sometimes used to mean slightly slower than andante)", 
+            "link": null, 
+            "name": "andantino\u00a0"
+        }, 
+        {
+            "def": "Anxiously", 
+            "link": null, 
+            "name": "\u00e4ngstlich (Ger)\u00a0"
+        }, 
+        {
+            "def": "Life; feeling con anima\u00a0: With feeling", 
+            "link": null, 
+            "name": "anima\u00a0"
+        }, 
+        {
+            "def": "Animated, lively", 
+            "link": null, 
+            "name": "animandosi\u00a0"
+        }, 
+        {
+            "def": "Animated, lively", 
+            "link": null, 
+            "name": "animato\u00a0"
+        }, 
+        {
+            "def": "A liturgical or other composition consisting of choral responses, sometimes between two choirs; a passage of this nature forming part of another composition; a repeated passage in a psalm or other liturgical piece, similar to a refrain.[1]", 
+            "link": "/wiki/Antiphon", 
+            "name": "antiphon\u00a0"
+        }, 
+        {
+            "def": "Calmed", 
+            "link": null, 
+            "name": "apais\u00e9 (Fre)\u00a0"
+        }, 
+        {
+            "def": "Passionately", 
+            "link": null, 
+            "name": "appassionato\u00a0"
+        }, 
+        {
+            "def": "One or more grace notes that take up some note value of the next full note.", 
+            "link": "/wiki/Appoggiatura", 
+            "name": "appoggiatura or leaning note\u00a0"
+        }, 
+        {
+            "def": "The bow used for playing some string instrument (i.e. played with the bow, as opposed to pizzicato, in music for bowed instruments); normally used to cancel a pizzicato direction", 
+            "link": "https://en.wiktionary.org/wiki/arco", 
+            "name": "arco\u00a0"
+        }, 
+        {
+            "def": "Self-contained piece for one voice usually with orchestral accompaniment", 
+            "link": "/wiki/Aria", 
+            "name": "aria\u00a0"
+        }, 
+        {
+            "def": "A short aria", 
+            "link": null, 
+            "name": "arietta\u00a0"
+        }, 
+        {
+            "def": "Airy, or like an air (a melody) (i.e. in the manner of an aria); melodious", 
+            "link": "/wiki/Arioso", 
+            "name": "arioso\u00a0"
+        }, 
+        {
+            "def": "Harmoniously", 
+            "link": null, 
+            "name": "armonioso\u00a0"
+        }, 
+        {
+            "def": "like a harp (i.e. the notes of the chords are to be played quickly one after another instead of simultaneously). In music for piano, this is sometimes a solution in playing a wide-ranging chord whose notes cannot be played otherwise. Arpeggios are frequently used as an accompaniment. See also broken chord.", 
+            "link": "/wiki/Arpeggio", 
+            "name": "arpeggio"
+        }, 
+        {
+            "def": "A way of playing a chord: starting with the lowest note, and with successively higher notes rapidly joining in. Sometimes the effect is reversed, so that the highest note is played first.", 
+            "link": "/wiki/Arpeggiato", 
+            "name": "arpeggiato\u00a0"
+        }, 
+        {
+            "def": "Articulately", 
+            "link": null, 
+            "name": "articulato\u00a0"
+        }, 
+        {
+            "def": "Much, Very much", 
+            "link": null, 
+            "name": "assai\u00a0"
+        }, 
+        {
+            "def": "Enough, sufficiently", 
+            "link": null, 
+            "name": "assez (Fre)\u00a0"
+        }, 
+        {
+            "def": "Attack or attach; go straight on (i.e. at the end of a movement, a direction to attach the next movement to the previous one, without a gap or pause)", 
+            "link": null, 
+            "name": "attacca\u00a0"
+        }, 
+        {
+            "def": "Expression", 
+            "link": null, 
+            "name": "Ausdruck (Ger)\u00a0"
+        }, 
+        {
+            "def": "Expressively, with expression", 
+            "link": null, 
+            "name": "ausdrucksvoll or mit Ausdruck (Ger)\u00a0"
+        }, 
+        {
+            "def": "With or with another", 
+            "link": null, 
+            "name": "avec (Fre)\u00a0"
+        }, 
+        {
+            "def": "German for B flat (also in Swedish, Norwegian, Finnish, Icelandic, Danish, Croatian, Estonian and Hungarian); H in German is B natural", 
+            "link": null, 
+            "name": "B\u00a0"
+        }, 
+        {
+            "def": "(from the Italian Ballabile meaning \"danceable\") In ballet the term refers to a dance performed by the corps de ballet. The term Grand ballabile is used if nearly all participants (including principal characters) of a particular scene in a full-length work perform a large-scale dance.", 
+            "link": null, 
+            "name": "ballabile\u00a0"
+        }, 
+        {
+            "def": "Barbarous (notably used in Allegro barbaro by B\u00e9la Bart\u00f3k)", 
+            "link": null, 
+            "name": "barbaro\u00a0"
+        }, 
+        {
+            "def": "A term that instructs string performers to play a pizzicato note to pull the string away from the fingerboard so that it snaps back percussively on the fingerboard.", 
+            "link": "/wiki/Bart%C3%B3k_pizzicato", 
+            "name": "Bart\u00f3k pizzicato\u00a0"
+        }, 
+        {
+            "def": "The lowest of the standard four voice ranges (bass, tenor, alto, soprano); the lowest melodic line in a musical composition, often thought of as defining and supporting the harmony; in an orchestral context, the term usually refers to the double bass.", 
+            "link": "/wiki/Bass_(voice_type)", 
+            "name": "bass\u00a0"
+        }, 
+        {
+            "def": "Continuous bass (i.e. a bass part played continuously throughout a piece to give harmonic structure), used especially in the Baroque period", 
+            "link": "/wiki/Basso_continuo", 
+            "name": "basso continuo\u00a0"
+        }, 
+        {
+            "def": "Used in the 17th-century to refer to ornaments consisting of two adjacent notes, such as trills or mordents", 
+            "link": null, 
+            "name": "battement (Fre)\u00a0"
+        }, 
+        {
+            "def": "To strike the strings with the bow (on a bowed stringed instrument)", 
+            "link": null, 
+            "name": "battuto (Ita)\u00a0"
+        }, 
+        {
+            "def": "1. The pronounced rhythm of music", 
+            "link": null, 
+            "name": "beat\u00a0"
+        }, 
+        {
+            "def": "Spirited, vivacious, lively", 
+            "link": null, 
+            "name": "belebt or belebter (Ger)\u00a0"
+        }, 
+        {
+            "def": "Warlike, aggressive", 
+            "link": null, 
+            "name": "bellicoso\u00a0"
+        }, 
+        {
+            "def": "Well; in ben marcato (\"well marked\") for example", 
+            "link": null, 
+            "name": "ben or bene\u00a0"
+        }, 
+        {
+            "def": "Jazz term referring either to establishing a pitch, sliding down half a step and returning to the original pitch or sliding up half a step from the original note.", 
+            "link": null, 
+            "name": "bend\u00a0"
+        }, 
+        {
+            "def": "Accelerated, as in mit beschleunigter Geschwindigkeit, at an accelerated tempo", 
+            "link": null, 
+            "name": "beschleunigte (Ger)\u00a0"
+        }, 
+        {
+            "def": "Moved, with speed", 
+            "link": null, 
+            "name": "bewegt (Ger)\u00a0"
+        }, 
+        {
+            "def": "A musical form in two sections: AB", 
+            "link": "/wiki/Binary_form", 
+            "name": "binary\u00a0"
+        }, 
+        {
+            "def": "A slang term for fermata, which instructs the performer to hold a note or chord as long as they wish", 
+            "link": null, 
+            "name": "bird's eye\u00a0"
+        }, 
+        {
+            "def": "Twice (i.e. repeat the relevant action or passage)", 
+            "link": null, 
+            "name": "bis (Lat)\u00a0"
+        }, 
+        {
+            "def": "Whispering (i.e. a special tremolo effect on the harp where a chord or note is rapidly repeated at a low volume)", 
+            "link": null, 
+            "name": "bisbigliando\u00a0"
+        }, 
+        {
+            "def": "with closed mouth", 
+            "link": null, 
+            "name": "bocca chiusa"
+        }, 
+        {
+            "def": "Boldness; as in con bravura, boldly", 
+            "link": "/wiki/Bravura", 
+            "name": "bravura\u00a0"
+        }, 
+        {
+            "def": "Broad", 
+            "link": null, 
+            "name": "breit (Ger)\u00a0"
+        }, 
+        {
+            "def": "Transitional passage connecting two sections of a composition, also transition. Also the part of a stringed instrument that holds the strings in place and transmits their vibrations to the resonant body of the instrument.", 
+            "link": null, 
+            "name": "bridge\u00a0"
+        }, 
+        {
+            "def": "Brilliantly, with sparkle", 
+            "link": null, 
+            "name": "brillante\u00a0"
+        }, 
+        {
+            "def": "Vigour; usually in con brio: with spirit or vigour", 
+            "link": null, 
+            "name": "brio or brioso\u00a0"
+        }, 
+        {
+            "def": "A chord in which the notes are not all played at once, but in some more or less consistent sequence. They may follow singly one after the other, or two notes may be immediately followed by another two, for example. See also arpeggio, which as an accompaniment pattern may be seen as a kind of broken chord; see Alberti bass.", 
+            "link": null, 
+            "name": "broken chord\u00a0"
+        }, 
+        {
+            "def": "Brusquely", 
+            "link": null, 
+            "name": "bruscamente\u00a0"
+        }, 
+        {
+            "def": "The concluding, rapid, audience-rousing section of an aria", 
+            "link": null, 
+            "name": "cabaletta"
+        }, 
+        {
+            "def": "A solo section, usually in a concerto or similar work, that is used to display the performer's technique, sometimes at considerable length", 
+            "link": "/wiki/Cadenza", 
+            "name": "cadenza\u00a0"
+        }, 
+        {
+            "def": "Falling away, or lowering (i.e. getting slower and quieter; ritardando along with diminuendo)", 
+            "link": null, 
+            "name": "calando\u00a0"
+        }, 
+        {
+            "def": "Calm; so con calma, calmly. Also calmato meaning calmed, relaxed", 
+            "link": null, 
+            "name": "calma\u00a0"
+        }, 
+        {
+            "def": "Warmth; so con calore, warmly", 
+            "link": null, 
+            "name": "calore\u00a0"
+        }, 
+        {
+            "def": "To change (i.e. any change, such as to a new instrument)", 
+            "link": null, 
+            "name": "cambiare\u00a0"
+        }, 
+        {
+            "def": "A theme that is repeated and imitated and built upon by other instruments with a time delay, creating a layered effect; see Pachelbel's Canon.", 
+            "link": "/wiki/Canon_(music)", 
+            "name": "canon or kanon (Ger)\u00a0"
+        }, 
+        {
+            "def": "In a singing style. In instrumental music, a style of playing that imitates the way the human voice might express the music, with a measured tempo and flexible, legato.", 
+            "link": "/wiki/Cantabile", 
+            "name": "cantabile or cantando\u00a0"
+        }, 
+        {
+            "def": "Chorus; choral; chant", 
+            "link": null, 
+            "name": "canto\u00a0"
+        }, 
+        {
+            "def": "1. (short for capotasto: \"nut\")\u00a0: A key-changing device for stringed instruments (e.g. guitars and banjos)", 
+            "link": "/wiki/Capo", 
+            "name": "Capo\u00a0"
+        }, 
+        {
+            "def": "\"A humorous, fanciful, or bizarre, composition, often characterized by an idiosyncratic departure from current stylistic norms.\"[2] See also: Capriccio (disambiguation)", 
+            "link": null, 
+            "name": "capriccio\u00a0"
+        }, 
+        {
+            "def": "Capriciously, unpredictable, volatile", 
+            "link": null, 
+            "name": "capriccioso\u00a0"
+        }, 
+        {
+            "def": "Chivalrously (used in Carl Nielsen's violin concerto)", 
+            "link": null, 
+            "name": "cavalleresco\u00a0"
+        }, 
+        {
+            "def": "Yield, give way", 
+            "link": null, 
+            "name": "c\u00e9dez (Fre)\u00a0"
+        }, 
+        {
+            "def": "Break, stop; (i.e. a complete break in sound) (sometimes nicknamed \"railroad tracks\" in reference to their appearance)", 
+            "link": null, 
+            "name": "cesura or caesura (Lat)\u00a0"
+        }, 
+        {
+            "def": "Closed (i.e. muted by hand) (for a horn, or similar instrument; but see also bocca chiusa, which uses the feminine form)", 
+            "link": null, 
+            "name": "chiuso\u00a0"
+        }, 
+        {
+            "def": "A tail (i.e. a closing section appended to a movement)", 
+            "link": "/wiki/Coda_(music)", 
+            "name": "coda\u00a0"
+        }, 
+        {
+            "def": "A small coda, but usually applied to a passage appended to a section of a movement, not to a whole movement", 
+            "link": "/wiki/Codetta", 
+            "name": "codetta\u00a0"
+        }, 
+        {
+            "def": "with the (col before a masculine noun, colla before a feminine noun); (see next for example)", 
+            "link": null, 
+            "name": "col or colla"
+        }, 
+        {
+            "def": "With the wood (i.e. the strings) (for example, of a violin) are to be struck with the wood of the bow, making a percussive sound; also battuta col legno: beaten with the wood", 
+            "link": "/wiki/Col_legno", 
+            "name": "col legno\u00a0"
+        }, 
+        {
+            "def": "With the fist (i.e. bang the piano with the fist)", 
+            "link": null, 
+            "name": "col pugno\u00a0"
+        }, 
+        {
+            "def": "With the addition of the octave note above or below the written note; abbreviated as col 8, coll' 8, and c. 8va", 
+            "link": "/wiki/Octave#Notation", 
+            "name": "coll'ottava\u00a0"
+        }, 
+        {
+            "def": "With the soloist; as an instruction in an orchestral score or part, it instructs the conductor or orchestral musician to follow the rhythm and tempo of a solo performer (usually for a short passage)", 
+            "link": null, 
+            "name": "colla parte\u00a0"
+        }, 
+        {
+            "def": "With the voice; as an instruction in a choral music/opera score or orchestral part, it instructs the conductor or orchestral musician to follow the rhythm and tempo of a solo singer (usually for a short passage)", 
+            "link": null, 
+            "name": "colla voce\u00a0"
+        }, 
+        {
+            "def": "Coloration (i.e. elaborate ornamentation of a vocal line, or a soprano voice that is well-suited to such elaboration)", 
+            "link": "/wiki/Coloratura", 
+            "name": "coloratura\u00a0"
+        }, 
+        {
+            "def": "Tremendously", 
+            "link": "/wiki/Colossale", 
+            "name": "colossale\u00a0"
+        }, 
+        {
+            "def": "Like the first (time) (i.e. as before, typically referring to an earlier tempo)", 
+            "link": null, 
+            "name": "come prima\u00a0"
+        }, 
+        {
+            "def": "As above (i.e. like the previous tempo)", 
+            "link": null, 
+            "name": "come sopra\u00a0"
+        }, 
+        {
+            "def": "The time signature 4/4: four beats per measure, each beat a quarter note (a crotchet) in length. 4/4 is often written on the musical staff as . The symbol is not a C as an abbreviation for common time, but a broken circle; the full circle at one time stood for triple time, 3/4.", 
+            "link": "/wiki/Common_time", 
+            "name": "common time\u00a0"
+        }, 
+        {
+            "def": "Comfortable (i.e. at moderate speed); also, allegro comodo, tempo comodo, etc.", 
+            "link": null, 
+            "name": "comodo\u00a0"
+        }, 
+        {
+            "def": "With; used in very many musical directions, for example con allegrezza (with liveliness), con amore (with tenderness); (see also col and colla)", 
+            "link": null, 
+            "name": "con\u00a0"
+        }, 
+        {
+            "def": "With a mute, or with mutes, See Sordina. Frequently seen in music as (incorrect Italian) con sordino, or con sordini (plural).", 
+            "link": "/wiki/Con_sordina", 
+            "name": "con sordina or con sordine (plural)\u00a0"
+        }, 
+        {
+            "def": "An adjective applied to a melodic line that moves by step (intervals of a 2nd) rather in disjunct motion (by leap).", 
+            "link": "/wiki/Steps_and_skips", 
+            "name": "conjunct\u00a0"
+        }, 
+        {
+            "def": "Lowest female singing voice type", 
+            "link": "/wiki/Contralto", 
+            "name": "contralto\u00a0"
+        }, 
+        {
+            "def": "See counterpoint", 
+            "link": "/wiki/Contrapuntal_motion", 
+            "name": "contrapuntalism\u00a0"
+        }, 
+        {
+            "def": "(plural of coperto) covered (i.e. on a drum, muted with a cloth)", 
+            "link": null, 
+            "name": "coperti\u00a0"
+        }, 
+        {
+            "def": "String. On piano refers to use of the soft pedal which controls whether the hammer strikes one or three strings; see una corda, tre corde below.", 
+            "link": null, 
+            "name": "corda\u00a0"
+        }, 
+        {
+            "def": "Growing; (i.e. progressively louder) (contrast diminuendo)", 
+            "link": "/wiki/Crescendo", 
+            "name": "crescendo\u00a0"
+        }, 
+        {
+            "def": "Brassy. Used almost exclusively as a French Horn technique to indicate a forced, rough tone. A note marked both stopped and loud will be cuivr\u00e9 automatically[1]", 
+            "link": null, 
+            "name": "cuivr\u00e9\u00a0"
+        }, 
+        {
+            "def": "Symbol at the very end of a staff of music which indicates the pitch for the first note of the next line as a warning of what is to come. The custos was commonly used in handwritten Renaissance and typeset Baroque music.", 
+            "link": null, 
+            "name": "custos\u00a0"
+        }, 
+        {
+            "def": "Same as the meter 2/2: two half-note (minim) beats per measure. Notated and executed like common time (4/4), except with the beat lengths doubled. Indicated by . This comes from a literal cut of the  symbol of common time. Thus, a quarter note in cut time is only half a beat long, and a measure has only two beats. See also alla breve.", 
+            "link": "/wiki/Cut_time", 
+            "name": "cut time\u00a0"
+        }, 
+        {
+            "def": "From the head (i.e. from the beginning) (see capo)", 
+            "link": null, 
+            "name": "da capo\u00a0"
+        }, 
+        {
+            "def": "From the sign ()", 
+            "link": "/wiki/Dal_Segno", 
+            "name": "Dal Segno (D.S.)\u00a0"
+        }, 
+        {
+            "def": "Repeat back to the sign", 
+            "link": null, 
+            "name": "dal segno al coda (D.S. al coda)\u00a0"
+        }, 
+        {
+            "def": "From the sign to the end (i.e. return to a place in the music designated by the sign  and continue to the end of the piece)", 
+            "link": null, 
+            "name": "dal segno al fine (D.S. al fine)\u00a0"
+        }, 
+        {
+            "def": "Same as D.S. al coda, but with a double segno", 
+            "link": null, 
+            "name": "dal segno segno al coda (D.S.S. al coda)\u00a0"
+        }, 
+        {
+            "def": "From the double sign to the end (i.e. return to place in the music designated by the double sign (see D.S. al coda) and continue to the end of the piece)", 
+            "link": null, 
+            "name": "dal segno segno al fine (D.S.S. al fine)\u00a0"
+        }, 
+        {
+            "def": "Slowing down; decelerating; opposite of accelerando (same as ritardando or rallentando)", 
+            "link": null, 
+            "name": "decelerando\u00a0"
+        }, 
+        {
+            "def": "Decisively", 
+            "link": null, 
+            "name": "deciso\u00a0"
+        }, 
+        {
+            "def": "Solemn, expressive, impassioned", 
+            "link": null, 
+            "name": "declamando\u00a0"
+        }, 
+        {
+            "def": "Same as diminuendo", 
+            "link": null, 
+            "name": "decrescendo (decresc.)\u00a0"
+        }, 
+        {
+            "def": "From the Latin deesse meaning to be missing; placed after a catalogue abbreviation to indicate that this particular work does not appear in it.[3] The plural, desunt, is used when referring to several works.", 
+            "link": null, 
+            "name": "deest\u00a0"
+        }, 
+        {
+            "def": "Delicately", 
+            "link": null, 
+            "name": "delicatamente or delicato\u00a0"
+        }, 
+        {
+            "def": "Act of playing notes separately", 
+            "link": null, 
+            "name": "d\u00e9tach\u00e9 (Fre)\u00a0"
+        }, 
+        {
+            "def": "Religiously", 
+            "link": null, 
+            "name": "devoto\u00a0"
+        }, 
+        {
+            "def": "Dwindling (i.e. with gradually decreasing volume) (same as decrescendo)", 
+            "link": "/wiki/Dynamics_(music)", 
+            "name": "diminuendo, dim.\u00a0"
+        }, 
+        {
+            "def": "An adjective applied to a melodic line which moves by leap (intervals of more than a 2nd) as opposed to conjunct motion (by step)", 
+            "link": "/wiki/Steps_and_skips", 
+            "name": "disjunct\u00a0"
+        }, 
+        {
+            "def": "Of", 
+            "link": null, 
+            "name": "di\u00a0"
+        }, 
+        {
+            "def": "Dissonant", 
+            "link": null, 
+            "name": "dissonante\u00a0"
+        }, 
+        {
+            "def": "Divided (i.e. in a part in which several musicians normally play exactly the same notes they are instead to split the playing of the written simultaneous notes among themselves). It is most often used for string instruments, since with them another means of execution is often possible. (The return from divisi is marked unisono: see unison.)", 
+            "link": "/wiki/Divisi_(music)", 
+            "name": "divisi (div.)\u00a0"
+        }, 
+        {
+            "def": "Jazz term referring to a note that slides to an indefinite pitch chromatically upwards.", 
+            "link": null, 
+            "name": "doit\u00a0"
+        }, 
+        {
+            "def": "Sweetly", 
+            "link": null, 
+            "name": "dolce\u00a0"
+        }, 
+        {
+            "def": "Very sweetly", 
+            "link": null, 
+            "name": "dolcissimo\u00a0"
+        }, 
+        {
+            "def": "Sorrowfully, plaintively", 
+            "link": null, 
+            "name": "dolente\u00a0"
+        }, 
+        {
+            "def": "Pain, distress, sorrow, grief con dolore: with sadness", 
+            "link": null, 
+            "name": "dolore\u00a0"
+        }, 
+        {
+            "def": "Sorrowfully, plaintively", 
+            "link": null, 
+            "name": "doloroso\u00a0"
+        }, 
+        {
+            "def": "Twice as fast", 
+            "link": null, 
+            "name": "doppio movimento\u00a0"
+        }, 
+        {
+            "def": "Two dots placed side by side after a note to indicate that it is to be lengthened by three quarters of its value.", 
+            "link": "/wiki/Double_dot", 
+            "name": "double dot\u00a0"
+        }, 
+        {
+            "def": "The technique of playing two notes simultaneously on a bowed string instrument", 
+            "link": "/wiki/Double_stop", 
+            "name": "double stop\u00a0"
+        }, 
+        {
+            "def": "A slow, moody, or decreased tempo or played or done in such a tempo. It also refers to a genre of electronic music based on this (downtempo).", 
+            "link": null, 
+            "name": "downtempo\u00a0"
+        }, 
+        {
+            "def": "Dramatically", 
+            "link": null, 
+            "name": "drammatico\u00a0"
+        }, 
+        {
+            "def": "Bass note or chord performed continuously throughout a composition", 
+            "link": "/wiki/Drone_(music)", 
+            "name": "drone\u00a0"
+        }, 
+        {
+            "def": "Jazz term referring to a note that slides to an indefinite pitch chromatically downwards", 
+            "link": null, 
+            "name": "drop\u00a0"
+        }, 
+        {
+            "def": "(Ita) grief", 
+            "link": null, 
+            "name": "duolo\u00a0"
+        }, 
+        {
+            "def": "Dull", 
+            "link": null, 
+            "name": "dumpf (Ger)\u00a0"
+        }, 
+        {
+            "def": "major; used in key signatures as, for example, A-Dur (A major), B-Dur (B\u266d major), or H-Dur (B major). (see also Moll (minor).)", 
+            "link": null, 
+            "name": "Dur (Ger)"
+        }, 
+        {
+            "def": "The relative volume in the execution of a piece of music", 
+            "link": "/wiki/Dynamics_(music)", 
+            "name": "dynamics\u00a0"
+        }, 
+        {
+            "def": "And", 
+            "link": null, 
+            "name": "e (Ita) or ed (Ita, \u2013 used before vowels)\u00a0"
+        }, 
+        {
+            "def": "The Italian word for \"echo\"; an effect in which a group of notes is repeated, usually more softly, and perhaps at a different octave, to create an echo effect", 
+            "link": null, 
+            "name": "eco\u00a0"
+        }, 
+        {
+            "def": "A little", 
+            "link": null, 
+            "name": "ein wenig (Ger)\u00a0"
+        }, 
+        {
+            "def": "Feeling", 
+            "link": null, 
+            "name": "Empfindung (Ger)\u00a0"
+        }, 
+        {
+            "def": "Prominently", 
+            "link": null, 
+            "name": "en dehors (Fre)\u00a0"
+        }, 
+        {
+            "def": "Hurrying forward", 
+            "link": null, 
+            "name": "en pressant (Fre)\u00a0"
+        }, 
+        {
+            "def": "Slowing", 
+            "link": null, 
+            "name": "en retenant (Fre)\u00a0"
+        }, 
+        {
+            "def": "Again (i.e. perform the relevant passage once more)", 
+            "link": null, 
+            "name": "encore (Fre)\u00a0"
+        }, 
+        {
+            "def": "Energetic, strong", 
+            "link": null, 
+            "name": "energico\u00a0"
+        }, 
+        {
+            "def": "Emphatically", 
+            "link": null, 
+            "name": "enfatico\u00a0"
+        }, 
+        {
+            "def": "Heroically", 
+            "link": null, 
+            "name": "eroico\u00a0"
+        }, 
+        {
+            "def": "Effusive; excessive in emotional expression; gushy.", 
+            "link": null, 
+            "name": "espansivo\u00a0"
+        }, 
+        {
+            "def": "Expiring (i.e. dying away)", 
+            "link": null, 
+            "name": "espirando\u00a0"
+        }, 
+        {
+            "def": "Expression; expressively (e.g. con (gran, molta) espressione: with (great, much) expression)", 
+            "link": null, 
+            "name": "espressione\u00a0"
+        }, 
+        {
+            "def": "Expressively", 
+            "link": null, 
+            "name": "espressivo or espr.\u00a0"
+        }, 
+        {
+            "def": "Extinct, extinguished (i.e. as soft as possible, lifeless, barely audible)", 
+            "link": null, 
+            "name": "estinto\u00a0"
+        }, 
+        {
+            "def": "Somewhat", 
+            "link": null, 
+            "name": "etwas (Ger)\u00a0"
+        }, 
+        {
+            "def": "Easily, without fuss", 
+            "link": null, 
+            "name": "facile\u00a0"
+        }, 
+        {
+            "def": "Jazz term describing a note of definite pitch sliding downwards to another note of definite pitch.", 
+            "link": null, 
+            "name": "fall\u00a0"
+        }, 
+        {
+            "def": "vocal register above the normal voice", 
+            "link": "/wiki/Falsetto", 
+            "name": "falsetto\u00a0"
+        }, 
+        {
+            "def": "A piece not adhering to any strict musical form. Can also be used in con fantasia: with imagination", 
+            "link": null, 
+            "name": "fantasia\u00a0"
+        }, 
+        {
+            "def": "Solemn, solemnly", 
+            "link": null, 
+            "name": "feierlich (Ger)\u00a0"
+        }, 
+        {
+            "def": "Finished, closed (i.e. a rest or note is to be held for a duration that is at the discretion of the performer or conductor) (sometimes called bird's eye); a fermata at the end of a first or intermediate movement or section is usually moderately prolonged, but the final fermata of a symphony may be prolonged for longer than the note's value, typically twice its printed length or more for dramatic effect.", 
+            "link": "/wiki/Fermata", 
+            "name": "fermata\u00a0"
+        }, 
+        {
+            "def": "Ferociously", 
+            "link": null, 
+            "name": "feroce\u00a0"
+        }, 
+        {
+            "def": "Cheerfully, celebratory", 
+            "link": null, 
+            "name": "festivamente\u00a0"
+        }, 
+        {
+            "def": "Fiery", 
+            "link": null, 
+            "name": "feurig (Ger)\u00a0"
+        }, 
+        {
+            "def": "Proudly", 
+            "link": null, 
+            "name": "fieramente\u00a0"
+        }, 
+        {
+            "def": "\"thread of voice\", very quiet, pianissimo", 
+            "link": null, 
+            "name": "fil di voce\u00a0"
+        }, 
+        {
+            "def": "A jazz or rock term which instructs performers to improvise a scalar passage or riff to \"fill in\" the brief time between lyrical phrases, the lines of melody, or between two sections", 
+            "link": "/wiki/Fill_(music)", 
+            "name": "fill (Eng)\u00a0"
+        }, 
+        {
+            "def": "The end, often in phrases like al fine (to the end)", 
+            "link": null, 
+            "name": "fine\u00a0"
+        }, 
+        {
+            "def": "A symbol (\u266d) that lowers the pitch of a note by a semitone. The term may also be used as an adjective to describe a situation where a singer or musician is performing a note in which the intonation is an eighth or a quarter of a semitone too low.", 
+            "link": null, 
+            "name": "flat\u00a0"
+        }, 
+        {
+            "def": "Flutelike; used especially for string instruments to indicate a light, rapid bowing over the fingerboard", 
+            "link": null, 
+            "name": "flautando or flautendo\u00a0"
+        }, 
+        {
+            "def": "Mournfully", 
+            "link": null, 
+            "name": "flebile\u00a0"
+        }, 
+        {
+            "def": "Fiery (i.e. passionately)", 
+            "link": null, 
+            "name": "focoso or fuocoso\u00a0"
+        }, 
+        {
+            "def": "Strong (i.e. to be played or sung loudly)", 
+            "link": null, 
+            "name": "forte (f)\u00a0"
+        }, 
+        {
+            "def": "Strong-gentle (i.e. loud, then immediately soft (see dynamics), or an early pianoforte)", 
+            "link": null, 
+            "name": "forte piano (fp)\u00a0"
+        }, 
+        {
+            "def": "Very loud (see note at pianissimo)", 
+            "link": null, 
+            "name": "fortissimo (ff)\u00a0"
+        }, 
+        {
+            "def": "As loud as possible", 
+            "link": null, 
+            "name": "fortississimo (fff)\u00a0"
+        }, 
+        {
+            "def": "Musical force con forza: with force", 
+            "link": null, 
+            "name": "forza\u00a0"
+        }, 
+        {
+            "def": "See sforzando", 
+            "link": null, 
+            "name": "forzando (fz)\u00a0"
+        }, 
+        {
+            "def": "Cold(ly); hence depressive, unemotional", 
+            "link": null, 
+            "name": "freddo\u00a0"
+        }, 
+        {
+            "def": "Freshly", 
+            "link": null, 
+            "name": "fresco\u00a0"
+        }, 
+        {
+            "def": "Lively, joyfully", 
+            "link": null, 
+            "name": "fr\u00f6hlich (Ger)"
+        }, 
+        {
+            "def": "Literally \"flight\"; hence a complex and highly regimented contrapuntal form in music. A short theme (the subject) is introduced in one voice (or part) alone, then in others, with imitation and characteristic development as the piece progresses.", 
+            "link": "/wiki/Fugue", 
+            "name": "fugue (Fre), fuga (Latin and Italian)\u00a0"
+        }, 
+        {
+            "def": "Funeral; often seen as marcia funebre (funeral march), indicating a stately and plodding tempo.", 
+            "link": null, 
+            "name": "funebre\u00a0"
+        }, 
+        {
+            "def": "Fire; con fuoco: with fire, in a fiery manner", 
+            "link": null, 
+            "name": "fuoco\u00a0"
+        }, 
+        {
+            "def": "Fury", 
+            "link": null, 
+            "name": "furia\u00a0"
+        }, 
+        {
+            "def": "Furiously", 
+            "link": null, 
+            "name": "furioso\u00a0"
+        }, 
+        {
+            "def": "Grand Pause, General Pause; indicates to the performers that the entire ensemble has a rest of indeterminate length, often as a dramatic effect during a loud section", 
+            "link": null, 
+            "name": "G.P.\u00a0"
+        }, 
+        {
+            "def": "With joy", 
+            "link": null, 
+            "name": "gaudioso\u00a0"
+        }, 
+        {
+            "def": "Unhurried, at a leisurely pace", 
+            "link": null, 
+            "name": "gem\u00e4chlich (Ger)\u00a0"
+        }, 
+        {
+            "def": "Groaningly", 
+            "link": null, 
+            "name": "gemendo\u00a0"
+        }, 
+        {
+            "def": "Gently", 
+            "link": null, 
+            "name": "gentile\u00a0"
+        }, 
+        {
+            "def": "Quickly", 
+            "link": null, 
+            "name": "geschwind (Ger)\u00a0"
+        }, 
+        {
+            "def": "See divisi", 
+            "link": null, 
+            "name": "geteilt (Ger)\u00a0"
+        }, 
+        {
+            "def": "Solemnly, in a stately tempo", 
+            "link": null, 
+            "name": "getragen (Ger)\u00a0"
+        }, 
+        {
+            "def": "Gaily", 
+            "link": null, 
+            "name": "giocoso or gioioso\u00a0"
+        }, 
+        {
+            "def": "Strictly, exactly (e.g. tempo giusto in strict time)", 
+            "link": null, 
+            "name": "giusto\u00a0"
+        }, 
+        {
+            "def": "A continuous sliding from one pitch to another (a true glissando), or an incidental scale executed while moving from one melodic note to another (an effective glissando). See glissando for further information; and compare portamento.", 
+            "link": "/wiki/Glissando", 
+            "name": "glissando\u00a0"
+        }, 
+        {
+            "def": "An extra note added as an embellishment and not essential to the harmony or melody.", 
+            "link": "/wiki/Grace_note", 
+            "name": "grace note\u00a0"
+        }, 
+        {
+            "def": "Grandly", 
+            "link": null, 
+            "name": "grandioso\u00a0"
+        }, 
+        {
+            "def": "Slowly and seriously", 
+            "link": null, 
+            "name": "grave\u00a0"
+        }, 
+        {
+            "def": "Gracefully", 
+            "link": null, 
+            "name": "grazioso\u00a0"
+        }, 
+        {
+            "def": "War-like", 
+            "link": null, 
+            "name": "guerriero\u00a0"
+        }, 
+        {
+            "def": "With happy emphasis and forcefulness", 
+            "link": null, 
+            "name": "gustoso\u00a0"
+        }, 
+        {
+            "def": "German for B natural; B in German means B flat", 
+            "link": null, 
+            "name": "H\u00a0"
+        }, 
+        {
+            "def": "Main voice, chief part (i.e. the contrapuntal line of primary importance, in opposition to Nebenstimme)", 
+            "link": "/wiki/Hauptstimme", 
+            "name": "Hauptstimme (Ger)\u00a0"
+        }, 
+        {
+            "def": "The imposition of a pattern of rhythm or articulation other than that implied by the time signature; specifically, in triple time (for example in 3/4) the imposition of a duple pattern (as if the time signature were, for example, 2/4). See Syncopation.", 
+            "link": "/wiki/Hemiola", 
+            "name": "hemiola (English, from Greek)\u00a0"
+        }, 
+        {
+            "def": "Prominent, pronounced", 
+            "link": null, 
+            "name": "hervortretend (Ger)\u00a0"
+        }, 
+        {
+            "def": "A musical texture with one voice (or melody line) accompanied by chords; also used as an adjective (homophonic). Compare with polyphony, in which several voices or melody lines are performed at the same time.", 
+            "link": "/wiki/Homophony", 
+            "name": "Homophony\u00a0"
+        }, 
+        {
+            "def": "Always", 
+            "link": null, 
+            "name": "immer (Ger)\u00a0"
+        }, 
+        {
+            "def": "Imperiously", 
+            "link": null, 
+            "name": "imperioso\u00a0"
+        }, 
+        {
+            "def": "Impetuously", 
+            "link": null, 
+            "name": "impetuoso\u00a0"
+        }, 
+        {
+            "def": "With improvisation", 
+            "link": null, 
+            "name": "improvvisando\u00a0"
+        }, 
+        {
+            "def": "Improvised, or as if improvised", 
+            "link": null, 
+            "name": "improvvisato\u00a0"
+        }, 
+        {
+            "def": "octave above the treble staff, G5 to F6[4]", 
+            "link": null, 
+            "name": "in alt\u00a0"
+        }, 
+        {
+            "def": "Octave above the in alt octave, G6 to F7", 
+            "link": null, 
+            "name": "in altissimo\u00a0"
+        }, 
+        {
+            "def": "In the art of, in the style of", 
+            "link": null, 
+            "name": "in modo di\u00a0"
+        }, 
+        {
+            "def": "A term for brass players that requires them to direct the bell of their instrument into the music stand, instead of up and toward the audience, thus muting the sound but without changing the timbre as a mute would[5]", 
+            "link": null, 
+            "name": "in stand\u00a0"
+        }, 
+        {
+            "def": "Getting faster and louder", 
+            "link": null, 
+            "name": "incalzando\u00a0"
+        }, 
+        {
+            "def": "Intimately, heartfelt", 
+            "link": null, 
+            "name": "innig\u00a0"
+        }, 
+        {
+            "def": "Insistently, deliberate", 
+            "link": null, 
+            "name": "insistendo\u00a0"
+        }, 
+        {
+            "def": "Intimately", 
+            "link": null, 
+            "name": "intimo\u00a0"
+        }, 
+        {
+            "def": "Opening section", 
+            "link": null, 
+            "name": "intro\u00a0"
+        }, 
+        {
+            "def": "Angrily", 
+            "link": null, 
+            "name": "irato\u00a0"
+        }, 
+        {
+            "def": "A suffix meaning as ... as can be (e.g. leggerissimamente, meaning as light as can be)", 
+            "link": null, 
+            "name": "-issimamente\u00a0"
+        }, 
+        {
+            "def": "A suffix meaning extremely (e.g. fortissimo or prestissimo)", 
+            "link": null, 
+            "name": "-issimo\u00a0"
+        }, 
+        {
+            "def": "A well-known composition from the jazz repertoire which is widely played and recorded.", 
+            "link": "/wiki/Jazz_standard", 
+            "name": "Jazz standard (or simply \"standard\")\u00a0"
+        }, 
+        {
+            "def": "jet\u00e9)\u00a0: Jump; a bowing technique in which the player is instructed to let the bow bounce or jump off the strings.", 
+            "link": "https://en.wiktionary.org/wiki/jete", 
+            "name": "jete (French"
+        }, 
+        {
+            "def": "A musician who plays any instrument with a keyboard. In Classical music, this may refer to instruments such as the piano, pipe organ, harpsichord, and so on. In a jazz or popular music context, this may refer to instruments such as the piano, electric piano, synthesizer, Hammond organ, and so on.", 
+            "link": null, 
+            "name": "keyboardist (Eng)\u00a0"
+        }, 
+        {
+            "def": "\"tone-color-melody\", distribution of pitch or melody among instruments, varying timbre", 
+            "link": null, 
+            "name": "Klangfarbenmelodie (Ger)\u00a0"
+        }, 
+        {
+            "def": "Strongly", 
+            "link": null, 
+            "name": "kr\u00e4ftig (Ger)\u00a0"
+        }, 
+        {
+            "def": "Tearfully (i.e. sadly)", 
+            "link": null, 
+            "name": "lacrimoso or lagrimoso\u00a0"
+        }, 
+        {
+            "def": "French for lasciare suonare (\"let vibrate\").", 
+            "link": null, 
+            "name": "laissez vibrer, l.v. (Fre)\u00a0"
+        }, 
+        {
+            "def": "Lamenting, mournfully", 
+            "link": null, 
+            "name": "lamentando\u00a0"
+        }, 
+        {
+            "def": "Lamenting, mournfully", 
+            "link": null, 
+            "name": "lamentoso\u00a0"
+        }, 
+        {
+            "def": "Slowly", 
+            "link": null, 
+            "name": "langsam (Ger)\u00a0"
+        }, 
+        {
+            "def": "Broadly (i.e. slowly) (same as largo)", 
+            "link": null, 
+            "name": "largamente\u00a0"
+        }, 
+        {
+            "def": "Somewhat slowly; not as slow as largo", 
+            "link": null, 
+            "name": "larghetto\u00a0"
+        }, 
+        {
+            "def": "Broadness; con larghezza: with broadness; broadly", 
+            "link": null, 
+            "name": "larghezza\u00a0"
+        }, 
+        {
+            "def": "Very slowly; slower than largo", 
+            "link": null, 
+            "name": "larghissimo\u00a0"
+        }, 
+        {
+            "def": "Broadly (i.e. slowly)", 
+            "link": null, 
+            "name": "largo\u00a0"
+        }, 
+        {
+            "def": "\"Let ring\", meaning allow the sound to continue, do not damp; used frequently in harp or guitar music, occasionally in piano or percussion. Abbreviated \"lasc. suon.\"", 
+            "link": null, 
+            "name": "lasciare suonare\u00a0"
+        }, 
+        {
+            "def": "A melodic interval greater than a major 2nd, as opposed to a step. Melodies which move by a leap are called \"disjunct\". Octave leaps are not uncommon in florid vocal music.", 
+            "link": "/wiki/Steps_and_skips", 
+            "name": "leap or skip\u00a0"
+        }, 
+        {
+            "def": "Briskly, lively", 
+            "link": null, 
+            "name": "lebhaft (Ger)\u00a0"
+        }, 
+        {
+            "def": "Joined (i.e. smoothly, in a connected manner) (see also articulation)", 
+            "link": "/wiki/Legato", 
+            "name": "legato\u00a0"
+        }, 
+        {
+            "def": "Very lightly and delicately", 
+            "link": null, 
+            "name": "leggierissimo\u00a0"
+        }, 
+        {
+            "def": "Lightly, delicately (The different forms of this word, including leggierezza, \"lightness\", are properly spelled in Italian as legger, without the i.)", 
+            "link": null, 
+            "name": "leggiero, leggiermente or leggiadro\u00a0"
+        }, 
+        {
+            "def": "Passionately", 
+            "link": null, 
+            "name": "leidenschaftlich(er) (Ger)\u00a0"
+        }, 
+        {
+            "def": "Slowly", 
+            "link": null, 
+            "name": "lent (Fre)\u00a0"
+        }, 
+        {
+            "def": "Gradual slowing and softer", 
+            "link": null, 
+            "name": "lentando\u00a0"
+        }, 
+        {
+            "def": "Very slowly", 
+            "link": null, 
+            "name": "lentissimo\u00a0"
+        }, 
+        {
+            "def": "Slowly", 
+            "link": null, 
+            "name": "lento\u00a0"
+        }, 
+        {
+            "def": "Freely", 
+            "link": null, 
+            "name": "liberamente\u00a0"
+        }, 
+        {
+            "def": "Free, freely", 
+            "link": null, 
+            "name": "libero\u00a0"
+        }, 
+        {
+            "def": "A jaunty rhythm", 
+            "link": null, 
+            "name": "lilt\u00a0"
+        }, 
+        {
+            "def": "The same tempo, despite changes of time signature, see metric modulation[6]", 
+            "link": null, 
+            "name": "l'istesso, l'istesso tempo, or lo stesso tempo\u00a0"
+        }, 
+        {
+            "def": "The same; applied to the manner of articulation, tempo, etc.", 
+            "link": null, 
+            "name": "lo stesso\u00a0"
+        }, 
+        {
+            "def": "[in] place (i.e. perform the notes at the pitch written, generally used to cancel an 8va or 8vb direction). In string music, also used to indicate return to normal playing position (see Playing the violin).[1]", 
+            "link": null, 
+            "name": "loco\u00a0"
+        }, 
+        {
+            "def": "Hit hard and keep full value of note (>)", 
+            "link": null, 
+            "name": "long accent\u00a0"
+        }, 
+        {
+            "def": "From a distance; distantly", 
+            "link": null, 
+            "name": "lontano\u00a0"
+        }, 
+        {
+            "def": "Lugubrious, mournful", 
+            "link": null, 
+            "name": "lugubre\u00a0"
+        }, 
+        {
+            "def": "Luminously", 
+            "link": null, 
+            "name": "luminoso\u00a0"
+        }, 
+        {
+            "def": "Long (often applied to a fermata)", 
+            "link": null, 
+            "name": "lunga\u00a0"
+        }, 
+        {
+            "def": "Coaxingly, flatteringly, caressingly", 
+            "link": null, 
+            "name": "lusingando, lusinghiero\u00a0"
+        }, 
+        {
+            "def": "But", 
+            "link": null, 
+            "name": "ma\u00a0"
+        }, 
+        {
+            "def": "But not too much", 
+            "link": null, 
+            "name": "ma non troppo, ma non tanto\u00a0"
+        }, 
+        {
+            "def": "Majestically, in a stately fashion", 
+            "link": null, 
+            "name": "maestoso\u00a0"
+        }, 
+        {
+            "def": "The major key", 
+            "link": null, 
+            "name": "maggiore\u00a0"
+        }, 
+        {
+            "def": "Magically", 
+            "link": null, 
+            "name": "magico\u00a0"
+        }, 
+        {
+            "def": "Magnificent", 
+            "link": null, 
+            "name": "magnifico\u00a0"
+        }, 
+        {
+            "def": "[played with the] right hand (abbreviation: MD or m.d.)", 
+            "link": null, 
+            "name": "main droite (Fre)\u00a0"
+        }, 
+        {
+            "def": "[played with the] left hand (abbreviation: MG or m.g.)", 
+            "link": null, 
+            "name": "main gauche (Fre)\u00a0"
+        }, 
+        {
+            "def": "Melancholic", 
+            "link": null, 
+            "name": "malinconico\u00a0"
+        }, 
+        {
+            "def": "Dying away", 
+            "link": null, 
+            "name": "mancando\u00a0"
+        }, 
+        {
+            "def": "[played with the] right hand (abbreviation: MD or m.d.)", 
+            "link": null, 
+            "name": "mano destra\u00a0"
+        }, 
+        {
+            "def": "[played with the] left hand (abbreviation: MS or m.s.)", 
+            "link": null, 
+            "name": "mano sinistra\u00a0"
+        }, 
+        {
+            "def": "With much accentuation", 
+            "link": null, 
+            "name": "marcatissimo\u00a0"
+        }, 
+        {
+            "def": "Marked (i.e. with accentuation, execute every note as if it were to be accented)", 
+            "link": null, 
+            "name": "marcato, marc.\u00a0"
+        }, 
+        {
+            "def": "A march; alla marcia means in the manner of a march", 
+            "link": null, 
+            "name": "marcia\u00a0"
+        }, 
+        {
+            "def": "Hammered out", 
+            "link": null, 
+            "name": "martellato\u00a0"
+        }, 
+        {
+            "def": "Martial, solemn and fierce", 
+            "link": null, 
+            "name": "marziale\u00a0"
+        }, 
+        {
+            "def": "(sometimes given as \"m\u00e4ssig\", \"maessig\") Moderately", 
+            "link": null, 
+            "name": "m\u00e4\u00dfig (Ger)\u00a0"
+        }, 
+        {
+            "def": "See mano destra or main droite", 
+            "link": null, 
+            "name": "MD\u00a0"
+        }, 
+        {
+            "def": "Also \"bar\" the period of a musical piece that encompasses a complete cycle of the time signature (e.g. in 4/4 time, a measure has four quarter note beats)", 
+            "link": null, 
+            "name": "measure (Eng)\u00a0"
+        }, 
+        {
+            "def": "Same tempo, despite changes of time signature", 
+            "link": null, 
+            "name": "medesimo tempo\u00a0"
+        }, 
+        {
+            "def": "Piece composed from parts of existing pieces, usually three, played one after another, sometimes overlapping.", 
+            "link": null, 
+            "name": "medley\u00a0"
+        }, 
+        {
+            "def": "Melancholic", 
+            "link": null, 
+            "name": "melancolico\u00a0"
+        }, 
+        {
+            "def": "The technique of changing the note (pitch) of a syllable of text while it is being sung", 
+            "link": "/wiki/Melisma", 
+            "name": "melisma\u00a0"
+        }, 
+        {
+            "def": "Less; see meno mosso, for example, less mosso", 
+            "link": null, 
+            "name": "meno\u00a0"
+        }, 
+        {
+            "def": "In singing, a controlled swell (i.e. crescendo then diminuendo, on a long held note, especially in Baroque music and in the bel canto period)[1]", 
+            "link": "/wiki/Messa_di_voce", 
+            "name": "messa di voce\u00a0"
+        }, 
+        {
+            "def": "Mournful, sad", 
+            "link": null, 
+            "name": "mesto\u00a0"
+        }, 
+        {
+            "def": "The pattern of a music piece's rhythm of strong and weak beats", 
+            "link": null, 
+            "name": "meter or metre\u00a0"
+        }, 
+        {
+            "def": "Half voice (i.e. with subdued or moderated volume)", 
+            "link": null, 
+            "name": "mezza voce\u00a0"
+        }, 
+        {
+            "def": "Half; used in combinations like mezzo forte (mf), meaning moderately loud", 
+            "link": null, 
+            "name": "mezzo\u00a0"
+        }, 
+        {
+            "def": "Half loudly (i.e. moderately loudly). See dynamics.", 
+            "link": null, 
+            "name": "mezzo forte\u00a0"
+        }, 
+        {
+            "def": "Half softly (i.e. moderately softly). See dynamics.", 
+            "link": null, 
+            "name": "mezzo piano\u00a0"
+        }, 
+        {
+            "def": "A female singer with a range usually extending from the A below middle C to the F an eleventh above middle C. Mezzo-sopranos generally have a darker vocal tone than sopranos, and their vocal range is between that of a soprano and that of a contralto.", 
+            "link": "/wiki/Mezzo-soprano", 
+            "name": "mezzo-soprano\u00a0"
+        }, 
+        {
+            "def": "See main gauche", 
+            "link": null, 
+            "name": "MG\u00a0"
+        }, 
+        {
+            "def": "Mysteriously", 
+            "link": null, 
+            "name": "misterioso\u00a0"
+        }, 
+        {
+            "def": "With a mute", 
+            "link": null, 
+            "name": "mit D\u00e4mpfer (Ger)\u00a0"
+        }, 
+        {
+            "def": "Metronome Marking. Formerly \"M\u00e4lzel Metronome.\" [7]", 
+            "link": null, 
+            "name": "M.M.\u00a0"
+        }, 
+        {
+            "def": "Flexible, changeable", 
+            "link": null, 
+            "name": "mobile\u00a0"
+        }, 
+        {
+            "def": "Moderate; often combined with other terms, usually relating to tempo; for example, allegro moderato", 
+            "link": null, 
+            "name": "moderato\u00a0"
+        }, 
+        {
+            "def": "Moderately", 
+            "link": null, 
+            "name": "modere (Fre)\u00a0"
+        }, 
+        {
+            "def": "Modest", 
+            "link": null, 
+            "name": "modesto\u00a0"
+        }, 
+        {
+            "def": "The act or process of changing from one key (tonic, or tonal center) to another. This may or may not be accompanied by a change in key signature.", 
+            "link": "/wiki/Modulation_(music)", 
+            "name": "modulation\u00a0"
+        }, 
+        {
+            "def": "minor; used in key signatures as, for example, a-Moll (A minor), b-Moll (B\u266d minor), or h-Moll (B minor) (see also Dur (major))", 
+            "link": null, 
+            "name": "Moll (Ger)\u00a0"
+        }, 
+        {
+            "def": "Very", 
+            "link": null, 
+            "name": "molto\u00a0"
+        }, 
+        {
+            "def": "Rapid alternation of a note with the note immediately below or above it in the scale, sometimes further distinguished as lower mordent and upper mordent. The term \"inverted mordent\" usually refers to the upper mordent.", 
+            "link": "/wiki/Mordent", 
+            "name": "mordent\u00a0"
+        }, 
+        {
+            "def": "Dying (i.e. dying away in dynamics, and perhaps also in tempo)", 
+            "link": null, 
+            "name": "morendo\u00a0"
+        }, 
+        {
+            "def": "Moved, moving; used with a preceding pi\u00f9 or meno, for faster or slower respectively", 
+            "link": null, 
+            "name": "mosso\u00a0"
+        }, 
+        {
+            "def": "Motion; usually seen as con moto, meaning with motion or quickly", 
+            "link": null, 
+            "name": "moto\u00a0"
+        }, 
+        {
+            "def": "A section of a musical composition (such as a sonata or concerto)", 
+            "link": "/wiki/Movement_(music)", 
+            "name": "movement\u00a0"
+        }, 
+        {
+            "def": "See mano sinistra", 
+            "link": null, 
+            "name": "MS\u00a0"
+        }, 
+        {
+            "def": "Lively", 
+            "link": null, 
+            "name": "munter (Ger)\u00a0"
+        }, 
+        {
+            "def": "A dance or tune of a drone-bass character, originally played by a musette", 
+            "link": null, 
+            "name": "Musette (Fre)\u00a0"
+        }, 
+        {
+            "def": "Change: either a change of instrument (e.g. flute to piccolo, horn in F to horn in Bb); or a change of tuning (e.g. guitar muta 6 in D). Note: does not mean \"mute\", for which con sordina or con sordino is used.[1] Muta comes from the Italian verb mutare (to change into something).", 
+            "link": null, 
+            "name": "muta [in...]\u00a0"
+        }, 
+        {
+            "def": "Literally \"more and more\" with an increasing feeling. Ex. \"nach und nach belebter und leidenschaftlicher\" (with increasing animation and passion)", 
+            "link": null, 
+            "name": "nach und nach (Ger)\u00a0"
+        }, 
+        {
+            "def": "Narratingly", 
+            "link": null, 
+            "name": "narrante\u00a0"
+        }, 
+        {
+            "def": "A symbol (\u266e) that cancels the effect of a sharp or a flat", 
+            "link": null, 
+            "name": "natural\u00a0"
+        }, 
+        {
+            "def": "Natural (i.e. discontinue a special effect, such as col legno, sul tasto, sul ponticello, or playing in harmonics)", 
+            "link": null, 
+            "name": "naturale (nat.)\u00a0"
+        }, 
+        {
+            "def": "No chord, written in the chord row of music notation to show there is no chord being played, and no implied harmony", 
+            "link": null, 
+            "name": "N.C.\u00a0"
+        }, 
+        {
+            "def": "Secondary part (i.e. a secondary contrapuntal part, always occurring simultaneously with, and subsidiary to, the Hauptstimme)", 
+            "link": "/wiki/Nebenstimme", 
+            "name": "Nebenstimme (Ger)\u00a0"
+        }, 
+        {
+            "def": "Not", 
+            "link": null, 
+            "name": "nicht (Ger)\u00a0"
+        }, 
+        {
+            "def": "\"nothing\", barely audible, dying away", 
+            "link": null, 
+            "name": "niente\u00a0"
+        }, 
+        {
+            "def": "In a noble fashion", 
+            "link": null, 
+            "name": "nobile or nobilmente (It) or Noblement (Fre)\u00a0"
+        }, 
+        {
+            "def": "Nobility", 
+            "link": null, 
+            "name": "noblezza\u00a0"
+        }, 
+        {
+            "def": "A piece written for the night", 
+            "link": "/wiki/Nocturne", 
+            "name": "nocturne (Fre)\u00a0"
+        }, 
+        {
+            "def": "Unequal notes; a principally Baroque performance practice of applying long-short rhythms to pairs of notes written as equal; see also swung note", 
+            "link": "/wiki/Notes_in%C3%A9gales", 
+            "name": "notes in\u00e9gales (Fre)\u00a0"
+        }, 
+        {
+            "def": "See nocturne.", 
+            "link": null, 
+            "name": "notturno\u00a0"
+        }, 
+        {
+            "def": "An opera consisting of \"numbers\" (e.g. arias, intermixed with recitative)", 
+            "link": "/wiki/Number_opera", 
+            "name": "number opera\u00a0"
+        }, 
+        {
+            "def": "Required, indispensable", 
+            "link": null, 
+            "name": "obbligato\u00a0"
+        }, 
+        {
+            "def": "Interval between one musical pitch and another with half or double its frequency. Twelve semitones equals an octave, so does the first and eighth (hence \"oct\"ave) note in a major or minor scale.", 
+            "link": "/wiki/Octave", 
+            "name": "octave\u00a0"
+        }, 
+        {
+            "def": "Without a mute", 
+            "link": null, 
+            "name": "ohne D\u00e4mpfer (Ger)\u00a0"
+        }, 
+        {
+            "def": "Homage, celebration", 
+            "link": null, 
+            "name": "omaggio\u00a0"
+        }, 
+        {
+            "def": "The practice of using solo voices on each musical line or part in choral music.", 
+            "link": "/wiki/OVPP", 
+            "name": "one-voice-per-part (OVPP)\u00a0"
+        }, 
+        {
+            "def": "In bowed string music, an indication to discontinue extended techniques such as sul ponticello, sul tasto or col legno, and return to normal playing. The same as \"naturale\".", 
+            "link": null, 
+            "name": "ordinario (ord.) (Ita)\u00a0"
+        }, 
+        {
+            "def": "In jazz or rock, a group of three musicians which includes a Hammond organ player and two other instruments, often an electric guitar player and a drummer.", 
+            "link": "/wiki/Organ_trio", 
+            "name": "organ trio\u00a0"
+        }, 
+        {
+            "def": "Or instead (i.e. according to some specified alternative way of performing a passage, which is marked with a footnote, additional small notes, or an additional staff)", 
+            "link": null, 
+            "name": "ossia or oppure\u00a0"
+        }, 
+        {
+            "def": "Obstinate, persistent (i.e. a short musical pattern that is repeated throughout an entire composition or portion of a composition)", 
+            "link": "/wiki/Ostinato", 
+            "name": "ostinato\u00a0"
+        }, 
+        {
+            "def": "Octave (e.g. ottava bassa: an octave lower)", 
+            "link": null, 
+            "name": "ottava\u00a0"
+        }, 
+        {
+            "def": "Like speech, enunciated", 
+            "link": null, 
+            "name": "parlando or parlante\u00a0"
+        }, 
+        {
+            "def": "Full orchestral score", 
+            "link": null, 
+            "name": "Partitur (Ger)\u00a0"
+        }, 
+        {
+            "def": "Passionately", 
+            "link": null, 
+            "name": "passionato\u00a0"
+        }, 
+        {
+            "def": "In a pastoral style, peaceful and simple", 
+            "link": null, 
+            "name": "pastorale\u00a0"
+        }, 
+        {
+            "def": "Passionately, with great emotion. A related term is Pathetique: A name attributed to certain works with an emotional focus such as Tchaikovsky's 6th symphony.", 
+            "link": null, 
+            "name": "patetico\u00a0"
+        }, 
+        {
+            "def": "rest", 
+            "link": null, 
+            "name": "pausa\u00a0"
+        }, 
+        {
+            "def": "In piano scores, this instructs the player to press the damper pedal to sustain the note or chord being played. The player may be instructed to release the pedal with an asterisk marking (*). In organ scores, it tells the organist that a section is to be performed on the bass pedalboard with the feet.", 
+            "link": null, 
+            "name": "pedale or ped\u00a0"
+        }, 
+        {
+            "def": "Thoughtfully, meditatively", 
+            "link": null, 
+            "name": "penseroso\u00a0"
+        }, 
+        {
+            "def": "Dying away; decrease in dynamics, perhaps also in tempo", 
+            "link": null, 
+            "name": "perdendosi\u00a0"
+        }, 
+        {
+            "def": "Heavy, ponderous", 
+            "link": null, 
+            "name": "pesante\u00a0"
+        }, 
+        {
+            "def": "Little by little", 
+            "link": null, 
+            "name": "peu \u00e0 peu (Fre)\u00a0"
+        }, 
+        {
+            "def": "A composition", 
+            "link": null, 
+            "name": "pezzo\u00a0"
+        }, 
+        {
+            "def": "Pleasant, agreeable", 
+            "link": null, 
+            "name": "piacevole\u00a0"
+        }, 
+        {
+            "def": "Literally 'crying' (used in Liszt's La Lugubre Gondola no. 2).", 
+            "link": null, 
+            "name": "piangendo\u00a0"
+        }, 
+        {
+            "def": "Plaintive:", 
+            "link": null, 
+            "name": "piangevole\u00a0"
+        }, 
+        {
+            "def": "very gently (i.e. perform very softly, even softer than piano). This convention can be extended; the more ps that are written, the softer the composer wants the musician to play or sing, thus ppp (pianississimo) would be softer than pp. Dynamics in a piece should be interpreted relative to the other dynamics in the same piece. For example, pp should be executed as softly as possible, but if ppp is found later in the piece, pp should be markedly louder than ppp. More than three ps (ppp) or three fs (fff) are uncommon.", 
+            "link": null, 
+            "name": "pianissimo (pp) "
+        }, 
+        {
+            "def": "Gently (i.e. played or sung softly) (see dynamics)", 
+            "link": null, 
+            "name": "piano (p)\u00a0"
+        }, 
+        {
+            "def": "The same as a vocal score, a piano arrangement along with the vocal parts of an opera, cantata, or similar", 
+            "link": "/wiki/Piano-vocal_score", 
+            "name": "piano-vocal score\u00a0"
+        }, 
+        {
+            "def": "A Picardy third, Picardy cadence (\u02c8p\u026ak\u0259rdi ) or, in French, tierce picarde is a harmonic device used in Western classical music.It refers to the use of a major chord of the tonic at the end of a musical section that is either modal or in a minor key.", 
+            "link": "/wiki/Picardy_third", 
+            "name": "Picardy third\u00a0"
+        }, 
+        {
+            "def": "Full, as, for example, a voce pienna = \"in full voice\"", 
+            "link": null, 
+            "name": "pienna (Ita)\u00a0"
+        }, 
+        {
+            "def": "Pitiful, piteous", 
+            "link": null, 
+            "name": "pietoso\u00a0"
+        }, 
+        {
+            "def": "More; see mosso", 
+            "link": null, 
+            "name": "pi\u00f9\u00a0"
+        }, 
+        {
+            "def": "Rather, somewhat (e.g. allegro piuttosto presto)", 
+            "link": null, 
+            "name": "piuttosto\u00a0"
+        }, 
+        {
+            "def": "Pinched, plucked (i.e. in music for bowed strings, plucked with the fingers as opposed to played with the bow; compare arco, which is inserted to cancel a pizzicato instruction; in music for guitar, to mute the strings by resting the palm on the bridge, simlulating the sound of pizz. of the bowed string instruments)", 
+            "link": "/wiki/Pizzicato", 
+            "name": "pizzicato\u00a0"
+        }, 
+        {
+            "def": "Jazz term referring to a note that slides to an indefinite pitch chromatically downwards.", 
+            "link": null, 
+            "name": "plop\u00a0"
+        }, 
+        {
+            "def": "Very little; diminutive of poco", 
+            "link": null, 
+            "name": "pochettino or poch.\u00a0"
+        }, 
+        {
+            "def": "Very little; superlative of poco", 
+            "link": null, 
+            "name": "pochissimo or pochiss."
+        }, 
+        {
+            "def": "A little, as in poco pi\u00f9 allegro (a little faster)", 
+            "link": null, 
+            "name": "poco\u00a0"
+        }, 
+        {
+            "def": "Little by little", 
+            "link": null, 
+            "name": "poco a poco\u00a0"
+        }, 
+        {
+            "def": "Poetic discourse", 
+            "link": null, 
+            "name": "poetico\u00a0"
+        }, 
+        {
+            "def": "Then, indicating a subsequent instruction in a sequence; diminuendo poi subito fortissimo, for example: getting softer then suddenly very loud", 
+            "link": null, 
+            "name": "poi\u00a0"
+        }, 
+        {
+            "def": "Pompous, ceremonious", 
+            "link": null, 
+            "name": "pomposo\u00a0"
+        }, 
+        {
+            "def": "On the bridge (i.e. in string playing, an indication to bow or to pluck very near to the bridge, producing a characteristic glassy sound, which emphasizes the higher harmonics at the expense of the fundamental); the opposite of sul tasto", 
+            "link": null, 
+            "name": "ponticello (pont.)\u00a0"
+        }, 
+        {
+            "def": "Carrying (i.e. 1. generally, sliding in pitch from one note to another, usually pausing just above or below the final pitch, then sliding quickly to that pitch. If no pause is executed, then it is a basic glissando; or 2. in piano music, an articulation between legato and staccato, like portato)", 
+            "link": null, 
+            "name": "portamento\u00a0"
+        }, 
+        {
+            "def": "Carried (i.e. non-legato, but not as detached as staccato) (same as portamento)", 
+            "link": "/wiki/Portato", 
+            "name": "portato or lour\u00e9\u00a0"
+        }, 
+        {
+            "def": "Settled", 
+            "link": null, 
+            "name": "posato\u00a0"
+        }, 
+        {
+            "def": "Potpourri (as used in other senses in English) (i.e. a kind of musical form structured as ABCDEF... etc.; the same as medley or, sometimes, fantasia)", 
+            "link": "/wiki/Potpourri_(music)", 
+            "name": "potpourri or pot-pourri (Fre)\u00a0"
+        }, 
+        {
+            "def": "Precipitately", 
+            "link": null, 
+            "name": "precipitato\u00a0"
+        }, 
+        {
+            "def": "A musical introduction to subsequent movements during the Baroque era (1600's/17th century). It can also be a movement in its own right, which was more common in the Romantic era (mid-1700s/18th century)", 
+            "link": "/wiki/Prelude_(music)", 
+            "name": "prelude, pr\u00e9lude (Fre), preludio (It), praeludium (Lat), pr\u00e4ludium (Ger)\u00a0"
+        }, 
+        {
+            "def": "Extremely quickly, as fast as possible", 
+            "link": null, 
+            "name": "prestissimo\u00a0"
+        }, 
+        {
+            "def": "Very quickly", 
+            "link": null, 
+            "name": "presto\u00a0"
+        }, 
+        {
+            "def": "First", 
+            "link": null, 
+            "name": "prima or primo (the masculine form)\u00a0"
+        }, 
+        {
+            "def": "Leading female singer in an opera company", 
+            "link": "/wiki/Prima_donna", 
+            "name": "prima donna\u00a0"
+        }, 
+        {
+            "def": "The first time; for example prima volta senza accompagnamento (the first time without accompaniment)", 
+            "link": null, 
+            "name": "prima volta\u00a0"
+        }, 
+        {
+            "def": "Composed of the musical interval of the fourth; as in quartal harmony", 
+            "link": null, 
+            "name": "quartal\u00a0"
+        }, 
+        {
+            "def": "Half of a semitone; a pitch division not used in most Western music notation, except in some contemporary art music or experimental music. Quarter tones are used in Western popular music forms such as jazz and blues and in a variety of non-Western musical cultures.", 
+            "link": null, 
+            "name": "quarter tone\u00a0"
+        }, 
+        {
+            "def": "As if, almost (e.g. quasi recitativo like a recitative in an opera, or quasi una fantasia like a fantasia)", 
+            "link": null, 
+            "name": "quasi (Latin and Italian)\u00a0"
+        }, 
+        {
+            "def": "Composed of the musical interval of the fifth; as in quintal harmony", 
+            "link": null, 
+            "name": "quintal\u00a0"
+        }, 
+        {
+            "def": "Broadening of the tempo (often not discernible from ritardando); progressively slower", 
+            "link": null, 
+            "name": "rallentando or rall.\u00a0"
+        }, 
+        {
+            "def": "Fast", 
+            "link": null, 
+            "name": "rapide (Fre)\u00a0"
+        }, 
+        {
+            "def": "Fast", 
+            "link": null, 
+            "name": "rapido\u00a0"
+        }, 
+        {
+            "def": "Fast", 
+            "link": null, 
+            "name": "rasch (Ger)\u00a0"
+        }, 
+        {
+            "def": "(on the guitar) to play strings with the back of the fingernail; esp. to fan the strings rapidly with the nails of multiple fingers", 
+            "link": null, 
+            "name": "rasguedo (Spa)\u00a0"
+        }, 
+        {
+            "def": "Quicken pace (as \"ravvivando il tempo\", returning to a faster tempo that occurred earlier in the piece)[8]", 
+            "link": null, 
+            "name": "ravvivando (Ita, \"reviving\")\u00a0"
+        }, 
+        {
+            "def": "Recitatively; one voice without accompaniment", 
+            "link": null, 
+            "name": "recitativo\u00a0"
+        }, 
+        {
+            "def": "Religiously", 
+            "link": null, 
+            "name": "religioso\u00a0"
+        }, 
+        {
+            "def": "Suddenly", 
+            "link": null, 
+            "name": "repente\u00a0"
+        }, 
+        {
+            "def": "Repeat a phrase or verse; return to the original theme", 
+            "link": "/wiki/Reprise", 
+            "name": "reprise\u00a0"
+        }, 
+        {
+            "def": "Stay (i.e. remain on a note or string)", 
+            "link": null, 
+            "name": "restez (Fre)\u00a0"
+        }, 
+        {
+            "def": "Hold back; same as the Italian ritenuto (see below) ", 
+            "link": null, 
+            "name": "retenu (Fre)\u00a0"
+        }, 
+        {
+            "def": "Humorously, inaccurate, and loosely", 
+            "link": null, 
+            "name": "ridicolosamente or ridicolo\u00a0"
+        }, 
+        {
+            "def": "Relaxed", 
+            "link": null, 
+            "name": "rilassato\u00a0"
+        }, 
+        {
+            "def": "Reinforced (i.e. emphasized); sometimes like a sudden crescendo, but often applied to a single note", 
+            "link": null, 
+            "name": "rinforzando (rf or rinf.)\u00a0"
+        }, 
+        {
+            "def": "Resolutely", 
+            "link": null, 
+            "name": "risoluto\u00a0"
+        }, 
+        {
+            "def": "An abbreviation for ritardando;[9] also an abbreviation for ritenuto[10]", 
+            "link": null, 
+            "name": "rit.\u00a0"
+        }, 
+        {
+            "def": "Slowing down; decelerating; opposite of accelerando", 
+            "link": null, 
+            "name": "ritardando, ritard., rit.\u00a0"
+        }, 
+        {
+            "def": "Suddenly slower, held back (usually more so but more temporarily than a ritardando, and it may, unlike ritardando, apply to a single note); opposite of accelerato", 
+            "link": null, 
+            "name": "ritenuto, riten., rit.\u00a0"
+        }, 
+        {
+            "def": "Rhythmical", 
+            "link": null, 
+            "name": "ritmico\u00a0"
+        }, 
+        {
+            "def": "Rhythm (e.g. ritmo di # battute meaning a rhythm of # measures)", 
+            "link": null, 
+            "name": "ritmo\u00a0"
+        }, 
+        {
+            "def": "A recurring passage for orchestra in the first or final movement of a solo concerto or aria (also in works for chorus).", 
+            "link": "/wiki/Ritornello", 
+            "name": "ritornello\u00a0"
+        }, 
+        {
+            "def": "See arpeggiato", 
+            "link": "/wiki/Rolled_chord", 
+            "name": "rolled chord\u00a0"
+        }, 
+        {
+            "def": "A musical form in which a certain section returns repeatedly, interspersed with other sections: ABACA is a typical structure or ABACABA", 
+            "link": "/wiki/Rondo", 
+            "name": "rondo\u00a0"
+        }, 
+        {
+            "def": "A rolling (i.e. a florid vocal phrase)", 
+            "link": null, 
+            "name": "roulade (Fre)\u00a0"
+        }, 
+        {
+            "def": "Robbed (i.e. flexible in tempo), applied to notes within a musical phrase for expressive effect", 
+            "link": "/wiki/Tempo_rubato", 
+            "name": "rubato\u00a0"
+        }, 
+        {
+            "def": "Calm, peaceful", 
+            "link": null, 
+            "name": "ruhig (Ger)\u00a0"
+        }, 
+        {
+            "def": "A rapid series of ascending or descending musical notes which are closely spaced in pitch forming a scale", 
+            "link": null, 
+            "name": "run\u00a0"
+        }, 
+        {
+            "def": "Roughly", 
+            "link": null, 
+            "name": "ruvido\u00a0"
+        }, 
+        {
+            "def": "Bouncing the bow as in a staccato arpeggio, literally means \"jumping\"", 
+            "link": null, 
+            "name": "saltando\u00a0"
+        }, 
+        {
+            "def": "Gently", 
+            "link": null, 
+            "name": "sanft (Ger)\u00a0"
+        }, 
+        {
+            "def": "Unchained, wildly[11]", 
+            "link": null, 
+            "name": "scatenato\u00a0"
+        }, 
+        {
+            "def": "Playfully", 
+            "link": null, 
+            "name": "scherzando, scherzoso\u00a0"
+        }, 
+        {
+            "def": "A light, \"joking\" or playful musical form, originally and usually in fast triple metre, often replacing the minuet in the later Classical period and the Romantic period, in symphonies, sonatas, string quartets and the like; in the 19th century some scherzi were independent movements for piano, etc.", 
+            "link": "/wiki/Scherzo", 
+            "name": "scherzo\u00a0"
+        }, 
+        {
+            "def": "To drag; usually nicht schleppen (\"don't drag\"), paired with nicht eilen (\"don't hurry\") in Gustav Mahler's scores", 
+            "link": null, 
+            "name": "schleppen (Ger)\u00a0"
+        }, 
+        {
+            "def": "Fast", 
+            "link": null, 
+            "name": "schnell (Ger)\u00a0"
+        }, 
+        {
+            "def": "Faster", 
+            "link": null, 
+            "name": "schneller (Ger)\u00a0"
+        }, 
+        {
+            "def": "Heavy", 
+            "link": null, 
+            "name": "schwer (Ger)\u00a0"
+        }, 
+        {
+            "def": "Lively, swinging, bold, spirited", 
+            "link": null, 
+            "name": "schwungvoll (Ger)\u00a0"
+        }, 
+        {
+            "def": "Fluency, agility (used in con scioltezza)", 
+            "link": null, 
+            "name": "scioltezza\u00a0"
+        }, 
+        {
+            "def": "Out of tune (i.e. an alternative tuning used for the strings of a string instrument)", 
+            "link": "/wiki/Scordatura", 
+            "name": "scordatura\u00a0"
+        }, 
+        {
+            "def": "Gliding from note to note", 
+            "link": null, 
+            "name": "scorrendo, scorrevole\u00a0"
+        }, 
+        {
+            "def": "Dry (sparse accompaniment, staccato, without resonance)", 
+            "link": null, 
+            "name": "secco (sec) (Fre)"
+        }, 
+        {
+            "def": "sign, usually Dal Segno (see above) \"from the sign\", indicating a return to the point marked by ", 
+            "link": null, 
+            "name": "segno"
+        }, 
+        {
+            "def": "Carry on to the next section without a pause", 
+            "link": "/wiki/Segue", 
+            "name": "segue\u00a0"
+        }, 
+        {
+            "def": "Very", 
+            "link": null, 
+            "name": "sehr (Ger)\u00a0"
+        }, 
+        {
+            "def": "The smallest pitch difference between notes (in most Western music) (e.g. F\u2013F\u266f)", 
+            "link": "/wiki/Semitone", 
+            "name": "semitone\u00a0"
+        }, 
+        {
+            "def": "Simply", 
+            "link": null, 
+            "name": "semplice\u00a0"
+        }, 
+        {
+            "def": "Always", 
+            "link": null, 
+            "name": "sempre\u00a0"
+        }, 
+        {
+            "def": "Feeling, emotion", 
+            "link": null, 
+            "name": "sentimento\u00a0"
+        }, 
+        {
+            "def": "Expressively", 
+            "link": null, 
+            "name": "sentito\u00a0"
+        }, 
+        {
+            "def": "Without", 
+            "link": null, 
+            "name": "senza\u00a0"
+        }, 
+        {
+            "def": "Without measure", 
+            "link": "/wiki/Senza_misura", 
+            "name": "senza misura\u00a0"
+        }, 
+        {
+            "def": "Without the mute. See sordina.", 
+            "link": null, 
+            "name": "senza sordina or senza sordine (plural)\u00a0"
+        }, 
+        {
+            "def": "Seriously", 
+            "link": null, 
+            "name": "serioso\u00a0"
+        }, 
+        {
+            "def": "Made loud (i.e. a sudden strong accent)", 
+            "link": "/wiki/Dynamics_(music)#Sudden_changes", 
+            "name": "sforzando (sfz)\u00a0"
+        }, 
+        {
+            "def": "A jazz term describing a trill between one note and its minor third; or, with brass instruments, between a note and its next overblown harmonic.", 
+            "link": null, 
+            "name": "shake\u00a0"
+        }, 
+        {
+            "def": "A symbol (\u266f) that raises the pitch of the note by a semitone. The term may also be used as an adjective to describe a situation where a singer or musician is performing a note in which the intonation is somewhat too high in pitch.", 
+            "link": null, 
+            "name": "sharp\u00a0"
+        }, 
+        {
+            "def": "Hit the note hard and short (^)", 
+            "link": null, 
+            "name": "short accent\u00a0"
+        }, 
+        {
+            "def": "Seventh note of the series ut, re, mi, fa, sol, la, si, in fixed-doh solmization.", 
+            "link": null, 
+            "name": "si (Fre)\u00a0"
+        }, 
+        {
+            "def": "A Sicilian dance in 12/8 or 6/8 meter[12]", 
+            "link": "/wiki/Siciliana", 
+            "name": "siciliana\u00a0"
+        }, 
+        {
+            "def": "See segno", 
+            "link": null, 
+            "name": "sign\u00a0"
+        }, 
+        {
+            "def": "Silence (i.e. without reverberations)", 
+            "link": null, 
+            "name": "silenzio\u00a0"
+        }, 
+        {
+            "def": "Similarly (i.e. continue applying the preceding directive, whatever it was, to the following passage)", 
+            "link": null, 
+            "name": "simile\u00a0"
+        }, 
+        {
+            "def": "Curtain (stage)", 
+            "link": null, 
+            "name": "sipario\u00a0"
+        }, 
+        {
+            "def": "Momentum, con slancio: with momentum; with enthusiasm", 
+            "link": null, 
+            "name": "slancio\u00a0"
+        }, 
+        {
+            "def": "Becoming broader or slower (that is, becoming more largo or more lento)", 
+            "link": null, 
+            "name": "slargando or slentando\u00a0"
+        }, 
+        {
+            "def": "Extinguishing or dampening; usually interpreted as a drop in dynamics, and very often in tempo as well", 
+            "link": null, 
+            "name": "smorzando or smorz.\u00a0"
+        }, 
+        {
+            "def": "Smoothly, gently", 
+            "link": null, 
+            "name": "soave\u00a0"
+        }, 
+        {
+            "def": "Dreamily", 
+            "link": null, 
+            "name": "sognando\u00a0"
+        }, 
+        {
+            "def": "Solemn", 
+            "link": null, 
+            "name": "solenne\u00a0"
+        }, 
+        {
+            "def": "Alone (i.e. executed by a single instrument or voice). The instruction soli requires more than one player or singer; in a jazz big band this refers to an entire section playing in harmony. In orchestral works, soli refers to a divided string section with only one player to a line.", 
+            "link": "/wiki/Solo_(music)", 
+            "name": "solo or soli (plural)\u00a0"
+        }, 
+        {
+            "def": "A jazz term that instructs a lead player or rhythm section member to play an improvised solo cadenza for one or two measures (sometimes abbreviated as \"break\"), without any accompaniment. The solo part is often played in a rhythmically free manner, until the player performs a pickup or lead-in line, at which time the band recommences playing in the original tempo.", 
+            "link": null, 
+            "name": "solo break\u00a0"
+        }, 
+        {
+            "def": "Sum; total, con somma passione: with great passion", 
+            "link": null, 
+            "name": "somma (Ita)\u00a0"
+        }, 
+        {
+            "def": "A piece played as opposed to sung.", 
+            "link": "/wiki/Sonata", 
+            "name": "sonata\u00a0"
+        }, 
+        {
+            "def": "A little sonata", 
+            "link": null, 
+            "name": "sonatina\u00a0"
+        }, 
+        {
+            "def": "A little sonata, used in some countries instead of sonatina", 
+            "link": null, 
+            "name": "sonatine\u00a0"
+        }, 
+        {
+            "def": "Sonorous", 
+            "link": null, 
+            "name": "sonore\u00a0"
+        }, 
+        {
+            "def": "Ringing", 
+            "link": null, 
+            "name": "sonoro\u00a0"
+        }, 
+        {
+            "def": "Above", 
+            "link": "https://en.wiktionary.org/wiki/sopra", 
+            "name": "sopra\u00a0"
+        }, 
+        {
+            "def": "To be played on one string", 
+            "link": null, 
+            "name": "sopra una corda or sull'istessa corda\u00a0"
+        }, 
+        {
+            "def": "The highest of the standard four voice ranges (bass, tenor, alto, soprano)", 
+            "link": "/wiki/Soprano", 
+            "name": "soprano\u00a0"
+        }, 
+        {
+            "def": "A mute, Note: sordina, with plural sordine, is strictly correct Italian, but the forms sordino and sordini are much more commonly used as terms in music. Instruments can have their tone muted with wood, rubber, metal, or plastic devices, (for string instruments, mutes are clipped to the bridge; for brass instruments, mutes are inserted in the bell), or parts of the body (guitar; French Horn), or fabric (clarinet; timpani), among other means. In piano music (notably in Beethoven's Moonlight Sonata), senza sordini or senza sordina (or some variant) is sometimes used to mean keep the sustain pedal depressed, since the sustain pedal lifts the dampers off the strings, with the effect that all notes are sustained indefinitely.", 
+            "link": "/wiki/Sordina", 
+            "name": "sordina, sordine (plural)\u00a0"
+        }, 
+        {
+            "def": "See sordina.", 
+            "link": null, 
+            "name": "sordino\u00a0"
+        }, 
+        {
+            "def": "A principal singer's first entrance in an opera", 
+            "link": null, 
+            "name": "sortita\u00a0"
+        }, 
+        {
+            "def": "Sighing", 
+            "link": null, 
+            "name": "sospirando\u00a0"
+        }, 
+        {
+            "def": "Sustained, lengthened", 
+            "link": null, 
+            "name": "sostenuto\u00a0"
+        }, 
+        {
+            "def": "In an undertone (i.e. quietly)", 
+            "link": "/wiki/Sotto_voce", 
+            "name": "sotto voce\u00a0"
+        }, 
+        {
+            "def": "Smooth, even", 
+            "link": null, 
+            "name": "spianato\u00a0"
+        }, 
+        {
+            "def": "Distinct, separated (i.e. a way of playing the violin and other bowed instruments by bouncing the bow on the string, giving a characteristic staccato effect)", 
+            "link": "/wiki/Spiccato", 
+            "name": "spiccato\u00a0"
+        }, 
+        {
+            "def": "Literally \"pushed\"", 
+            "link": "/wiki/Spinto", 
+            "name": "spinto\u00a0"
+        }, 
+        {
+            "def": "Spirit, con spirito: with spirit; with feeling", 
+            "link": null, 
+            "name": "spirito\u00a0"
+        }, 
+        {
+            "def": "Spiritedly", 
+            "link": null, 
+            "name": "spiritoso\u00a0"
+        }, 
+        {
+            "def": "Making each note brief and detached; the opposite of legato. In musical notation, a small dot under or over the head of the note indicates that it is to be articulated as staccato.", 
+            "link": "/wiki/Staccato", 
+            "name": "staccato\u00a0"
+        }, 
+        {
+            "def": "A verse of a song", 
+            "link": null, 
+            "name": "stanza\u00a0"
+        }, 
+        {
+            "def": "Labored, heavy, in a dragging manner, holding back each note", 
+            "link": null, 
+            "name": "stentando\u00a0"
+        }, 
+        {
+            "def": "Originally truly 'improvised' now taken as 'appearing to be improvised,' an Italian 'folk' song, the style of which used for example by Puccini in certain of his operas.", 
+            "link": null, 
+            "name": "stornello\u00a0"
+        }, 
+        {
+            "def": "Indicating a passage should be played in a heavily slurred manner", 
+            "link": null, 
+            "name": "strascinando or strascicante\u00a0"
+        }, 
+        {
+            "def": "Noisy, forceful", 
+            "link": null, 
+            "name": "strepitoso\u00a0"
+        }, 
+        {
+            "def": "Tight, narrow (i.e. faster or hastening ahead); also, a passage in a fugue in which the contrapuntal texture is denser, with close overlapping entries of the subject in different voices; by extension, similar closely imitative passages in other compositions", 
+            "link": "/wiki/Stretto", 
+            "name": "stretto\u00a0"
+        }, 
+        {
+            "def": "Gradually getting faster (literally, tightening, narrowing) (i.e. with a pressing forward or acceleration of the tempo, that is, becoming stretto)", 
+            "link": null, 
+            "name": "stringendo\u00a0"
+        }, 
+        {
+            "def": "To be played with a smooth slur, a glissando", 
+            "link": null, 
+            "name": "strisciando\u00a0"
+        }, 
+        {
+            "def": "Suddenly (e.g. subito pp, which instructs the player to suddenly drop to pianissimo as an effect)", 
+            "link": null, 
+            "name": "subito\u00a0"
+        }, 
+        {
+            "def": "Literally, \"on\", as in sul ponticello (on the bridge); sul tasto (on the fingerboard); sul E (on the E string), etc.", 
+            "link": null, 
+            "name": "sul (Ita)\u00a0"
+        }, 
+        {
+            "def": "\"on E\", indicating a passage is to be played on the E string of a violin. Also seen: sul A, sul D, sul G, sul C, indicating a passage to be played on one of the other strings of a string instrument.", 
+            "link": null, 
+            "name": "sul E\u00a0"
+        }, 
+        {
+            "def": "Actual sound. Primarily used with notated harmonics where the written pitch is also the sounding pitch.", 
+            "link": null, 
+            "name": "suono reale\u00a0"
+        }, 
+        {
+            "def": "Sul tasto", 
+            "link": null, 
+            "name": "sur la touche (Fre)\u00a0"
+        }, 
+        {
+            "def": "A disturbance or interruption of the regular flow of downbeat rhythm with emphasis on the sub-division or up-beat (e.g. in Ragtime music).", 
+            "link": "/wiki/Syncopation", 
+            "name": "syncopation\u00a0"
+        }, 
+        {
+            "def": "Silent; do not play", 
+            "link": "/wiki/Tacet", 
+            "name": "tacet\u00a0"
+        }, 
+        {
+            "def": "On the fingerboard (i.e. in string playing, an indication to bow or to pluck over the fingerboard); playing over the fingerboard produces a duller, less harmonically rich, gentler tone. The opposite of sul ponticello.", 
+            "link": null, 
+            "name": "tasto or tastierra (tast.)\u00a0"
+        }, 
+        {
+            "def": "'single key'; used on a continuo part to indicate that the notes should be played without harmony", 
+            "link": "/wiki/Tasto_solo", 
+            "name": "tasto solo\u00a0"
+        }, 
+        {
+            "def": "Time (i.e. the overall speed of a piece of music)", 
+            "link": "/wiki/Tempo", 
+            "name": "tempo\u00a0"
+        }, 
+        {
+            "def": "March tempo", 
+            "link": null, 
+            "name": "tempo di marcia\u00a0"
+        }, 
+        {
+            "def": "The middle section of a double aria, commonly found in bel canto era Italian operas, especially those of Rossini, Bellini, Donizetti, and their contemporaries as well in many early operas by Verdi. When present, the tempo di mezzo generally signals a shift in the drama from the slow cantabile of the first part to the cabaletta of the second, and this can take the form of some dramatic announcement or action to which the character(s) react in the cabaletta finale.[13]", 
+            "link": null, 
+            "name": "tempo di mezzo\u00a0"
+        }, 
+        {
+            "def": "Waltz tempo", 
+            "link": null, 
+            "name": "tempo di valse\u00a0"
+        }, 
+        {
+            "def": "In strict time", 
+            "link": null, 
+            "name": "tempo giusto\u00a0"
+        }, 
+        {
+            "def": "Resume the original speed", 
+            "link": null, 
+            "name": "tempo primo, tempo uno, or tempo I (sometimes tempo I\u00b0 or tempo 1ero)\u00a0"
+        }, 
+        {
+            "def": "\"Robbed time\"; an expressive way of performing a rhythm; see rubato", 
+            "link": "/wiki/Tempo_rubato", 
+            "name": "tempo rubato\u00a0"
+        }, 
+        {
+            "def": "Tenderly", 
+            "link": null, 
+            "name": "teneramente; tendre or tendrement (Fre)\u00a0"
+        }, 
+        {
+            "def": "Tenderness", 
+            "link": null, 
+            "name": "tenerezza\u00a0"
+        }, 
+        {
+            "def": "The second lowest of the standard four voice ranges (bass, tenor, alto, soprano)", 
+            "link": "/wiki/Tenor", 
+            "name": "tenor\u00a0"
+        }, 
+        {
+            "def": "Held (i.e. touch on a note slightly longer than usual, but without generally altering the note's value)", 
+            "link": "/wiki/Tenuto", 
+            "name": "tenuto\u00a0"
+        }, 
+        {
+            "def": "Having three parts. In particular, referring to a three-part musical form with the parts represented by letters: ABA", 
+            "link": "/wiki/Ternary_form", 
+            "name": "ternary\u00a0"
+        }, 
+        {
+            "def": "The 'best' or most comfortable pitch range, generally used to identify the most prominent / common vocal range within a piece of music", 
+            "link": "/wiki/Tessitura", 
+            "name": "tessitura\u00a0"
+        }, 
+        {
+            "def": "See Picardy third", 
+            "link": null, 
+            "name": "Tierce de Picardie\u00a0"
+        }, 
+        {
+            "def": "The quality of a musical tone that distinguishes voices and instruments", 
+            "link": "/wiki/Timbre", 
+            "name": "timbre\u00a0"
+        }, 
+        {
+            "def": "In a jazz or rock score, after a rubato or rallentendo section, the term \"time\" indicates that performers should return to tempo (this is equivalent to the term \"a tempo\")", 
+            "link": null, 
+            "name": "time\u00a0"
+        }, 
+        {
+            "def": "Rapidly", 
+            "link": null, 
+            "name": "tosto\u00a0"
+        }, 
+        {
+            "def": "Calmly, peacefully", 
+            "link": null, 
+            "name": "tranquillo\u00a0"
+        }, 
+        {
+            "def": "Three strings (i.e. release the soft pedal of the piano) (see una corda)", 
+            "link": null, 
+            "name": "tre corde (tc)\u00a0"
+        }, 
+        {
+            "def": "Shaking. As used in 1) and 2) below, it is notated by a strong diagonal bar (or bars) across the note stem, or a detached bar (or bars) for a set of notes.\n\nA rapid, measured or unmeasured repetition of the same note. String players perform this tremolo with the bow by rapidly moving the bow while the arm is tense;\nA rapid, measured or unmeasured alternation between two or more notes, usually more than a whole step apart. In older theory texts this form is sometimes referred to as a \"trill-tremolo\" (see trill).\nA rapid, repeated alteration of volume (as on an electronic instrument);\nvibrato: an inaccurate usage, since vibrato is actually a slight undulation in a sustained pitch, rather than a repetition of the pitch, or variation in volume (see vibrato).\n\n", 
+            "link": "/wiki/Tremolo", 
+            "name": "tremolo\u00a0"
+        }, 
+        {
+            "def": "A rapid, usually unmeasured alternation between two harmonically adjacent notes (e.g. a interval of a semitone or a whole tone). A similar alternation using a wider interval is called a tremolo.", 
+            "link": null, 
+            "name": "trill\u00a0"
+        }, 
+        {
+            "def": "Three notes in the place of two, used to subdivide a beat.", 
+            "link": null, 
+            "name": "triplet (shown with a horizontal bracket and a '3')\u00a0"
+        }, 
+        {
+            "def": "Sad, wistful", 
+            "link": null, 
+            "name": "triste\u00a0"
+        }, 
+        {
+            "def": "Broken off, truncated", 
+            "link": null, 
+            "name": "tronco, tronca\u00a0"
+        }, 
+        {
+            "def": "Too much; usually seen as non troppo, meaning moderately or, when combined with other terms, not too much, such as allegro [ma] non troppo (fast but not too fast)", 
+            "link": null, 
+            "name": "troppo\u00a0"
+        }, 
+        {
+            "def": "Multi-note ornament above and below the main note; it may also be inverted", 
+            "link": "/wiki/Turn_(music)", 
+            "name": "turn\u00a0"
+        }, 
+        {
+            "def": "All; all together, usually used in an orchestral or choral score when the orchestra or all of the voices come in at the same time, also seen in Baroque-era music where two instruments share the same copy of music, after one instrument has broken off to play a more advanced form: they both play together again at the point marked tutti. See also ripieno.", 
+            "link": "/wiki/Tutti", 
+            "name": "tutti\u00a0"
+        }, 
+        {
+            "def": "One, as for example in the following entries", 
+            "link": null, 
+            "name": "un, una, or uno\u00a0"
+        }, 
+        {
+            "def": "A little", 
+            "link": null, 
+            "name": "un poco or un peu (Fre)\u00a0"
+        }, 
+        {
+            "def": "One string (i.e. in piano music, depress the soft pedal, altering, and reducing the volume of, the sound). For most notes in modern pianos, this results in the hammer striking two strings rather than three. Its counterpart, tre corde (three strings), is the opposite: the soft pedal is to be released.", 
+            "link": "/wiki/Una_corda", 
+            "name": "una corda\u00a0"
+        }, 
+        {
+            "def": "In unison (i.e. several players in a group are to play exactly the same notes within their written part, as opposed to splitting simultaneous notes among themselves). Often used to mark the return from divisi.", 
+            "link": "/wiki/Unison", 
+            "name": "unisono (unis) (Fre)\u00a0"
+        }, 
+        {
+            "def": "A fast, lively, or increased tempo or played or done in such a tempo.[14] It is also used as an umbrella term for a quick-paced electronic music style.", 
+            "link": null, 
+            "name": "uptempo\u00a0"
+        }, 
+        {
+            "def": "First note of the series ut, re, mi, fa, sol, la, si, in fixed-do solmization.", 
+            "link": null, 
+            "name": "ut (Fre)\u00a0"
+        }, 
+        {
+            "def": "The fifth part in a motet, named so most probably because it had no specific range", 
+            "link": null, 
+            "name": "vagans (Lat, \"wandering\"[15])\u00a0"
+        }, 
+        {
+            "def": "A jazz, fusion, and musical theatre term which instructs rhythm section members to repeat and vary a short ostinato passage, riff, or \"groove\" until the band leader or conductor instructs them to move onto the next section", 
+            "link": null, 
+            "name": "vamp till cue\u00a0"
+        }, 
+        {
+            "def": "Variations, con variazioni: with variations/changes", 
+            "link": null, 
+            "name": "variazioni\u00a0"
+        }, 
+        {
+            "def": "Velocity, con veloce: with velocity", 
+            "link": null, 
+            "name": "veloce\u00a0"
+        }, 
+        {
+            "def": "As quickly as possible; usually applied to a cadenza-like passage or run", 
+            "link": null, 
+            "name": "velocissimo\u00a0"
+        }, 
+        {
+            "def": "Away, out, off; as in via sordina or sordina via: 'mute off'", 
+            "link": null, 
+            "name": "via\u00a0"
+        }, 
+        {
+            "def": "Vibrating (i.e. a more or less rapidly repeated slight variation in the pitch of a note, used as a means of expression). Often confused with tremolo, which refers either to a similar variation in the volume of a note, or to rapid repetition of a single note.", 
+            "link": "/wiki/Vibrato", 
+            "name": "vibrato\u00a0"
+        }, 
+        {
+            "def": "Quickly, lively", 
+            "link": null, 
+            "name": "vif (Fre)\u00a0"
+        }, 
+        {
+            "def": "cello", 
+            "link": null, 
+            "name": "violoncello\u00a0"
+        }, 
+        {
+            "def": "(noun or adjective) performing with exceptional ability, technique, or artistry", 
+            "link": null, 
+            "name": "virtuoso\u00a0"
+        }, 
+        {
+            "def": "Fast", 
+            "link": null, 
+            "name": "vite (Fre)\u00a0"
+        }, 
+        {
+            "def": "Victoriously", 
+            "link": null, 
+            "name": "vittorioso\u00a0"
+        }, 
+        {
+            "def": "Very lively, up-tempo", 
+            "link": null, 
+            "name": "vivace\u00a0"
+        }, 
+        {
+            "def": "Very lively", 
+            "link": null, 
+            "name": "vivacissimo\u00a0"
+        }, 
+        {
+            "def": "Quickly and lively", 
+            "link": null, 
+            "name": "vivamente\u00a0"
+        }, 
+        {
+            "def": "Liveliness, vivacity", 
+            "link": null, 
+            "name": "vivezza\u00a0"
+        }, 
+        {
+            "def": "Lively, intense", 
+            "link": null, 
+            "name": "vivo\u00a0"
+        }, 
+        {
+            "def": "A music score of an opera, or a vocal or choral composition with orchestra (like oratorio or cantata) where the vocal parts are written out in full but the accompaniment is reduced to two staves and adapted for playing on piano", 
+            "link": "/wiki/Vocal_score", 
+            "name": "vocal score or piano-vocal score\u00a0"
+        }, 
+        {
+            "def": "Voice", 
+            "link": null, 
+            "name": "voce\u00a0"
+        }, 
+        {
+            "def": "Flying", 
+            "link": null, 
+            "name": "volante\u00a0"
+        }, 
+        {
+            "def": "Turn suddenly (i.e. turn the page quickly). While this indication is sometimes added by printers, it is more commonly indicated by orchestral members in pencil as a reminder to quickly turn to the next page.", 
+            "link": null, 
+            "name": "volti subito (V.S.)\u00a0"
+        }, 
+        {
+            "def": "A little, not much", 
+            "link": null, 
+            "name": "wenig (Ger)\u00a0"
+        }, 
+        {
+            "def": "Loose, slowly", 
+            "link": null, 
+            "name": "wolno (Pol)\u00a0"
+        }, 
+        {
+            "def": "Beat", 
+            "link": null, 
+            "name": "Z\u00e4hlzeit (Ger)\u00a0"
+        }, 
+        {
+            "def": "Tender", 
+            "link": null, 
+            "name": "zart (Ger)\u00a0"
+        }, 
+        {
+            "def": "Tenderness", 
+            "link": null, 
+            "name": "Zartheit (Ger)\u00a0"
+        }, 
+        {
+            "def": "Tenderly", 
+            "link": null, 
+            "name": "z\u00e4rtlich (Ger)\u00a0"
+        }, 
+        {
+            "def": "Sign, mark", 
+            "link": null, 
+            "name": "Zeichen (Ger)\u00a0"
+        }, 
+        {
+            "def": "Time-measure (i.e. tempo)", 
+            "link": null, 
+            "name": "Zeitma\u00df or Zeitmass (Ger)\u00a0"
+        }, 
+        {
+            "def": "Zeal, zealous, zealously", 
+            "link": null, 
+            "name": "zelo, zeloso, zelosamente\u00a0"
+        }, 
+        {
+            "def": "To draw out", 
+            "link": null, 
+            "name": "ziehen (Ger)\u00a0"
+        }, 
+        {
+            "def": "Fairly, quite, rather", 
+            "link": null, 
+            "name": "ziemlich (Ger)\u00a0"
+        }, 
+        {
+            "def": "Trembling (i.e. tremolando)", 
+            "link": null, 
+            "name": "zitternd (Ger)\u00a0"
+        }, 
+        {
+            "def": "Hesitantly, delaying (i.e. rallentando)", 
+            "link": null, 
+            "name": "z\u00f6gernd (Ger)\u00a0"
+        }, 
+        {
+            "def": "Hold back", 
+            "link": null, 
+            "name": "zur\u00fcckhalten (Ger)\u00a0"
+        }
+    ]
+}

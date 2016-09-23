@@ -1,0 +1,442 @@
+{
+    "c1": "", 
+    "c2": "Physics", 
+    "c3": "Severe weather", 
+    "words": [
+        {
+            "def": "Severe local storms \u2013 Short-fused, small-scale hazardous weather or hydrologic events produced by thunderstorms, including large hail, damaging winds, tornadoes, and flash floods.", 
+            "link": null, 
+            "name": "Severe local storms"
+        }, 
+        {
+            "def": "Winter storms \u2013 Weather hazards associated with freezing or frozen precipitation (freezing rain, sleet, snow) or combined effects of winter precipitation and strong winds.", 
+            "link": null, 
+            "name": "Winter storms"
+        }, 
+        {
+            "def": "Fire weather \u2013 Weather conditions leading to an increased risk of wildfires.", 
+            "link": null, 
+            "name": "Fire weather"
+        }, 
+        {
+            "def": "Flooding \u2013 Hazardous hydrologic events resulting in temporary inundation of land areas not normally covered by water, often caused by excessive rainfall.", 
+            "link": null, 
+            "name": "Flooding"
+        }, 
+        {
+            "def": "Coastal/lakeshore hazards \u2013 Hydrological hazards that may affect property, marine or leisure activities in areas near ocean and lake waters including high surf and coastal or lakeshore flooding, as well as rip currents.", 
+            "link": null, 
+            "name": "Coastal/lakeshore hazards"
+        }, 
+        {
+            "def": "Marine hazards \u2013 Hazardous events that may affect marine travel, fishing and shipping interests along large bodies of water, including hazardous seas and freezing spray.", 
+            "link": null, 
+            "name": "Marine hazards"
+        }, 
+        {
+            "def": "Other hazards \u2013 Weather hazards not directly associated with any of the above including extreme heat or cold, dense fog, high winds, and river or lakeshore flooding.", 
+            "link": null, 
+            "name": "Other hazards"
+        }, 
+        {
+            "def": "Tornado Watch \u2013 Conditions are favorable for the development of severe thunderstorms and tornadoes in and close to the watch area. These watches are issued for large areas by the Storm Prediction Center in Norman, Oklahoma, and are usually valid for five to eight hours.[1]\n\nParticularly Dangerous Situation Tornado Watch \u2013 Conditions are favorable for the development of severe thunderstorms capable of producing destructive tornadoes in and close to the watch area. These watches are occasionally issued, and usually mean that a major tornado outbreak is possible, where the potential for multiple violent (EF-4 and EF-5) tornadoes exists. These watches are usually valid for a longer period of time and issued for a larger area by the Storm Prediction Center in Norman, Oklahoma than a typical Tornado Watch. This type of watch is usually only reserved for forecast \"high-end\" severe weather events.[2]\n\n", 
+            "link": "/wiki/Tornado_watch", 
+            "name": "Tornado Watch"
+        }, 
+        {
+            "def": "Tornado Warning \u2013 Strong rotation in a thunderstorm is indicated by Doppler weather radar or a tornado is sighted by Skywarn spotters or other persons, such as local law enforcement. These warnings are currently issued on a polygonal basis.[3]\n\nParticularly Dangerous Situation Tornado Warning \u2013 A large tornado has been confirmed to be producing damage and is moving into and through the warned area. It is usually issued as the initial tornado warning or as a complete re-issuance of the previous tornado warning. These may also include wording for a Tornado Emergency. This type of warning was initially issued only by National Weather Service Weather Forecast Offices in Wichita and Topeka, Kansas, and Springfield, St. Louis and Kansas City/Pleasant Hill, Missouri; it was expanded to include 33 additional National Weather Service Weather Forecast Offices within the Central Region Headquarters in 2013, and then to eight additional offices within the Eastern, Southern and Western Regions in the spring of 2014.[4]\nTornado Emergency \u2013 Sent as a \"severe weather statement\" or a complete re-issuance of the tornado warning, this is an unofficial, high-end tornado warning issued when a violent tornado is expected to impact a heavily populated area. Such warnings have been issued for the F5-rated 1999 Bridge Creek\u2013Moore tornado; the EF5 tornado that destroyed much of Greensburg, Kansas on May 4, 2007; the EF4 tornado that hit Tuscaloosa, Alabama on April 27, 2011; the EF5 tornado that affected southern portions of the Oklahoma City area but mostly affected Moore on May 20, 2013; and the May 31, 2013 tornado system that went over the Oklahoma City area through an extremely densely populated area. This enhanced form of a tornado warning is issued mainly by Weather Forecast Offices within the National Weather Service's Central and Southern Region Headquarters; a tornado emergency is the highest level of a three-tiered Impact Based Warning system for tornadoes used by all WFOs within the Central Region Headquarters, and eight others within the Eastern, Southern and Western Regions.[4]\n\n", 
+            "link": "/wiki/Tornado_warning", 
+            "name": "Tornado Warning"
+        }, 
+        {
+            "def": "Severe Thunderstorm Watch (yellow box or blue box) \u2013 Conditions are favorable for the development of severe thunderstorms in and close to the watch area. A severe thunderstorm contains large damaging hail of 1 inch (25\u00a0mm) diameter or larger, and/or damaging winds greater than 58\u00a0mph (95\u00a0km/h or 50 knots) or greater. Isolated tornadoes are also possible but not expected to be the dominant severe weather event. These watches are issued for large areas by the Storm Prediction Center in Norman, Oklahoma, and are usually valid for five to eight hours.[5]\n\nParticularly Dangerous Situation Severe Thunderstorm Watch \u2013 Conditions are favorable for the development of severe thunderstorms in and close to the watch area. Isolated tornadoes are possible but not expected to be the dominant severe weather event, hence these watches are very rarely issued. An expected severe wind event (derecho) is the mostly likely reason for a PDS Severe Thunderstorm Watch to be issued, with widespread winds greater than 90\u00a0mph (150\u00a0km/h or 80 knots) possible. These watches are usually valid for a longer period of time and are issued for a larger area by the Storm Prediction Center in Norman, Oklahoma than a typical Severe Thunderstorm Watch. This type of watch is usually only reserved for forecast \"high-end\" severe weather events.[2] If, however, tornadoes are expected to be a major weather threat in addition to the preceding criteria, then a standard tornado watch (generally not a PDS watch) would be issued instead.\n\n", 
+            "link": "/wiki/Severe_thunderstorm_watch", 
+            "name": "Severe Thunderstorm Watch"
+        }, 
+        {
+            "def": "Severe Thunderstorm Warning \u2013 A severe thunderstorm is indicated by Doppler weather radar or sighted by Skywarn spotters or other persons, such as local law enforcement. A severe thunderstorm contains large damaging hail of 1 inch (2.5\u00a0cm) in diameter or larger, and/or damaging winds of 58\u00a0mph (93\u00a0km/h) or greater. These warnings are currently issued on a polygonal basis.[6]", 
+            "link": "/wiki/Severe_thunderstorm_warning", 
+            "name": "Severe Thunderstorm Warning"
+        }, 
+        {
+            "def": "Significant Weather Advisory \u2013 A strong thunderstorm is indicated by Doppler weather radar, containing small hail below 1 inch (2.5\u00a0cm) diameter, and/or strong winds of 39\u201357 miles per hour (63\u201392\u00a0km/h). These advisories are usually issued on a county by county basis, and are issued as special weather statements written in the style of severe thunderstorm and other short-fused warnings, rather than being an official product itself. Some areas use an entirely different format (most notably WFOs in the Northeast and Mid-Atlantic), noting where in each county the thunderstorm will affect.", 
+            "link": "/wiki/Significant_weather_advisory", 
+            "name": "Significant Weather Advisory"
+        }, 
+        {
+            "def": "Flash Flood Watch (green box) \u2013 Conditions are favorable for (flash) flooding in and close to the watch area. These watches are issued by the Weather Forecast Office and are usually issued six to 24 hours in advance of expected flood potential. In Canada, a Heavy Rainfall Warning has a similar meaning.\n\nParticularly Dangerous Situation Flash Flood Watch \u2013 Conditions are favorable for an extremely elevated level of severe and life-threatening flash flooding beyond the level of a normal flash flood watch in and close to the watch area. These watches are usually issued for a smaller area by the local WFOs than typical Flash Flood Watches, which often span multiple county warning areas, and are usually valid for a longer period of time. This type of watch is usually only reserved for forecast \"high-end\" flash flood events.\n\n", 
+            "link": "/wiki/Flash_flood_watch", 
+            "name": "Flash Flood Watch"
+        }, 
+        {
+            "def": "Flash Flood Warning \u2013 Flash flooding is occurring, imminent, or highly likely. A flash flood is a flood that occurs within six hours of excessive rainfall and that poses a threat to life and/or property. Ice jams and dam failures can also cause flash floods. These warnings are issued on a county by county basis by the local Weather Forecast Office and are generally in effect for two to six hours, although particularly during tropical cyclones a warning may last for a longer period of time, and occasionally last shorter than two hours.[7]", 
+            "link": "/wiki/Flash_flood_warning", 
+            "name": "Flash Flood Warning"
+        }, 
+        {
+            "def": "Special Marine Warning \u2013 A warning to mariners of hazardous thunderstorms or squalls with wind gusts of 34 knots (39\u00a0mph or 63\u00a0km/h) or more, hail 1 inch (2.5\u00a0cm) diameter or larger, or waterspouts.[8]", 
+            "link": null, 
+            "name": "Special Marine Warning"
+        }, 
+        {
+            "def": "Blizzard Warning \u2013 Sustained winds or frequent gusts of 35 miles per hour (56\u00a0km/h) or greater, considerable falling, and/or blowing snow reducing visibility frequently to 1\u20444 mile (0.40\u00a0km) or less for a period of three hours or more. There are no temperature criteria in the definition of a blizzard, but freezing temperatures of at least 0\u00a0\u00b0C (32\u00a0\u00b0F) and 35 miles per hour (56\u00a0km/h) winds will create wind chills of at least \u22128.5\u00a0\u00b0C (16.7\u00a0\u00b0F).[9]", 
+            "link": "/wiki/Blizzard_Warning", 
+            "name": "Blizzard Warning"
+        }, 
+        {
+            "def": "Blizzard Watch \u2013 Sustained winds or frequent gusts of 35 miles per hour (56\u00a0km/h) or greater, considerable falling, and/or blowing snow reducing visibility frequently to 1\u20444 mile (0.40\u00a0km) or less for a period of three hours or more are possible generally within the next 48 hours.", 
+            "link": "/wiki/Blizzard_Watch", 
+            "name": "Blizzard Watch"
+        }, 
+        {
+            "def": "Winter Storm Warning \u2013 Hazardous winter weather conditions that pose a threat to life and/or property are occurring, imminent, or highly likely. The generic term, winter storm warning, is used for a combination of two or more of the following winter weather events; heavy snow, freezing rain, sleet, and strong winds.[10] The National Weather Service has deprecated the Heavy Snow Warning and Sleet Warning products in favor of issuing a Winter Storm Warning for Heavy Snow or a Winter Storm Warning for Heavy Sleet, respectively.", 
+            "link": "/wiki/Winter_storm_warning", 
+            "name": "Winter Storm Warning"
+        }, 
+        {
+            "def": "Winter Storm Watch \u2013 Hazardous winter weather conditions including significant accumulations of snow and/or freezing rain and/or sleet are possible generally within 48 hours. These watches are issued by the National Weather Service Forecast Office.[11]", 
+            "link": "/wiki/Winter_storm_watch", 
+            "name": "Winter Storm Watch"
+        }, 
+        {
+            "def": "Winter Weather Advisory \u2013 Hazardous winter weather conditions are occurring, imminent, or likely. Conditions will cause a significant inconvenience and if caution is not exercised, may result in a potential threat to life and/or property. The generic term, winter weather advisory (which replaced the previously used \"travelers advisory\"), is used for a combination of two or more of the following events; snow, freezing rain or freezing drizzle, sleet, and blowing snow.[12] The National Weather Service has deprecated the Snow Advisory and Blowing Snow Advisory products in favor of issuing a Winter Weather Advisory for Snow or a Winter Weather Advisory for Snow and Blowing Snow, respectively.", 
+            "link": "/wiki/Winter_weather_advisory", 
+            "name": "Winter Weather Advisory"
+        }, 
+        {
+            "def": "Ice Storm Warning \u2013 Heavy ice accumulations are imminent and the criteria for amounts vary over different county warning areas. Accumulations range from 1\u20444 to 1\u20442 inch (6.4 to 12.7\u00a0mm) or more of freezing rain. In Canada, these are known as Freezing Rain Warnings.[13]", 
+            "link": "/wiki/Ice_storm_warning", 
+            "name": "Ice Storm Warning"
+        }, 
+        {
+            "def": "Freezing Rain Advisory \u2013 Light to moderate ice accumulations are imminent. A trace to 1/4 inch (1\u20136 mm) of expected freezing rain is needed in any county warning area to prompt a freezing rain advisory.[14]", 
+            "link": "/wiki/Freezing_rain_advisory", 
+            "name": "Freezing Rain Advisory"
+        }, 
+        {
+            "def": "Freezing Drizzle Advisory \u2013 Drizzle causing light accumulations of ice is imminent or occurring. A trace to 1/4 inch (1\u20136 mm) of expected freezing drizzle is needed in any county warning area to prompt a freezing rain advisory.[15]", 
+            "link": null, 
+            "name": "Freezing Drizzle Advisory"
+        }, 
+        {
+            "def": "Freezing Fog Advisory \u2013 Widespread dense fog reducing visibility to less than 1\u20444 mile (400\u00a0m) that occurs in a sub-zero environment, leaving a thin glazing of ice.", 
+            "link": null, 
+            "name": "Freezing Fog Advisory"
+        }, 
+        {
+            "def": "Lake-Effect Snow Warning \u2013 Very heavy lake-effect snowfall amounts of generally 6 inches (15\u00a0cm) in 12 hours or less or 8 inches (20\u00a0cm) in 24 hours or less are imminent or highly likely. Lake-effect snow squalls can significantly reduce visibilities with little notice.[16]", 
+            "link": "/wiki/Lake_effect_snow_warning", 
+            "name": "Lake-Effect Snow Warning"
+        }, 
+        {
+            "def": "Lake-Effect Snow Advisory \u2013 Heavy lake-effect snowfall amounts of generally 4 inches (10\u00a0cm) in 12 hours or less or 6 inches (15\u00a0cm) in 24 hours or less are imminent or highly likely. Lake-effect snow squalls can significantly reduce visibilities with little notice.", 
+            "link": "/wiki/Lake_effect_snow_advisory", 
+            "name": "Lake-Effect Snow Advisory"
+        }, 
+        {
+            "def": "Lake-Effect Snow Watch \u2013 Very heavy lake-effect snowfall amounts of generally 6 inches (15\u00a0cm) in 12 hours or less or 8 inches (20\u00a0cm) in 24 hours or less are possible generally within 48 hours. Lake-effect snow squalls can significantly reduce visibilities with little notice.", 
+            "link": "/wiki/Lake_effect_snow_watch", 
+            "name": "Lake-Effect Snow Watch"
+        }, 
+        {
+            "def": "Wind Chill Warning \u2013 Extreme wind chills that are life-threatening are imminent or occurring; the criteria varies significantly over different county warning areas.[17]", 
+            "link": "/wiki/Wind_chill_warning", 
+            "name": "Wind Chill Warning"
+        }, 
+        {
+            "def": "Wind Chill Advisory \u2013 Dangerous wind chills making it feel very cold are imminent or occurring; the criteria varies significantly over different county warning areas.[18]", 
+            "link": "/wiki/Wind_chill_advisory", 
+            "name": "Wind Chill Advisory"
+        }, 
+        {
+            "def": "Wind Chill Watch \u2013 Extreme wind chills that are life-threatening are possible; the criteria varies significantly over different county warning areas.", 
+            "link": "/wiki/Wind_chill_watch", 
+            "name": "Wind Chill Watch"
+        }, 
+        {
+            "def": "Heavy Snow Warning \u2013 Heavy snowfall amounts are imminent; the criteria for amounts vary significantly over different county warning areas.[19]", 
+            "link": "/wiki/Heavy_snow_warning", 
+            "name": "Heavy Snow Warning"
+        }, 
+        {
+            "def": "Sleet Warning \u2013 Heavy sleet accumulations of 2 inches (5.1\u00a0cm) or more in 12 hours or less are imminent. Usually issued as a winter storm warning for heavy sleet.[20]", 
+            "link": null, 
+            "name": "Sleet Warning"
+        }, 
+        {
+            "def": "Snow Advisory \u2013 Moderate snowfall amounts are imminent; the criteria for amounts vary significantly over different county warning areas.[21]", 
+            "link": "/wiki/Winter_Weather_advisory", 
+            "name": "Snow Advisory"
+        }, 
+        {
+            "def": "Blowing Snow Advisory \u2013 Sustained winds or frequent gusts of 25 to 35 miles per hour (40 to 56\u00a0km/h) accompanied by falling and blowing snow, occasionally reducing visibility to 1\u20444 mile (0.40\u00a0km) or less.[22]", 
+            "link": "/wiki/Blowing_snow_advisory", 
+            "name": "Blowing Snow Advisory"
+        }, 
+        {
+            "def": "Extreme Cold Watch \u2013 Dangerously low temperatures are possible for a prolonged period of time. Frostbite and hypothermia are likely if exposed to these temperatures.", 
+            "link": null, 
+            "name": "Extreme Cold Watch"
+        }, 
+        {
+            "def": "Extreme Cold Warning \u2013 Dangerously low temperatures are expected for a prolonged period of time. Frostbite and hypothermia are likely if exposed to these temperatures.", 
+            "link": null, 
+            "name": "Extreme Cold Warning"
+        }, 
+        {
+            "def": "Fire Warning \u2013 A fire is currently burning in the area and evacuation is recommended.", 
+            "link": "/wiki/Fire_Warning", 
+            "name": "Fire Warning"
+        }, 
+        {
+            "def": "Red Flag Warning \u2013 A warning issued when conditions are favorable for the rapid spread of wildfires.", 
+            "link": "/wiki/Red_flag_warning", 
+            "name": "Red Flag Warning"
+        }, 
+        {
+            "def": "Fire Weather Watch \u2013 Conditions are expected to become favorable for the rapid spread of wildfires.", 
+            "link": null, 
+            "name": "Fire Weather Watch"
+        }, 
+        {
+            "def": "River Flood Warning \u2013 Flooding of streams or rivers is occurring, imminent, or highly likely. These warnings are issued on a county by county basis by the local Weather Forecast Office and are generally in effect for a couple of days or longer.", 
+            "link": "/wiki/River_flood_warning", 
+            "name": "River Flood Warning"
+        }, 
+        {
+            "def": "Areal Flood Warning \u2013 General or areal flooding of streets, low-lying areas, urban storm drains, creeks, and small streams is occurring, imminent, or highly likely. Flood warnings are usually issued for flooding that occurs more than six hours after the excessive rainfall, or when flooding is imminent/occurring but is not rapid enough to prompt a flash flood warning. These warnings are issued on a polygonal basis by the local Weather Forecast Office and are generally in effect for six to twelve hours.[23]", 
+            "link": "/wiki/Flood_warning", 
+            "name": "Areal Flood Warning"
+        }, 
+        {
+            "def": "River Flood Advisory \u2013 Streams or rivers reaching action stage is occurring, imminent, or highly likely. These advisories are issued on a county by county basis by the local Weather Forecast Office and are generally in effect for a couple of days or longer.", 
+            "link": "/wiki/River_flood_advisory", 
+            "name": "River Flood Advisory"
+        }, 
+        {
+            "def": "Areal Flood Advisory \u2013 Minor general or areal flooding of streets, low-lying areas, urban storm drains, creeks, and small streams is occurring, imminent, or highly likely. These advisories are issued on a polygonal basis by the local Weather Forecast Office and are generally in effect for three to six hours.", 
+            "link": null, 
+            "name": "Areal Flood Advisory"
+        }, 
+        {
+            "def": "Urban and Small Stream Flood Advisory \u2013 Another form of the areal flood advisory, where ponding of water on streets, low-lying areas, highways, underpasses, urban storm drains, and elevation of creek and small stream levels is occurring or imminent. Urban and small stream flood advisories are issued for flooding that occurs within three hours after the excessive rainfall. These advisories are issued on a polygonal basis by the local Weather Forecast Office and are generally in effect for three to four hours (however, the NWS website does not the advisory as an area-specific polygon, instead indicating the individual counties/parishes/boroughs affected).[24]", 
+            "link": "/wiki/Urban_and_small_stream_flood_advisory", 
+            "name": "Urban and Small Stream Flood Advisory"
+        }, 
+        {
+            "def": "Coastal Flood Warning \u2013 Coastal flooding is occurring or is imminent in the next 12 hours, which poses a serious threat to life and/or property.", 
+            "link": "/wiki/Coastal_flood_warning", 
+            "name": "Coastal Flood Warning"
+        }, 
+        {
+            "def": "Coastal Flood Watch \u2013 Coastal flooding is possible in the next 24 hours, which would pose a serious threat to life and/or property.", 
+            "link": "/wiki/Coastal_flood_watch", 
+            "name": "Coastal Flood Watch"
+        }, 
+        {
+            "def": "Coastal Flood Advisory \u2013 Minor coastal flooding is occurring or is imminent in the next 12 hours, which poses a threat to life and/or property.", 
+            "link": "/wiki/Coastal_flood_advisory", 
+            "name": "Coastal Flood Advisory"
+        }, 
+        {
+            "def": "Storm Surge Warning (proposed) \u2013 Localized heavy flooding due to storm surge caused by a tropical cyclone is occurring or is imminent in the next 12 hours, which poses a threat to life and/or property.[25]", 
+            "link": null, 
+            "name": "Storm Surge Warning"
+        }, 
+        {
+            "def": "Lakeshore Flood Warning \u2013 Lakeshore flooding is occurring or is imminent in the next 12 hours, which poses a serious threat to life and/or property.\n\nSeiche Warning \u2013 Rapid, large fluctuations in water level in the Great Lakes (similar to the sloshing in a bath tub) caused by storms or high winds, resulting in both lakeshore flooding and critically low water levels at different times. Issued as a Lakeshore Flood Warning with reference of being a Seiche Warning.\n\n", 
+            "link": null, 
+            "name": "Lakeshore Flood Warning"
+        }, 
+        {
+            "def": "Lakeshore Flood Watch \u2013 Lakeshore flooding is possible in the next 24 hours, which would pose a serious threat to life and/or property.", 
+            "link": null, 
+            "name": "Lakeshore Flood Watch"
+        }, 
+        {
+            "def": "Lakeshore Flood Advisory \u2013 Minor lakeshore flooding is occurring or is imminent in the next 12 hours, which poses a threat to life and/or property.", 
+            "link": null, 
+            "name": "Lakeshore Flood Advisory"
+        }, 
+        {
+            "def": "High Surf Warning \u2013 Destructive, pounding surf poses a danger to those in and near the water and may damage property near the shoreline.", 
+            "link": null, 
+            "name": "High Surf Warning"
+        }, 
+        {
+            "def": "High Surf Advisory \u2013 Pounding surf poses a danger to those in the water.", 
+            "link": null, 
+            "name": "High Surf Advisory"
+        }, 
+        {
+            "def": "Rip Current Statement \u2013 Describes a risk of rip currents present in the specified area (may be issued as a beach hazards statement).", 
+            "link": null, 
+            "name": "Rip Current Statement"
+        }, 
+        {
+            "def": "Beach Hazards Statement \u2013 Issued for rip currents, chemical hazards, or biological hazards in lake or ocean waters.", 
+            "link": null, 
+            "name": "Beach Hazards Statement"
+        }, 
+        {
+            "def": "Heavy Freezing Spray Warning \u2013 Usually issued for shipping interests when conditions are favorable for the rapid freezing of sea spray on vessels at a rate of more than 2 centimetres (0.79\u00a0in) per hour.", 
+            "link": "/wiki/Heavy_freezing_spray_warning", 
+            "name": "Heavy Freezing Spray Warning"
+        }, 
+        {
+            "def": "Freezing Spray Advisory \u2013 Usually issued for shipping interests when conditions are probable for the freezing of sea spray on vessels.[26]", 
+            "link": "/wiki/Freezing_spray_advisory", 
+            "name": "Freezing Spray Advisory"
+        }, 
+        {
+            "def": "Hazardous Seas Warning \u2013 Issued when rough surf is expected, but strong winds are not.", 
+            "link": "/wiki/Hazardous_seas_warning", 
+            "name": "Hazardous Seas Warning"
+        }, 
+        {
+            "def": "Hazardous Seas Watch \u2013 Issued when rough surf is possible, but strong winds are not expected.", 
+            "link": "/wiki/Hazardous_seas_watch", 
+            "name": "Hazardous Seas Watch"
+        }, 
+        {
+            "def": "Low Water Advisory \u2013 Issued when critically low water levels present a navigation hazard.", 
+            "link": null, 
+            "name": "Low Water Advisory"
+        }, 
+        {
+            "def": "Marine Weather Statement \u2013 The equivalent of a special weather statement at sea, indicating potentially hazardous marine conditions.", 
+            "link": null, 
+            "name": "Marine Weather Statement"
+        }, 
+        {
+            "def": "Excessive Heat Warning \u2013 Extreme Heat Index (HI) values forecast to meet or exceed locally defined warning criteria for at least two days. Specific criteria varies among local Weather Forecast Offices, due to climate variability and the effect of excessive heat on the local population. Typical HI values are maximum daytime temperatures above 105 to 110\u00a0\u00b0F (41 to 43\u00a0\u00b0C) and minimum nighttime temperatures above 75\u00a0\u00b0F (24\u00a0\u00b0C).[27][28]\n\nExcessive Heat Watch \u2013 Conditions are favorable for an excessive heat event to meet or exceed local Excessive Heat Warning criteria in the next 24 to 72 hours.[27]\n\n", 
+            "link": "/wiki/Excessive_heat_warning", 
+            "name": "Excessive Heat Warning"
+        }, 
+        {
+            "def": "Excessive Heat Watch \u2013 Conditions are favorable for an excessive heat event to meet or exceed local Excessive Heat Warning criteria in the next 24 to 72 hours.[27]", 
+            "link": null, 
+            "name": "Excessive Heat Watch"
+        }, 
+        {
+            "def": "Freeze Warning \u2013 Widespread sheltered temperatures are forecast to be at or below 32\u00a0\u00b0F (0\u00a0\u00b0C) in the next 12 to 24 hours during the locally defined growing season. A freeze may occur with or without frost.[27][29]\n\nFreeze Watch \u2013 Conditions are favorable for a freeze event to meet or exceed Freeze Warning criteria in the next 12 to 48 hours during the locally defined growing season.[27]\n\n", 
+            "link": null, 
+            "name": "Freeze Warning"
+        }, 
+        {
+            "def": "Freeze Watch \u2013 Conditions are favorable for a freeze event to meet or exceed Freeze Warning criteria in the next 12 to 48 hours during the locally defined growing season.[27]", 
+            "link": null, 
+            "name": "Freeze Watch"
+        }, 
+        {
+            "def": "Frost Advisory \u2013 Minimum sheltered temperatures are forecast to be 33 to 36\u00a0\u00b0F (1 to 2\u00a0\u00b0C) during the locally defined growing season on nights with good radiational cooling conditions (e.g., light winds and clear skies). Widespread frost can be expected.[27][30]", 
+            "link": null, 
+            "name": "Frost Advisory"
+        }, 
+        {
+            "def": "Hard Freeze Warning \u2013 Widespread temperatures at or below 28\u00a0\u00b0F (\u22122\u00a0\u00b0C) during the growing season. A hard freeze may occur with or without frost.[27]", 
+            "link": null, 
+            "name": "Hard Freeze Warning"
+        }, 
+        {
+            "def": "Heat Advisory \u2013 High Heat Index (HI) values are forecast to meet or exceed locally defined warning criteria for one or two days. Specific criteria vary over different county warning areas, due to climate variability and the effect of excessive heat on the local population. Typical HI values are maximum daytime temperatures above 100 to 105\u00a0\u00b0F (38 to 41\u00a0\u00b0C) and minimum nighttime temperatures above 75\u00a0\u00b0F (24\u00a0\u00b0C).[27][31]", 
+            "link": "/wiki/Heat_advisory", 
+            "name": "Heat Advisory"
+        }, 
+        {
+            "def": "Center Weather Advisory \u2013 Advisories issued when conditions just below severe (SIGMET) criteria. CWAs are issued for thunderstorms, turbulence, icing, and ceiling and visibility limits (IFR).[32]", 
+            "link": null, 
+            "name": "Center Weather Advisory"
+        }, 
+        {
+            "def": "SIGMET (Significant Meteorological Information) \u2013 Advises of weather that is potentially hazardous to all aircraft and is affecting or is forecast to affect at least 3,000 square miles (8,000\u00a0km2).[32]\n\nConvective SIGMET \u2013 A convective SIGMET implies severe or greater turbulence, severe icing, and low level wind shear. Issued for severe surface weather (including surface winds greater than or equal to 50 knots (93\u00a0km/h; 58\u00a0mph), hail at the surface greater than or equal to 3\u20444 inch (19\u00a0mm) in diameter, or tornadoes); embedded thunderstorms; line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3,000 square miles (7,800\u00a0km2).[32]\nNon-Convective SIGMET \u2013 These SIGMETs may be issued for: severe icing; severe or extreme turbulence; dust storms and/or sand storms lowering visibilities to less than 3 miles (5\u00a0km); or volcanic ash. SIGMET advisories are issued for six hours during hurricanes and four hours for other weather-related events.[32]\n\n", 
+            "link": "/wiki/SIGMET", 
+            "name": "SIGMET"
+        }, 
+        {
+            "def": "Convective SIGMET \u2013 A convective SIGMET implies severe or greater turbulence, severe icing, and low level wind shear. Issued for severe surface weather (including surface winds greater than or equal to 50 knots (93\u00a0km/h; 58\u00a0mph), hail at the surface greater than or equal to 3\u20444 inch (19\u00a0mm) in diameter, or tornadoes); embedded thunderstorms; line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3,000 square miles (7,800\u00a0km2).[32]", 
+            "link": null, 
+            "name": "Convective SIGMET"
+        }, 
+        {
+            "def": "Non-Convective SIGMET \u2013 These SIGMETs may be issued for: severe icing; severe or extreme turbulence; dust storms and/or sand storms lowering visibilities to less than 3 miles (5\u00a0km); or volcanic ash. SIGMET advisories are issued for six hours during hurricanes and four hours for other weather-related events.[32]", 
+            "link": null, 
+            "name": "Non-Convective SIGMET"
+        }, 
+        {
+            "def": "Volcanic Ash Advisories \u2013 Advisory issued for all ash plumes detected by satellite imagery, including the location of the volcano, location/description of ash plume, forecast (at 6, 12 and 18 hours), and a graphic of the ash plume location/forecast. VAAs are issued by Volcanic Ash Advisory Centers in Anchorage (Alaska) and Washington (Contiguous United States, Caribbean, Central America, most of the North Pacific, and South America north of 10\u00b0S).[33]", 
+            "link": "/wiki/Volcanic_Ash_Advisory_Center#Alerts", 
+            "name": "Volcanic Ash Advisories"
+        }, 
+        {
+            "def": "Air Stagnation Advisory \u2013 Atmospheric conditions stable enough to cause air pollutants to accumulate in a given area. Criteria developed in conjunction with the local or state EPA and the product issued at their request.[27]", 
+            "link": null, 
+            "name": "Air Stagnation Advisory"
+        }, 
+        {
+            "def": "Ashfall Advisory \u2013 Airborne ash plume resulting in ongoing deposition at the surface. Ashfall may originate directly from a volcanic eruption or from the re-suspension (by wind) of a significant amount of relic ash.[27]", 
+            "link": null, 
+            "name": "Ashfall Advisory"
+        }, 
+        {
+            "def": "Blowing Dust Advisory \u2013 Strong winds and considerable blowing sand or dust reducing visibilities.[27]", 
+            "link": null, 
+            "name": "Blowing Dust Advisory"
+        }, 
+        {
+            "def": "Dense Fog Advisory \u2013 Widespread or localized fog reducing visibilities to 1\u20444\u00a0mi (0.4\u00a0km) or less.[27][34]", 
+            "link": null, 
+            "name": "Dense Fog Advisory"
+        }, 
+        {
+            "def": "Dense Smoke Advisory \u2013 Widespread or localized smoke reducing visibilities to 1\u20444\u00a0mi (0.4\u00a0km) or less.[27]", 
+            "link": null, 
+            "name": "Dense Smoke Advisory"
+        }, 
+        {
+            "def": "Dust Storm Warning \u2013 Widespread or localized blowing dust reducing visibilities to 1\u20444\u00a0mi (0.4\u00a0km) or less. Sustained winds of 25 miles per hour (40\u00a0km/h) or greater are usually required.[27]", 
+            "link": "/wiki/Dust_storm_warning", 
+            "name": "Dust Storm Warning"
+        }, 
+        {
+            "def": "Special Weather Statement \u2013 An advisory issued when a hazard is approaching advisory level. In some areas, it is also used in lieu of a significant weather advisory.[27]", 
+            "link": "/wiki/Special_weather_statement", 
+            "name": "Special Weather Statement"
+        }, 
+        {
+            "def": "Civil Emergency Message[35] \u2013 A message to warn the public of an in-progress or imminent significant threat(s) to public safety and/or property.", 
+            "link": "/wiki/Civil_Emergency_Message", 
+            "name": "Civil Emergency Message"
+        }, 
+        {
+            "def": "Outlook \u2013 A Hazardous Weather Outlook is issued daily to indicate that a hazardous weather or hydrologic event may occur in the next several days. The outlook will include information about potential severe thunderstorms, heavy rain or flooding, winter weather, extremes of heat or cold, etc., that may develop over the next seven days with an emphasis on the first 24 hours of the forecast. It is intended to provide information to those who need considerable lead time to prepare for the event (such as emergency management agencies, Skywarn spotters and media outlets).[40]", 
+            "link": null, 
+            "name": "Outlook"
+        }, 
+        {
+            "def": "Advisory \u2013 An advisory is issued when a hazardous weather or hydrologic event is occurring, imminent, or likely. Advisories are for \"less serious\" conditions than warnings that may cause significant inconvenience, and if caution is not exercised could lead to situations that may threaten life or property. The National Weather Service may activate weather spotters in areas affected by advisories to help them better track and analyze the event.[41]", 
+            "link": null, 
+            "name": "Advisory"
+        }, 
+        {
+            "def": "Emergency \u2013 An Emergency is issued when an event that by itself cannot pose a threat to life or property, but may indirectly cause other events to happen that may pose a threat to life or property. An example of this would be a power outage, which although not directly posing a hazard, may threaten public safety and critical services. The only existing exceptions to this are the tornado emergency and flash flood emergency, which are issued to get the attention of the public to a major tornado or flash flood.[42]", 
+            "link": null, 
+            "name": "Emergency"
+        }, 
+        {
+            "def": "Watch \u2013 A watch is used when the risk of a hazardous weather or hydrologic event has increased significantly, but its occurrence, location, or timing is still uncertain. It is intended to provide enough lead time so those who need to set their plans in motion can do so. A watch means that hazardous weather is possible. People should have a plan of action in case a storm threatens and they should listen for later information and possible warnings especially when planning travel or outdoor activities. The National Weather Service may activate weather spotters in areas affected by watches to help them better track and analyze the event.[43]", 
+            "link": null, 
+            "name": "Watch"
+        }, 
+        {
+            "def": "Warning \u2013 A warning is issued when a hazardous weather or hydrologic event is occurring, imminent, or likely. A warning means weather conditions pose a threat to life or property. People in the path of the storm need to take protective action. The National Weather Service may activate weather spotters in areas affected by warnings to help them better track and analyze the event.[44]", 
+            "link": null, 
+            "name": "Warning"
+        }, 
+        {
+            "def": "Statement \u2013 A statement is either issued as a follow-up message to a warning, watch, or emergency, that may update, extend, or cancel the message it is following up or a notification of significant weather for which no type of advisory, watch, or warning exists.[42]", 
+            "link": null, 
+            "name": "Statement"
+        }
+    ]
+}

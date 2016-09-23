@@ -1,0 +1,1032 @@
+{
+    "c1": "", 
+    "c2": "Sport", 
+    "c3": "Rowing", 
+    "words": [
+        {
+            "def": "(UK) A rower who can row both on stroke side and bow side. (US) A rower who can row both on the starboard and port sides of the boat. In the US this is also known as bisweptual.", 
+            "link": null, 
+            "name": "Ambidextrous\u00a0"
+        }, 
+        {
+            "def": "The rower closest to the front or bow of a multi-person shell. In coxless boats, often the person who keeps an eye on the water behind him to avoid accidents.", 
+            "link": "/wiki/Bow_(rowing)#Bow_seat", 
+            "name": "Bow (or bow seat)\u00a0"
+        }, 
+        {
+            "def": "(UK) Any sweep rower who rows with the oar on the bowside (usually, the right or starboard side) of the boat.", 
+            "link": "/wiki/Bow_(rowing)#Bow_side", 
+            "name": "Bowside\u00a0"
+        }, 
+        {
+            "def": "The oar-less crew-member, usually included, who is responsible for steering and race strategy. The coxswain either sits in the stern or lies in the bow of the boat, and faces in the direction of travel.", 
+            "link": "/wiki/Coxswain_(rowing)", 
+            "name": "Coxswain or \"cox\""
+        }, 
+        {
+            "def": "The middle rowers in the boat. In an 8-person shell, these are generally seats 6, 5, 4 and 3. They are generally the biggest and strongest rowers, who provide most of the power to the boat.", 
+            "link": null, 
+            "name": "Engine room\u00a0"
+        }, 
+        {
+            "def": "A rower known more for his or her powerful pulling rather than technical rowing proficiency.[citation needed]", 
+            "link": null, 
+            "name": "Hammer"
+        }, 
+        {
+            "def": "A rower who weighs more than the limit for lightweight rowing. Often referred to as Open weight.", 
+            "link": null, 
+            "name": "Heavyweight\u00a0"
+        }, 
+        {
+            "def": "A rower whose weight allows him or her to be eligible to compete in lightweight rowing events.", 
+            "link": "/wiki/Lightweight_rowing", 
+            "name": "Lightweight\u00a0"
+        }, 
+        {
+            "def": "[3][4] Rowers who are rowing for their first year, or (in the UK) a rower who has not won a qualifying regatta.", 
+            "link": null, 
+            "name": "Novices or Novicing"
+        }, 
+        {
+            "def": "(US) A sweep rower who rows with the oar on the port or left side of the boat. This means that the oar blade is placed to the rower's right side.", 
+            "link": "/wiki/Port_(nautical)", 
+            "name": "Port"
+        }, 
+        {
+            "def": "The middle rowers in the boat. In an 8-person shell, these are generally seats 6, 5, 4 and 3. They are generally the biggest and strongest rowers, who provide most of the power to the boat. (see Engine room)", 
+            "link": null, 
+            "name": "Power House\u00a0"
+        }, 
+        {
+            "def": "A rower who rows with two oars, one in each hand.", 
+            "link": "/wiki/Sculling", 
+            "name": "Sculler\u00a0"
+        }, 
+        {
+            "def": "A rower's position in the boat counting up from the bow. In an eight, the person closest to the bow of the boat is 1 or \"bow,\" the next is 2, followed by 3, 4, 5, 6, 7 and finally 8 or \"stroke.\" In certain countries the seats are numbered the opposite way, from stroke up to bow.", 
+            "link": "/wiki/Boat_positions_(sport_rowing)", 
+            "name": "Seat number\u00a0"
+        }, 
+        {
+            "def": "(US) A sweep rower who rows with the oar on the starboard or right side of the boat. This means that the oar blade is placed to the rower's left side.", 
+            "link": "/wiki/Starboard", 
+            "name": "Starboard\u00a0"
+        }, 
+        {
+            "def": "The rower closest to the stern of the boat, responsible for the stroke rate and rhythm.", 
+            "link": "/wiki/Stroke_(rowing)#Stroke_seat", 
+            "name": "Stroke (Seat)\u00a0"
+        }, 
+        {
+            "def": "(UK) Any sweep rower who rows with the oar on the Strokeside (usually, the left or port side) of the boat.", 
+            "link": "/wiki/Stroke_(rowing)#Stroke_side", 
+            "name": "Strokeside\u00a0"
+        }, 
+        {
+            "def": "A style of rowing in which each rower uses one oar.", 
+            "link": "/wiki/Sweep_(rowing)", 
+            "name": "Sweep\u00a0"
+        }, 
+        {
+            "def": "The wake from a motorized boat, disliked by rowers as the wash affects the boat stability and can cause water to flood over the gunwales.", 
+            "link": null, 
+            "name": "Wash"
+        }, 
+        {
+            "def": "A shell with 8 rowers. Along with the single scull, it is traditionally considered to be the blue ribbon event. Always with coxswain because of the size, weight and speed of the boat - bow loader eights exist but are banned from most competitions for safety reasons.", 
+            "link": "/wiki/Eight_(rowing)", 
+            "name": "Eight (8+)\u00a0"
+        }, 
+        {
+            "def": "A shell with 4 rowers. Coxless fours (4-) are often referred to as straight fours, and are commonly used by lightweight and elite crews and are raced at the Olympics. In club and school rowing, one more frequently sees a coxed four (4+) which is easier to row, and has a coxswain to steer.", 
+            "link": null, 
+            "name": "Four (4-) or (4+)\u00a0"
+        }, 
+        {
+            "def": "A shell with 2 rowers. The Coxless pair (2-), often called a straight pair, is a demanding but satisfying boat to master. Coxed pairs (2+) are rarely rowed by most club and school programs. It is no longer an Olympic class event, but it continues to be rowed at the World Rowing Championships.", 
+            "link": null, 
+            "name": "Pair (2-) or (2+)"
+        }, 
+        {
+            "def": "A shell having 8 rowers with two oars each. Generally a training boat, but raced by juniors in the UK.", 
+            "link": null, 
+            "name": "Octuple (8x)"
+        }, 
+        {
+            "def": "A shell having 4 rowers with two oars each. Can be coxed (4x+) but is usually coxless (4x-).", 
+            "link": "/wiki/Quad_scull", 
+            "name": "Quad (4x)"
+        }, 
+        {
+            "def": "A shell for three scullers with two oars each, usually without a coxswain. These boats are considerably rare.", 
+            "link": null, 
+            "name": "Triple (3x)"
+        }, 
+        {
+            "def": "A shell for two scullers generally without a coxswain.", 
+            "link": "/wiki/Double_scull", 
+            "name": "Double (2x)"
+        }, 
+        {
+            "def": "A shell designed for an individual sculler. Very good for skill development, particularly beginners, and a very competitive class at world events, WRC. Extremely rare is the coxed single which is only used as a training boat or for adaptive rowing.", 
+            "link": "/wiki/Single_Scull", 
+            "name": "Single (1x)\u00a0"
+        }, 
+        {
+            "def": "A brace which is part of the rigger of sweep rowing boats, which extends toward the bow from the top of the pin.", 
+            "link": null, 
+            "name": "Backstay\u00a0"
+        }, 
+        {
+            "def": "The stop mechanism on the seat slides which prevents the rower's seat from falling off the sliding tracks at the back end (towards the boat's bow) of the slide tracks. Also, in the UK, the sliding seat position closest to the boat's bow. As a command, it instructs the crew to adopt this position. (The US calls this seat position the \"back end\").", 
+            "link": null, 
+            "name": "Backstop\u00a0"
+        }, 
+        {
+            "def": "The spoon or hatchet/cleaver shaped end of the oar. Also used to refer to the entire oar.", 
+            "link": null, 
+            "name": "Blade\u00a0"
+        }, 
+        {
+            "def": "A shell in which the coxswain seat is near the bow of the boat rather than its stern. The seat in a bow loader partially enclosed and is designed so that the coxswain is virtually lying down, in order to reduce wind resistance and distribute coxswains weight so as to create a lower center of gravity.[5]", 
+            "link": "/wiki/Bowloader", 
+            "name": "Bowloader / bowcox / bow steered\u00a0"
+        }, 
+        {
+            "def": "The front section of a shell; the first section of the shell to cross the finish line.[6]", 
+            "link": "/wiki/Bow_(ship)", 
+            "name": "Bow\u00a0"
+        }, 
+        {
+            "def": "A small, soft ball no smaller than 4\u00a0cm diameter securely attached to a rowing or sculling boat's bow. Primarily intended for safety, but also used in deciding which boat crossed the finish line first in very close races.", 
+            "link": null, 
+            "name": "Bow ball\u00a0"
+        }, 
+        {
+            "def": "A card displaying the lane number assigned to the boat for a race.", 
+            "link": null, 
+            "name": "Bow number\u00a0"
+        }, 
+        {
+            "def": "(UK) The person stroking the boat has their oar on the Bowside (Starboard or right side) rather than the typical Strokeside of the boat.", 
+            "link": null, 
+            "name": "Bow rigged"
+        }, 
+        {
+            "def": "(UK) The Starboard or right side of a boat. Derives from the tradition of having the bow rower's oar be on the starboard or right side of the boat.", 
+            "link": "/wiki/Bow_(rowing)", 
+            "name": "Bowside\u00a0"
+        }, 
+        {
+            "def": "The deck of the bow and stern of the boat, which were traditionally covered with canvas.[7]", 
+            "link": null, 
+            "name": "Canvas\u00a0"
+        }, 
+        {
+            "def": "Modern oar blades that have a more rectangular hatchet-shape. (also hatchet blade)", 
+            "link": null, 
+            "name": "Cleaver blade\u00a0"
+        }, 
+        {
+            "def": "A wide plastic ring placed around the sleeve of an oar. The button stops the oar from slipping through the oarlock.", 
+            "link": null, 
+            "name": "Collar / Button\u00a0"
+        }, 
+        {
+            "def": "Portable voice amplifier; may also optionally incorporate digital readouts displaying stroke rate, boat speed and times.", 
+            "link": "/wiki/Cox_box", 
+            "name": "Cox box"
+        }, 
+        {
+            "def": "A portable amplification device, similar to a coxbox, incorporating a digital readout. Higher models may also have a built in radio and speed sensor.", 
+            "link": null, 
+            "name": "Coxmate"
+        }, 
+        {
+            "def": "A UK term for the clip at the on the top of the bow for holding racing number plates.[8][9]", 
+            "link": "/wiki/Empacher", 
+            "name": "Empacher Slot\u00a0"
+        }, 
+        {
+            "def": "An indoor rowing machine.", 
+            "link": "/wiki/Indoor_rower", 
+            "name": "Ergometer (also ergo or erg)\u00a0"
+        }, 
+        {
+            "def": "An adjustable footplate, to which a pair of shoes is typically attached, which allows the rower to easily adjust his or her physical position relative to the slide and the oarlock. The footplate can be moved (or \"stretched\") either closer to or farther away from the slide frontstops. (also \"Footplate\", \"Footchock\", or \"Footstop\")", 
+            "link": null, 
+            "name": "Foot stretcher\u00a0"
+        }, 
+        {
+            "def": "The stop mechanism on the seat slides which prevents the rower's seat from falling off the sliding tracks at the front end (towards the boat's stern) of the slide tracks. Also, in the UK, the sliding seat position closest to the boat's stern. As a command, it instructs the crew to adopt this position. (The US calls this seat position the \"front end\")", 
+            "link": null, 
+            "name": "Frontstop\u00a0"
+        }, 
+        {
+            "def": "(UK) Bar across the top of rowlock, secured with a nut, which prevents the oar from coming out of the rowlock. Also historically used to refer to the oarlock or rowlock.", 
+            "link": null, 
+            "name": "Gate\u00a0"
+        }, 
+        {
+            "def": "A boat where a pair of oarsmen, usually seats 4 and 5 in the engine room, both row on the same side of the boat (also known as Italian rigged or Tandem rigged, as favoured by Cambridge in the 2012 and 2013 Boat Races).", 
+            "link": null, 
+            "name": "German rigged"
+        }, 
+        {
+            "def": "(pronounced: gunnels) The top rail of the shell (also called Saxboard)", 
+            "link": "/wiki/Gunwale", 
+            "name": "Gunwales\u00a0"
+        }, 
+        {
+            "def": "The part of the oar that the rowers hold and pull with during the stroke.", 
+            "link": null, 
+            "name": "Handle\u00a0"
+        }, 
+        {
+            "def": "Modern oar blades that have a more rectangular hatchet-shape and which are not symmetrical. (also cleaver blade)", 
+            "link": null, 
+            "name": "Hatchet blade\u00a0"
+        }, 
+        {
+            "def": "The actual body of the shell.", 
+            "link": "/wiki/Hull_(watercraft)", 
+            "name": "Hull\u00a0"
+        }, 
+        {
+            "def": "The length of the oar shaft measured from the button to the handle.", 
+            "link": null, 
+            "name": "Inboard\u00a0"
+        }, 
+        {
+            "def": "A structure timber resembling the keel, but on the inside of the shell.", 
+            "link": "/wiki/Keelson", 
+            "name": "Keelson\u00a0"
+        }, 
+        {
+            "def": "A motorboat used by rowing instructors, coaches or umpires. Referred to as a \"coach boat\" in Canada.", 
+            "link": "/wiki/Launch_(boat)", 
+            "name": "Launch"
+        }, 
+        {
+            "def": "A thick piece of leather (plastic on modern oars) around the oar to keep the oar lock from wearing out the shaft of the oar (typically wood or carbon fiber).", 
+            "link": null, 
+            "name": "Leather/Sleeve\u00a0"
+        }, 
+        {
+            "def": "The ropes held by the coxswain to control the rudder.", 
+            "link": null, 
+            "name": "Lines\u00a0"
+        }, 
+        {
+            "def": "The part of the oar between the blade and the handle.", 
+            "link": null, 
+            "name": "Loom\u00a0"
+        }, 
+        {
+            "def": "Traditional U-shaped oar blade. (also spoon blade and tulip)", 
+            "link": "/wiki/Macon_spoons", 
+            "name": "Macon blade\u00a0"
+        }, 
+        {
+            "def": "A slender pole which is attached to a boat at the Oarlock. One end of the pole, called the \"handle,\" is gripped by the rower, the other end has a \"blade,\" which is placed in the water during the propulsive phase of the stroke.", 
+            "link": "/wiki/Oar", 
+            "name": "Oar\u00a0"
+        }, 
+        {
+            "def": "The rectangular lock at the end of the rigger which physically attaches the oar to the boat. The oarlock also allows the rower to rotate the oar blade between the \"square\" and \"feather\" positions. Also historically called 'Rowing Gate' by some manufacturers.", 
+            "link": "/wiki/Oarlock", 
+            "name": "Oarlock\u00a0"
+        }, 
+        {
+            "def": "The length of the oar shaft measured from the button to the tip of the blade.", 
+            "link": null, 
+            "name": "Outboard\u00a0"
+        }, 
+        {
+            "def": "(See Rigger)", 
+            "link": "/wiki/Outrigger", 
+            "name": "Outrigger\u00a0"
+        }, 
+        {
+            "def": "The vertical metal rod on which the rowlock rotates.", 
+            "link": null, 
+            "name": "Pin\u00a0"
+        }, 
+        {
+            "def": "A type of mitten with holes on each end, which allow the rower to grip the oar with bare hands while also warming the hands, used frequently by rowers in colder climates.", 
+            "link": null, 
+            "name": "Pogies/Poagies\u00a0"
+        }, 
+        {
+            "def": "(US) The left side of the boat when facing forward. (Strokeside in UK)", 
+            "link": "/wiki/Port_(nautical)", 
+            "name": "Port or Portside"
+        }, 
+        {
+            "def": "The name given to that part of the boat to which the skin of the hull is attached. They are typically made of wood, aluminum or composite materials and provide structural integrity. (see also shoulder).", 
+            "link": null, 
+            "name": "Ribs\u00a0"
+        }, 
+        {
+            "def": "Rowing slang name for an Outrigger. It is a projection from the side (gunwale) of a racing shell.[1] The oarlock is attached to the far end of the rigger away from the boat. The rigger allows the racing shell to be narrow thereby decreasing drag, while at the same time placing the oarlock at a point that optimizes leverage of the oar. There are several styles of riggers, typically attached either to the side of the hull or to the top of the gunwales. The most common is the triangle frame or Euro rigger (USA), with two points attached to the boat (and almost always with a backstay in addition), and the third point being where the oarlock (gate) is placed. Rigging refers to whether a boat is stroked by a port or starboard (i.e. port-rigged, starboard-rigged). With sweep rowing, riggers typically alternate sides, though it is not uncommon to see two adjacent seats rigged on the same side of the boat.", 
+            "link": null, 
+            "name": "Rigger\u00a0"
+        }, 
+        {
+            "def": "The wheels upon which the seat slide travels along its track.", 
+            "link": null, 
+            "name": "Roller\u00a0"
+        }, 
+        {
+            "def": "Often used in the UK to for an Oarlock (see above). Also historically called 'Rowing Gate' by some manufacturers.", 
+            "link": "/wiki/Rowlock", 
+            "name": "Rowlock\u00a0"
+        }, 
+        {
+            "def": "Adjacent to the skeg and used by the coxswain (or in some coxless boats, by a rower using a \"toe\" or foot steering mechanism) to steer the boat via attached cables. Extra-large rudders are used on narrower and/or bendier rivers.", 
+            "link": "/wiki/Rudder", 
+            "name": "Rudder\u00a0"
+        }, 
+        {
+            "def": "The sides and top edge of a boat, to which the riggers attach - see also Gunwales", 
+            "link": null, 
+            "name": "Saxboard\u00a0"
+        }, 
+        {
+            "def": "(a) An oar made to be used in a sculling boat where each rower has two oars, one per hand (b) A boat (shell) that is propelled using sculling oars, e.g., a \"single scull,\" is a one-person boat where the rower has two oars.", 
+            "link": null, 
+            "name": "Scull\u00a0"
+        }, 
+        {
+            "def": "Molded seat mounted on wheels, single action or double action. Single action is fixed bearing wheel, double action is wheel on axle that rolls on track and rolls on horns of seat. A secondary meaning of location in the shell, the bow seat is one, and is numbered upward to the stroke seat (8, in an 8-man shell). Thirdly can mean a competitive advantage in a race, to lead a competitor by a seat is to be in front of them by the length of a single rower's section of a shell.", 
+            "link": null, 
+            "name": "Seat\u00a0"
+        }, 
+        {
+            "def": "Seating positions in a racing shell are generally numbered from the bow to the stern in English-speaking countries, unlike many non-English-speaking countries which count from the Stroke forward. Generally the forwardmost rower is called the \"Bow\" and the aftmost rower the \"Stroke\", regardless of the number of rowers in the boat, with all other seats simply being numbered. So for instance the crew of an eight (with coxswain) would number off from the bow: \"Bow\", \"Two\", \"Three\", \"Four\", \"Five\", \"Six\", \"Seven\", \"Stroke\", whereas a four (with or without coxswain) or a quad would number off: \"Bow\", \"Two\", \"Three\", \"Stroke\".", 
+            "link": "/wiki/Boat_positions_(sport_rowing)", 
+            "name": "Seating\u00a0"
+        }, 
+        {
+            "def": "The boat used for rowing.", 
+            "link": "/wiki/Racing_shell", 
+            "name": "Shell\u00a0"
+        }, 
+        {
+            "def": "Load bearing supports that mount rigger and attach to keel of boat. (also knee)", 
+            "link": null, 
+            "name": "Shoulder\u00a0"
+        }, 
+        {
+            "def": "Thin piece of flat metal or plastic that helps stabilize the shell in the water.", 
+            "link": "/wiki/Skeg", 
+            "name": "Skeg (or fin)\u00a0"
+        }, 
+        {
+            "def": "Hollow rails upon which a rower or sculler's sliding seat will roll. Older shells might be convex rails with double wheels.", 
+            "link": null, 
+            "name": "Slides (or tracks)\u00a0"
+        }, 
+        {
+            "def": "Folding, portable temporary boat holders. Two are required to hold a boat.", 
+            "link": null, 
+            "name": "Slings\u00a0"
+        }, 
+        {
+            "def": "A blade design in which the face of the oar blade is smooth, without the traditional central spine.", 
+            "link": null, 
+            "name": "Smoothie\u00a0"
+        }, 
+        {
+            "def": "A device mounted on the keel of some high-performance shells that determines the boat's speed based on the speed of a small propeller and transmits this information to the coxbox.", 
+            "link": null, 
+            "name": "Speed coach\u00a0"
+        }, 
+        {
+            "def": "Traditional U-shaped oar blade, which is symmetrical down the center of the shaft. (also Macon blade or \"Tulip\")", 
+            "link": null, 
+            "name": "Spoon blade\u00a0"
+        }, 
+        {
+            "def": "(US) The right side of the boat when facing forward. (Bowside in UK)", 
+            "link": "/wiki/Starboard", 
+            "name": "Starboard (or Starboard side)\u00a0"
+        }, 
+        {
+            "def": "(US) A boat where the stroke rower is a starboard rower. (Bow Rigged in UK)", 
+            "link": null, 
+            "name": "Starboard rigged"
+        }, 
+        {
+            "def": "A structure at the starting line of the race. The shell is \u201cbacked\u201d into the starting gate. Once in the gates a mechanism, or person lying on the starting gate, holds the stern of the shell.", 
+            "link": null, 
+            "name": "Starting gate\u00a0"
+        }, 
+        {
+            "def": "The space between the gunwales (UK).", 
+            "link": null, 
+            "name": "State room\u00a0"
+        }, 
+        {
+            "def": "The rear section of a shell.", 
+            "link": "/wiki/Stern", 
+            "name": "Stern\u00a0"
+        }, 
+        {
+            "def": "A slang abbreviation for Foot Stretchers.", 
+            "link": null, 
+            "name": "Stretcher\u00a0"
+        }, 
+        {
+            "def": "(UK) The port or left side of the boat (even if the boat is bow rigged). Derives from the tradition of having the stroke rower's oar be on the port or left side of the boat.", 
+            "link": "/wiki/Stroke_(rowing)", 
+            "name": "Strokeside\u00a0"
+        }, 
+        {
+            "def": "The rowlock/oarlock. Often referred as gate due to the securing bar/gate at its top.", 
+            "link": null, 
+            "name": "Swivel\u00a0"
+        }, 
+        {
+            "def": "In some boats without a coxswain, a rower may be able to control the rudder and steer the boat by changing the direction his foot points. This is called \"toeing a boat.\" And the mechanism is called a \"toe.\" (also: \"foot steering\")", 
+            "link": null, 
+            "name": "Toe\u00a0"
+        }, 
+        {
+            "def": "The nut which screws onto the top of the pin holding the Rowlock in place.", 
+            "link": null, 
+            "name": "Top-Nut\u00a0"
+        }, 
+        {
+            "def": "(see Slides)", 
+            "link": null, 
+            "name": "Tracks\u00a0"
+        }, 
+        {
+            "def": "(see Spoon Blade)", 
+            "link": null, 
+            "name": "Tulip\u00a0"
+        }, 
+        {
+            "def": "(see Roller)", 
+            "link": null, 
+            "name": "Wheel\u00a0"
+        }, 
+        {
+            "def": "More modern version of an outrigger in the shape of a wing. It has a stiffer workthru which makes the boat more responsive to the power of the stroke. This can also have the extra support of a backstay. Wing riggers can either be stern or bow rigged.", 
+            "link": null, 
+            "name": "Wing Rigger\u00a0"
+        }, 
+        {
+            "def": "These commands tell the rower(s) either to stop rowing or to start rowing with everyone else. (#) indicates the number of rower(s) who should start or stop \u2013 e.g. \u201cBow pair fall-out, stern pair fall-in in two..\u201d", 
+            "link": null, 
+            "name": "\"(#) Fall in/out\"\u00a0"
+        }, 
+        {
+            "def": "Command shouted by a crew about to be overtaken by another crew, telling the overtaking crew of their presence.", 
+            "link": null, 
+            "name": "\"Ahead\" or \"Look Ahead\"\u00a0"
+        }, 
+        {
+            "def": "Tells the rowers to row until told to stop \u2013e.g. \u201cTwo, hit it...\u201d", 
+            "link": null, 
+            "name": "\"(#) tap it\" or \"(#) row on\"\u00a0"
+        }, 
+        {
+            "def": "To have the rowers place their blades at the release position, squared, and push the oar handle towards the stern of the boat. This motion causes the shell to move backwards.", 
+            "link": null, 
+            "name": "\"Back it down\"\u00a0"
+        }, 
+        {
+            "def": "Used to tell the rowers to place their blades back on the water after performing an easy-all.", 
+            "link": null, 
+            "name": "\"Blades Down\" or \"Drop\"\u00a0"
+        }, 
+        {
+            "def": "Tell the rowers on one side to pull their blades in, in order to prevent hitting an object or another boat in the water, or to let another crew pass on a narrow river.", 
+            "link": null, 
+            "name": "\"Blades in (side)\"\u00a0"
+        }, 
+        {
+            "def": "While carrying the shell, the athletes are commanded to hold the shell in a diagonal position, the high side as stated.", 
+            "link": null, 
+            "name": "\"Cant it upriver/downriver\"\u00a0"
+        }, 
+        {
+            "def": "Square the oars in the water to stop the boat.", 
+            "link": null, 
+            "name": "\"Check it/her down\"\u00a0"
+        }, 
+        {
+            "def": "Tells the crew to call out their seat number, starting at the bow, when ready to row.", 
+            "link": null, 
+            "name": "\"Count Down\" (or \"number off\")\u00a0"
+        }, 
+        {
+            "def": "Means that the boat is leaning to one side or the other. Rowers on the side that is down must raise their hands, and the other side must lower their hands.", 
+            "link": null, 
+            "name": "\"Down on port/starboard\"\u00a0"
+        }, 
+        {
+            "def": "(USA) To stop rowing hard.", 
+            "link": null, 
+            "name": "\"Easy\" (or \"ease up\")\u00a0"
+        }, 
+        {
+            "def": "(UK) To stop.", 
+            "link": null, 
+            "name": "\"Easy oars\" (or \"Easy There\")\u00a0"
+        }, 
+        {
+            "def": "This command tells the rowers to pull with even pressure on both sides. This is the complement to ease-up.", 
+            "link": null, 
+            "name": "\"Even it out\" (or \"even pressure\")\u00a0"
+        }, 
+        {
+            "def": "Tells the rowers to apply more pressure as needed.", 
+            "link": null, 
+            "name": "\"Firm up\"\u00a0"
+        }, 
+        {
+            "def": "Commands the crew to row 10 strokes of special effort. It is frequently given when a crew is attempting to pass another boat.", 
+            "link": null, 
+            "name": "\"push for 10\" (or \"power ten\")\u00a0"
+        }, 
+        {
+            "def": "A command by the coxswain, where the rowers all hit the gunwales (sides) of the boat with their oar handles. Used in set exercises occasionally.", 
+            "link": null, 
+            "name": "\"Gunnel!\"\u00a0"
+        }, 
+        {
+            "def": "Tells the rowers to grab the ribs on the inside of the boat so that the boat can be rolled from heads. The coach or cox uses this command when the crew is putting the shell in the water.", 
+            "link": null, 
+            "name": "\"Hands in\"\u00a0"
+        }, 
+        {
+            "def": "Tells the rowers to grab the boat next to their seats, so that the boat can be moved.", 
+            "link": null, 
+            "name": "\"Hands on\"\u00a0"
+        }, 
+        {
+            "def": "Tells the rowers to grab the dock in preparation for shoving off.", 
+            "link": null, 
+            "name": "\"Hands out\" (or \"sit ready to shove\")\u00a0"
+        }, 
+        {
+            "def": "The rowers on that side of the boat must row harder (and the opposite side must row slightly easier) in order to facilitate a sharper turn.", 
+            "link": null, 
+            "name": "\"Hard on port/starboard\" (or \"port/starboard pressure\")\u00a0"
+        }, 
+        {
+            "def": "Off the water, a shout to alert others to watch out for a boat being carried.", 
+            "link": null, 
+            "name": "\"Heads\" or \"Heads Up\"\u00a0"
+        }, 
+        {
+            "def": "Tells the rowers to press the boat above their heads.", 
+            "link": null, 
+            "name": "\"to Heads, ready, up\"\u00a0"
+        }, 
+        {
+            "def": "(UK) Stop the boat.", 
+            "link": null, 
+            "name": "\"Hold it/her up\"\u00a0"
+        }, 
+        {
+            "def": "(UK) Emergency stop.", 
+            "link": null, 
+            "name": "\"Hold it/her hard\"\u00a0"
+        }, 
+        {
+            "def": "(USA) Emergency stop, also used after the command way enough. It instructs the rowers to square their blades in the water to stop the boat.", 
+            "link": null, 
+            "name": "\"Hold Water\"\u00a0"
+        }, 
+        {
+            "def": "Most water commands are appended prior to the command to take place after two strokes. For example, \"In 2, Power 10\" or \"In 2, Weigh-enough.\"", 
+            "link": null, 
+            "name": "\"In 2...\"\u00a0"
+        }, 
+        {
+            "def": "A command used when lifting the boat. Grab the boat so that you can lift it over your head. Grab only the gunwale or hull structure - do not lift by the footstop assembly.", 
+            "link": null, 
+            "name": "\u201cInside Grip\u201d\u00a0"
+        }, 
+        {
+            "def": "Command given telling the athletes to go to their stations and grab a hold of the boat.", 
+            "link": null, 
+            "name": "\"Lay Hold\" (or \"hands on\")\u00a0"
+        }, 
+        {
+            "def": "To stop rowing after a given piece of on the water rowing length, but to put the handles of the oars either to the gunwales or out in front of the rower, in such a manner that the oar paddles are parallel to the water yet not touching it. This allows the boat to glide for a distance leaving no paddle wake in the water. Similar, but not exactly the same is the command \"Gunnel\", where rowers push the oars until the handle touches the boat's gunwale.", 
+            "link": null, 
+            "name": "\"Let it/her run\"\u00a0"
+        }, 
+        {
+            "def": "Tells a crew to row with just enough pressure to move the boat. The paddle command is also used to bring a crew down from full pressure at the end of a workout piece or race.", 
+            "link": null, 
+            "name": "\"Paddle\"\u00a0"
+        }, 
+        {
+            "def": "A rapid stroke where rowers use only their arms and use minimal pressure. An effective and impressive way to turn a boat when done right.", 
+            "link": null, 
+            "name": "\u201cPick it / Picking\u201d\u00a0"
+        }, 
+        {
+            "def": "The command to take 10 strokes at more than full pressure. Used for passing and gaining water in a race. (sometimes \"Power 5\", \"Power 20\", or \"Power 30\")", 
+            "link": null, 
+            "name": "\"Power 10\" (or \"10 firm\" )"
+        }, 
+        {
+            "def": "Begin rowing.", 
+            "link": null, 
+            "name": "\"Ready all, Row\"\u00a0"
+        }, 
+        {
+            "def": "Tells the crew to flip the boat over, in unison, from above their heads.", 
+            "link": null, 
+            "name": "\"Roll it\"\u00a0"
+        }, 
+        {
+            "def": "Reminds the rowers to keep the boat on keel.", 
+            "link": null, 
+            "name": "\"Set it up\"\u00a0"
+        }, 
+        {
+            "def": "A command and a part of the race. This tells the rowers that the crew is going to bring the stroke rate down for the body of the race, but still maintain the pressure. This usually occurs in the middle of the race.", 
+            "link": null, 
+            "name": "\"Settle\"\u00a0"
+        }, 
+        {
+            "def": "Act of removing the oars from the oar locks and allowing them to float alongside the boat.", 
+            "link": null, 
+            "name": "\"Ship Oars\"\u00a0"
+        }, 
+        {
+            "def": "Tells the crew to lift the boat from any position below their shoulders, up to shoulder height. Can be reversed to lower the boat from heads to shoulders, i.e., \u201cShoulders, ready, down!\u201d This is the best position for carrying a shell.", 
+            "link": null, 
+            "name": "\"Shoulders, ready, up\"\u00a0"
+        }, 
+        {
+            "def": "Tells the crew to get into the boat.", 
+            "link": null, 
+            "name": "\"Sit in\"\u00a0"
+        }, 
+        {
+            "def": "Commands the crew to move to the catch blades buried, and be ready to start the race.", 
+            "link": null, 
+            "name": "\"Sit ready\"\u00a0"
+        }, 
+        {
+            "def": "A command used if the stern is held by a stake boat. \"Port scull\" usually means Two seat takes Bow's oar in front of him/her and rows lightly with it. Likewise, \"Starboard scull\" means Three seat takes Two seat's oar and does the same. This is easier than having one seat take a stroke since it can move the boat in a more parallel direction.", 
+            "link": null, 
+            "name": "\"Scull\"\u00a0"
+        }, 
+        {
+            "def": "A command used when carrying a boat to start turning either bow or stern.", 
+            "link": null, 
+            "name": "\"Swing it\"\u00a0"
+        }, 
+        {
+            "def": "To stop rowing and hold the blades at a 45 degree angle in the water to slow the boat down.", 
+            "link": null, 
+            "name": "\"Take the run off\"\u00a0"
+        }, 
+        {
+            "def": "A stroke where rowers use only their arms and back. Used mostly for warm-up or to turn a boat.", 
+            "link": null, 
+            "name": "\u201cTouch it / Touching\u201d\u00a0"
+        }, 
+        {
+            "def": "The command for exiting a team boat.", 
+            "link": null, 
+            "name": "\"One foot up & out\"\u00a0"
+        }, 
+        {
+            "def": "To row without feathering the blades on the recovery.", 
+            "link": null, 
+            "name": "\"On the square\"\u00a0"
+        }, 
+        {
+            "def": "Tells the crew to lift the shell to their waist.", 
+            "link": null, 
+            "name": "\"Waist, ready, up\"\u00a0"
+        }, 
+        {
+            "def": "Tells one side to look out at their blades, and take action to prevent them possibly hitting something.", 
+            "link": null, 
+            "name": "\"Watch your blades (side)\"\u00a0"
+        }, 
+        {
+            "def": "The command to stop rowing or, in some cases, whatever the rower is doing, whether it be walking with the boat overhead or rowing. (\"Way\" is a nautical term for the movement of a boat through water (as in headway and right-of-way). So the command \"way enough\", literally means to enough moving the boat). Often pronounced way-nuf, wane-up or wane-off in the United States.", 
+            "link": null, 
+            "name": "\"Way enough\"\u00a0"
+        }, 
+        {
+            "def": "To take a stroke without the blade having been placed in the water, resulting in a complete lack of power.", 
+            "link": null, 
+            "name": "Air stroke"
+        }, 
+        {
+            "def": "Water thrown back toward the bow direction by the blade as it enters the water. Less is best. This indicates that the blade has been properly planted before the rower initiates the drive.", 
+            "link": null, 
+            "name": "Backsplash\u00a0"
+        }, 
+        {
+            "def": "To propel the shell backwards.", 
+            "link": null, 
+            "name": "Backwater\u00a0"
+        }, 
+        {
+            "def": "Amount of forward lean of rower\u2019s body from hips at the catch.", 
+            "link": null, 
+            "name": "Body angle\u00a0"
+        }, 
+        {
+            "def": "Submerge the blade totally in the water.", 
+            "link": null, 
+            "name": "Bury the blade\u00a0"
+        }, 
+        {
+            "def": "The part of the stroke at which the oar blade enters the water and the drive begins. Rowers conceptualize the oar blade as 'catching' or grabbing hold of the water.", 
+            "link": null, 
+            "name": "Catch\u00a0"
+        }, 
+        {
+            "def": "Where the blade enters the water.", 
+            "link": null, 
+            "name": "Catch point\u00a0"
+        }, 
+        {
+            "def": "The amount of interruption of the forward movement\u2014usually occurs at the catch and sometimes at the release.", 
+            "link": null, 
+            "name": "Check\u00a0"
+        }, 
+        {
+            "def": "The distance between one set of puddles and the next set of puddles.", 
+            "link": null, 
+            "name": "Cover\u00a0"
+        }, 
+        {
+            "def": "A rowing error where the rower is unable to timely remove or release the oar blade from the water and the oar blade acts as a brake on the boat until it is removed from the water. This results in slowing the boat down. A severe crab can even eject a rower out of the shell or make the boat capsize (unlikely except in small boats). Occasionally, in a severe crab, the oar handle will knock the rower flat and end up behind him/her, in which case it is referred to as an 'over-the-head crab.'", 
+            "link": null, 
+            "name": "Crab, or Catch a crab\u00a0"
+        }, 
+        {
+            "def": "The propulsive portion of the stroke from the time the oar blade enters the water ('catch') until it is removed from the water ('release').", 
+            "link": null, 
+            "name": "Drive\u00a0"
+        }, 
+        {
+            "def": "The poor technique evident when an Eight (8+) is rowed with no two oars moving in the same time or position in the stroke.", 
+            "link": null, 
+            "name": "Drunken octopus / drunken spider\u00a0"
+        }, 
+        {
+            "def": "To turn the oar so that its blade is parallel with the water (opposite of square).", 
+            "link": null, 
+            "name": "Feather\u00a0"
+        }, 
+        {
+            "def": "The portion of the pull-through just as the oar is taken from the water.", 
+            "link": null, 
+            "name": "Finish\u00a0"
+        }, 
+        {
+            "def": "At the close of the drive phase, the hands move away from the body.", 
+            "link": null, 
+            "name": "Hands away\u00a0"
+        }, 
+        {
+            "def": "The blade is hesitating at the catch point, before entering the water.", 
+            "link": null, 
+            "name": "Hanging at the catch\u00a0"
+        }, 
+        {
+            "def": "When two crews share the same shell, during a regatta, sometimes it is necessary for the crews to switch at the finish line without taking the boat from the water.", 
+            "link": null, 
+            "name": "Hot seating\u00a0"
+        }, 
+        {
+            "def": "The oarsmen\u2019s hand nearest the oar lock. This is the feathering hand.", 
+            "link": null, 
+            "name": "Inside hand\u00a0"
+        }, 
+        {
+            "def": "A problem where the seat becomes derailed from the track while rowing.", 
+            "link": null, 
+            "name": "Jumping the slide\u00a0"
+        }, 
+        {
+            "def": "The balance of the boat. Good keel means that the stability of the boat is good. \"keep keel\" is a command often heard from the coxswain when the boat starts to sway. (US)", 
+            "link": null, 
+            "name": "Keel\u00a0"
+        }, 
+        {
+            "def": "What the rowers have when they sit with their legs flat and lean towards the bow of the boat with their body.", 
+            "link": null, 
+            "name": "Lay-back\u00a0"
+        }, 
+        {
+            "def": "Power applied to the stroke, at the catch, by the force of driving the legs down. Often heard being yelled from the coach boat.", 
+            "link": null, 
+            "name": "Leg drive\u00a0"
+        }, 
+        {
+            "def": "A technical fault where the rower begins the drive before the catch is complete.", 
+            "link": null, 
+            "name": "Missing water\u00a0"
+        }, 
+        {
+            "def": "The hand of a rower that is placed on the end of the oar handle.", 
+            "link": null, 
+            "name": "Outside hand\u00a0"
+        }, 
+        {
+            "def": "Fault done by an oarsman when he comes to his full reach forward and then attempts to obtain even greater length by releasing his grasp on the handle with his outside hand or by bringing his outside shoulder further forward.", 
+            "link": null, 
+            "name": "Over reach\u00a0"
+        }, 
+        {
+            "def": "Rowing with a pause between each stroke. The coxswain or rower giving commands will indicate where in the stroke this pause should be taken.", 
+            "link": null, 
+            "name": "Pause paddling\u00a0"
+        }, 
+        {
+            "def": "The angle between a \"squared\" blade and a line perpendicular to the water\u2019s surface.", 
+            "link": null, 
+            "name": "Pitch\u00a0"
+        }, 
+        {
+            "def": "Disturbances made by an oar blade pulled through the water. The farther the puddles are pushed past the stern of the boat before each catch, the more \u201crun\u201d the boat is getting.", 
+            "link": null, 
+            "name": "Puddles\u00a0"
+        }, 
+        {
+            "def": "The portion of the stroke from the catch to the finish (when the oar is in the water). This is the propulsive part of the stroke.", 
+            "link": null, 
+            "name": "Pull through\u00a0"
+        }, 
+        {
+            "def": "The number of strokes executed per minute by a crew. (also Stroke rate)", 
+            "link": null, 
+            "name": "Rating\u00a0"
+        }, 
+        {
+            "def": "The relationship between the time taken during the propulsive and recovery phases of a rowing or sculling action.", 
+            "link": null, 
+            "name": "Ratio\u00a0"
+        }, 
+        {
+            "def": "The non-work phase of the stroke where the rower returns the oar from the release to the catch.", 
+            "link": null, 
+            "name": "Recovery\u00a0"
+        }, 
+        {
+            "def": "At the end of the drive portion of the stroke. It is when the oar blade(s) is removed (or released) from the water.", 
+            "link": null, 
+            "name": "Release\u00a0"
+        }, 
+        {
+            "def": "Distance a shell travels during each stroke.", 
+            "link": null, 
+            "name": "Run\u00a0"
+        }, 
+        {
+            "def": "When rowers move too quickly along their tracks into the catch. The boat will lose the feeling that it is gliding or \"running out.\"", 
+            "link": null, 
+            "name": "Rushing\u00a0"
+        }, 
+        {
+            "def": "The balance of the boat. Affected by handle heights, rowers leaning, and timing, all of which affect the boat's balance, after which the coxswain tells rowers to \"set the boat\". (see keel).", 
+            "link": null, 
+            "name": "Set\u00a0"
+        }, 
+        {
+            "def": "When an oarsman's seat moves toward the bow faster than his shoulders.", 
+            "link": null, 
+            "name": "Shooting your slide\u00a0"
+        }, 
+        {
+            "def": "A blade that is too high off the surface of the water during the recovery. The rower's hands are too low causing an upset to the balance of the boat (the \"set\").", 
+            "link": null, 
+            "name": "Skying\u00a0"
+        }, 
+        {
+            "def": "Distance between bowman\u2019s puddle on one stroke and the point at which the No. 7 rower catches water on the next stroke.", 
+            "link": null, 
+            "name": "Spacing / Run\u00a0"
+        }, 
+        {
+            "def": "Amount of time it takes to row 500 meters. Displayed on all ergs and on coxboxes installed on boats with speed coaches (see above).", 
+            "link": null, 
+            "name": "Split time (split)\u00a0"
+        }, 
+        {
+            "def": "To turn the oar so that its blade is perpendicular to the water (opposite of feather).", 
+            "link": null, 
+            "name": "Square\u00a0"
+        }, 
+        {
+            "def": "\n\nOne complete cycle through the process above.\nThe rower in the stern of a multi-person shell, whose timing is followed by the other rowers.\n\n", 
+            "link": null, 
+            "name": "Stroke\u00a0"
+        }, 
+        {
+            "def": "The number of strokes executed per minute by a crew. (also rating)", 
+            "link": null, 
+            "name": "Stroke rate\u00a0"
+        }, 
+        {
+            "def": "A feeling in the boat when the rowers are driving and finishing their strokes strongly and getting good layback.", 
+            "link": null, 
+            "name": "Swing\u00a0"
+        }, 
+        {
+            "def": "Shortened strokes, often used during the start of a race or in a warm-up.", 
+            "link": null, 
+            "name": "Three-quarter/Half/Quarter slide\u00a0"
+        }, 
+        {
+            "def": "When passing a boat, the coxswain announces each seat as it is passed.", 
+            "link": null, 
+            "name": "Walking\u00a0"
+        }, 
+        {
+            "def": "When an oar blade comes out of the water during drive and creates surface wash that causes the shell to lose power and become unsteady.", 
+            "link": null, 
+            "name": "Washing out\u00a0"
+        }, 
+        {
+            "def": "In head to head races, the start is one of the most important parts of the race. In head races, where boats do not race next to each other, there is a running start, where rowing begins before the starting line and rowers are already at full speed when they cross the start. In sprints (head-to-head), the start consists of the following sections:\n\nActual start: This is generally five or six partial strokes done at a high rate and in a certain pattern, i.e. some three-quarter length strokes (sometimes called three-quarters slide, or \"draws\"), followed by half strokes (\"winds\"), which are then lengthened into full length strokes. The goal is to get the rowers off to a cohesive start and quickly build momentum, with the rate of the draws being held by the subsequent lengthens. In the draws, it is important to grip the water gently at first and not to \"rip\", causing turbulence and not transmitting energy effectively. An example start, called by the coxwain, would go as such: \"Draw....there! Draw....there! Wind one! Wind two! Wind three! Lengthen it out....Lengthen....Lengthen\". The tone, pitch and rhythm of the cox's voice helps to guide the crew as to what is required.\nHigh Ten: A set of strokes done at a high cadence immediately after the start. Not to be confused with \"Power Ten,\" the high ten is ten strokes at a high rating to finish building speed. Some crews may pull fifteen or twenty high strokes to build even more speed.\nSettle: Immediately after the rowers complete their high cadence strokes, the stroke tempo is lowered and the stroke lengthened to the rating to be used throughout the body of the race. Often accompanied by a Power 10 or 20. Coxswains may call a \"Ten to Settle\" or \"Ten to Glide\" to drop the cadence more gradually.\n\n", 
+            "link": null, 
+            "name": "Start\u00a0"
+        }, 
+        {
+            "def": "The body of the race is carried out at a consistent rating, with power tens called as the coxswain deems necessary.", 
+            "link": null, 
+            "name": "Body\u00a0"
+        }, 
+        {
+            "def": "A race simulation, whereby the rowers row a typical racing distance as fast as possible, the purpose is to train the rowers for endurance and anaerobic fitness and generally prepare them for the real race. Pieces are usually acknowledged by the coach: \"We will do a piece\".", 
+            "link": null, 
+            "name": "Piece\u00a0"
+        }, 
+        {
+            "def": "The \u201csecond chance\u201d race given to those crews which fail to qualify for the finals from an opening heat. \u201cRep\u201d qualifiers move onto semi-finals or finals depending on the number of entries. Used in international racing.", 
+            "link": "/wiki/Repechage", 
+            "name": "Repechage\u00a0"
+        }, 
+        {
+            "def": "The last 500 meters of most races are generally at a much higher rating than the rest of the race, as crews pull to exhaustion.", 
+            "link": null, 
+            "name": "Sprint\u00a0"
+        }, 
+        {
+            "def": "In head-to-head races, the coxswain may decide to call a flutter, which is essentially the six-stroke start put into the race close to the end. The flutter may push one boat which is trailing another a few seats ahead, but is extremely demanding on a crew. In many cases, it is used as a desperation move when all other options have been exhausted.", 
+            "link": null, 
+            "name": "Flutter/Shunt\u00a0"
+        }, 
+        {
+            "def": "A long race in which rowers race a twisting course of about 3 miles. A race for time. The start is staggered. Usually in the fall months.", 
+            "link": "/wiki/Head_race", 
+            "name": "Head race\u00a0"
+        }, 
+        {
+            "def": "In collegiate competition, crews sometimes \"bet\" their shirts on the race, and the loser must render a racing shirt with their logo on it to the winner. Traditionally, this was done as the boats were pulled together right after the race ended and shirts were exchanged, but it is now usually done off the water. While there has been questions in regards to the legality of this practice after women's collegiate crew joined the NCAA, the tradition of betting shirts is upheld by the NCAA Operating Bylaws, Section 10.3.1.1.[10] The term can refer to either the practice or the shirt itself; some crews have shirts made specifically for betting so as to keep their racing jerseys should they lose a race.", 
+            "link": null, 
+            "name": "Betting shirts"
+        }, 
+        {
+            "def": "A race where the crews are drawn randomly from a hat, so that boats are made up of members from different teams and often the lineups include coxswains as rowers and vice versa. Also known as scratch race.", 
+            "link": null, 
+            "name": "Egg beater\u00a0"
+        }, 
+        {
+            "def": "A crew which has not rowed with each other before.", 
+            "link": null, 
+            "name": "Scratch Crew\u00a0"
+        }, 
+        {
+            "def": "Competition on unsheltered water exposed to current, tide, wind and requiring navigation skills as well as strength, endurance, and technique. Generally uses a mass start and includes a mix of human-powered boats. Typical race distances are 6 to 26 miles.", 
+            "link": null, 
+            "name": "Open water race\u00a0"
+        }, 
+        {
+            "def": "A tankard awarded as a prize to each member of a winning crew.", 
+            "link": null, 
+            "name": "Pot\u00a0"
+        }, 
+        {
+            "def": "A method to compare two rowers in fours or eights. Two boats race against each other once. One rower from each boat switch positions, and the two boats race again. Relative performance in the two races is used to compare the abilities of the two rowers.", 
+            "link": null, 
+            "name": "Seat race\u00a0"
+        }, 
+        {
+            "def": "\n\n\n\n\n41 foot aluminium trailer with various types of rowing boats\n\n\n", 
+            "link": null, 
+            "name": "Trailer"
+        }
+    ]
+}

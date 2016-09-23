@@ -1,0 +1,447 @@
+{
+    "c1": "", 
+    "c2": "Transportation", 
+    "c3": "automotive design", 
+    "words": [
+        {
+            "def": "A categorization based on overall form design using rough rectangle volumes. In the case of the One-Box, also called a monospace or monovolume,[1] it is a single continuous volume. Slight wedge formed front or rear are still generally placed in this category. e.g., Bus, original Ford Econoline. The equivalent French term is volume, which you will sometimes see used by the British: \"1-volume form\".", 
+            "link": null, 
+            "name": "One-Box form"
+        }, 
+        {
+            "def": "A categorization based on overall form design using rough rectangle volumes. In the case of the Two-box form, there is usually a \"box\" representing a separate volume from the a-pillar forward and second box making up the rest. e.g., Station Wagon, Shooting-brake, Scion xB (2006) The equivalent French term is volume, which you will sometimes see used by the British: \"2-volume form\".", 
+            "link": null, 
+            "name": "Two-box form"
+        }, 
+        {
+            "def": "A categorization based on overall form design using rough rectangle volumes. In the case of the Three-box form, there is a \"box\" delineating a separate volume from the a-pillar forward, a second box comprising the passenger volume, and third box comprising the trunk area \u2014 e.g., a Sedan. The equivalent French term is volume, which you will sometimes see used by the British: \"3-volume form\".", 
+            "link": "/wiki/Three-box_styling", 
+            "name": "Three-box form"
+        }, 
+        {
+            "def": "The line running over the car, from headlight to taillight, tracing the car's silhouette.", 
+            "link": null, 
+            "name": "A-line"
+        }, 
+        {
+            "def": "The rear glass window glass.", 
+            "link": null, 
+            "name": "Backlight"
+        }, 
+        {
+            "def": "The line going from the hood which usually follows the bottom edge of the windows and continues to the trunk. The beltline is a major component of the vehicle's overall appearance, as well as the safety aspect of blind spots.", 
+            "link": null, 
+            "name": "Beltline"
+        }, 
+        {
+            "def": "A tangent break feature line running along the centreline of a car. This kind of feature can be seen on many modern Vauxhall, Opel and Chrysler models. Literally derived from the break found on the rear side of a cricket bat.", 
+            "link": null, 
+            "name": "Batsman's Crease"
+        }, 
+        {
+            "def": "The trim or bodywork that surrounds a light, holds the face of an instrument in position, or decoratively conceals gaps between bodywork and components as an escutcheon. Often chrome or plastic", 
+            "link": null, 
+            "name": "Bezel"
+        }, 
+        {
+            "def": "The housing for the Instrument cluster on top of or as part of the dashboard.", 
+            "link": null, 
+            "name": "Binnacle"
+        }, 
+        {
+            "def": "The hood of the vehicle.", 
+            "link": null, 
+            "name": "Bonnet"
+        }, 
+        {
+            "def": "The trunk or liftgate of the vehicle.", 
+            "link": null, 
+            "name": "Boot"
+        }, 
+        {
+            "def": "Anything reflective added to a car to enhance appearance. May also be called chrome.", 
+            "link": null, 
+            "name": "Brightwork"
+        }, 
+        {
+            "def": "Body in White. Base chassis before customisation.", 
+            "link": null, 
+            "name": "BiW"
+        }, 
+        {
+            "def": "Short for cabin. The enclosed compartment of a vehicle which contains the driver and passengers.", 
+            "link": null, 
+            "name": "Cab"
+        }, 
+        {
+            "def": "The cab of the vehicle is moved to the rear of the vehicle. Cars such as a 1970s Corvette could be considered cab back design.", 
+            "link": null, 
+            "name": "Cab back"
+        }, 
+        {
+            "def": "The cab of the vehicle is pushed forward. This design aesthetic was popular with Chrysler in the 1990s with the introduction of their LH platform cars.", 
+            "link": null, 
+            "name": "Cab forward"
+        }, 
+        {
+            "def": "A line creased into the side of a car to give it visual interest. (interchangeable with swage line) Sometimes implemented by a rubbing strip.", 
+            "link": null, 
+            "name": "Character line"
+        }, 
+        {
+            "def": "Brightwork using chrome plating.", 
+            "link": null, 
+            "name": "Chrome"
+        }, 
+        {
+            "def": "Material (usually plastic) added to exterior of the car which isn't structurally necessary. May be functional to keep out dirt/debris as in underbody cladding, or may be cosmetic.", 
+            "link": null, 
+            "name": "Cladding"
+        }, 
+        {
+            "def": "Generally used in a Car/Truck for heating and cooling inside car environment according to the passenger requirements. Basically it is divided into Different modes, Blower speed functions, AC, Temperature, Fresh recirculation of air. Worldwide control panel manufacturers are BHTC, Delphi, Visteon, Valeo, etc.", 
+            "link": null, 
+            "name": "Control Panel"
+        }, 
+        {
+            "def": "The base of the windshield.", 
+            "link": null, 
+            "name": "Cowl"
+        }, 
+        {
+            "def": "US DOT Term: For openings on the side of the vehicle, other than a door opening, the locus of all points where a horizontal line, perpendicular to the vehicle longitudinal centerline, is tangent to the periphery of the opening.", 
+            "link": null, 
+            "name": "Daylight Opening (DLO)"
+        }, 
+        {
+            "def": "A self-adhesive applique kit that contains a number of accent trim pieces designed specifically for a vehicle model, make and year. Available either in vinyl or domed polyurethane versions. Manufactured by companies such as Rvinyl.com, Sherwood Dash and B&I Trims.", 
+            "link": null, 
+            "name": "Dash Kit"
+        }, 
+        {
+            "def": "The critical relationship between front wheel centers and the windshield base. The most notable differences can be seen between cars with front-engine, front-wheel drive layout and front mid-engine, rear-wheel drive layout: the former tend to have longer front overhangs with a smaller dash-to-axle ratios, while the latter have shorter front overhangs with much greater dash-to-axle. Most so called premium vehicles (equipped with rear wheel drive) feature a relatively long dash-to-axle ratio.", 
+            "link": null, 
+            "name": "Dash-to-Axle (ratio)"
+        }, 
+        {
+            "def": "The horizontal surface at the rear of the car, which usually serves as the trunk lid.", 
+            "link": null, 
+            "name": "Deck"
+        }, 
+        {
+            "def": "The area behind the rear door on a four-door car. This area is part of the quarter panel just behind the door and in front of the rear wheel house.", 
+            "link": null, 
+            "name": "Dog leg"
+        }, 
+        {
+            "def": "The styling of the front end of the car, which people will instantly recognize and associate with a manufacturer. For example, the grille, lights and sometimes the DLO.", 
+            "link": null, 
+            "name": "Down the Road Graphics (DRG)"
+        }, 
+        {
+            "def": "A convertible.", 
+            "link": null, 
+            "name": "Droptop"
+        }, 
+        {
+            "def": "An external structure added to increase streamlining, deflect wind, and reduce drag.", 
+            "link": null, 
+            "name": "Fairing"
+        }, 
+        {
+            "def": "The body-skin panel at the front of the car.", 
+            "link": null, 
+            "name": "Fascia"
+        }, 
+        {
+            "def": "Term for cowl covering the wheels of the vehicles. In more modern automobiles, this refers generally to the body panel or panels starting at the front \"bumper\" to the first door line excluding the engine hood. The opposite of the fender is the \"quarter panel\".", 
+            "link": "/wiki/Fender_(vehicle)", 
+            "name": "Fender (wings, UK)"
+        }, 
+        {
+            "def": "A design used in older (pre-unibody) cars, trucks, and SUVs. The power train and body are mounted to a rigid structural framework called a rail.", 
+            "link": null, 
+            "name": "Frame-on-rail"
+        }, 
+        {
+            "def": "A vent on the side of the fender that can be used as hot-air outlet, but usually decorative.", 
+            "link": null, 
+            "name": "Gill"
+        }, 
+        {
+            "def": "The glassed-in upper section of the car's body. Daylight Opening (DLO) in turn describes the actual window areas only.", 
+            "link": null, 
+            "name": "Greenhouse"
+        }, 
+        {
+            "def": "A coupe or sedan lacking a center window post between the front windshield post and the rearmost window post or body section.", 
+            "link": null, 
+            "name": "Hardtop"
+        }, 
+        {
+            "def": "(1) The structural roof beam above the windshield. (2) The section of exhaust piping attached to the cylinder head.", 
+            "link": null, 
+            "name": "Header"
+        }, 
+        {
+            "def": "BMW's trademark reverse-sweep kick at the bottom of last roof pillar.", 
+            "link": "/wiki/Hofmeister_kink", 
+            "name": "Hofmeister kink"
+        }, 
+        {
+            "def": "The pivot point between the torso and upper leg portions of the body, either relative to the floor of the vehicle[1] or relative to the height above pavement level, as used in vehicle design.", 
+            "link": "/wiki/H-point", 
+            "name": "H-point (or HP (Hip Point)"
+        }, 
+        {
+            "def": "The engine cover on vehicles when the engine is located forward or aft of the passenger compartment.", 
+            "link": "/wiki/North_America", 
+            "name": "Hood (Bonnet in English speaking countries outside North America with the exception of the Canadian Maritimes)"
+        }, 
+        {
+            "def": "Heater, ventilation and aircondition. A major package constraint both technically as well in interior design.", 
+            "link": null, 
+            "name": "HVAC"
+        }, 
+        {
+            "def": "Instrument Panel. The Dashboard is termed as Instrument Panel in Automotive Industries, sometimes this term is confused with the Instrument Cluster that is the group of speedometer, odometer and similar devices generally behind the steering wheel.", 
+            "link": null, 
+            "name": "IP"
+        }, 
+        {
+            "def": "Plastic clips onto the base of the windscreen under the bonnet to protect from leaves.", 
+            "link": null, 
+            "name": "Leafscreen"
+        }, 
+        {
+            "def": "Bonded to the base of the windscreen to provide a mounting surface for the leafscreen", 
+            "link": null, 
+            "name": "Leafscreen Retainer"
+        }, 
+        {
+            "def": "A distinctively shaped inlet that is flush and begins with a narrow, shallow inset and becomes progressively wider and deeper.", 
+            "link": "/wiki/NACA_duct", 
+            "name": "NACA duct"
+        }, 
+        {
+            "def": "The distance which the car's body extends beyond the wheelbase at the front (front overhang) and rear (rear overhang). In car style design terms, this is the amount of body that is beyond the wheels or wheel arches.", 
+            "link": "/wiki/Overhang_(automotive)", 
+            "name": "Overhang"
+        }, 
+        {
+            "def": "Black Graphite printed onto the glass to hide unsightly areas and improve aesthetics.", 
+            "link": null, 
+            "name": "Obscuration Band"
+        }, 
+        {
+            "def": "An open vehicle, usually with 4 doors, with a removable and/or retractable cloth top and a windshield characterized by the lack of integrated glass side windows. Contemporary uses of this name do not always follow this original description or apply to an open vehicle.", 
+            "link": null, 
+            "name": "Phaeton"
+        }, 
+        {
+            "def": "A structural member that connects the roof to the body of the car. Pillars are usually notated from front to back alphabetically (e.g. A-pillar joins the windshield to the frontmost side windows, B-pillar is next to the front occupants' heads, etc.).", 
+            "link": "/wiki/Pillar_(car)", 
+            "name": "Pillar"
+        }, 
+        {
+            "def": "The area at the base of the windshield where the wipers are parked. Also refers to the main chamber in an intake manifold.", 
+            "link": null, 
+            "name": "Plenum"
+        }, 
+        {
+            "def": "a 1930s\u20131960s design genre when distinct running boards and fully articulated fenders became less common and bodywork began to enclose the full width and uninterrupted length of a car in a markedly bulbous, slab-sided fashion.", 
+            "link": "/wiki/Ponton_(automobile)", 
+            "name": "Ponton styling"
+        }, 
+        {
+            "def": "A hybrid vehicle that can be plugged into the electric grid to recharge its battery to reduce gasoline usage.[2]", 
+            "link": "/wiki/Plug-in_hybrid_electric_vehicle", 
+            "name": "Plug-in hybrid electric vehicle"
+        }, 
+        {
+            "def": "All the components that generate power and deliver it to the tyres.", 
+            "link": "/wiki/Powertrain", 
+            "name": "Powertrain"
+        }, 
+        {
+            "def": "(or rear quarter panel) refers to the panel at the back sides starting at the rear edge of the rearmost doors, bordered by at top by the trunk (boot) lid and at bottom by the rear wheel arches ending at the rear bumper. This is the opposite of the fender.", 
+            "link": null, 
+            "name": "Quarter-panel"
+        }, 
+        {
+            "def": "Rake is the angle between the vehicle and the horizontal axis of the ground. If the back is higher than the front, you have positive rake. If the front is higher than the back, you have negative rake. In early hot rod and custom cars, positive rake was created by varying tire size, and/or by suspension modification. In today's body design, positive rake is integral with some vehicles' styling, e.g. Mercedes E350 sedan.", 
+            "link": null, 
+            "name": "Rake"
+        }, 
+        {
+            "def": "An open vehicle, usually with 2 doors, with a removable and/or retractable cloth top and a windshield characterized by the lack of integrated glass side windows. Contemporary uses of this name do not always follow this original description. A classical roadster is a two-seater with a long hood and a short back, which means the driver is sitting in the rear of the vehicle (close to the rear axle). Usually it is a rear-wheel-driven car.", 
+            "link": null, 
+            "name": "Roadster"
+        }, 
+        {
+            "def": "The body section below the base of the door openings sometimes called the \"rocker panels\", or \"sills\".", 
+            "link": null, 
+            "name": "Rocker"
+        }, 
+        {
+            "def": "Body armor protecting the Rocker, found mostly in off road vehicles. Term coined by engineers at MetalCloak.", 
+            "link": null, 
+            "name": "Rocker Rail"
+        }, 
+        {
+            "def": "Plastic/rubber line or moulding to prevent side-swiping along the doors.", 
+            "link": null, 
+            "name": "Rubbing Strip"
+        }, 
+        {
+            "def": "Inset or protusion that implies the intake of air. May be functional for cooling/ventilation or purely ornamental. Also Shaker scoop.", 
+            "link": "/wiki/Hood_scoop", 
+            "name": "Scoop"
+        }, 
+        {
+            "def": "Headlamps styled along a V-shape as viewed from the front, giving the impression of a scowl.", 
+            "link": null, 
+            "name": "Scowling headlamps"
+        }, 
+        {
+            "def": "Once a vehicle designed to carry hunters and sportsmen; now a station wagon or vehicle combining features of a station wagon and a coupe.", 
+            "link": "/wiki/Shooting-brake", 
+            "name": "Shooting-brake"
+        }, 
+        {
+            "def": "The line or \"shoulder\" formed by the meeting of top and side surfaces extending from hood/fender shoulder to boot-lid/quarter-panel shoulder. The strongest example of this feature can be found on more modern of Volvo Cars.", 
+            "link": null, 
+            "name": "Shoulder line"
+        }, 
+        {
+            "def": "The body section below the base of the door openings sometimes called the \"rocker panels\", or \"rockers\".", 
+            "link": null, 
+            "name": "Sill"
+        }, 
+        {
+            "def": "Imaginary line drawn following the bottom edge of the greenhouse glass.", 
+            "link": null, 
+            "name": "Sill line"
+        }, 
+        {
+            "def": "A line extending from the C-pillar down and around the rear wheel well.", 
+            "link": null, 
+            "name": "Six line"
+        }, 
+        {
+            "def": "a convertible top which is made out of flexible materials like PVC or textile.", 
+            "link": null, 
+            "name": "Softtop"
+        }, 
+        {
+            "def": "side covers for wheel arches, hiding the wheel - usually rear only. Also called Fender skirts.", 
+            "link": "/wiki/Wheel_spats", 
+            "name": "Spats"
+        }, 
+        {
+            "def": "A raised lip or wing which is used to 'spoil' unfavorable air movement across the body. Some designs are more functional than others.", 
+            "link": "/wiki/Spoiler_(automotive)", 
+            "name": "Spoiler"
+        }, 
+        {
+            "def": "The front and rear wheels are different widths. On sporty rear wheel drive cars, the rear tires are usually wider than the front.", 
+            "link": null, 
+            "name": "Staggered wheel fitment"
+        }, 
+        {
+            "def": "Crease in the sheet metal intended as a \"speed line\" styling feature. Exemplified in the doors of the Ferrari Testarossa.", 
+            "link": null, 
+            "name": "Strake"
+        }, 
+        {
+            "def": "rear-hinged type, opening from the front of the car. If accidentally opened while driving at a high speed, doors would be blown backward.", 
+            "link": "/wiki/Suicide_door", 
+            "name": "Suicide door"
+        }, 
+        {
+            "def": "Crease or curvature in the side of the body used to create visual distinction. Sometimes the crease is functional and improves rigidity of the outer body (interchangeable with character line).", 
+            "link": "/wiki/Swaging#Car_styling_swage_line", 
+            "name": "Swage line"
+        }, 
+        {
+            "def": "A negative flick out to a flat surface which frames trim sections or venting.", 
+            "link": null, 
+            "name": "Swedish Kiss"
+        }, 
+        {
+            "def": "Also called Quarter Glass. Fixed glass located in between the side-door and boot.", 
+            "link": null, 
+            "name": "Sixthlight"
+        }, 
+        {
+            "def": "The distance across the car between the base of the left and right wheels. (Like wheelbase, but side to side.)", 
+            "link": null, 
+            "name": "Track"
+        }, 
+        {
+            "def": "A typically large vehicle built using frame-on-rail construction consisting of a cab and a separate bed for cargo.", 
+            "link": null, 
+            "name": "Truck"
+        }, 
+        {
+            "def": "(Boot in UK) Compartment for storage of cargo which is separate from the cab.", 
+            "link": null, 
+            "name": "Trunk"
+        }, 
+        {
+            "def": "Replacement fenders found on off road vehicles designed as part of body armor for off road vehicles. Used to protect the thin sheet metal bodies from damage while off-roading.", 
+            "link": "/wiki/Tube_Fender", 
+            "name": "Tube Fender"
+        }, 
+        {
+            "def": "Generally refers to the way the sides of a car rounds inward toward the roof, specifically of the greenhouse above the beltline. This term is borrowed from nautical description of naval vessels.", 
+            "link": null, 
+            "name": "Tumblehome (tumble home)"
+        }, 
+        {
+            "def": "The shape of the rocker panel as it curves inward at the lower edge.", 
+            "link": null, 
+            "name": "Turn under"
+        }, 
+        {
+            "def": "The mechanisms and parts which control the operation of the valves.", 
+            "link": "/wiki/Valvetrain", 
+            "name": "Valvetrain"
+        }, 
+        {
+            "def": "Shape of the car as seen in the side profile. May be positive, negative or neutral. If the front is lower than the rear, then it is wedge-positive. If the rear is lower it is wedge-negative. If the car appears level from front to rear, then it is wedge neutral.", 
+            "link": null, 
+            "name": "Wedge"
+        }, 
+        {
+            "def": "The visible opening in the side of a car allowing access to the wheel.", 
+            "link": null, 
+            "name": "Wheel arch"
+        }, 
+        {
+            "def": "The space between the tire and the wheel well. Currently there is a trend towards smaller wheel arch gaps. Sometimes referred to as Dead Cat Space due to the fact that, in winter, many domestic cats try to seek shelter in wheel wells of recently parked cars in an attempt to stay warm.", 
+            "link": null, 
+            "name": "Wheel arch gap"
+        }, 
+        {
+            "def": "The distance front to back measured from where the front and rear wheels meet the ground.", 
+            "link": null, 
+            "name": "Wheelbase"
+        }, 
+        {
+            "def": "The enclosure or space for the wheel.", 
+            "link": null, 
+            "name": "Wheel well (also wheelhouse, wheelhousing, or bucket)"
+        }, 
+        {
+            "def": "US DOT Term: Molding of any material between the windshield glazing and the exterior roof surface, including material that covers a part of either the windshield glazing or exterior roof surface.", 
+            "link": null, 
+            "name": "Windshield Trim"
+        }, 
+        {
+            "def": "See Fender.", 
+            "link": null, 
+            "name": "Wings"
+        }
+    ]
+}

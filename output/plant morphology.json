@@ -1,0 +1,1797 @@
+{
+    "c1": "", 
+    "c2": "Biology", 
+    "c3": "plant morphology", 
+    "words": [
+        {
+            "def": " located on the side facing away from the axis.", 
+            "link": "/wiki/Abaxial", 
+            "name": "Abaxial "
+        }, 
+        {
+            "def": " located on the side facing towards the axis.", 
+            "link": "/wiki/Adaxial", 
+            "name": "Adaxial "
+        }, 
+        {
+            "def": " opening at maturity", 
+            "link": "/wiki/Dehiscent", 
+            "name": "Dehiscent "
+        }, 
+        {
+            "def": " outgrowth on the surface caused by invasion by other lifeforms, such as parasites", 
+            "link": "/wiki/Gall", 
+            "name": "Gall "
+        }, 
+        {
+            "def": " not opening at maturity", 
+            "link": "/wiki/Indehiscent", 
+            "name": "Indehiscent "
+        }, 
+        {
+            "def": " web-like or network-like", 
+            "link": "/wiki/Reticulate", 
+            "name": "Reticulate "
+        }, 
+        {
+            "def": " marked by a series of lines, grooves, or ridges", 
+            "link": "https://en.wiktionary.org/wiki/striated", 
+            "name": "Striated "
+        }, 
+        {
+            "def": " marked by a pattern of polygons, usually rectangles", 
+            "link": "/wiki/Tesselate", 
+            "name": "Tesselate "
+        }, 
+        {
+            "def": " any flat surfaced structure emerging from the side or summit of an organ; seeds, stems.", 
+            "link": "/w/index.php?title=Wing_(plant)&action=edit&redlink=1", 
+            "name": "Wing (plant) "
+        }, 
+        {
+            "def": " the leaves and inflorescence rise from the ground, appearing to have no stem.", 
+            "link": "/wiki/Glossary_of_botanical_terms#A", 
+            "name": "Acaulescent "
+        }, 
+        {
+            "def": " plants with acid saps, normally due to the production of ammonium salts (malic and oxalic acid)", 
+            "link": "/w/index.php?title=Acid_plant&action=edit&redlink=1", 
+            "name": "Acid plant "
+        }, 
+        {
+            "def": " the period when the plant or population is at its maximum vigor.", 
+            "link": "/w/index.php?title=Acme_(biology)&action=edit&redlink=1", 
+            "name": "Acme "
+        }, 
+        {
+            "def": " parts of plants that are radially symmetrical in arrangement.", 
+            "link": "/wiki/Floral_symmetry", 
+            "name": "Actinomorphic "
+        }, 
+        {
+            "def": " growing into a tree-like habit, normally with a single woody stem.", 
+            "link": "/wiki/Arborescent", 
+            "name": "Arborescent "
+        }, 
+        {
+            "def": " growing uprightly, in an upward direction, heading in the direction of the top.", 
+            "link": null, 
+            "name": "Ascending "
+        }, 
+        {
+            "def": " growth ascending.", 
+            "link": "/wiki/Assurgent", 
+            "name": "Assurgent "
+        }, 
+        {
+            "def": " dividing into multiple smaller segments.", 
+            "link": "/wiki/Branch", 
+            "name": "Branching "
+        }, 
+        {
+            "def": " falling away early.", 
+            "link": "/wiki/Caducous", 
+            "name": "Caducous "
+        }, 
+        {
+            "def": " with a well-developed stem above ground.", 
+            "link": "/w/index.php?title=Caulescent&action=edit&redlink=1", 
+            "name": "Caulescent "
+        }, 
+        {
+            "def": " forming dense tufts, normally applied to small plants typically growing into mats, tufts or clumps.", 
+            "link": "/w/index.php?title=Cespitose&action=edit&redlink=1", 
+            "name": "Cespitose "
+        }, 
+        {
+            "def": " growing along the ground and producing roots at intervals along surface.", 
+            "link": "/w/index.php?title=Creeping_(botany)&action=edit&redlink=1", 
+            "name": "Creeping "
+        }, 
+        {
+            "def": " falling away after its function is completed.", 
+            "link": "/wiki/Deciduous", 
+            "name": "Deciduous "
+        }, 
+        {
+            "def": " growth starts off prostrate and the ends become upright.", 
+            "link": "/wiki/Decumbent", 
+            "name": "Decumbent "
+        }, 
+        {
+            "def": " bending downward.", 
+            "link": "/w/index.php?title=Deflexed&action=edit&redlink=1", 
+            "name": "Deflexed "
+        }, 
+        {
+            "def": " Growing for a limited time, floral formation and leaves (see also Indeterminate).", 
+            "link": "/wiki/Determinate_growth", 
+            "name": "Determinate growth "
+        }, 
+        {
+            "def": " of two different forms.", 
+            "link": "/wiki/Polymorphism_(biology)", 
+            "name": "Dimorphic "
+        }, 
+        {
+            "def": " a plant assumed to be adapted to a specific habitat.", 
+            "link": "/w/index.php?title=Ecad&action=edit&redlink=1", 
+            "name": "Ecad "
+        }, 
+        {
+            "def": " variation in plants due to conditions out side of the plants.", 
+            "link": "/wiki/Ectogenesis", 
+            "name": "Ectogenesis "
+        }, 
+        {
+            "def": " a parasitic plant that has most of its mass outside of the host, the body and reproductive organs of the plant lives outside of the host.", 
+            "link": "/wiki/Ectoparasite", 
+            "name": "Ectoparasite "
+        }, 
+        {
+            "def": " occurring on the ground.", 
+            "link": "/wiki/Epigean", 
+            "name": "Epigean "
+        }, 
+        {
+            "def": " plants with stolons on the surface of the ground.", 
+            "link": "/wiki/Epigeic", 
+            "name": "Epigeic "
+        }, 
+        {
+            "def": " on the ground. Used for leaf fungus that live on the surface of the leaf.", 
+            "link": "/wiki/Epigeous", 
+            "name": "Epigeous "
+        }, 
+        {
+            "def": " growing on the surface of rocks.", 
+            "link": null, 
+            "name": "Epilithic "
+        }, 
+        {
+            "def": " an organism that grows on the bark of trees.", 
+            "link": null, 
+            "name": "Epiphloedic "
+        }, 
+        {
+            "def": " growing on the leaves. For example, Helwingia japonica has epiphyllous flowers (ones that form on the leaves).[5]", 
+            "link": null, 
+            "name": "Epiphyllous "
+        }, 
+        {
+            "def": " having the nature of an epiphyte.", 
+            "link": null, 
+            "name": "Epiphytic "
+        }, 
+        {
+            "def": " a plants that has flowers that open and close at definite times during the day.", 
+            "link": null, 
+            "name": "Equinoctial "
+        }, 
+        {
+            "def": " having an essentially upright vertical habit or position.", 
+            "link": null, 
+            "name": "Erect "
+        }, 
+        {
+            "def": " plant originally under cultivation that has become wild, garden plant growing in natural areas.", 
+            "link": null, 
+            "name": "Escape "
+        }, 
+        {
+            "def": " remaining green in the winter or during the normal dormancy period for other plants.", 
+            "link": "/wiki/Evergreen", 
+            "name": "Evergreen "
+        }, 
+        {
+            "def": " living in rivers and streams.", 
+            "link": null, 
+            "name": "Eupotamous "
+        }, 
+        {
+            "def": " normally living in salt water but tolerant of variable salinity rates.", 
+            "link": null, 
+            "name": "Euryhaline "
+        }, 
+        {
+            "def": " tolerant of a wide range of temperature.", 
+            "link": null, 
+            "name": "Eurythermous "
+        }, 
+        {
+            "def": " confined to specific location.", 
+            "link": null, 
+            "name": "Exclusive species "
+        }, 
+        {
+            "def": " not native to the area or region.", 
+            "link": "/wiki/Introduced_species", 
+            "name": "Exotic "
+        }, 
+        {
+            "def": " a dried plant, most often used for specimens in a herbarium.", 
+            "link": null, 
+            "name": "Exsiccatus "
+        }, 
+        {
+            "def": " Inflorescence and leaves growing for an indeterminate time, until stopped by other factors such as frost (see also Determinate).", 
+            "link": "/wiki/Indeterminate_growth", 
+            "name": "Indeterminate growth "
+        }, 
+        {
+            "def": " non upright, growth not strictly upright or hangs down from the point of origin.", 
+            "link": null, 
+            "name": "Lax "
+        }, 
+        {
+            "def": " using another plant as a source of nourishment.", 
+            "link": "/wiki/Parasitism", 
+            "name": "Parasitic "
+        }, 
+        {
+            "def": " flowering before the leaves emerge.", 
+            "link": null, 
+            "name": "Precocious "
+        }, 
+        {
+            "def": " growing prostrate or trailing but not rooting at the nodes.", 
+            "link": null, 
+            "name": "Procumbent "
+        }, 
+        {
+            "def": " lying flat on the ground, stems or even flowers in some species.", 
+            "link": null, 
+            "name": "Prostrate "
+        }, 
+        {
+            "def": " creeping.", 
+            "link": null, 
+            "name": "Repent "
+        }, 
+        {
+            "def": " like a rosette (cf. rostellum).", 
+            "link": null, 
+            "name": "Rostellate "
+        }, 
+        {
+            "def": " arranged into a rosette.", 
+            "link": null, 
+            "name": "Rosulate "
+        }, 
+        {
+            "def": " an elongated, slender branch that roots at the nodes or tip.", 
+            "link": null, 
+            "name": "Runner "
+        }, 
+        {
+            "def": " plants produce stolons.", 
+            "link": null, 
+            "name": "Stoloniferous "
+        }, 
+        {
+            "def": " Not growing perfectly straight.", 
+            "link": null, 
+            "name": "Semi-erect "
+        }, 
+        {
+            "def": " somewhat shrubby, or shrubby at the base.", 
+            "link": null, 
+            "name": "Suffrutescent "
+        }, 
+        {
+            "def": " Growing upward.", 
+            "link": null, 
+            "name": "Upright "
+        }, 
+        {
+            "def": " wand-like, slender erect growing stem with many leaves or very short branches.", 
+            "link": null, 
+            "name": "Virgate "
+        }, 
+        {
+            "def": " forming secondary growth laterally around the plant so as to form wood.", 
+            "link": "/wiki/Woody_plant", 
+            "name": "Woody "
+        }, 
+        {
+            "def": " plants that live, reproduce and die in one growing season.", 
+            "link": "/wiki/Annual_plant", 
+            "name": "Annual "
+        }, 
+        {
+            "def": " plants that need two growing seasons to complete their life cycle, normally vegetative growth the first year and flowering the second year.", 
+            "link": "/wiki/Biennial_plant", 
+            "name": "Biennial "
+        }, 
+        {
+            "def": " see herbaceous.", 
+            "link": null, 
+            "name": "Herbs "
+        }, 
+        {
+            "def": " non-woody plants that live for more than two years and the shoot system dies back to the soil level each year.", 
+            "link": null, 
+            "name": "Herbaceous perennial "
+        }, 
+        {
+            "def": " true shrubs and trees or some vines with shoot systems that remain alive above the soil surface from one year to the next.", 
+            "link": "/wiki/Woody_plant", 
+            "name": "Woody perennial "
+        }, 
+        {
+            "def": " plants that live for a number of years then after flowering and seed set die.", 
+            "link": "/wiki/Monocarpic", 
+            "name": "Monocarpic "
+        }, 
+        {
+            "def": " the way in which an individual leaf is folded within an unopened bud.", 
+            "link": null, 
+            "name": "Ptyxis "
+        }, 
+        {
+            "def": " the arrangement of leaves in an unopened bud.", 
+            "link": "/wiki/Vernation", 
+            "name": "Vernation "
+        }, 
+        {
+            "def": " roots that form from other than the hypocotyl or from other roots. Roots forming on the stem are adventitious.", 
+            "link": "/wiki/Adventitiousness", 
+            "name": "Adventitious "
+        }, 
+        {
+            "def": " roots growing in the air.", 
+            "link": null, 
+            "name": "Aerial "
+        }, 
+        {
+            "def": " the place where the roots and stem meet, which may or may not be clearly visible.[10]", 
+            "link": "/wiki/Root_crown", 
+            "name": "(Root) crown "
+        }, 
+        {
+            "def": " describes roots that are thread-like and normally tough.", 
+            "link": null, 
+            "name": "Fibrous "
+        }, 
+        {
+            "def": " describes roots that are relatively thick and soft, normally made up of storage tissue. Roots are typically long and thick but not thickly rounded in shape.", 
+            "link": null, 
+            "name": "Fleshy "
+        }, 
+        {
+            "def": " specialized roots that invade other plants and absorb nutrients from those plants.", 
+            "link": "/wiki/Haustorium", 
+            "name": "Haustorial "
+        }, 
+        {
+            "def": " root tissue that allows plants to regenerate after fire or other damage.", 
+            "link": "/wiki/Lignotuber", 
+            "name": "Lignotuber "
+        }, 
+        {
+            "def": " roots that develops from the radicle of the embryo, normally the first root to emerge from the seed as it germinates.", 
+            "link": null, 
+            "name": "Primary "
+        }, 
+        {
+            "def": " very small roots, often one cell wide, that do most of the water and nutrient absorption.", 
+            "link": null, 
+            "name": "Root Hairs "
+        }, 
+        {
+            "def": " roots forming off of the primary root, often called branch roots.", 
+            "link": null, 
+            "name": "Secondary "
+        }, 
+        {
+            "def": " a primary root that more or less enlarges and grows downward into the soil.", 
+            "link": "/wiki/Taproot", 
+            "name": "Taproot "
+        }, 
+        {
+            "def": " describes roots that are thick and soft, with storage tissue. Typically thick round in shape.", 
+            "link": "/wiki/Tuber", 
+            "name": "Tuberous "
+        }, 
+        {
+            "def": " an embryonic shoot occurring above or to the side of an axillary bud;also known as supernumerary bud.", 
+            "link": null, 
+            "name": "Accessory buds "
+        }, 
+        {
+            "def": " produced at the end of a branch.", 
+            "link": null, 
+            "name": "Acrocarpous "
+        }, 
+        {
+            "def": " a stem that has several longitudinally running ridges with sharp edges.", 
+            "link": null, 
+            "name": "Acutangular "
+        }, 
+        {
+            "def": " a bud that arises at points on the plant other than at the stem apex or a leaf axil.", 
+            "link": null, 
+            "name": "Adventitious buds "
+        }, 
+        {
+            "def": " Having wing-like structures, usually on the seeds or stems, as in Euonymus alata", 
+            "link": "/wiki/Alate", 
+            "name": "Alate "
+        }, 
+        {
+            "def": " buds are staggered on opposite sides of the branch", 
+            "link": null, 
+            "name": "Alternate "
+        }, 
+        {
+            "def": " the outer layers of woody plants; cork, phloem, and vascular cambium.", 
+            "link": "/wiki/Bark", 
+            "name": "Bark "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Branch", 
+            "name": "Branches "
+        }, 
+        {
+            "def": " an immature stem tip, typically an embryonic shoot, ether producing a stem, leaves or flowers.", 
+            "link": "/wiki/Bud", 
+            "name": "Bud "
+        }, 
+        {
+            "def": " an underground stem normally with a short basal surface and with thick fleshy leaves.", 
+            "link": "/wiki/Bulb", 
+            "name": "Bulb "
+        }, 
+        {
+            "def": " the hard base produced by herbaceous perennials used to overwinter the plant.", 
+            "link": null, 
+            "name": "Caudex "
+        }, 
+        {
+            "def": " with a distinctive stem.", 
+            "link": null, 
+            "name": "Caulescent "
+        }, 
+        {
+            "def": " with the flowers and fruit on the stem or trunk as in Saraca cauliflora", 
+            "link": null, 
+            "name": "Cauliflora "
+        }, 
+        {
+            "def": " typically long stems, that cling to other objects.", 
+            "link": null, 
+            "name": "Climbing "
+        }, 
+        {
+            "def": " a compact, upright orientated stem that is bulb-like with hard or fleshy texture and normally covered with papery, thin dry leaves. Most often produced under the soil surface.", 
+            "link": "/wiki/Corm", 
+            "name": "Corm "
+        }, 
+        {
+            "def": " a waterproof waxy membrane covering leaves and roots.", 
+            "link": "/wiki/Plant_cuticle", 
+            "name": "Cuticle "
+        }, 
+        {
+            "def": " stems that lie on the ground but have the ends turning upward.", 
+            "link": null, 
+            "name": "Decumbent "
+        }, 
+        {
+            "def": " a state of no growth or reduced growth", 
+            "link": null, 
+            "name": "Dormant "
+        }, 
+        {
+            "def": " a layer of cells that cover all primary tissue, separating them from the outside environment.", 
+            "link": "/wiki/Epidermis_(botany)", 
+            "name": "Epidermis "
+        }, 
+        {
+            "def": " woody stemmed with a shrub-like habit. Branching near the soil with woody based stems.", 
+            "link": null, 
+            "name": "Fruticose "
+        }, 
+        {
+            "def": " non-woody and dying to the ground at the end of the growing season. Annual plants die, while perennials regrow from parts on the soil surface or below ground the next growing season.", 
+            "link": null, 
+            "name": "Herbaceous "
+        }, 
+        {
+            "def": " spaces between the nodes.", 
+            "link": null, 
+            "name": "Internode "
+        }, 
+        {
+            "def": " An axillary bud whose development is inhibited, sometimes for many years, due to the influence of apical and other buds. Also known as a dormant bud.", 
+            "link": null, 
+            "name": "Latent buds "
+        }, 
+        {
+            "def": " The portion of the annual ring that is formed after formation of earlywood has ceased.", 
+            "link": null, 
+            "name": "Late wood "
+        }, 
+        {
+            "def": " the photosynthetic organ of a plant that is attached to a stem, generally at specific intervals.", 
+            "link": "/wiki/Leaf", 
+            "name": "Leaf "
+        }, 
+        {
+            "def": " the space created between a leaf and its branch. This is especially pronounced on monocots like bromeliads.", 
+            "link": null, 
+            "name": "Leaf axils "
+        }, 
+        {
+            "def": " A bud that produces a leafy shoot.", 
+            "link": null, 
+            "name": "Leaf buds "
+        }, 
+        {
+            "def": " the mark left on a branch from the previous location of a bud or leaf.", 
+            "link": null, 
+            "name": "Leaf scar "
+        }, 
+        {
+            "def": " One of the small, corky pores or narrow lines on the surface of the stems of woody plants that allow the interchange of gases between the interior tissue and the surrounding air.", 
+            "link": "/wiki/Lenticel", 
+            "name": "Lenticel "
+        }, 
+        {
+            "def": " where leaves and buds are attached to the stem.", 
+            "link": null, 
+            "name": "Node "
+        }, 
+        {
+            "def": " growth in a vertical direction.", 
+            "link": null, 
+            "name": "Orthotropic growth "
+        }, 
+        {
+            "def": " A form of pith in which the parenchyma collapses or is torn during development, leaving the sclerenchyma plates to alternate with hollow zones", 
+            "link": null, 
+            "name": "Chambered pith "
+        }, 
+        {
+            "def": " Pith in which plates or nests of sclerenchyma may be interspersed with the parenchyma.", 
+            "link": null, 
+            "name": "Diaphragmed pith "
+        }, 
+        {
+            "def": " an adapted leaf that is usually hard and sharp and is used for protection, and occasionally shading, of the plant", 
+            "link": null, 
+            "name": "Spine "
+        }, 
+        {
+            "def": " growth inclined away from the vertical, inclined towards the horizontal", 
+            "link": null, 
+            "name": "Plagiotropic growth "
+        }, 
+        {
+            "def": " an extension of the cortex and epidermis that ends with a sharp point.", 
+            "link": "/wiki/Thorns,_spines,_and_prickles", 
+            "name": "Prickle "
+        }, 
+        {
+            "def": " A horizontally orientated, prostrate stem with reduced scale-like leaves, normally growing under ground but also at the soil surface. Also produced by some species that grow in trees or water.", 
+            "link": "/wiki/Rhizome", 
+            "name": "Rhizome "
+        }, 
+        {
+            "def": " the underground part of a plant normally referring to a caudex or rhizome.", 
+            "link": null, 
+            "name": "Rootstock "
+        }, 
+        {
+            "def": " a stem that climbs.", 
+            "link": "/wiki/Scandent", 
+            "name": "Scandent "
+        }, 
+        {
+            "def": " the spongy tissue at the center of a stem.", 
+            "link": "/wiki/Pith", 
+            "name": "Pith "
+        }, 
+        {
+            "def": " vascular tissue that provides support for the plant,", 
+            "link": "/wiki/Plant_stem", 
+            "name": "Stem "
+        }, 
+        {
+            "def": " a horizontally growing stem similar to a rhizome, produced near the base of the plant. They spread out above or along the soil surface. Roots and new plants develop at the nodes or ends.", 
+            "link": "/wiki/Stolon", 
+            "name": "Stolon "
+        }, 
+        {
+            "def": " Having a corky texture.", 
+            "link": null, 
+            "name": "Suberose "
+        }, 
+        {
+            "def": " a thigmotropic organ which attaches a climbing plant to a support, a portion of a stem or leaf modified to serve as a holdfast to other objects.", 
+            "link": "/wiki/Tendril", 
+            "name": "Tendril "
+        }, 
+        {
+            "def": " at the end of a stalk or stem.", 
+            "link": null, 
+            "name": "Terminal "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Thorns,_spines,_and_prickles", 
+            "name": "Thorn "
+        }, 
+        {
+            "def": " a shoot of a grass plant.", 
+            "link": "/wiki/Tiller_(botany)", 
+            "name": "Tiller "
+        }, 
+        {
+            "def": " an enlarged stem or root that stores nutrients.", 
+            "link": "/wiki/Tuber", 
+            "name": "Tuber "
+        }, 
+        {
+            "def": " swollen.", 
+            "link": null, 
+            "name": "Turgid "
+        }, 
+        {
+            "def": " buds are arranged in pairs on opposite sides of the branch", 
+            "link": null, 
+            "name": "Opposite "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Stoma", 
+            "name": "Stoma "
+        }, 
+        {
+            "def": " a strand of woody fibers and associated tissues.", 
+            "link": "/wiki/Vascular_bundle", 
+            "name": "Vascular bundles "
+        }, 
+        {
+            "def": " leaves or flowers arranged in whorls, as in Sciadopitys verticillata", 
+            "link": null, 
+            "name": "Verticillate/Verticil/Verticillatus "
+        }, 
+        {
+            "def": " said of a collection of three or more leaves or flowers that arise from the same point.", 
+            "link": null, 
+            "name": "Whorled "
+        }, 
+        {
+            "def": " an embryonic shoot occurring above or to the side of an axillary bud; also known as supernumerary bud.", 
+            "link": null, 
+            "name": "Accessory bud "
+        }, 
+        {
+            "def": " a bud that arises at a point on the plant other than at the stem apex or a leaf axil.", 
+            "link": null, 
+            "name": "Adventitious bud "
+        }, 
+        {
+            "def": " an embryonic shoot which lies at the junction of the stem and petiole of a plant.", 
+            "link": null, 
+            "name": "Axillary "
+        }, 
+        {
+            "def": " vegetative buds that lie dormant beneath the bark, shooting after crown disturbance[11]", 
+            "link": "/wiki/Epicormic_shoot#Epicormic_buds", 
+            "name": "Epicormic "
+        }, 
+        {
+            "def": " An axillary bud whose development is inhibited, sometimes for many years, due to the influence of apical and other buds. Also known as a dormant bud.", 
+            "link": null, 
+            "name": "Latent bud "
+        }, 
+        {
+            "def": " A bud that produces a leafy shoot.", 
+            "link": null, 
+            "name": "Leaf bud "
+        }, 
+        {
+            "def": " buds that have both embryonic flowers and leaves.", 
+            "link": null, 
+            "name": "Mixed "
+        }, 
+        {
+            "def": " buds with embryonic flowers.", 
+            "link": null, 
+            "name": "Reproductive "
+        }, 
+        {
+            "def": " buds containing embryonic leaves.", 
+            "link": null, 
+            "name": "Vegetative "
+        }, 
+        {
+            "def": " see lamina", 
+            "link": null, 
+            "name": "Blade "
+        }, 
+        {
+            "def": " the flat and laterally-expanded portion of a leaf blade", 
+            "link": null, 
+            "name": "Lamina "
+        }, 
+        {
+            "def": " a separate blade among others comprising a compound leaf", 
+            "link": null, 
+            "name": "Leaflet "
+        }, 
+        {
+            "def": " a projection from the top of the sheath on the adaxial side of the sheath-blade joint in grasses", 
+            "link": null, 
+            "name": "Ligule "
+        }, 
+        {
+            "def": " the central vein of the leaf blade", 
+            "link": null, 
+            "name": "Midrib "
+        }, 
+        {
+            "def": " the central vein of a leaflet", 
+            "link": null, 
+            "name": "Midvein "
+        }, 
+        {
+            "def": " a leaf stalk supporting a blade and attaching to a stem at a node", 
+            "link": "/wiki/Petiole_(botany)", 
+            "name": "Petiole "
+        }, 
+        {
+            "def": " the swollen base of a petiole or petiolule usually involved in leaf movements and leaf orientation", 
+            "link": "/wiki/Pulvinus", 
+            "name": "Pulvinus "
+        }, 
+        {
+            "def": " a secondary axis of a multiply compound leaf", 
+            "link": null, 
+            "name": "Rachilla "
+        }, 
+        {
+            "def": " main axis of a pinnately compound leaf", 
+            "link": "/wiki/Rachis#In_botany", 
+            "name": "Rachis "
+        }, 
+        {
+            "def": " the proximal portion of a grass leaf usually surrounding the stem", 
+            "link": "/wiki/Leaf#Morphology", 
+            "name": "Sheath "
+        }, 
+        {
+            "def": " paired scales, spines, glands, or blade-like structures at the base of a petiole", 
+            "link": "/wiki/Stipule", 
+            "name": "Stipules "
+        }, 
+        {
+            "def": " paired scales, spines, glands, or blade-like structures at the base of a petiolule", 
+            "link": null, 
+            "name": "Stipels "
+        }, 
+        {
+            "def": " resembling stipules.", 
+            "link": null, 
+            "name": "Stipuloid "
+        }, 
+        {
+            "def": " lasting for a short time: soon falling away from the parent plant.", 
+            "link": null, 
+            "name": "Fugacious "
+        }, 
+        {
+            "def": " dead leaves, calyx or petals are persistent, retained", 
+            "link": "/wiki/Marcescence", 
+            "name": "Marcescent "
+        }, 
+        {
+            "def": " see Marcescence", 
+            "link": null, 
+            "name": "Persistent "
+        }, 
+        {
+            "def": " when the veins run parallel to the leaf edge and fuse at the leaf tip.", 
+            "link": null, 
+            "name": "Acrodromous "
+        }, 
+        {
+            "def": " when the main veins of a leaf radiate from the tip of the petiole.", 
+            "link": null, 
+            "name": "Actinodromous "
+        }, 
+        {
+            "def": " the veins turn away from the leaf edge to join the next higher vein.", 
+            "link": null, 
+            "name": "Brochidodromous "
+        }, 
+        {
+            "def": " with secondary veins that diverge at the base of the lamina and rejoin at the tip.", 
+            "link": null, 
+            "name": "Campylodromous "
+        }, 
+        {
+            "def": " forked, dividing into two divergent branches.", 
+            "link": null, 
+            "name": "Furcate "
+        }, 
+        {
+            "def": " veins interconnected to form a network. Net-veined.", 
+            "link": null, 
+            "name": "Reticulate "
+        }, 
+        {
+            "def": " the externally visible vascular bundles, found on leaves, petals and other parts.", 
+            "link": null, 
+            "name": "Vein "
+        }, 
+        {
+            "def": " a small vein.", 
+            "link": null, 
+            "name": "Veinlet "
+        }, 
+        {
+            "def": " three or more leaves or branches or pedicels arising from the same node.", 
+            "link": null, 
+            "name": "Whorl "
+        }, 
+        {
+            "def": " a compound leaf without a terminal leaflet.", 
+            "link": null, 
+            "name": "Abruptly pinnate "
+        }, 
+        {
+            "def": " the leaf base wraps around the stem, but not completely.", 
+            "link": null, 
+            "name": "Semiamplexicaul "
+        }, 
+        {
+            "def": " narrowing to a point, used for other structures too.", 
+            "link": null, 
+            "name": "Acuminate "
+        }, 
+        {
+            "def": " with acute leaves.", 
+            "link": null, 
+            "name": "Acutifolius "
+        }, 
+        {
+            "def": " tapering gradually to a narrow end.", 
+            "link": null, 
+            "name": "Attenuate "
+        }, 
+        {
+            "def": " with shallow, small rounded teeth.", 
+            "link": null, 
+            "name": "Crenulate "
+        }, 
+        {
+            "def": " being prickly.", 
+            "link": null, 
+            "name": "Acanceous "
+        }, 
+        {
+            "def": " a prickle or spine.", 
+            "link": null, 
+            "name": "Acantha "
+        }, 
+        {
+            "def": " fruits are spiny.", 
+            "link": null, 
+            "name": "Acanthocarpus "
+        }, 
+        {
+            "def": " the branches are spiny.", 
+            "link": null, 
+            "name": "Acanthocladous "
+        }, 
+        {
+            "def": " having spine-like processes.", 
+            "link": null, 
+            "name": "Aculeolate "
+        }, 
+        {
+            "def": " gland like.", 
+            "link": null, 
+            "name": "Adenoid "
+        }, 
+        {
+            "def": " a stalk that supports a gland.", 
+            "link": null, 
+            "name": "Adenophore "
+        }, 
+        {
+            "def": " leaves with glands.", 
+            "link": null, 
+            "name": "Adenophyllous "
+        }, 
+        {
+            "def": " having a cobwebby appearance with entangled hairs.", 
+            "link": null, 
+            "name": "Arachnoid "
+        }, 
+        {
+            "def": " the waxy coating that covers some plants.", 
+            "link": null, 
+            "name": "Bloom "
+        }, 
+        {
+            "def": " with gray pubescence.", 
+            "link": null, 
+            "name": "Canescent "
+        }, 
+        {
+            "def": " with a fringe of marginal hairs.", 
+            "link": null, 
+            "name": "Ciliate "
+        }, 
+        {
+            "def": " with a tough or leathery texture.", 
+            "link": null, 
+            "name": "Coriaceouse "
+        }, 
+        {
+            "def": " finely cut into fringes, the edge of a frilly petal or leaf.", 
+            "link": null, 
+            "name": "Fimbriate "
+        }, 
+        {
+            "def": " smooth without any pubescences at all.", 
+            "link": null, 
+            "name": "Glabrous "
+        }, 
+        {
+            "def": " covered across the surface with glands.", 
+            "link": null, 
+            "name": "Glandular-punctate "
+        }, 
+        {
+            "def": " with long shaggy hairs, often stiff or bristly to the touch.", 
+            "link": null, 
+            "name": "Hirsute "
+        }, 
+        {
+            "def": " with woolly hairs. Thick wool like hairs.", 
+            "link": null, 
+            "name": "Lanate "
+        }, 
+        {
+            "def": " with a wart surface, with low rounded bumps.", 
+            "link": null, 
+            "name": "Verrucose "
+        }, 
+        {
+            "def": " villous indument.", 
+            "link": null, 
+            "name": "Villosity "
+        }, 
+        {
+            "def": " Growing larger after anthesis, normally used for the calyx.", 
+            "link": null, 
+            "name": "Accrescent "
+        }, 
+        {
+            "def": " the period when the flower is fully open and functional, ends when the stigma or stamens wither.", 
+            "link": null, 
+            "name": "Anthesis "
+        }, 
+        {
+            "def": " attached by the base.", 
+            "link": null, 
+            "name": "Basifixed "
+        }, 
+        {
+            "def": " the part of the stamen joining the anther cells.", 
+            "link": null, 
+            "name": "Connective "
+        }, 
+        {
+            "def": " united by filaments to form two groups", 
+            "link": null, 
+            "name": "Diadelphous "
+        }, 
+        {
+            "def": " having four stamens in two pairs of unequal length", 
+            "link": null, 
+            "name": "Didynamous "
+        }, 
+        {
+            "def": " born on the corolla, often used in reference to stamens attached to the corolla.", 
+            "link": null, 
+            "name": "Epipetalous "
+        }, 
+        {
+            "def": " sticking out past the corolla, the stamens protrude past the margin of the corolla lip.", 
+            "link": null, 
+            "name": "Exserted "
+        }, 
+        {
+            "def": " opening towards the outside of the flower.", 
+            "link": null, 
+            "name": "Extrose "
+        }, 
+        {
+            "def": " combined male & female structure", 
+            "link": null, 
+            "name": "Gynandrium "
+        }, 
+        {
+            "def": " adnation of stamens and the style and stigma (Orchidaceae)", 
+            "link": null, 
+            "name": "Gynostegium "
+        }, 
+        {
+            "def": " opening on the inside of the corolla, the stamens are contained within the margins of the petals.", 
+            "link": null, 
+            "name": "Introrse "
+        }, 
+        {
+            "def": " stamen filaments united into a tube.", 
+            "link": null, 
+            "name": "Monodelphous "
+        }, 
+        {
+            "def": " anthers opening by terminal pores.", 
+            "link": null, 
+            "name": "Poricidal "
+        }, 
+        {
+            "def": " (1) concerning a sterile stamen (2) flowers with sterile stamens.", 
+            "link": null, 
+            "name": "Staminodial "
+        }, 
+        {
+            "def": " the anthers are connected (Araceae)", 
+            "link": null, 
+            "name": "Synandrous "
+        }, 
+        {
+            "def": " the anthers are united into a tube, the filaments are free (Asteraceae).", 
+            "link": null, 
+            "name": "Syngenesious "
+        }, 
+        {
+            "def": " having six stamens four of which are longer than the others", 
+            "link": null, 
+            "name": "Tetradynamous "
+        }, 
+        {
+            "def": " a structure uniting the pollinia in Asclepiadaceae and Orchidaceae.", 
+            "link": null, 
+            "name": "Translator "
+        }, 
+        {
+            "def": " pollen containing three nuclei when shed.", 
+            "link": null, 
+            "name": "Trinucleate "
+        }, 
+        {
+            "def": " anthers opening by valves or small flaps, e.g. Berberis.", 
+            "link": null, 
+            "name": "Valvular "
+        }, 
+        {
+            "def": " anthers pivoting freely on the filament.", 
+            "link": null, 
+            "name": "Versatile "
+        }, 
+        {
+            "def": " the distal end of the stamen where pollen is produced, normally composed of two parts called anther-sacs and pollen-sacs (thecae).", 
+            "link": null, 
+            "name": "Anther "
+        }, 
+        {
+            "def": " the stalk of a stamen", 
+            "link": null, 
+            "name": "Filament "
+        }, 
+        {
+            "def": " the gynoecium comprises more than one pistil.", 
+            "link": null, 
+            "name": "Apocarpus "
+        }, 
+        {
+            "def": " the stalk that connects the ovule to the placenta.", 
+            "link": null, 
+            "name": "Funicle "
+        }, 
+        {
+            "def": " the cavities located within a carpel, ovary or anther.", 
+            "link": null, 
+            "name": "Loculus "
+        }, 
+        {
+            "def": " the gynoecium comprises one pistil.", 
+            "link": null, 
+            "name": "Syncarpous "
+        }, 
+        {
+            "def": "\n\nSessile - absent style\n\n", 
+            "link": "/wiki/Stigma_(flower)", 
+            "name": "Stigma "
+        }, 
+        {
+            "def": " Position is relative to the body of the ovary.[12]\n\nTerminal or apical: arising at the apex of the ovary (commonest)\nSubapical: arising from the side of the ovary just below the apex\nLateral: arising from the side of the ovary, lower than subapical\nGynobasic: arising from the base of the ovary\n\n", 
+            "link": "/wiki/Style_(flower)", 
+            "name": "Style "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Ovary_(plants)", 
+            "name": "Ovary "
+        }, 
+        {
+            "def": " without a head, used for flower styles without a well-developed stigma.", 
+            "link": null, 
+            "name": "Acephalous "
+        }, 
+        {
+            "def": " the leaf-like or scale-like leafy appendages that are located just below a flower, a flower stalk, or an inflorescence; they usually are reduced in size and sometimes showy or brightly colored.", 
+            "link": null, 
+            "name": "Bract "
+        }, 
+        {
+            "def": " the whorl of sepals at the base of a flower, the outer whorl of the perianth.", 
+            "link": null, 
+            "name": "Calyx "
+        }, 
+        {
+            "def": " the ovule-producing reproductive organ of a flower, consisting of the stigma, style and ovary.", 
+            "link": null, 
+            "name": "Carpel "
+        }, 
+        {
+            "def": " a noticeably narrowed and attenuate organ base, typically a petal. Viola.", 
+            "link": null, 
+            "name": "Claw "
+        }, 
+        {
+            "def": " when the same parts of a flower are fused to each other, petals in a gamopetalous flower. Petunia.", 
+            "link": null, 
+            "name": "Connate "
+        }, 
+        {
+            "def": " the whorl of petals of a flower.", 
+            "link": null, 
+            "name": "Corolla "
+        }, 
+        {
+            "def": " an additional structure between the petals and the stamens.", 
+            "link": null, 
+            "name": "Corona "
+        }, 
+        {
+            "def": " an enlargement or outgrowth from the receptacle of the flower, located at the center of the flower of various plants. The term is also use as the central area of the head in composites where the tubular flowers are attached.", 
+            "link": null, 
+            "name": "Disk "
+        }, 
+        {
+            "def": " a series of bracts below the calyx", 
+            "link": null, 
+            "name": "Epicalyx "
+        }, 
+        {
+            "def": " a structure contain all the seeds produced by a single flower.", 
+            "link": null, 
+            "name": "Fruit "
+        }, 
+        {
+            "def": " a fluid produce by nectaries high in sugar content, used to attract pollinators.", 
+            "link": null, 
+            "name": "Nectar "
+        }, 
+        {
+            "def": " a gland that secrets nectar, most often found in flowers but also produced on other parts of plants too.", 
+            "link": null, 
+            "name": "Nectary "
+        }, 
+        {
+            "def": " when the floral disk contains nectar secreting glands, often modified as its main function in some flowers.", 
+            "link": null, 
+            "name": "Nectar disk "
+        }, 
+        {
+            "def": " the stem or stalk that holds a single flower in an inflorescence.", 
+            "link": null, 
+            "name": "Pedicel "
+        }, 
+        {
+            "def": " referring to or having a peduncle.", 
+            "link": null, 
+            "name": "Peduncular "
+        }, 
+        {
+            "def": " having a peduncle.", 
+            "link": null, 
+            "name": "Pedunculate "
+        }, 
+        {
+            "def": " without a perianth.", 
+            "link": null, 
+            "name": "Achlamydeous "
+        }, 
+        {
+            "def": " the end of the pedicel that joins to the flower were the different parts of the flower are joined together, also called the torus. In Asteraceae the top of the pedicel upon which the flowers are joined.", 
+            "link": null, 
+            "name": "Receptacle "
+        }, 
+        {
+            "def": " when the stamens are the same number as the corolla segments and oppositely arranged the corolla segments. Primula.", 
+            "link": null, 
+            "name": "Antipetalous "
+        }, 
+        {
+            "def": " when the stamens are the same number as the calyx segments and oppositely arranged the calyx segments.", 
+            "link": null, 
+            "name": "Antisepalouse "
+        }, 
+        {
+            "def": " the flowers are arranged into a head composed of many separate unstalked flowers, the single flowers are called florets and are packed close together. The typical arrangement of flowers in the Asteraceae.", 
+            "link": null, 
+            "name": "Capitulum "
+        }, 
+        {
+            "def": " is an umbel where each stalk of the main umbel produces another smaller umbel of flowers.", 
+            "link": null, 
+            "name": "Compound Umbel "
+        }, 
+        {
+            "def": " a grouping of flowers where all the flowers are at the same level, the flower stalks of different lengths forming a flat-topped flower cluster.", 
+            "link": null, 
+            "name": "Corymb "
+        }, 
+        {
+            "def": " is a cluster of flowers were the end of each growing point produces a flower. New growth comes from side shoots and the oldest and first flowers to bloom are at the top.", 
+            "link": null, 
+            "name": "Cyme "
+        }, 
+        {
+            "def": " one flower per stem or the flowers are greatly spread-apart as to appear they do not arise from the same branch.", 
+            "link": null, 
+            "name": "Single "
+        }, 
+        {
+            "def": " when flowers arising from the main stem are without individual flower stalks. The flowers attach directly to the stem.", 
+            "link": null, 
+            "name": "Spike "
+        }, 
+        {
+            "def": " same as single, with one flower per stem.", 
+            "link": null, 
+            "name": "Solitary "
+        }, 
+        {
+            "def": " is a flower spike with flowers that have stalks of equal length. The stem tip continues to grow and produce more flowers with the bottom flowers open first and blooming progresses up the stem.", 
+            "link": null, 
+            "name": "Raceme "
+        }, 
+        {
+            "def": " is a raceme with branches and each branch having a smaller raceme of flowers. The terminal bud of each branch continues to grow, producing more side shoots and flowers.", 
+            "link": null, 
+            "name": "Panicle "
+        }, 
+        {
+            "def": " stem holding a one flower in an inflorescences.", 
+            "link": "/wiki/Pedicel_(botany)", 
+            "name": "Pedicel "
+        }, 
+        {
+            "def": " stem holding an inflorescences, or a single flower.", 
+            "link": null, 
+            "name": "Peduncle "
+        }, 
+        {
+            "def": " were the flower head has all the flower stalks rising from the same point of the same length, the flower head is rounded like an umbrella or almost circular.", 
+            "link": null, 
+            "name": "Umbel "
+        }, 
+        {
+            "def": " a whorled collection of flowers around the stem, the flowers produced in rings at intervals up the stem. As the stem tip continues to grow more whorls of flowers are produced. Typical in Lamiaceae.", 
+            "link": null, 
+            "name": "Verticillaster "
+        }, 
+        {
+            "def": " flowers arranged in whorls at the nodes.", 
+            "link": null, 
+            "name": "Verticil "
+        }, 
+        {
+            "def": "flowers are present above the ovary", 
+            "link": null, 
+            "name": "Epigynous "
+        }, 
+        {
+            "def": "flowers are present below the ovary", 
+            "link": null, 
+            "name": "Hypogynous "
+        }, 
+        {
+            "def": " term used for the lateral petals of the flowers on species in Fabaceae and Polygalaceae.", 
+            "link": null, 
+            "name": "Wing "
+        }, 
+        {
+            "def": " meeting along the margins but not overlapping.", 
+            "link": null, 
+            "name": "Valvate "
+        }, 
+        {
+            "def": " the androecium with the stamen filaments partly or completely fused together.", 
+            "link": null, 
+            "name": "Adelphous "
+        }, 
+        {
+            "def": " a flower without petals.", 
+            "link": null, 
+            "name": "Apetalous "
+        }, 
+        {
+            "def": " of a flower, having all the possible parts represented, thus sepals, petals, stamens, and pistils.[13]", 
+            "link": null, 
+            "name": "Complete "
+        }, 
+        {
+            "def": " describes a plant species or population that has some plants that are female and some plants that are hermaphrodites.", 
+            "link": null, 
+            "name": "Gynodioecy "
+        }, 
+        {
+            "def": " when the flower anthers and the stigma are ripe at the same time.", 
+            "link": null, 
+            "name": "Homogamous "
+        }, 
+        {
+            "def": " of a flower or inflorescence, being unisexual and developing organs of only a single sex.[13]", 
+            "link": null, 
+            "name": "Imperfect "
+        }, 
+        {
+            "def": " possessing both stamens and ovary (male and female parts)", 
+            "link": null, 
+            "name": "Perfect "
+        }, 
+        {
+            "def": " when the flower parts are arranged with radial symmetry.", 
+            "link": null, 
+            "name": "Actinomorphy "
+        }, 
+        {
+            "def": " Symmetric when bisected from any angle (circular)", 
+            "link": null, 
+            "name": "Radial "
+        }, 
+        {
+            "def": " the type of symmetry that most irregular flowers have with the upper half of the flower unlike the lower half. the left and right halves tend to be mirror images of each other.", 
+            "link": null, 
+            "name": "Zygomorphy "
+        }, 
+        {
+            "def": " cross pollination, when one plant pollinates another plant", 
+            "link": "/wiki/Allogamy", 
+            "name": "Allogamy "
+        }, 
+        {
+            "def": " wind pollinated.", 
+            "link": "/wiki/Anemophily", 
+            "name": "Anemophilous "
+        }, 
+        {
+            "def": " self-pollination, when the flowers of the same plant pollinate flowers on the same plant or themselves.", 
+            "link": null, 
+            "name": "Autogamy "
+        }, 
+        {
+            "def": " beetle pollinated", 
+            "link": null, 
+            "name": "Cantharophilous "
+        }, 
+        {
+            "def": " bat pollinated.", 
+            "link": null, 
+            "name": "Chiropterophilous "
+        }, 
+        {
+            "def": " self-pollination of a flower that does not open.", 
+            "link": null, 
+            "name": "Cleistogamous "
+        }, 
+        {
+            "def": " Flowers that cannot pollinate themselves because pollen is produced at a time when the stigmas are not receptive of pollen.", 
+            "link": null, 
+            "name": "Dichogamy "
+        }, 
+        {
+            "def": " insect pollinated.", 
+            "link": null, 
+            "name": "Entomophilous "
+        }, 
+        {
+            "def": " Water pollinated, pollen is moved in water from one flower to the next.", 
+            "link": null, 
+            "name": "Hydrophilous "
+        }, 
+        {
+            "def": " pollinated by snails and slugs.", 
+            "link": null, 
+            "name": "Malacophilous "
+        }, 
+        {
+            "def": " pollinated by birds.", 
+            "link": null, 
+            "name": "Ornithophilous "
+        }, 
+        {
+            "def": " the movement of pollen from the anther to the stigma.", 
+            "link": null, 
+            "name": "Pollination "
+        }, 
+        {
+            "def": " when pollen is produced and shed before the carpels are mature.", 
+            "link": null, 
+            "name": "Protandrous "
+        }, 
+        {
+            "def": " when the carpels mature before the stamens produce pollen.", 
+            "link": null, 
+            "name": "Progynous "
+        }, 
+        {
+            "def": " protective sheathe on SAM", 
+            "link": null, 
+            "name": "Coleoptile "
+        }, 
+        {
+            "def": " protecting layer of a seed", 
+            "link": null, 
+            "name": "Coleorhiza "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Double_fertilization", 
+            "name": "Double fertilization "
+        }, 
+        {
+            "def": " Initial root-determined cells (Root apical meristem)", 
+            "link": null, 
+            "name": "Radicle "
+        }, 
+        {
+            "def": " a fleshy seed coat", 
+            "link": "/wiki/Sarcotesta", 
+            "name": "Sarcotesta "
+        }, 
+        {
+            "def": " a hard seed coat", 
+            "link": null, 
+            "name": "Sclerotesta "
+        }, 
+        {
+            "def": " the effect of pollen on seeds and fruit", 
+            "link": "/wiki/Xenia_(plants)", 
+            "name": "Xenia "
+        }, 
+        {
+            "def": " parts of fruits that do not form from the ovary.", 
+            "link": null, 
+            "name": "Accessory structures "
+        }, 
+        {
+            "def": " normally the slender elongated end of a fruit, typically a persistent style-base.", 
+            "link": null, 
+            "name": "Beak "
+        }, 
+        {
+            "def": " a type of fruit dehiscences were the top of the fruit falls away like a lid or covering.", 
+            "link": null, 
+            "name": "Circumscissile "
+        }, 
+        {
+            "def": " the way a fruit openings and releases its contents, normally in a regular and distinctive fashion.", 
+            "link": null, 
+            "name": "Dehiscent "
+        }, 
+        {
+            "def": " includes the wall of the seed chamber, the inner part of the pericarp.", 
+            "link": null, 
+            "name": "Endocarp "
+        }, 
+        {
+            "def": " the pericarp's outer part.", 
+            "link": null, 
+            "name": "Exocarp "
+        }, 
+        {
+            "def": " fruits that do not have specialized structures for opening and releasing the seeds, they remain closed after the seeds ripen and are opened by animals, weathering, fire or other external means.", 
+            "link": null, 
+            "name": "Indehiscent "
+        }, 
+        {
+            "def": " the middle layer of the pericarp.", 
+            "link": null, 
+            "name": "Mesocarp "
+        }, 
+        {
+            "def": " the body of the fruit from its outside surface to the chamber were the seeds are, including the outside skin of the fruit and the inside lining of the seed chamber.", 
+            "link": null, 
+            "name": "Pericarp "
+        }, 
+        {
+            "def": " the seam along which the fruit opens, normally in most fruits it is where the carpel or carpels are fused together.", 
+            "link": null, 
+            "name": "Suture "
+        }, 
+        {
+            "def": " one of the segments of the capsule.", 
+            "link": null, 
+            "name": "Valve "
+        }, 
+        {
+            "def": " see achene.", 
+            "link": null, 
+            "name": "Achaenocarp "
+        }, 
+        {
+            "def": " dry indehiscent fruit, they have one seed and form from a single carpel, the seed is distinct from the fruit wall.", 
+            "link": "/wiki/Achene", 
+            "name": "Achene "
+        }, 
+        {
+            "def": " the pericarp and seed are fused together, the fruit of many grasses.[15]", 
+            "link": null, 
+            "name": "Caryopsis "
+        }, 
+        {
+            "def": " outer fleshy part surrounds a shell with a seed inside.", 
+            "link": "/wiki/Drupe", 
+            "name": "Drupe "
+        }, 
+        {
+            "def": " a dry dehiscent fruit containing many seeds.[14] Examples include follicles, dehiscent capsules, and many but not all legumes.", 
+            "link": null, 
+            "name": "Pod (seedpod) "
+        }, 
+        {
+            "def": " a fruit formed from a pistil with multiple carpels and having a woody covering. e.g. hickory, pecan, and oak.", 
+            "link": null, 
+            "name": "Nut "
+        }, 
+        {
+            "def": " A small nut.", 
+            "link": null, 
+            "name": "Nutlet "
+        }, 
+        {
+            "def": " accessory fruit from one or more carpels, specific to the apple and some related genera in the family Rosaceae", 
+            "link": "/wiki/Pome", 
+            "name": "Pome "
+        }, 
+        {
+            "def": " winged achene, e.g. maples.", 
+            "link": null, 
+            "name": "Samara "
+        }, 
+        {
+            "def": " a small inflated fruit with one seed that has thin walls. Fruits are usually one-seeded. Some species of amaranth.", 
+            "link": "/wiki/Utricle_(fruit)", 
+            "name": "Utricle "
+        }, 
+        {
+            "def": " having several fused sori.", 
+            "link": null, 
+            "name": "Acrostichoid sorus "
+        }, 
+        {
+            "def": " outer part of sporangium", 
+            "link": null, 
+            "name": "Annulus "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Elater", 
+            "name": "Elater "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Sorus", 
+            "name": "Indusium "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Sporophyll", 
+            "name": "Sporophyll "
+        }, 
+        {
+            "def": " a group or cluster of sporangia borne abaxially on a fern frond.[13]", 
+            "link": null, 
+            "name": "Sorus / Sori "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Strobilus", 
+            "name": "Strobilus "
+        }, 
+        {
+            "def": " used for moss species that have antheridia at the top of the stem.", 
+            "link": null, 
+            "name": "Acrandrous "
+        }, 
+        {
+            "def": " In liverworts, the female sex organs terminate the main shoot", 
+            "link": null, 
+            "name": "Acrogynous "
+        }, 
+        {
+            "def": " In liverworts, female sex organs are produced by a lateral cell, thus the growth of the main shoot is indeterminate", 
+            "link": null, 
+            "name": "Anacrogynous "
+        }, 
+        {
+            "def": "male sex organ", 
+            "link": "/wiki/Stamen", 
+            "name": "Androecium "
+        }, 
+        {
+            "def": " Monoicous, and producing both types of sex organs together.", 
+            "link": null, 
+            "name": "Androgynous "
+        }, 
+        {
+            "def": " A specialised branch that bears the antheridia in the Marchantiales", 
+            "link": null, 
+            "name": "Antheridiophore "
+        }, 
+        {
+            "def": " A specialised branch that bears the archaegonia in the Marchantiales", 
+            "link": null, 
+            "name": "Archegoniophore "
+        }, 
+        {
+            "def": " Produces male and female sex organs on the same plant but on separate inflorescences", 
+            "link": null, 
+            "name": "Autoicous "
+        }, 
+        {
+            "def": "leaf is present below the flower", 
+            "link": "/wiki/Bract", 
+            "name": "Bract "
+        }, 
+        {
+            "def": " Male and female inflorescences on separate branches of the same plant", 
+            "link": null, 
+            "name": "Cladautoicous "
+        }, 
+        {
+            "def": " Having two forms of gametophyte, one form bearing antheridia and one form bearing archegonia.", 
+            "link": null, 
+            "name": "Dioicous "
+        }, 
+        {
+            "def": " Male is bud-like in the axil of a female branch", 
+            "link": null, 
+            "name": "Gonioautoicous "
+        }, 
+        {
+            "def": " describing the arrangement of leaves of a liverwort, contrast with succubous", 
+            "link": "/wiki/Incubous", 
+            "name": "Incubous "
+        }, 
+        {
+            "def": "cluster of flower", 
+            "link": null, 
+            "name": "Inflorescence "
+        }, 
+        {
+            "def": " A tube of thallus tissue that protects the archegonia", 
+            "link": null, 
+            "name": "Involucre "
+        }, 
+        {
+            "def": " Having a single form of gametophyte bearing both antheridia and archegonia, either together or on separate branches.", 
+            "link": null, 
+            "name": "Monoicous "
+        }, 
+        {
+            "def": " Sterile hairs surrounding the archegonia and antheridia", 
+            "link": null, 
+            "name": "Paraphyses "
+        }, 
+        {
+            "def": " A protective tube that surrounds the archegonia, characterises the Jungermannialean liverworts", 
+            "link": null, 
+            "name": "Perianth "
+        }, 
+        {
+            "def": " The cluster of leaves with the enclosed female sex organs", 
+            "link": null, 
+            "name": "Perichaetium "
+        }, 
+        {
+            "def": " The cluster of leaves with the enclosed male sex organs", 
+            "link": null, 
+            "name": "Perigonium "
+        }, 
+        {
+            "def": " Dwarf male plants growing on living leaves of female plants", 
+            "link": null, 
+            "name": "Pseudautoicous "
+        }, 
+        {
+            "def": " An involucre that resembles a perianth, but is made of thallus tissue, and usually forms after the sporophyte develops", 
+            "link": null, 
+            "name": "Pseudoperianth "
+        }, 
+        {
+            "def": " Male inflorescence attached to the female stem by rhizoids", 
+            "link": null, 
+            "name": "Rhizautoicous "
+        }, 
+        {
+            "def": " describing the arrangement of leaves of a liverwort, contrast with incubous", 
+            "link": "/wiki/Succubous", 
+            "name": "Succubous "
+        }, 
+        {
+            "def": " Male and female sex organs on the same gametophyte but are not clustered", 
+            "link": null, 
+            "name": "Synoicous "
+        }, 
+        {
+            "def": " The external cell layers of the developing sporangium of a bryophyte. (Note: this term is also used in the mycology of lichens.)", 
+            "link": null, 
+            "name": "Amphithecium "
+        }, 
+        {
+            "def": " Anisospore production is a rare condition in dioecious bryophytes; meiosis produces two small spores that develop into male gametophytes and two larger spores that develop into female gametophytes; contrast Isosporous.", 
+            "link": null, 
+            "name": "Anisosporous "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Calyptra", 
+            "name": "Calyptra "
+        }, 
+        {
+            "def": "", 
+            "link": "/wiki/Columella", 
+            "name": "Columella "
+        }, 
+        {
+            "def": " structures derived from the sporangium of liverworts that aid in spore dispersal", 
+            "link": null, 
+            "name": "Elater "
+        }, 
+        {
+            "def": " unlike anisosporous species, whether monoecious or dioecious, all spores are the same size.", 
+            "link": null, 
+            "name": "Isosporous "
+        }, 
+        {
+            "def": " structures derived from the sporangium of hornworts that aid in spore dispersal", 
+            "link": null, 
+            "name": "Pseudoelater "
+        }
+    ]
+}

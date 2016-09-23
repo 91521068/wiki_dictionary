@@ -1,0 +1,612 @@
+{
+    "c1": "", 
+    "c2": "Engineering", 
+    "c3": "woodworking", 
+    "words": [
+        {
+            "def": "Applied carving - background which is worked separately and then applied, rather than being worked in place.", 
+            "link": null, 
+            "name": "Applied carving"
+        }, 
+        {
+            "def": "Architrave - ornamental mouldings around a door or window frame, covering the joint between the frame and plaster.", 
+            "link": "/wiki/Architrave", 
+            "name": "Architrave"
+        }, 
+        {
+            "def": "Bead - a semicircular piece of moulding.", 
+            "link": "/wiki/Bead_(woodworking)", 
+            "name": "Bead"
+        }, 
+        {
+            "def": "Bench dog or Bench stop - a peg standing proud of the bench surface.", 
+            "link": "/wiki/Bench_dog", 
+            "name": "Bench dog"
+        }, 
+        {
+            "def": "Blind - joinery with mating surfaces not protruding through the face or end grain of the pieces being joined. Example - blind mortise and tenon joint", 
+            "link": null, 
+            "name": "Blind"
+        }, 
+        {
+            "def": "Billet - 1. a short piece of log particularly used for fuel; 2. a split out piece of a bolt of wood.", 
+            "link": null, 
+            "name": "Billet"
+        }, 
+        {
+            "def": "Bolster (pillow, cross head) - 1. shoulder; 2. a timber between a post and a beam to increase the bearing or shorten the span.", 
+            "link": null, 
+            "name": "Bolster"
+        }, 
+        {
+            "def": "Bolt - a piece of log cut to specific length, usually a short length from which products such as shingles are split or cut. Sometimes also called a billet or round.", 
+            "link": null, 
+            "name": "Bolt"
+        }, 
+        {
+            "def": "Brace - a hand tool used to drill holes, having a knobbed handle on the top to which pressure is applied, and a U-shaped grip in the middle which is used to rotate the drill bit.", 
+            "link": "/wiki/Brace_(tool)", 
+            "name": "Brace"
+        }, 
+        {
+            "def": "Burl - a knotty growth from a tree with a convoluted, complex grain.", 
+            "link": "/wiki/Burl", 
+            "name": "Burl"
+        }, 
+        {
+            "def": "Cannel, channel - the concavity of a gouge blade.", 
+            "link": null, 
+            "name": "Cannel, channel"
+        }, 
+        {
+            "def": "Card scraper - a flat blade with a burred edge used for smoothing.", 
+            "link": "/wiki/Card_scraper", 
+            "name": "Card scraper"
+        }, 
+        {
+            "def": "Caul - A strip or block of wood used to distribute or direct clamping force", 
+            "link": null, 
+            "name": "Caul"
+        }, 
+        {
+            "def": "Chatoyance - the effect seen in dramatic wood grain direction changes as seen in flame figured maple.", 
+            "link": "/wiki/Chatoyance", 
+            "name": "Chatoyance"
+        }, 
+        {
+            "def": "Chip carving - incised surface decoration, usually geometric.", 
+            "link": "/wiki/Chip_carving", 
+            "name": "Chip carving"
+        }, 
+        {
+            "def": "Chops - a type of vise.", 
+            "link": null, 
+            "name": "Chops"
+        }, 
+        {
+            "def": "Climb cut - On a table saw or router, cutting against the normal feed direction at the end of the cut to prevent tearout.", 
+            "link": null, 
+            "name": "Climb cut"
+        }, 
+        {
+            "def": "Close grain - woods with very fine fibers of cells (wood grain) that are not visibly porous.", 
+            "link": null, 
+            "name": "Close grain"
+        }, 
+        {
+            "def": "Conversion - reduction of a whole log into pieces suitable for working. Conversion can be done in three basic ways, sawn, hewn, or split.", 
+            "link": null, 
+            "name": "Conversion"
+        }, 
+        {
+            "def": "Crook - longitudinal bending to one side, caused by uneven seasoning or grain. (See Wood warping)", 
+            "link": null, 
+            "name": "Crook"
+        }, 
+        {
+            "def": "Crotch - the section of a tree where a branch divides from the trunk, or the trunk divides in two; typically an area of convoluted grain.", 
+            "link": null, 
+            "name": "Crotch"
+        }, 
+        {
+            "def": "Crossgrain - working perpendicular to the grain.", 
+            "link": null, 
+            "name": "Crossgrain"
+        }, 
+        {
+            "def": "Crosscut - a cut made perpendicular to the grain.", 
+            "link": null, 
+            "name": "Crosscut"
+        }, 
+        {
+            "def": "Crown of thorns - a system of self-supporting and interlocking pieces.", 
+            "link": "/wiki/Crown_of_Thorns_(woodworking)", 
+            "name": "Crown of thorns"
+        }, 
+        {
+            "def": "Cruck - a pair of crooked, structural timbers in a timber frame building. Crucks act as both posts and rafters like an A-frame.", 
+            "link": "/wiki/Cruck", 
+            "name": "Cruck"
+        }, 
+        {
+            "def": "Cup - transverse bending, convex or concave, usually predictable, considering grain orientation. (see Wood warping)", 
+            "link": null, 
+            "name": "Cup"
+        }, 
+        {
+            "def": "Dado - a slot made across the grain. Typically, the slot is made by milling, chiseled, or sawed.", 
+            "link": "/wiki/Dado_(joinery)", 
+            "name": "Dado"
+        }, 
+        {
+            "def": "Dovetail joint - a joint technique most commonly used in woodworking joinery. Noted for its resistance to being pulled apart (tensile strength), the dovetail joint is commonly used to join the sides of a drawer to the front.", 
+            "link": "/wiki/Dovetail_joint", 
+            "name": "Dovetail joint"
+        }, 
+        {
+            "def": "Drill - (verb) the process of making holes in a material or (noun) a tool for drilling holes.", 
+            "link": "/wiki/Drill", 
+            "name": "Drill"
+        }, 
+        {
+            "def": "Face - when a board has one side that is wider than the other, the wider side is referred to as the face (as opposed to the edge). May also refer to the face that is to be visible in the finished item.", 
+            "link": null, 
+            "name": "Face"
+        }, 
+        {
+            "def": "Fence - a flat and straight length of some material, usually wood, steel or aluminium, which provides a reference for tools to work against, or which prevents the work from sliding.", 
+            "link": null, 
+            "name": "Fence"
+        }, 
+        {
+            "def": "Fiber/fibre - the fine tube-like structure of wood which is hollow and determines the grain direction.", 
+            "link": null, 
+            "name": "Fiber/fibre"
+        }, 
+        {
+            "def": "Figure - naturally occurring decorative patterns in wood, caused by either growth increments or tissue orientation.", 
+            "link": "/wiki/Figure_(wood)", 
+            "name": "Figure"
+        }, 
+        {
+            "def": "Firmer - a strong chisel for general work or mortising, may have square sides or bevels on both sides.", 
+            "link": null, 
+            "name": "Firmer"
+        }, 
+        {
+            "def": "Fishtail chisel or gouge - a chisel or gouge with a splayed end.", 
+            "link": "/wiki/Fishtail_chisel", 
+            "name": "Fishtail chisel"
+        }, 
+        {
+            "def": "Flat gouge - a gouge with minimal curvature, used for finishing and smoothing.", 
+            "link": null, 
+            "name": "Flat gouge"
+        }, 
+        {
+            "def": "Flitch - a board in which the round of the trunk is still visible, a rough-cut board.", 
+            "link": null, 
+            "name": "Flitch"
+        }, 
+        {
+            "def": "Flute - a deep channel cut in wood* occasionally denotes the cannel of a gouge.", 
+            "link": null, 
+            "name": "Flute"
+        }, 
+        {
+            "def": "Foxing - a yellow-brown discoloration of wood due to fungal infection.", 
+            "link": null, 
+            "name": "Foxing"
+        }, 
+        {
+            "def": "French cleat - a molding used to hang cabinets", 
+            "link": "/wiki/French_cleat", 
+            "name": "French cleat"
+        }, 
+        {
+            "def": "Fret saw - a saw with a very fine toothed blade used for delicate cuts in thin material.", 
+            "link": "/wiki/Fret_saw", 
+            "name": "Fret saw"
+        }, 
+        {
+            "def": "Frosting - regular indented patterns created with a special-purpose punch called a froster.", 
+            "link": "/wiki/Frosting_(decorative_arts)", 
+            "name": "Frosting"
+        }, 
+        {
+            "def": "Grain - the longitudinal fibers in wood.", 
+            "link": "/wiki/Wood_grain", 
+            "name": "Grain"
+        }, 
+        {
+            "def": "Gouge - a chisel-like tool with a curved cutting edge.", 
+            "link": null, 
+            "name": "Gouge"
+        }, 
+        {
+            "def": "Green wood - unseasoned wood; freshly harvested timber, usually with a high moisture content.", 
+            "link": "/wiki/Green_wood", 
+            "name": "Green wood"
+        }, 
+        {
+            "def": "Grit - the grade of particles in sandpaper or sharpening stones which determines the aggressiveness of the cut.", 
+            "link": null, 
+            "name": "Grit"
+        }, 
+        {
+            "def": "Groove - a slot or channel made with the grain, usually on the end-grain in preparation for a tongue and groove joint.", 
+            "link": "/wiki/Groove_(joinery)", 
+            "name": "Groove"
+        }, 
+        {
+            "def": "Grooving- a rectangular sinking in the surface of any material.", 
+            "link": null, 
+            "name": "Grooving"
+        }, 
+        {
+            "def": "Hand plane - see Plane.", 
+            "link": null, 
+            "name": "Hand plane"
+        }, 
+        {
+            "def": "Hardwood - wood from an angiosperm tree, i.e. a tree in the division Magnoliophyta. Despite the name, not necessarily very hard or dense wood (e.g. balsa is a hardwood), although generally harder than softwoods.", 
+            "link": "/wiki/Hardwood", 
+            "name": "Hardwood"
+        }, 
+        {
+            "def": "Heart shake - a shake (i.e. crack or split) radiating out from the heartwood.", 
+            "link": null, 
+            "name": "Heart shake"
+        }, 
+        {
+            "def": "Heel - the corner of a chisel, knife, or gouge bevel which meets the back of the blade and polishes the cut.", 
+            "link": null, 
+            "name": "Heel"
+        }, 
+        {
+            "def": "Hold down or hold fast - a hold-down iron, fitting into a hole in a bench, tightened or loosened by hammer taps.", 
+            "link": "/wiki/Hold_fast", 
+            "name": "Hold down or hold fast"
+        }, 
+        {
+            "def": "Hollow grinding - a concave bevel on a chisel, gouge, or knife.", 
+            "link": null, 
+            "name": "Hollow grinding"
+        }, 
+        {
+            "def": "Incannel - the concave surface of a gouge; a gouge sharpened on the concave surface.", 
+            "link": null, 
+            "name": "Incannel"
+        }, 
+        {
+            "def": "Interlocked grain - wood grain which has multiple longitudinal directions in alternating layers, typical of many tropical hardwoods, and very difficult to work and to produce smooth surfaces.", 
+            "link": null, 
+            "name": "Interlocked grain"
+        }, 
+        {
+            "def": "Jig saw - a tool that can form circular cuts by moving the work piece past a blade rapidly moving up and down.", 
+            "link": "/wiki/Jigsaw_(tool)", 
+            "name": "Jig saw"
+        }, 
+        {
+            "def": "Joiner - a woodworker who does finer work than a framing carpenter.", 
+            "link": "/wiki/Joiner", 
+            "name": "Joiner"
+        }, 
+        {
+            "def": "Jointer - 1. a power plane used to straighten boards and square edges, sometimes called a joiner; 2. an intermediate length hand plane, a jointer plane.", 
+            "link": "/wiki/Jointer", 
+            "name": "Jointer"
+        }, 
+        {
+            "def": "Kerf - the gap left when material is removed by a saw. The width of the kerf is equal to the set of the saw.", 
+            "link": "https://en.wiktionary.org/wiki/kerf", 
+            "name": "Kerf"
+        }, 
+        {
+            "def": "Knot - A circular pattern in timber, caused by a dead branch that was not fully integrated into the tree before it was cut down. A loose knot is one that cannot be relied upon to remain in place in the piece. A tight knot, on the other hand, is fixed by growth or position in the wood structure so that it firmly retains its place in the surrounding wood.", 
+            "link": "/wiki/Wood_knot", 
+            "name": "Knot"
+        }, 
+        {
+            "def": "Lead - the tendency for wood that is being cut to direct the saw parallel to its grain.", 
+            "link": null, 
+            "name": "Lead"
+        }, 
+        {
+            "def": "LathArt - a type of folk art that uses lath from old plaster and lath walls", 
+            "link": null, 
+            "name": "LathArt"
+        }, 
+        {
+            "def": "Molding - a strip of material with various profiles used to cover transitions between surfaces or for decoration.", 
+            "link": "/wiki/Molding_(decorative)", 
+            "name": "Molding"
+        }, 
+        {
+            "def": "Mortise or Mortice - a cavity or hole (generally rectangular) in a piece of wood, meant to receive a tenon or a hinge", 
+            "link": "/wiki/Mortise_and_tenon", 
+            "name": "Mortise"
+        }, 
+        {
+            "def": "Mitre (UK, Cda) or Miter (US) - a joint made by fastening together pieces with the ends cut at an angle.", 
+            "link": "/wiki/Miter_joint", 
+            "name": "Mitre"
+        }, 
+        {
+            "def": "Mitre box (UK, Cda) or Miter box (US) - a box used for making mitre joints by having slots to guide a saw at the desired angle for the joint.", 
+            "link": "/wiki/Mitre_box", 
+            "name": "Mitre box"
+        }, 
+        {
+            "def": "Off fall - Scrap created by making a cut. Abbreviated as fall.", 
+            "link": null, 
+            "name": "Off fall"
+        }, 
+        {
+            "def": "Outcannel - the convex surface of a gouge; a gouge sharpened on the convex surface.", 
+            "link": null, 
+            "name": "Outcannel"
+        }, 
+        {
+            "def": "Plane (tool) - (verb) the process of removing material in thin shavings in order to make it flat, or (noun) a tool for planing.", 
+            "link": "/wiki/Plane_(tool)", 
+            "name": "Plane (tool)"
+        }, 
+        {
+            "def": "Plane iron - cutting part of a hand plane.", 
+            "link": null, 
+            "name": "Plane iron"
+        }, 
+        {
+            "def": "Planer - or thicknesser. a machine which reduces the thickness of boards.", 
+            "link": "/wiki/Thickness_planer", 
+            "name": "Planer"
+        }, 
+        {
+            "def": "Quarter-sawn - a plank with growth rings perpendicular to the wider face. (See Wood grain)", 
+            "link": "/wiki/Quarter_Sawing", 
+            "name": "Quarter-sawn"
+        }, 
+        {
+            "def": "Rabbet - A 'groove' cut parallel to, and at the edge of, a board.", 
+            "link": "/wiki/Rabbet", 
+            "name": "Rabbet"
+        }, 
+        {
+            "def": "Rail - Horizontal member of a frame on a door, window or panel.", 
+            "link": null, 
+            "name": "Rail"
+        }, 
+        {
+            "def": "Rasp - a long and flat steel tool with raised teeth for shaping wood.", 
+            "link": "/wiki/Rasp", 
+            "name": "Rasp"
+        }, 
+        {
+            "def": "Reed - a series of beads in a row.", 
+            "link": "/wiki/Reeding", 
+            "name": "Reed"
+        }, 
+        {
+            "def": "Relief cut - short straight cuts made at right angles to a curved layout so sharper than normal curves can be cut with a jig saw or band saw.", 
+            "link": null, 
+            "name": "Relief cut"
+        }, 
+        {
+            "def": "Riffler - a paddle-shaped rasp.", 
+            "link": "/wiki/Riffler", 
+            "name": "Riffler"
+        }, 
+        {
+            "def": "Rift sawn - rip sawing of lumber (timber) perpendicular to the grain, often confused with quarter sawn.", 
+            "link": "/wiki/Rift_sawing", 
+            "name": "Rift sawn"
+        }, 
+        {
+            "def": "Ring shake - a natural type of split (shake) occurring between the annual rings.", 
+            "link": null, 
+            "name": "Ring shake"
+        }, 
+        {
+            "def": "Rip - a cut made parallel to the grain.", 
+            "link": null, 
+            "name": "Rip"
+        }, 
+        {
+            "def": "Route - to cut a channel or groove. See router (woodworking).", 
+            "link": null, 
+            "name": "Route"
+        }, 
+        {
+            "def": "S2S - lumber, usually furniture grade hardwood, with two sides planed. (S4S - four sides)", 
+            "link": null, 
+            "name": "S2S"
+        }, 
+        {
+            "def": "Saw rasp - a rasp with saw teeth.", 
+            "link": null, 
+            "name": "Saw rasp"
+        }, 
+        {
+            "def": "Scorp - a drawknife with a curved, sometimes completely circular blade, often used for hollowing out objects such as bowls.", 
+            "link": null, 
+            "name": "Scorp"
+        }, 
+        {
+            "def": "Scratch awl - a sharp-pointed hand tool used to mark wood for cutting, usually used in joinery or when a more precise mark is need beyond that provided by a pencil or other method of marking out the cut.", 
+            "link": "/wiki/Scratch_awl", 
+            "name": "Scratch awl"
+        }, 
+        {
+            "def": "Scribe - the woodworking technique of shaping the end of a moulding or frame component to neatly fit the contours of an abutting member.", 
+            "link": "/wiki/Coping_(joinery)", 
+            "name": "Scribe"
+        }, 
+        {
+            "def": "Scroll saw - a motorized fretsaw.", 
+            "link": "/wiki/Scroll_saw", 
+            "name": "Scroll saw"
+        }, 
+        {
+            "def": "Seasoning - reducing the moisture content of wood before working to prevent cracking, splitting, and other damage due to drying.", 
+            "link": "/wiki/Wood_drying", 
+            "name": "Seasoning"
+        }, 
+        {
+            "def": "Shake - 1. a crack or split in wood, caused by damage or drying; 2. a split (as opposed to sawn) shingle.", 
+            "link": null, 
+            "name": "Shake"
+        }, 
+        {
+            "def": "Shoot - planing an edge straight or square. See Shooting board.", 
+            "link": null, 
+            "name": "Shoot"
+        }, 
+        {
+            "def": "Slab - 1. a partially round cut from a log; 2. In Australian English a slab is a plank.", 
+            "link": null, 
+            "name": "Slab"
+        }, 
+        {
+            "def": "Slab-cut - a plank with growth rings roughly parallel to the wider face.", 
+            "link": null, 
+            "name": "Slab-cut"
+        }, 
+        {
+            "def": "Slick - a giant chisel used in framing and traditional building construction.", 
+            "link": "/wiki/Slick_(tool)", 
+            "name": "Slick"
+        }, 
+        {
+            "def": "Slip - a shaped stone used for sharpening non-flat blades such as gouges.", 
+            "link": null, 
+            "name": "Slip"
+        }, 
+        {
+            "def": "Snib - a wooden toggle used to hold the work on a table.", 
+            "link": null, 
+            "name": "Snib"
+        }, 
+        {
+            "def": "Softwood - wood from a gymnosperm tree, i.e. trees in the divisions Pinophyta and Ginkgophyta Despite the name, not necessarily very soft or light wood (e.g. douglas-fir is a softwood).", 
+            "link": "/wiki/Softwood", 
+            "name": "Softwood"
+        }, 
+        {
+            "def": "Spalting - a change in the texture, strength and color of wood caused by colonies of fungus growing within the dead wood. Where colonies of fungus meet, fine black lines - often considered a desirable feature, can be seen.", 
+            "link": "/wiki/Intraspecific_antagonism", 
+            "name": "Spalting"
+        }, 
+        {
+            "def": "Split - to longitudinally separate wood along grain layers.", 
+            "link": "/wiki/Wood_splitting", 
+            "name": "Split"
+        }, 
+        {
+            "def": "Spokeshave - a tool used to shape and smooth wooden rods and shafts - often for use as wheel spokes and chair legs.", 
+            "link": "/wiki/Spokeshave", 
+            "name": "Spokeshave"
+        }, 
+        {
+            "def": "Square - 1. a tool such as a steel square, try square, combination square; 2. a right angle; 3. an area of 100 sq. ft.", 
+            "link": null, 
+            "name": "Square"
+        }, 
+        {
+            "def": "Stickers - a small block of wood used to separate boards that are in the process of drying.", 
+            "link": null, 
+            "name": "Stickers"
+        }, 
+        {
+            "def": "Sticking - a moulding that is part of a larger piece of wood such as a frame (as opposed to being applied).", 
+            "link": null, 
+            "name": "Sticking"
+        }, 
+        {
+            "def": "Stile (or sometimes style) - vertical member of a frame on a door, window or panel.", 
+            "link": "/wiki/Frame_and_panel", 
+            "name": "Stile"
+        }, 
+        {
+            "def": "Stringer - in stairs, a is a timber (usually 2\"x12\") that supports the treads and rises in a staircase.", 
+            "link": "/w/index.php?title=Stringer_(woodworking)&action=edit&redlink=1", 
+            "name": "Stringer"
+        }, 
+        {
+            "def": "Sweep - 1. the curvature of a gouge, ranging from flat (little curvature, but not actually flat else it would be a chisel) to deep or quick; a warping defect in a piece of wood.", 
+            "link": null, 
+            "name": "Sweep"
+        }, 
+        {
+            "def": "Tear out - broken or torn fibres resulting from damage as the blade of a tool exits the cut.", 
+            "link": null, 
+            "name": "Tear out"
+        }, 
+        {
+            "def": "Tenon - is a projection on the end of a piece of wood for insertion into a mortise.", 
+            "link": "/wiki/Mortise_and_tenon", 
+            "name": "Tenon"
+        }, 
+        {
+            "def": "Tread - in stairs the part that is stepped on.", 
+            "link": null, 
+            "name": "Tread"
+        }, 
+        {
+            "def": "True - something which is accurately placed, shaped, or sized. To true up two pieces of wood is to make them align. The correct size or shape.", 
+            "link": null, 
+            "name": "True"
+        }, 
+        {
+            "def": "Twist - longitudinal twisting of wood due to uneven seasoning or grain. (See Wood warping)", 
+            "link": null, 
+            "name": "Twist"
+        }, 
+        {
+            "def": "Undercutting - cutting away from an edge to increase the sense of relief or thinness.", 
+            "link": null, 
+            "name": "Undercutting"
+        }, 
+        {
+            "def": "Veiner - a small deep gouge.", 
+            "link": null, 
+            "name": "Veiner"
+        }, 
+        {
+            "def": "Veneer (wood) - very thin slices of wood used for inlay or to cover surfaces.", 
+            "link": "/wiki/Veneer_(wood)", 
+            "name": "Veneer (wood)"
+        }, 
+        {
+            "def": "Veneer saw - specialty tool for trimming veneer.", 
+            "link": "/wiki/Veneer_saw", 
+            "name": "Veneer saw"
+        }, 
+        {
+            "def": "Wane - an edge of a sawn board where the bark or surface of the trunk remains.", 
+            "link": null, 
+            "name": "Wane"
+        }, 
+        {
+            "def": "Warp - distorted lumber, such as a twist, cup or a bow. (See Wood warping)", 
+            "link": null, 
+            "name": "Warp"
+        }, 
+        {
+            "def": "Wasting - quickly removing wood during carving, usually with an adze, knife, or rasp.", 
+            "link": null, 
+            "name": "Wasting"
+        }, 
+        {
+            "def": "Waste - wood that will be removed in the finished work, often retained during working as a handle.", 
+            "link": null, 
+            "name": "Waste"
+        }, 
+        {
+            "def": "Wood - an organic material, a natural composite of cellulose fibers (which are strong in tension) embedded in a matrix of lignin which resists compression.", 
+            "link": "/wiki/Wood", 
+            "name": "Wood"
+        }
+    ]
+}

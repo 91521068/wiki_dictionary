@@ -1,0 +1,147 @@
+{
+    "c1": "", 
+    "c2": "Mathematics", 
+    "c3": "game theory", 
+    "words": [
+        {
+            "def": "\n  \n    \n      \n        \n          R\n        \n      \n    \n    {\\displaystyle \\mathbb {R} }\n  \n.", 
+            "link": "/wiki/Real_numbers", 
+            "name": "Real numbers\u00a0"
+        }, 
+        {
+            "def": "\n  \n    \n      \n        \n          N\n        \n      \n    \n    {\\displaystyle \\mathrm {N} }\n  \n.", 
+            "link": null, 
+            "name": "The set of players\u00a0"
+        }, 
+        {
+            "def": "\n  \n    \n      \n        \u03a3\n        \u00a0\n        =\n        \n          \u220f\n          \n            i\n            \u2208\n            \n              N\n            \n          \n        \n        \u03a3\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\Sigma \\ =\\prod _{i\\in \\mathrm {N} }\\Sigma \\ ^{i}}\n  \n, where", 
+            "link": null, 
+            "name": "Strategy space\u00a0"
+        }, 
+        {
+            "def": "\n  \n    \n      \n        \u03a3\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\Sigma \\ ^{i}}\n  \n is the space of all possible ways in which player i can play the game.", 
+            "link": null, 
+            "name": "Player i's strategy space\u00a0"
+        }, 
+        {
+            "def": "\n  \n    \n      \n        \u0393\n        \u00a0\n      \n    \n    {\\displaystyle \\Gamma \\ }\n  \n is in most textbooks identical to -", 
+            "link": null, 
+            "name": "Outcome space\u00a0"
+        }, 
+        {
+            "def": "\n  \n    \n      \n        \n          \n            R\n          \n          \n            \n              N\n            \n          \n        \n      \n    \n    {\\displaystyle \\mathbb {R} ^{\\mathrm {N} }}\n  \n, describing how much gain (money, pleasure, etc.) the players are allocated by the end of the game.", 
+            "link": null, 
+            "name": "Payoffs\u00a0"
+        }, 
+        {
+            "def": "is a game form such that for every possible preference profiles, the game has pure nash equilibria, all of which are pareto efficient.", 
+            "link": null, 
+            "name": "Acceptable game\u00a0"
+        }, 
+        {
+            "def": "is a function \n  \n    \n      \n        \u03bd\n        \u00a0\n        :\n        \u0393\n        \u00a0\n        \u2192\n        \n          \n            R\n          \n          \n            \n              N\n            \n          \n        \n      \n    \n    {\\displaystyle \\nu \\ :\\Gamma \\ \\to \\mathbb {R} ^{\\mathrm {N} }}\n  \n. The allocation is a cardinal approach for determining the good (e.g. money) the players are granted under the different outcomes of the game.", 
+            "link": null, 
+            "name": "Allocation of goods\u00a0"
+        }, 
+        {
+            "def": "the best reply to a given complement \n  \n    \n      \n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n      \n    \n    {\\displaystyle \\sigma \\ _{-i}}\n  \n is a strategy \n  \n    \n      \n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\tau \\ _{i}}\n  \n that maximizes player i's payment. Formally, we want:\n\n  \n    \n      \n        \u2200\n        \u03c3\n        \n          \u00a0\n          \n            i\n          \n        \n        \u2208\n        \u00a0\n        \u03a3\n        \n          \u00a0\n          \n            i\n          \n        \n        \n        \n        \u03c0\n        \u00a0\n        (\n        \u03c3\n        \n          \u00a0\n          \n            i\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n        \u2264\n        \u03c0\n        \u00a0\n        (\n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n      \n    \n    {\\displaystyle \\forall \\sigma \\ _{i}\\in \\ \\Sigma \\ ^{i}\\quad \\quad \\pi \\ (\\sigma \\ _{i},\\sigma \\ _{-i})\\leq \\pi \\ (\\tau \\ _{i},\\sigma \\ _{-i})}\n  \n.", 
+            "link": null, 
+            "name": "Best reply\u00a0"
+        }, 
+        {
+            "def": "is any subset of the set of players: \n  \n    \n      \n        \n          S\n        \n        \u2286\n        \n          N\n        \n      \n    \n    {\\displaystyle \\mathrm {S} \\subseteq \\mathrm {N} }\n  \n.", 
+            "link": null, 
+            "name": "Coalition\u00a0"
+        }, 
+        {
+            "def": "Given a preference \u03bd on the outcome space, an outcome a is a condorcet winner if all non-dummy players prefer a to all other outcomes.", 
+            "link": null, 
+            "name": "Condorcet winner\u00a0"
+        }, 
+        {
+            "def": "A player is a strong dictator if he can guarantee any outcome regardless of the other players. \n  \n    \n      \n        m\n        \u2208\n        \n          N\n        \n      \n    \n    {\\displaystyle m\\in \\mathbb {N} }\n  \n is a weak dictator if he can guarantee any outcome, but his strategies for doing so might depend on the complement strategy vector. Naturally, every strong dictator is a weak dictator. Formally:\nm is a Strong dictator if:\n\n  \n    \n      \n        \u2200\n        a\n        \u2208\n        \n          A\n        \n        ,\n        \n        \u2203\n        \u03c3\n        \n          \u00a0\n          \n            n\n          \n        \n        \u2208\n        \u03a3\n        \n          \u00a0\n          \n            n\n          \n        \n        \n        s\n        .\n        t\n        .\n        \n        \u2200\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            n\n          \n        \n        \u2208\n        \u03a3\n        \n          \u00a0\n          \n            \u2212\n            n\n          \n        \n        :\n        \n        \u0393\n        \u00a0\n        (\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            n\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            n\n          \n        \n        )\n        =\n        a\n      \n    \n    {\\displaystyle \\forall a\\in \\mathrm {A} ,\\;\\exists \\sigma \\ _{n}\\in \\Sigma \\ ^{n}\\;s.t.\\;\\forall \\sigma \\ _{-n}\\in \\Sigma \\ ^{-n}:\\;\\Gamma \\ (\\sigma \\ _{-n},\\sigma \\ _{n})=a}\n  \n\nm is a Weak dictator if:\n\n  \n    \n      \n        \u2200\n        a\n        \u2208\n        \n          A\n        \n        ,\n        \n        \u2200\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            n\n          \n        \n        \u2208\n        \u03a3\n        \n          \u00a0\n          \n            \u2212\n            n\n          \n        \n        \n        \u2203\n        \u03c3\n        \n          \u00a0\n          \n            n\n          \n        \n        \u2208\n        \u03a3\n        \n          \u00a0\n          \n            n\n          \n        \n        \n        s\n        .\n        t\n        .\n        \n        \u0393\n        \u00a0\n        (\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            n\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            n\n          \n        \n        )\n        =\n        a\n      \n    \n    {\\displaystyle \\forall a\\in \\mathrm {A} ,\\;\\forall \\sigma \\ _{-n}\\in \\Sigma \\ ^{-n}\\;\\exists \\sigma \\ _{n}\\in \\Sigma \\ ^{n}\\;s.t.\\;\\Gamma \\ (\\sigma \\ _{-n},\\sigma \\ _{n})=a}\n  \n", 
+            "link": null, 
+            "name": "Dictator"
+        }, 
+        {
+            "def": "Given a preference \u03bd on the outcome space, we say that an outcome a is dominated by outcome b (hence, b is the dominant strategy) if it is preferred by all players. If, in addition, some player strictly prefers b over a, then we say that a is strictly dominated. Formally:\n\n  \n    \n      \n        \u2200\n        j\n        \u2208\n        \n          N\n        \n        \n        \n        \u03bd\n        \n          \u00a0\n          \n            j\n          \n        \n        (\n        a\n        )\n        \u2264\n        \u00a0\n        \u03bd\n        \n          \u00a0\n          \n            j\n          \n        \n        (\n        b\n        )\n      \n    \n    {\\displaystyle \\forall j\\in \\mathrm {N} \\;\\quad \\nu \\ _{j}(a)\\leq \\ \\nu \\ _{j}(b)}\n  \n for domination, and\n\n  \n    \n      \n        \u2203\n        i\n        \u2208\n        \n          N\n        \n        \n        s\n        .\n        t\n        .\n        \n        \u03bd\n        \n          \u00a0\n          \n            i\n          \n        \n        (\n        a\n        )\n        <\n        \u03bd\n        \n          \u00a0\n          \n            i\n          \n        \n        (\n        b\n        )\n      \n    \n    {\\displaystyle \\exists i\\in \\mathrm {N} \\;s.t.\\;\\nu \\ _{i}(a)<\\nu \\ _{i}(b)}\n  \n for strict domination.\nAn outcome a is (strictly) dominated if it is (strictly) dominated by some other outcome.\nAn outcome a is dominated for a coalition S if all players in S prefer some other outcome to a. See also Condorcet winner.", 
+            "link": null, 
+            "name": "Dominated outcome\u00a0"
+        }, 
+        {
+            "def": "we say that strategy is (strongly) dominated by strategy \n  \n    \n      \n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\tau \\ _{i}}\n  \n if for any complement strategies tuple \n  \n    \n      \n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n      \n    \n    {\\displaystyle \\sigma \\ _{-i}}\n  \n, player i benefits by playing \n  \n    \n      \n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\tau \\ _{i}}\n  \n. Formally speaking:\n\n  \n    \n      \n        \u2200\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        \u2208\n        \u00a0\n        \u03a3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        \n        \n        \u03c0\n        \u00a0\n        (\n        \u03c3\n        \n          \u00a0\n          \n            i\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n        \u2264\n        \u03c0\n        \u00a0\n        (\n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n      \n    \n    {\\displaystyle \\forall \\sigma \\ _{-i}\\in \\ \\Sigma \\ ^{-i}\\quad \\quad \\pi \\ (\\sigma \\ _{i},\\sigma \\ _{-i})\\leq \\pi \\ (\\tau \\ _{i},\\sigma \\ _{-i})}\n  \n and\n\n  \n    \n      \n        \u2203\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        \u2208\n        \u00a0\n        \u03a3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        \n        s\n        .\n        t\n        .\n        \n        \u03c0\n        \u00a0\n        (\n        \u03c3\n        \n          \u00a0\n          \n            i\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n        <\n        \u03c0\n        \u00a0\n        (\n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n      \n    \n    {\\displaystyle \\exists \\sigma \\ _{-i}\\in \\ \\Sigma \\ ^{-i}\\quad s.t.\\quad \\pi \\ (\\sigma \\ _{i},\\sigma \\ _{-i})<\\pi \\ (\\tau \\ _{i},\\sigma \\ _{-i})}\n  \n.\nA strategy \u03c3 is (strictly) dominated if it is (strictly) dominated by some other strategy.", 
+            "link": null, 
+            "name": "Dominated strategy\u00a0"
+        }, 
+        {
+            "def": "A player i is a dummy if he has no effect on the outcome of the game. I.e. if the outcome of the game is insensitive to player i's strategy.", 
+            "link": null, 
+            "name": "Dummy\u00a0"
+        }, 
+        {
+            "def": "A coalition (or a single player) S is effective for a if it can force a to be the outcome of the game. S is \u03b1-effective if the members of S have strategies s.t. no matter what the complement of S does, the outcome will be a.", 
+            "link": null, 
+            "name": "Effectiveness\u00a0"
+        }, 
+        {
+            "def": "is a game with finitely many players, each of which has a finite set of strategies.", 
+            "link": null, 
+            "name": "Finite game\u00a0"
+        }, 
+        {
+            "def": "refers to the coalition containing all players. In cooperative games it is often assumed that the grand coalition forms and the purpose of the game is to find stable imputations.", 
+            "link": null, 
+            "name": "Grand coalition\u00a0"
+        }, 
+        {
+            "def": "for player i is a probability distribution P on \n  \n    \n      \n        \u03a3\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\Sigma \\ ^{i}}\n  \n. It is understood that player i chooses a strategy randomly according to P.", 
+            "link": null, 
+            "name": "Mixed strategy\u00a0"
+        }, 
+        {
+            "def": "Same as Pure Nash Equilibrium, defined on the space of mixed strategies. Every finite game has Mixed Nash Equilibria.", 
+            "link": null, 
+            "name": "Mixed Nash Equilibrium\u00a0"
+        }, 
+        {
+            "def": "An outcome a of game form \u03c0 is (strongly) pareto efficient if it is undominated under all preference profiles.", 
+            "link": null, 
+            "name": "Pareto efficiency\u00a0"
+        }, 
+        {
+            "def": "is a function \n  \n    \n      \n        \u03bd\n        \u00a0\n        :\n        \u0393\n        \u00a0\n        \u2192\n        \n          \n            R\n          \n          \n            \n              N\n            \n          \n        \n      \n    \n    {\\displaystyle \\nu \\ :\\Gamma \\ \\to \\mathbb {R} ^{\\mathrm {N} }}\n  \n. This is the ordinal approach at describing the outcome of the game. The preference describes how 'pleased' the players are with the possible outcomes of the game. See allocation of goods.", 
+            "link": null, 
+            "name": "Preference profile\u00a0"
+        }, 
+        {
+            "def": "An element \n  \n    \n      \n        \u03c3\n        \u00a0\n        =\n        (\n        \u03c3\n        \n          \u00a0\n          \n            i\n          \n        \n        \n          )\n          \n            i\n            \u2208\n            \n              N\n            \n          \n        \n      \n    \n    {\\displaystyle \\sigma \\ =(\\sigma \\ _{i})_{i\\in \\mathrm {N} }}\n  \n of the strategy space of a game is a pure nash equilibrium point if no player i can benefit by deviating from his strategy \n  \n    \n      \n        \u03c3\n        \n          \u00a0\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle \\sigma \\ _{i}}\n  \n, given that the other players are playing in \n  \n    \n      \n        \u03c3\n        \u00a0\n      \n    \n    {\\displaystyle \\sigma \\ }\n  \n. Formally:\n\n  \n    \n      \n        \u2200\n        i\n        \u2208\n        \n          N\n        \n        \n        \u2200\n        \u03c4\n        \n          \u00a0\n          \n            i\n          \n        \n        \u2208\n        \u00a0\n        \u03a3\n        \n          \u00a0\n          \n            i\n          \n        \n        \n        \u03c0\n        \u00a0\n        (\n        \u03c4\n        \u00a0\n        ,\n        \u03c3\n        \n          \u00a0\n          \n            \u2212\n            i\n          \n        \n        )\n        \u2264\n        \u03c0\n        \u00a0\n        (\n        \u03c3\n        \u00a0\n        )\n      \n    \n    {\\displaystyle \\forall i\\in \\mathrm {N} \\quad \\forall \\tau \\ _{i}\\in \\ \\Sigma \\ ^{i}\\quad \\pi \\ (\\tau \\ ,\\sigma \\ _{-i})\\leq \\pi \\ (\\sigma \\ )}\n  \n.\nNo equilibrium point is dominated.", 
+            "link": null, 
+            "name": "Pure Nash Equilibrium\u00a0"
+        }, 
+        {
+            "def": "A player i has a Say if he is not a Dummy, i.e. if there is some tuple of complement strategies s.t. \u03c0 (\u03c3_i) is not a constant function.", 
+            "link": null, 
+            "name": "Say\u00a0"
+        }, 
+        {
+            "def": "A value of a game is a rationally expected outcome. There are more than a few definitions of value, describing different methods of obtaining a solution to the game.", 
+            "link": null, 
+            "name": "Value\u00a0"
+        }, 
+        {
+            "def": "A veto denotes the ability (or right) of some player to prevent a specific alternative from being the outcome of the game. A player who has that ability is called a veto player.", 
+            "link": null, 
+            "name": "Veto\u00a0"
+        }, 
+        {
+            "def": "is a game that has pure nash equilibria some of which are pareto efficient.", 
+            "link": null, 
+            "name": "Weakly acceptable game\u00a0"
+        }, 
+        {
+            "def": "is a game in which the allocation is constant over different outcomes. Formally:\n\n  \n    \n      \n        \u2200\n        \u03b3\n        \u00a0\n        \u2208\n        \u0393\n        \u00a0\n        \n          \u2211\n          \n            i\n            \u2208\n            \n              N\n            \n          \n        \n        \u03bd\n        \n          \u00a0\n          \n            i\n          \n        \n        (\n        \u03b3\n        \u00a0\n        )\n        =\n        c\n        o\n        n\n        s\n        t\n        .\n      \n    \n    {\\displaystyle \\forall \\gamma \\ \\in \\Gamma \\ \\sum _{i\\in \\mathrm {N} }\\nu \\ _{i}(\\gamma \\ )=const.}\n  \n\nw.l.g. we can assume that constant to be zero. In a zero sum game, one player's gain is another player's loss. Most classical board games (e.g. chess, checkers) are zero sum.", 
+            "link": "/wiki/Zero_sum", 
+            "name": "Zero sum game\u00a0"
+        }
+    ]
+}

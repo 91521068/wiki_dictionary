@@ -1,0 +1,242 @@
+{
+    "c1": "", 
+    "c2": "Physics", 
+    "c3": "elementary quantum mechanics", 
+    "words": [
+        {
+            "def": "A basis of the Hilbert space of wavefunctions with respect to a system.", 
+            "link": null, 
+            "name": "a complete set of wavefunctions"
+        }, 
+        {
+            "def": "The Hermitian conjugate of a ket is called a bra. \n  \n    \n      \n        \u27e8\n        \u03b1\n        \n          |\n        \n        =\n        (\n        \n          |\n        \n        \u03b1\n        \u27e9\n        \n          )\n          \n            \u2020\n          \n        \n      \n    \n    {\\displaystyle \\langle \\alpha |=(|\\alpha \\rangle )^{\\dagger }}\n  \n. See \"bra\u2013ket notation\".", 
+            "link": null, 
+            "name": "bra"
+        }, 
+        {
+            "def": "The bra\u2013ket notation is a way to represent the states and operators of a system by angle brackets and vertical bars, for example, \n  \n    \n      \n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle |\\alpha \\rangle }\n  \n and \n  \n    \n      \n        \n          |\n        \n        \u03b1\n        \u27e9\n        \u27e8\n        \u03b2\n        \n          |\n        \n      \n    \n    {\\displaystyle |\\alpha \\rangle \\langle \\beta |}\n  \n.", 
+            "link": "/wiki/Bra%E2%80%93ket_notation", 
+            "name": "Bra\u2013ket notation"
+        }, 
+        {
+            "def": "Physically, the density matrix is a way to represent pure states and mixed states. The density matrix of pure state whose ket is \n  \n    \n      \n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle |\\alpha \\rangle }\n  \n is \n  \n    \n      \n        \n          |\n        \n        \u03b1\n        \u27e9\n        \u27e8\n        \u03b1\n        \n          |\n        \n      \n    \n    {\\displaystyle |\\alpha \\rangle \\langle \\alpha |}\n  \n.", 
+            "link": "/wiki/Density_matrix", 
+            "name": "Density matrix"
+        }, 
+        {
+            "def": "Synonymous to \"density matrix\".", 
+            "link": null, 
+            "name": "Density operator"
+        }, 
+        {
+            "def": "Synonymous to \"bra\u2013ket notation\".", 
+            "link": null, 
+            "name": "Dirac notation"
+        }, 
+        {
+            "def": "Given a system, the possible pure state can be represented as a vector in a Hilbert space. Each ray (vectors differ by phase and magnitude only) in the corresponding Hilbert space represent a state.[nb 1]", 
+            "link": "/wiki/Hilbert_space", 
+            "name": "Hilbert space"
+        }, 
+        {
+            "def": "A wavefunction expressed in the form \n  \n    \n      \n        \n          |\n        \n        a\n        \u27e9\n      \n    \n    {\\displaystyle |a\\rangle }\n  \n is called a ket. See \"bra\u2013ket notation\".", 
+            "link": null, 
+            "name": "Ket"
+        }, 
+        {
+            "def": "A mixed state is a statistical ensemble of pure state.", 
+            "link": "/wiki/Mixed_state_(physics)", 
+            "name": "Mixed state"
+        }, 
+        {
+            "def": "A wavefunction \n  \n    \n      \n        \n          |\n        \n        \n          \u03b1\n          \u2032\n        \n        \u27e9\n      \n    \n    {\\displaystyle |\\alpha '\\rangle }\n  \n is said to be normalizable if \n  \n    \n      \n        \u27e8\n        \n          \u03b1\n          \u2032\n        \n        \n          |\n        \n        \n          \u03b1\n          \u2032\n        \n        \u27e9\n        <\n        \u221e\n      \n    \n    {\\displaystyle \\langle \\alpha '|\\alpha '\\rangle <\\infty }\n  \n. A normalizable wavefunction can be made to be normalized by \n  \n    \n      \n        \n          |\n        \n        \n          a\n          \u2032\n        \n        \u27e9\n        \u2192\n        \u03b1\n        =\n        \n          \n            \n              \n                |\n              \n              \n                \u03b1\n                \u2032\n              \n              \u27e9\n            \n            \n              \u27e8\n              \n                \u03b1\n                \u2032\n              \n              \n                |\n              \n              \n                \u03b1\n                \u2032\n              \n              \u27e9\n            \n          \n        \n      \n    \n    {\\displaystyle |a'\\rangle \\to \\alpha ={\\frac {|\\alpha '\\rangle }{\\sqrt {\\langle \\alpha '|\\alpha '\\rangle }}}}\n  \n.", 
+            "link": null, 
+            "name": "Normalizable wavefunction"
+        }, 
+        {
+            "def": "A wavefunction \n  \n    \n      \n        \n          |\n        \n        a\n        \u27e9\n      \n    \n    {\\displaystyle |a\\rangle }\n  \n is said to be normalized if \n  \n    \n      \n        \u27e8\n        a\n        \n          |\n        \n        a\n        \u27e9\n        =\n        1\n      \n    \n    {\\displaystyle \\langle a|a\\rangle =1}\n  \n.", 
+            "link": null, 
+            "name": "Normalized wavefunction"
+        }, 
+        {
+            "def": "A state which can be represented as a wavefunction / ket in Hilbert space / solution of Schr\u00f6dinger equation is called pure state. See \"mixed state\".", 
+            "link": "/wiki/Pure_state", 
+            "name": "Pure state"
+        }, 
+        {
+            "def": "a way of representing a state by several numbers, which corresponds to a complete set of commuting observables.", 
+            "link": "/wiki/Quantum_numbers", 
+            "name": "Quantum numbers"
+        }, 
+        {
+            "def": "A state is a complete description of the observable properties of a physical system.", 
+            "link": "/wiki/Quantum_state", 
+            "name": "State"
+        }, 
+        {
+            "def": "synonymous to \"wavefunction\".", 
+            "link": null, 
+            "name": "State vector"
+        }, 
+        {
+            "def": "A large number of copies of a system.", 
+            "link": "/wiki/Statistical_ensemble_(mathematical_physics)", 
+            "name": "Statistical ensemble"
+        }, 
+        {
+            "def": "A sufficiently isolated part in the universe for investigation.", 
+            "link": "/wiki/Physical_system", 
+            "name": "System"
+        }, 
+        {
+            "def": "When we are considering the total system as a composite system of two subsystems A and B, the wavefunctions of the composite system are in a Hilbert space \n  \n    \n      \n        \n          H\n          \n            A\n          \n        \n        \u2297\n        \n          H\n          \n            B\n          \n        \n      \n    \n    {\\displaystyle H_{A}\\otimes H_{B}}\n  \n, if the Hilbert space of the wavefunctions for A and B are \n  \n    \n      \n        \n          H\n          \n            A\n          \n        \n      \n    \n    {\\displaystyle H_{A}}\n  \n and \n  \n    \n      \n        \n          H\n          \n            B\n          \n        \n      \n    \n    {\\displaystyle H_{B}}\n  \n respectively.", 
+            "link": "/wiki/Tensor_product", 
+            "name": "Tensor product of Hilbert space"
+        }, 
+        {
+            "def": "For single-particle system, the total wavefunction \n  \n    \n      \n        \u03a8\n      \n    \n    {\\displaystyle \\Psi }\n  \n of a particle can be expressed as a product of spatial wavefunction and the spinor. The total wavefunctions are in the tensor product space of the Hilbert space of the spatial part (which is spanned by the position eigenstates) and the Hilbert space for the spin.", 
+            "link": null, 
+            "name": "Total wavefunction of a particle"
+        }, 
+        {
+            "def": "The word \"wavefunction\" could mean one of following:\n\nA vector in Hilbert space which can represent a state; synonymous to \"ket\" or \"state vector\".\nThe state vector in a specific basis. It can be seen as a covariant vector in this case.\nThe state vector in position representation, e.g. \n  \n    \n      \n        \n          \u03c8\n          \n            \u03b1\n          \n        \n        (\n        \n          x\n          \n            0\n          \n        \n        )\n        =\n        \u27e8\n        \n          x\n          \n            0\n          \n        \n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle \\psi _{\\alpha }(x_{0})=\\langle x_{0}|\\alpha \\rangle }\n  \n, where \n  \n    \n      \n        \n          |\n        \n        \n          x\n          \n            0\n          \n        \n        \u27e9\n      \n    \n    {\\displaystyle |x_{0}\\rangle }\n  \n is the position eigenstate.\n\n", 
+            "link": null, 
+            "name": "Wavefunction"
+        }, 
+        {
+            "def": "See \"degenerate energy level\".", 
+            "link": null, 
+            "name": "Degeneracy"
+        }, 
+        {
+            "def": "If the energy of different state (wavefunctions which are not scalar multiple of each other) is the same, the energy level is called degenerate.", 
+            "link": null, 
+            "name": "Degenerate energy level"
+        }, 
+        {
+            "def": "The energy spectrum refers to the possible energy of a system.", 
+            "link": null, 
+            "name": "Energy spectrum"
+        }, 
+        {
+            "def": "The operator represents the total energy of the system.", 
+            "link": "/wiki/Hamiltonian_(quantum_mechanics)", 
+            "name": "Hamiltonian \n  \n    \n      \n        \n          \n            \n              H\n              ^\n            \n          \n        \n      \n    \n    {\\displaystyle {\\hat {H}}}\n  \n"
+        }, 
+        {
+            "def": "\n\n\n  \n    \n      \n        i\n        \u210f\n        \n          \n            \u2202\n            \n              \u2202\n              t\n            \n          \n        \n        \n          |\n        \n        \u03b1\n        \u27e9\n        =\n        \n          \n            \n              H\n              ^\n            \n          \n        \n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle i\\hbar {\\frac {\\partial }{\\partial t}}|\\alpha \\rangle ={\\hat {H}}|\\alpha \\rangle }\n  \n -- (1)\n\n", 
+            "link": "/wiki/Schr%C3%B6dinger_equation", 
+            "name": "Schr\u00f6dinger equation"
+        }, 
+        {
+            "def": "A modification of the Time-Dependent Schr\u00f6dinger equation as an eigenvalue problem. The solutions are energy eigenstate of the system.\n\n\n  \n    \n      \n        E\n        \u03b1\n        \u27e9\n        =\n        \n          \n            \n              H\n              ^\n            \n          \n        \n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle E\\alpha \\rangle ={\\hat {H}}|\\alpha \\rangle }\n  \n -- (2)\n\n", 
+            "link": null, 
+            "name": "Time-Independent Schr\u00f6dinger Equation (TISE)"
+        }, 
+        {
+            "def": "A state is called bound state if its position probability density at infinite tends to zero for all the time. Roughly speaking, we can expect to find the particle(s) in a finite size region with certain probability. More precisely, \n  \n    \n      \n        \n          |\n        \n        \u03c8\n        (\n        \n          r\n        \n        ,\n        t\n        )\n        \n          \n            |\n          \n          \n            2\n          \n        \n        \u2192\n        0\n      \n    \n    {\\displaystyle |\\psi (\\mathbf {r} ,t)|^{2}\\to 0}\n  \n when \n  \n    \n      \n        \n          |\n        \n        \n          r\n        \n        \n          |\n        \n        \u2192\n        +\n        \u221e\n      \n    \n    {\\displaystyle |\\mathbf {r} |\\to +\\infty }\n  \n, for all \n  \n    \n      \n        t\n        >\n        0\n      \n    \n    {\\displaystyle t>0}\n  \n.", 
+            "link": null, 
+            "name": "Bound state"
+        }, 
+        {
+            "def": "Position representation of a wavefunction: \n  \n    \n      \n        \n          \u03a8\n          \n            \u03b1\n          \n        \n        (\n        x\n        ,\n        t\n        )\n        :=\n        \u27e8\n        x\n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle \\Psi _{\\alpha }(x,t):=\\langle x|\\alpha \\rangle }\n  \n,", 
+            "link": null, 
+            "name": "Position representation and momentum representation"
+        }, 
+        {
+            "def": "Synonymous to \"probability density\".", 
+            "link": null, 
+            "name": "Probability amplitude"
+        }, 
+        {
+            "def": "Having the metaphor of probability density as mass density, then probability current \n  \n    \n      \n        J\n      \n    \n    {\\displaystyle J}\n  \n is the current:\n\n\n  \n    \n      \n        J\n        (\n        x\n        ,\n        t\n        )\n        =\n        \n          \n            \n              i\n              \u210f\n            \n            \n              2\n              m\n            \n          \n        \n        (\n        \u03c8\n        \n          \n            \n              \u2202\n              \n                \u03c8\n                \n                  \u2217\n                \n              \n            \n            \n              \u2202\n              x\n            \n          \n        \n        \u2212\n        \n          \n            \n              \u2202\n              \u03c8\n            \n            \n              \u2202\n              x\n            \n          \n        \n        \u03c8\n        )\n      \n    \n    {\\displaystyle J(x,t)={\\frac {i\\hbar }{2m}}(\\psi {\\frac {\\partial \\psi ^{*}}{\\partial x}}-{\\frac {\\partial \\psi }{\\partial x}}\\psi )}\n  \n\n\n", 
+            "link": "/wiki/Probability_current", 
+            "name": "Probability current"
+        }, 
+        {
+            "def": "Given the wavefunction of a particle, \n  \n    \n      \n        \n          |\n        \n        \u03c8\n        (\n        x\n        ,\n        t\n        )\n        \n          \n            |\n          \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle |\\psi (x,t)|^{2}}\n  \n is the probability density at position \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n and time \n  \n    \n      \n        t\n      \n    \n    {\\displaystyle t}\n  \n. \n  \n    \n      \n        \n          |\n        \n        \u03c8\n        (\n        \n          x\n          \n            0\n          \n        \n        ,\n        t\n        )\n        \n          \n            |\n          \n          \n            2\n          \n        \n        \n        d\n        x\n      \n    \n    {\\displaystyle |\\psi (x_{0},t)|^{2}\\,dx}\n  \n means the probability of finding the particle near \n  \n    \n      \n        \n          x\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle x_{0}}\n  \n.", 
+            "link": "/wiki/Probability_amplitude", 
+            "name": "Probability density"
+        }, 
+        {
+            "def": "The wavefunction of scattering state can be understood as a propagating wave. See also \"bound state\".", 
+            "link": null, 
+            "name": "Scattering state"
+        }, 
+        {
+            "def": "Square-integrable is a necessary condition for a function being the position/momentum representation of a wavefunction of a bound state of the system.", 
+            "link": null, 
+            "name": "Square-integrable"
+        }, 
+        {
+            "def": "A stationary state of a bound system is an eigenstate of Hamiltonian operator. Classically, it corresponds to standing wave. It is equivalent to the following things:[nb 2]\n\nan eigenstate of the Hamiltonian operator\nan eigenfunction of Time-Independent Schr\u00f6dinger Equation\na state of definite energy\na state which \"every expectation value is constant in time\"\na state whose probability density (\n  \n    \n      \n        \n          |\n        \n        \u03c8\n        (\n        x\n        ,\n        t\n        )\n        \n          \n            |\n          \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle |\\psi (x,t)|^{2}}\n  \n) does not change with respect to time, i.e. \n  \n    \n      \n        \n          \n            d\n            \n              d\n              t\n            \n          \n        \n        \n          |\n        \n        \u03a8\n        (\n        x\n        ,\n        t\n        )\n        \n          \n            |\n          \n          \n            2\n          \n        \n        =\n        0\n      \n    \n    {\\displaystyle {\\frac {d}{dt}}|\\Psi (x,t)|^{2}=0}\n  \n\n\n", 
+            "link": null, 
+            "name": "Stationary state"
+        }, 
+        {
+            "def": "The probability of the state \n  \n    \n      \n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle |\\alpha \\rangle }\n  \n collapse to an eigenstate \n  \n    \n      \n        \n          |\n        \n        k\n        \u27e9\n      \n    \n    {\\displaystyle |k\\rangle }\n  \n of an observable is given by \n  \n    \n      \n        \n          |\n        \n        \u27e8\n        k\n        \n          |\n        \n        \u03b1\n        \u27e9\n        \n          \n            |\n          \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle |\\langle k|\\alpha \\rangle |^{2}}\n  \n.", 
+            "link": "/wiki/Born%27s_rule", 
+            "name": "Born's rule"
+        }, 
+        {
+            "def": "\"Collapse\" means the sudden process which the state of the system will \"suddenly\" change to an eigenstate of the observable during measurement.", 
+            "link": "/wiki/Collapse_postulate", 
+            "name": "Collapse"
+        }, 
+        {
+            "def": "An eigenstate of an operator \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is a vector satisfied the eigenvalue equation: \n  \n    \n      \n        A\n        \n          |\n        \n        \u03b1\n        \u27e9\n        =\n        c\n        \n          |\n        \n        \u03b1\n        \u27e9\n      \n    \n    {\\displaystyle A|\\alpha \\rangle =c|\\alpha \\rangle }\n  \n, where \n  \n    \n      \n        c\n      \n    \n    {\\displaystyle c}\n  \n is a scalar.", 
+            "link": "/wiki/Eigenstates", 
+            "name": "Eigenstates"
+        }, 
+        {
+            "def": "The expectation value \n  \n    \n      \n        <\n        M\n        >\n      \n    \n    {\\displaystyle <M>}\n  \n of the observable M with respect to a state \n  \n    \n      \n        \n          |\n        \n        \u03b1\n      \n    \n    {\\displaystyle |\\alpha }\n  \n is the average outcome of measuring \n  \n    \n      \n        M\n      \n    \n    {\\displaystyle M}\n  \n with respect to an ensemble of state \n  \n    \n      \n        \n          |\n        \n        \u03b1\n      \n    \n    {\\displaystyle |\\alpha }\n  \n .", 
+            "link": "/wiki/Expectation_value", 
+            "name": "Expectation value"
+        }, 
+        {
+            "def": "An operator satisfying \n  \n    \n      \n        A\n        =\n        \n          A\n          \n            \u2020\n          \n        \n      \n    \n    {\\displaystyle A=A^{\\dagger }}\n  \n.", 
+            "link": "/wiki/Hermitian_operator", 
+            "name": "Hermitian operator"
+        }, 
+        {
+            "def": "Mathematically, it is represented by a Hermitian operator.", 
+            "link": "/wiki/Observable", 
+            "name": "Observable"
+        }, 
+        {
+            "def": "The phenomenon that a frequent measurement leads to \"freezing\" of the state.", 
+            "link": "/wiki/Quantum_Zeno_effect", 
+            "name": "Quantum Zeno effect"
+        }, 
+        {
+            "def": "If the intrinsic properties (properties that can be measured but are independent of the quantum state, e.g. charge, total spin, mass) of two particles are the same, they are said to be (intrinsically) identical.", 
+            "link": null, 
+            "name": "Intrinsically identical particles"
+        }, 
+        {
+            "def": "If a system shows measurable differences when one of its particles is replaced by another particle, these two particles are called distinguishable.", 
+            "link": "/wiki/Indistinguishable_particles", 
+            "name": "Indistinguishable particles"
+        }, 
+        {
+            "def": "Bosons are particles with integer spin (s = 0, 1, 2, ... ). They can either be elementary (like photons) or composite (such as mesons, nuclei or even atoms). There are five known elementary bosons: the four force carrying gauge bosons \u03b3 (photon), g (gluon), Z (Z boson) and W (W boson), as well as the Higgs boson.", 
+            "link": "/wiki/Boson", 
+            "name": "Bosons"
+        }, 
+        {
+            "def": "Fermions are particles with half-integer spin (s = 1/2, 3/2, 5/2, ... ). Like bosons, they can be elementary or composite particles. There are two types of elementary fermions: quarks and leptons, which are the main constituents of ordinary matter.", 
+            "link": "/wiki/Fermion", 
+            "name": "Fermions"
+        }, 
+        {
+            "def": "A theorem connecting the classical mechanics and result dervied from Schr\u00f6dinger equation.", 
+            "link": "/wiki/Ehrenfest_theorem", 
+            "name": "Ehrenfest theorem"
+        }, 
+        {
+            "def": "\n  \n    \n      \n        x\n        \u2192\n        \n          \n            \n              x\n              ^\n            \n          \n        \n        ,\n        \n        p\n        \u2192\n        i\n        \u210f\n        \n          \n            \u2202\n            \n              \u2202\n              x\n            \n          \n        \n      \n    \n    {\\displaystyle x\\to {\\hat {x}},\\,p\\to i\\hbar {\\frac {\\partial }{\\partial x}}}\n  \n", 
+            "link": "/wiki/First_quantization", 
+            "name": "first quantization"
+        }
+    ]
+}
