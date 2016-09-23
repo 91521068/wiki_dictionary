@@ -33,4 +33,5 @@ for i in c1s:
 	print "'" + i + "',"
 
 print "\n"
+print len(links)
 file.close()
