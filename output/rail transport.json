@@ -179,12 +179,12 @@
             "name": "Boiler"
         }, 
         {
-            "def": "A transverse floating beam member of truck suspension system supporting the weight of vehicle body[29]", 
+            "def": "A transverse floating beam member of a truck suspension system supporting the weight of a vehicle body[29]", 
             "link": "/wiki/List_of_railroad_truck_parts#Truck_bolster", 
             "name": "Bolster"
         }, 
         {
-            "def": "A barrier at a level crossings", 
+            "def": "A pivoted road barrier at a level crossing", 
             "link": "/wiki/Boom_barrier", 
             "name": "Boom barrier"
         }, 
@@ -224,17 +224,17 @@
             "name": "Broad gauge"
         }, 
         {
-            "def": "A British Rail Class 121 railcar[32]", 
+            "def": "A nickname for a British Rail Class 121 railcar[32]", 
             "link": null, 
             "name": "Bubble car"
         }, 
         {
-            "def": "A side operated version of the top or bottom operated Janney coupler[33]", 
+            "def": "A side-operated version of the top- or bottom-operated Janney coupler[33]", 
             "link": null, 
             "name": "Buckeye coupler"
         }, 
         {
-            "def": "A device that cushions the impact of rail vehicles against each other", 
+            "def": "A device that cushions the ends of rail vehicles against each other", 
             "link": "/wiki/Buffer_(rail_transport)", 
             "name": "Buffer"
         }, 
@@ -244,7 +244,7 @@
             "name": "Buffer stop or bumper post"
         }, 
         {
-            "def": "The nameplate on locomotives and rolling stock", 
+            "def": "The nameplate fitted by their manufacturer to locomotives and items of rolling stock", 
             "link": "/wiki/Builder%27s_plate", 
             "name": "Builder's plate"
         }, 
@@ -254,12 +254,12 @@
             "name": "Bulkhead flatcar"
         }, 
         {
-            "def": "The housing for signals and communications computers that control switches, crossings, and other such controls, relaying information to and from the RTC (rail traffic control)[34]", 
+            "def": "The housing for signals and communications computers that control switches, crossings, and other such controls, relaying information to and from the RTC (rail traffic control).[34]", 
             "link": null, 
             "name": "Bungalow"
         }, 
         {
-            "def": "The practice of replacing train service, whether light rail, tram/streetcar systems, or full-size railway systems, with a bus service, either on a temporary or permanent basis. Somewhat derogatory and mainly used in the UK, Canada, USA, and Australia. The word is a portmanteau of the words \"bus\" and \"substitution\".", 
+            "def": "A portmanteau of the words \"bus\" and \"substitution\", the practice of replacing a train service with one provided by buses, whether as a temporary or a permanent measure", 
             "link": "/wiki/Bustitution", 
             "name": "Bustitution"
         }, 
@@ -610,7 +610,7 @@
         }, 
         {
             "def": "A turnout that can select which way to diverge a train\u2014the opposite of trailing", 
-            "link": "/wiki/Facing_and_Trailing", 
+            "link": "/wiki/Facing_and_trailing", 
             "name": "Facing"
         }, 
         {
@@ -634,12 +634,12 @@
             "name": "Feed valve or regulating valve"
         }, 
         {
-            "def": "A concealed group of sidings used in model railways to provide more realistic operation in limited space", 
+            "def": "In railway modelling, a concealed group of sidings used to provide more realistic operation in a limited space", 
             "link": "/wiki/Fiddle_yard", 
             "name": "Fiddle yard"
         }, 
         {
-            "def": "In steam railroading, a chamber in which a fire would produce sufficient heat to create steam once the hot gases from the firebox were carried into the adjacent boiler via tubes or flues[79]", 
+            "def": "In steam locomotives, a chamber in which a fire is made to produce sufficient heat to create steam once the hot gases created there are carried into the adjacent boiler via tubes or flues[79]", 
             "link": "/wiki/Firebox_(steam_engine)", 
             "name": "Firebox"
         }, 
@@ -654,7 +654,7 @@
             "name": "Flat"
         }, 
         {
-            "def": "A railway junction that has a track configuration in which merging or crossing railroad lines provide track connections with each other without requiring trains to cross over in front of opposing traffic[80]", 
+            "def": "A railway junction that has a track configuration in which merging or crossing railroad lines provide track connections with each other without requiring trains to cross in front of opposing traffic on the same level[80]", 
             "link": "/wiki/Flying_junction", 
             "name": "Flying junction or flyover"
         }, 
@@ -664,7 +664,7 @@
             "name": "Fouling point"
         }, 
         {
-            "def": "The area between the running rails of a standard gauge track. The actual distance between the rails is 4\u00a0ft\u00a08\u00a01\u20442\u00a0in (1,435\u00a0mm). See also six-foot and ten-foot.[82]", 
+            "def": "Colloquially, the area between the running rails of a standard-gauge track. The actual distance between the rails is 4\u00a0ft\u00a08\u00a01\u20442\u00a0in (1,435\u00a0mm). See also six-foot and ten-foot.[82]", 
             "link": null, 
             "name": "Four-foot"
         }, 
@@ -679,7 +679,7 @@
             "name": "Free-mo"
         }, 
         {
-            "def": "A car designed to transport freight", 
+            "def": "A rail vehicle designed for the carriage of freight", 
             "link": "/wiki/Freight_car", 
             "name": "Freight wagon (UIC)"
         }, 
@@ -689,7 +689,7 @@
             "name": "Full service reduction"
         }, 
         {
-            "def": "A pyrotechnic device similar to an automotive flare that is used for signalling[80]", 
+            "def": "A pyrotechnic device similar to an automotive flare that is used in signalling[80]", 
             "link": "/wiki/Flare", 
             "name": "Fusee"
         }, 
@@ -944,47 +944,47 @@
             "name": "Link and pin"
         }, 
         {
-            "def": "A train that stops at most, if not all, stations along its route.[130] Often referred to in North America as a \"milk train\" or \"milk run\" (usage from the days when trains stopped at every station and stop along their route to pick up fresh milk brought to the stations daily from local dairy farms).[131][132][133]", 
+            "def": "A train that stops at most, if not all, stations along its route[130]", 
             "link": null, 
             "name": "Local train"
         }, 
         {
-            "def": "An off-white color of railway signal light, like the Moon, achieved by the use of a clear lens of very light blue, to make it distinct from a light that has a broken lens.[134][135] In UK practice, it is the color used for the type of junction indicator known as a feather, so-called for its resemblance to a popular inn sign.[citation needed]", 
+            "def": "An off-white color of railway signal light, like the Moon, achieved by the use of a clear lens of very light blue, to make it distinct from a light that has a broken lens.[131][132]", 
             "link": null, 
             "name": "Lunar"
         }, 
         {
-            "def": "The electric generator in a diesel-electric locomotive that is coupled directly to the prime mover and feeds electrical energy to the traction motors[136]", 
+            "def": "The electric generator in a diesel-electric locomotive that is coupled directly to the prime mover and feeds electrical energy to the traction motors[133]", 
             "link": null, 
             "name": "Main generator"
         }, 
         {
-            "def": "The compressed-air tank of a locomotive containing source air for the brakes and other pneumatic appliances[137]", 
+            "def": "The compressed-air tank of a locomotive containing source air for the brakes and other pneumatic appliances[134]", 
             "link": null, 
             "name": "Main reservoir"
         }, 
         {
-            "def": "A type of articulated locomotive designed by Anatole Mallet.[138][139] See Compound engine.", 
+            "def": "A type of articulated locomotive designed by the Swiss mechanical engineer Anatole Mallet (pronounced \"mallay\").[135][136] See Compound engine.", 
             "link": null, 
-            "name": "Mallet (pronounced \"mallay\")"
+            "name": "Mallet"
         }, 
         {
-            "def": "An express freight train carrying a variety of general merchandise[140][141]", 
+            "def": "An express freight train carrying a variety of general merchandise[137][138]", 
             "link": null, 
             "name": "Manifest"
         }, 
         {
-            "def": "A signal in which the aspect is conveyed by moving an arm[142][143]", 
+            "def": "A signal in which the aspect is conveyed by moving an arm[139][140]", 
             "link": null, 
             "name": "Mechanical semaphore signal"
         }, 
         {
-            "def": "A steam locomotive with a 2-8-2 wheel arrangement[144]", 
+            "def": "A steam locomotive with a 2-8-2 wheel arrangement[141]", 
             "link": null, 
             "name": "Mikado type"
         }, 
         {
-            "def": "A aggregator for transporting milk from farms to dairies, such as British Railways Milk Trains[133]", 
+            "def": "A aggregator for transporting milk from farms to dairies, such as British Railways Milk Trains[142][143][144]", 
             "link": null, 
             "name": "Milk train"
         }, 
@@ -1049,12 +1049,12 @@
             "name": "Pacific type"
         }, 
         {
-            "def": "A tank locomotive with the water tanks mounted on the boiler like panniers", 
+            "def": "A tank locomotive where the water tanks are mounted on the boiler in pannier-like fashion", 
             "link": "/wiki/Pannier_tank", 
             "name": "Pannier tank"
         }, 
         {
-            "def": "A linkage to pick up current from overhead lines[156][157]", 
+            "def": "An apparatus mounted on the roof of a rail vehicle to allow the collection of electric current from overhead lines[156][157]", 
             "link": "/wiki/Pantograph_(rail)", 
             "name": "Pantograph"
         }, 
@@ -1079,7 +1079,7 @@
             "name": "Permissive signal"
         }, 
         {
-            "def": "\n\nA deflective shield affixed to the front of a locomotive to protect its wheels from on-track debris; archaically called a \"cowcatcher\"[164] See also: Pilot (locomotive)\nAn employee qualified on the operating rules and physical characteristics of a certain section of the railroad, assisting a crew who is not so qualified[165][166] See also: Railroad engineer\n\n", 
+            "def": "\n\nA deflective shield affixed to the front of a locomotive to protect its wheels from on-track debris; archaically called a \"cowcatcher\"[164] See also: Pilot (locomotive)\nAn employee qualified on the operating rules and physical characteristics of a certain section of the railroad, assisting a crew member who is not so qualified[165][166] See also: Railroad engineer\n\n", 
             "link": null, 
             "name": "Pilot"
         }, 
@@ -1089,7 +1089,7 @@
             "name": "Pilot engine"
         }, 
         {
-            "def": "Where it is necessary to temporarily work a section of line as single track (for instance if the other track of a double track line is out of use), a person (the pilot man) acts as the single track token.", 
+            "def": "Where it is necessary to temporarily work a section of line as single track (for instance if the other track of a double-track line is out of use), a person (the pilot man) acts as the single track token.", 
             "link": "/wiki/Token_(railway_signalling)#Variations", 
             "name": "Pilot man"
         }, 
@@ -1114,7 +1114,7 @@
             "name": "Porch"
         }, 
         {
-            "def": "A largely antiquated job involving physical duties such as lifting. Various types of porter include:\n\nA baggage porter assisted with luggage.\nAn operating porter assisted with safeworking duties.\nA station porter assisted with general station duties.\nA lad porter was a junior station porter.\n\n", 
+            "def": "An employee who performs or performed (the role has now largely become obsolete) various physical duties, chiefly but not exclusively involving lifting. Various types of porter include:\n\nA baggage porter assisting with luggage\nAn operating porter assisting with safeworking duties\nA station porter assisting with general station duties\nA lad porter being a junior station porter\n\n", 
             "link": "/wiki/Porter_(railroad)", 
             "name": "Porter"
         }, 
@@ -1124,17 +1124,17 @@
             "name": "Portion working"
         }, 
         {
-            "def": "A block signal in which the position of the lights determine the meaning of the aspect shown", 
+            "def": "A block signal in which the relative position of the lights determines the meaning", 
             "link": "/wiki/Position_light", 
             "name": "Position light signal"
         }, 
         {
-            "def": "A system of functional requirements for monitoring and controlling train movements to provide increased safety", 
+            "def": "A system of functional requirements for monitoring and controlling train movements with the aim of increasing operational safety", 
             "link": "/wiki/Positive_train_control", 
             "name": "Positive train control (PTC)"
         }, 
         {
-            "def": "A period of time when one or more tracks are closed for maintenance. For the duration of work a person in charge of possession (PICOP) has control of the line. When work is complete the possession is relinquished and control of the line handed back to the signaller.[176]", 
+            "def": "A period of time when one or more tracks are closed for maintenance. For the duration of the work, a person in charge of possession (PICOP) has control of the line. When work is complete the possession is relinquished and control of the line handed back to the signaller.[176]", 
             "link": null, 
             "name": "Possession"
         }, 
@@ -1166,15 +1166,15 @@
         {
             "def": "A rail broken from cold-related contraction[180][181]", 
             "link": null, 
-            "name": "Pull-apart"
+            "name": "Pull apart"
         }, 
         {
-            "def": "A pole about 12 feet (366\u00a0cm) long and having a diameter of 5 inches (127\u00a0mm). They were placed in receptacles called push pole pockets. The pole was placed between the locomotive and the freight car, and used to push the car on or off a siding or to another track. Used between 1870 and the mid-1960s.[182]", 
+            "def": "A pole about 12 feet (366\u00a0cm) long and having a diameter of 5 inches (127\u00a0mm) and used in the United States between 1870 and the mid-1960s to push a freight car onto or off a siding or onto another track by being placed between a locomotive (on an adjacent track) and the freight car. The two ends of the poles were placed in receptacles called push pole pockets.[182]", 
             "link": null, 
             "name": "Push pole"
         }, 
         {
-            "def": "A mode of operation whereby a locomotive-hauled train may be driven with the locomotive at the front, middle or back of the train. See also: Auto train. See Top and tail for train with locomotives at both front and back.[156]", 
+            "def": "A mode of operation whereby a locomotive-hauled train may be driven with the locomotive at the front, back, or center of the train. See also: Auto train. See Top and tail for train with locomotives at both front and back.[156]", 
             "link": "/wiki/Push%E2%80%93pull_train", 
             "name": "Push\u2013pull"
         }, 
@@ -1704,8 +1704,8 @@
             "name": "Tractive effort"
         }, 
         {
-            "def": "A turnout is trailing if the two legs of that turnout merge in the direction of travel. See Facing.", 
-            "link": "/wiki/Facing_and_Trailing", 
+            "def": "A turnout where both legs merge in the direction of travel\u2014the opposite of facing", 
+            "link": "/wiki/Facing_and_trailing", 
             "name": "Trailing"
         }, 
         {

@@ -219,6 +219,11 @@
             "name": "Dark match"
         }, 
         {
+            "def": "The most violent form of hardcore wrestling, popular in Japan and some and any US Independent promotions, in which lots of blood, graphic violence, wild, violent, and bloodier brawling techniques, and weapons such as barbed wire, panes of glass, fluorescent-light tubes, light bulbs, weed whackers, fire, C4 explosives, thumbtacks and mousetraps that heavily and strongly featured in any and all matches, as well as combined with brawling all over anywhere other than the arena, typically leading to a wild, brutal, bloodier, and more violent contest. See also Hardcore wrestling and Garbage wrestling", 
+            "link": null, 
+            "name": "Deathmatch wrestling"
+        }, 
+        {
             "def": "An insider newsletter (or website) in the professional wrestling business. Sometimes written in a negative tone or as a means to \"get dirt\". Not to be confused with traditional news.[14]", 
             "link": null, 
             "name": "Dirt sheet"
@@ -252,6 +257,11 @@
             "def": "A (typically larger) wrestler who accompanies another to matches and acts as a bodyguard.[1] This term was coined by Arn Anderson, whose nickname was the \"Enforcer\". The term can also refer to an individual who acts in a \"special guest referee\" capacity from outside the ring, ostensibly to maintain order.", 
             "link": null, 
             "name": "Enforcer"
+        }, 
+        {
+            "def": "A style of pro wrestling that heavily featured the use of weapons and high spots, as well as weapon strikes.", 
+            "link": null, 
+            "name": "Extreme wrestling"
         }, 
         {
             "def": "In a tag team match, the member of a face team who is dominated by the heel team for an extended period of the match. The tactic can be used to help get the crowd behind the face tag team and is usually followed up with a hot tag. During the 1980s, Ricky Morton of the Rock 'N' Roll Express was typically in this position while teaming with Robert Gibson; so much so that \"playing Ricky Morton\" has become synonymous with the term.", 
@@ -294,7 +304,7 @@
             "name": "Finisher"
         }, 
         {
-            "def": "A particular combination of moves that a certain wrestler tends to use in every match, often in the same sequence, usually ending with their finisher. This term is usually used pejoratively, through it was not originally intended so by Dave Meltzer who coined the term in the 1990s to describe the finishing sequence of Bret Hart, and is most notably used today to describe the comeback of John Cena.", 
+            "def": "A particular combination of moves that a certain wrestler tends to use in every match, often in the same sequence, usually ending with their finisher. This term is usually used pejoratively, through it was not originally intended so by Dave Meltzer who coined the term in the 1990s to describe the finishing sequence of Bret Hart, and is most notably used today to describe the common finishing moves of John Cena (a.k.a the \"five moves of boredom\" by his detractors).", 
             "link": null, 
             "name": "Five moves of doom"
         }, 
@@ -394,7 +404,7 @@
             "name": "High rent district"
         }, 
         {
-            "def": "The top-ring rope moves and/or the series of maneuvers, as well as fast motions among two, three, or more wrestlers, that will perceived to be risky and very dangerous.[1]", 
+            "def": "The top-ring rope moves and/or the series of moves or maneuvers, along with fast motions among two, three, or more wrestlers, that will perceived to be risky and very dangerous.[1]", 
             "link": null, 
             "name": "Highspot"
         }, 
@@ -654,7 +664,7 @@
             "name": "Pipe bomb"
         }, 
         {
-            "def": "A wrestler or actor who poses as a fan, usually seated in the front row of an event.[1] Plants are a good tool for a heel wrestler to gain heat from the crowd,[1] although there is a rare instance where said plant attacks the heel wrestler. At major shows, the plant is often a lesser-known wrestler from the independent circuit.[1]", 
+            "def": "A wrestler or actor who poses as a fan, usually seated in the front row of an event.[1] Plants are a good tool for a heel wrestler to gain heat from the crowd,[1] although there is a rare instance where said plant attacks the heel wrestler. At major shows, the plant is often a lesser-known wrestler from the independent circuit.[1] Sometimes the plant might be a heel wrestler's kid portraying a young fan who is disappointed in front of the crowd in ways seen as truly mean.", 
             "link": null, 
             "name": "Plant"
         }, 
@@ -832,6 +842,11 @@
             "def": "Any planned action or series of actions in a match.[1] A \"high spot\" is a particularly exciting move.[2] Other variations are the \"comeback spot\", \"hope spot\" and \"take home spot\". (See also: \"missed spot\")", 
             "link": null, 
             "name": "Spot"
+        }, 
+        {
+            "def": "The matches that could involve mainly or entirely of spots, along with lots of daredevil stunts and high impact moves, normally with little flow between moves and no logical transitions and with no psychology and no story-telling.", 
+            "link": null, 
+            "name": "Spotfest"
         }, 
         {
             "def": "The wrestling ring.", 

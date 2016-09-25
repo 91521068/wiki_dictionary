@@ -34,9 +34,9 @@
             "name": "\u25ba  Internet terminology\u200e (4 C, 163 P)\n\t\t\n\t\t"
         }, 
         {
-            "def": "\u25ba  Software engineering terminology\u200e (1 C, 16 P)\n\t\t\n\t\t", 
+            "def": "\u25ba  Software engineering terminology\u200e (1 C, 17 P)\n\t\t\n\t\t", 
             "link": null, 
-            "name": "\u25ba  Software engineering terminology\u200e (1 C, 16 P)\n\t\t\n\t\t"
+            "name": "\u25ba  Software engineering terminology\u200e (1 C, 17 P)\n\t\t\n\t\t"
         }, 
         {
             "def": "Template:Hexadecimal table", 
@@ -62,6 +62,11 @@
             "def": "Address space", 
             "link": "/wiki/Address_space", 
             "name": "Address space"
+        }, 
+        {
+            "def": "Animated info display application", 
+            "link": "/wiki/Animated_info_display_application", 
+            "name": "Animated info display application"
         }, 
         {
             "def": "Application posture", 
@@ -199,9 +204,9 @@
             "name": "Dependability"
         }, 
         {
-            "def": "Deployment Management", 
-            "link": "/wiki/Deployment_Management", 
-            "name": "Deployment Management"
+            "def": "Deployment management", 
+            "link": "/wiki/Deployment_management", 
+            "name": "Deployment management"
         }, 
         {
             "def": "Device control register", 

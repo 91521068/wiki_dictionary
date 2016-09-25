@@ -759,7 +759,7 @@
             "name": "Goalkeeper"
         }, 
         {
-            "def": "Goal kick: method of restarting play when the ball is played over the goal line without a goal being scored.[30]", 
+            "def": "Goal kick: method of restarting play when the ball is played over the goal line by a player of the attacking team without a goal being scored.[30]", 
             "link": null, 
             "name": "Goal kick"
         }, 
@@ -934,7 +934,7 @@
             "name": "IFAB"
         }, 
         {
-            "def": "Indirect free kick: type of free kick awarded to the opposing team following \"non-penal\" fouls, certain technical infringements, or when play is stopped to caution or dismiss an opponent without a specific foul having occurred. Unlike in a direct free kick, a goal may not be scored directly from the indirect kick.[169]", 
+            "def": "Indirect free kick: type of free kick awarded to the opposing team following \"non-penal\" fouls, certain technical infringements, or when play is stopped to caution or dismiss an opponent without a specific foul having occurred. Unlike in a direct free kick, a goal may not be scored directly from an indirect free kick.[169]", 
             "link": "/wiki/Indirect_free_kick", 
             "name": "Indirect free kick"
         }, 

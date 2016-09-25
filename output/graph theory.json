@@ -244,7 +244,7 @@
             "name": "chromatic"
         }, 
         {
-            "def": "A graph is k-choosable if it has a list coloring whenever each vertex has a list of k available colors. The choosability of the graph is the smallest k for which it s k-choosable.", 
+            "def": "A graph is k-choosable if it has a list coloring whenever each vertex has a list of k available colors. The choosability of the graph is the smallest k for which it is k-choosable.", 
             "link": null, 
             "name": "choosability"
         }, 
