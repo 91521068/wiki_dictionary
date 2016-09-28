@@ -453,13 +453,12 @@ class QuotesSpider(scrapy.Spider):
                 words_json_array.append(word)
 
         result['words'] = words_json_array
-        result['c1'] = ""
         result['c2'] = response.meta['c2']
         result['c3'] = response.meta['c3']
 
         result_json = json.dumps(result, sort_keys=True, indent=4)
 
-        file_name = result['c3']
+        file_name = result['c3'] + "--" + result['c3']
         if "Glossary_of_aviation" in file_name:
             file_name = "Glossary_of_aviation"
 
