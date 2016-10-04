@@ -1,0 +1,2001 @@
+{
+    "c2": "Sport", 
+    "c3": "Climbing", 
+    "words": [
+        {
+            "def": "A type of abseiling point used especially in winter and ice climbing. Also known as V-thread.", 
+            "link": null, 
+            "name": "Abalakov thread\u00a0"
+        }, 
+        {
+            "def": "The area of a glacier where yearly melting meets or exceeds the annual snow fall.", 
+            "link": null, 
+            "name": "Ablation zone\u00a0"
+        }, 
+        {
+            "def": "The process by which a climber can descend a fixed rope. Also known as Rappel.", 
+            "link": null, 
+            "name": "Abseil\u00a0"
+        }, 
+        {
+            "def": "An anchor method similar to a cordelette but that is dynamically equalizing. It employs a cord and a rappel ring.", 
+            "link": null, 
+            "name": "ACR (Alpine Cock Ring)"
+        }, 
+        {
+            "def": "A thin blade mounted perpendicular to the handle on an ice axe that can be used for chopping footholds.", 
+            "link": null, 
+            "name": "Adze\u00a0"
+        }, 
+        {
+            "def": "A style of climbing in which standing on or pulling oneself up via devices attached to fixed or placed protection is used to make upward progress.", 
+            "link": null, 
+            "name": "Aid climbing\u00a0"
+        }, 
+        {
+            "def": "Generally climbing in the mountains. Probably includes a mixture of ice climbing and dry-tooling. Alpine style generally means carrying all gear in a backpack even for multi day climbs.", 
+            "link": null, 
+            "name": "Alpine climbing\u00a0"
+        }, 
+        {
+            "def": "To use your knee as a way to gain ground on a climb.", 
+            "link": null, 
+            "name": "Alpine knee\u00a0"
+        }, 
+        {
+            "def": "To make an efficient start on a long climb by packing all your gear the previous evening and starting early in the morning, usually well before sunrise.", 
+            "link": null, 
+            "name": "Alpine start\u00a0"
+        }, 
+        {
+            "def": "A medical condition that is often observed at high altitudes. Also known as Acute mountain sickness, or AMS.[2]", 
+            "link": null, 
+            "name": "Altitude sickness\u00a0"
+        }, 
+        {
+            "def": "An anchor which is created by connecting a closed loop of cord or webbing between two points of protection, and then suspending the rope from a carabiner clipped to only one strand of said anchor. This creates a triangular shape in the webbing or cord, which places massively multiplied inward forces on the protection, making it a dangerous, ineffective anchor.", 
+            "link": null, 
+            "name": "American death triangle\u00a0"
+        }, 
+        {
+            "def": "An arrangement of one or (usually) more pieces of gear set up to support the weight of a belay or top rope.", 
+            "link": null, 
+            "name": "Anchor\u00a0"
+        }, 
+        {
+            "def": "The path or route to the start of a technical climb. Although this is generally a walk or, at most, a scramble it is occasionally as hazardous as the climb itself.", 
+            "link": null, 
+            "name": "Approach\u00a0"
+        }, 
+        {
+            "def": "Jamming an arm into a crack and locking it into place.", 
+            "link": null, 
+            "name": "Arm bar\u00a0"
+        }, 
+        {
+            "def": "(from the French word meaning arched) Used to describe crimping. In this position typically the first set of knuckles are hyperextended and the second have a sharp angle of about 90 degrees. This combines muscular effort with soft tissue tensions in order to apply the load. When used often, this position has been known to over-stress the tendons in fingers and lead to injuries.", 
+            "link": null, 
+            "name": "Arqu\u00e9\u00a0"
+        }, 
+        {
+            "def": "To climb a rope using aid device.", 
+            "link": null, 
+            "name": "Ascend\u00a0"
+        }, 
+        {
+            "def": "A device for ascending on a rope.", 
+            "link": null, 
+            "name": "Ascender\u00a0"
+        }, 
+        {
+            "def": "The direction in which a slope faces.[3]", 
+            "link": null, 
+            "name": "Aspect\u00a0"
+        }, 
+        {
+            "def": "A proprietary belay device manufactured by Black Diamond. Has become common term for any tubular belay devices. ATC originally stood for 'Air Traffic Controller'.", 
+            "link": null, 
+            "name": "ATC\u00a0"
+        }, 
+        {
+            "def": "A fast method for setting up a two-point anchor in sport climbing, using the climbing rope to attach to the anchor points.", 
+            "link": null, 
+            "name": "Automatic belay\u00a0"
+        }, 
+        {
+            "def": "When a climber falls in a manner where the rope that they are attached to runs through their legs; upon falling, the rope tightens and suspends the climber via the rope rather than the harness.", 
+            "link": null, 
+            "name": "Austrian floss\u00a0"
+        }, 
+        {
+            "def": "A grading system for bouldering problems, invented by John Gill. Now largely superseded by the \"V\" grading system.", 
+            "link": null, 
+            "name": "\"B\"-grade\u00a0"
+        }, 
+        {
+            "def": "A piece of training equipment used to improve campusing and core strength.", 
+            "link": null, 
+            "name": "Bachar ladder\u00a0"
+        }, 
+        {
+            "def": "A potentially hazardous mistake that can be made while lead climbing. The rope is clipped into a quickdraw such that the leader's end runs underneath the quickdraw as opposed to over top of it. If the leader falls, the rope may fold directly over the gate causing it to open and release the rope from the carabiner.", 
+            "link": null, 
+            "name": "Back-clipping\u00a0"
+        }, 
+        {
+            "def": "To retreat from a climb.", 
+            "link": null, 
+            "name": "Bail\u00a0"
+        }, 
+        {
+            "def": "If a climber has only two points of contact using either the right or left side of their body, the other half may swing uncontrollably out from the wall like a door on a hinge.", 
+            "link": null, 
+            "name": "Barn-door\u00a0"
+        }, 
+        {
+            "def": "A copperhead intended for pounding into a crack", 
+            "link": null, 
+            "name": "Bashie\u00a0"
+        }, 
+        {
+            "def": "To protect a roped climber from falling by passing the rope through, or around, any type of friction enhancing belay device. Before belay devices were invented, the rope was simply passed around the belayer's hips to create friction.", 
+            "link": null, 
+            "name": "Belay\u00a0"
+        }, 
+        {
+            "def": "A mechanical device used to create friction when belaying by putting bends in the rope. Many types of belay devices exist, including ATC, grigri, Reverso, Sticht plate, eight and tuber. Some belay devices may also be used as descenders. A Munter hitch can sometimes be used instead of a belay device.", 
+            "link": null, 
+            "name": "Belay device\u00a0"
+        }, 
+        {
+            "def": "The strongest point on the harness. This is the loop you use your belay device on. You should not tie anything around the belay loop such as a daisy chain or sling. The belay loop will wear more quickly.", 
+            "link": null, 
+            "name": "Belay Loop\u00a0"
+        }, 
+        {
+            "def": "Called by belayer to confirm belay has been removed from climbing rope. Response to Off belay request.", 
+            "link": null, 
+            "name": "Belay off\u00a0"
+        }, 
+        {
+            "def": "Called by belayer to confirm belay has been (re)applied to climbing rope. Response to On belay request.", 
+            "link": null, 
+            "name": "Belay on\u00a0"
+        }, 
+        {
+            "def": "Someone that volunteers for, or is tricked into, repeated belaying duties without partaking in any of the actual climbing.", 
+            "link": null, 
+            "name": "Belay slave\u00a0"
+        }, 
+        {
+            "def": "An unscheduled overnight bivouac often due to an epic.", 
+            "link": null, 
+            "name": "Benightment"
+        }, 
+        {
+            "def": "A crevasse that forms on the upper portion of a glacier where the moving section pulls away from the headwall. Also called a 'shrund.", 
+            "link": null, 
+            "name": "Bergschrund (or schrund)"
+        }, 
+        {
+            "def": "Advice on how to successfully complete (or protect) a particular climbing route, boulder problem, or crux sequence. Some climbers believe that beta 'taints' an ascent.", 
+            "link": null, 
+            "name": "Beta\u00a0"
+        }, 
+        {
+            "def": "The clean ascent of a climb on the first attempt, having previously obtained beta or while having beta shouted up from the ground en route. Also see on-sight.", 
+            "link": null, 
+            "name": "Beta flash\u00a0"
+        }, 
+        {
+            "def": "A technique used to keep the feet on when climbing on overhangs. One foot is placed on a foothold and the other foot is placed behind the foothold in a toe hook position. The climber can now squeeze the hold between the feet.", 
+            "link": null, 
+            "name": "Bicycle\u00a0"
+        }, 
+        {
+            "def": "(French \"two fingers\") A climbing hold, typically a pocket or hueco, that has enough room for two fingers. See also mono.", 
+            "link": null, 
+            "name": "Bidoigt\u00a0"
+        }, 
+        {
+            "def": "A climb on which most parties will spend more than one day. Big wall style generally refers to hauling the needed gear (food, water, sleeping bags) in a haulbag. Instead of carrying the gear on their person, the climbers put it in the haul bag and raise it in between pitches.", 
+            "link": null, 
+            "name": "Big wall\u00a0"
+        }, 
+        {
+            "def": "See Carabiner.", 
+            "link": null, 
+            "name": "Biner \u00a0"
+        }, 
+        {
+            "def": "From the French \"bivouac\". A camp, or the act of camping, overnight while still on a climbing route off the ground. May involve nothing more than lying down or sitting on a rock ledge without any sleeping gear. When there is no rock ledge available, such as on a sheer vertical wall, a portaledge that hangs from anchors on the wall can be used.", 
+            "link": null, 
+            "name": "Bivy (or bivvy)"
+        }, 
+        {
+            "def": "A lightweight garment or sack offering full-body protection from wind and rain.", 
+            "link": null, 
+            "name": "Bivy-bag\u00a0"
+        }, 
+        {
+            "def": "A large knob of rock or ice used as a belay anchor.", 
+            "link": null, 
+            "name": "Bollard\u00a0"
+        }, 
+        {
+            "def": "A point of protection permanently installed in a hole drilled into the rock, to which a metal hanger is attached, having a hole for a carabiner or ring.", 
+            "link": null, 
+            "name": "Bolt\u00a0"
+        }, 
+        {
+            "def": "The deliberate and destructive removal of one or more bolts.", 
+            "link": null, 
+            "name": "Bolt chopping\u00a0"
+        }, 
+        {
+            "def": "A totally secure anchor. Also known as bomber. Bomber can also refer to a particularly solid handhold or foothold (a \"Bomber Jug\")", 
+            "link": null, 
+            "name": "Bomb-proof anchor\u00a0"
+        }, 
+        {
+            "def": "See dihedral.", 
+            "link": null, 
+            "name": "Book\u00a0"
+        }, 
+        {
+            "def": "Gear left behind at a climbing area.", 
+            "link": null, 
+            "name": "Booty\u00a0"
+        }, 
+        {
+            "def": "To reduce pains from heavy-duty climbing using a harness; such as long-time belaying or bolting a new route, climbers attach their harness with a special type of chair, which is usually light and has multiple high endurance straps and buckles. Similar types are also used in industrial climbing.", 
+            "link": null, 
+            "name": "Bosun's chair\u00a0"
+        }, 
+        {
+            "def": "The practice of climbing on large boulders. Typically this is close to the ground, so protection takes the form of crash pads and spotting instead of belay ropes.", 
+            "link": null, 
+            "name": "Bouldering\u00a0"
+        }, 
+        {
+            "def": "see Stemming", 
+            "link": null, 
+            "name": "Bridging\u00a0"
+        }, 
+        {
+            "def": "A large handhold.", 
+            "link": null, 
+            "name": "Bucket\u00a0"
+        }, 
+        {
+            "def": "A slang word, referring to a difficult or uncomfortable hold, often one that tears the skin on the hand.", 
+            "link": null, 
+            "name": "Bummer\u00a0"
+        }, 
+        {
+            "def": "A climbing technique wherein a hand or foot is moved to one hold then quickly moved up immediately to a further hold. This is often done over short distances advancing from an inferior hold to a superior one.", 
+            "link": null, 
+            "name": "Bump\u00a0"
+        }, 
+        {
+            "def": "The art of climbing on buildings, which is often illegal.", 
+            "link": null, 
+            "name": "Buildering\u00a0"
+        }, 
+        {
+            "def": "A prominent feature that juts out from a rock or mountain.", 
+            "link": null, 
+            "name": "Buttress\u00a0"
+        }, 
+        {
+            "def": "A distinctive pile of stones placed to designate a summit or mark a trail, often above the treeline.", 
+            "link": null, 
+            "name": "Cairn\u00a0"
+        }, 
+        {
+            "def": "A spring-loaded device used as protection.", 
+            "link": null, 
+            "name": "Cam\u00a0"
+        }, 
+        {
+            "def": "The act of climbing without using any feet.", 
+            "link": null, 
+            "name": "Campus\u00a0"
+        }, 
+        {
+            "def": "Training equipment used to build finger strength and strong arm lock-offs.", 
+            "link": null, 
+            "name": "Campus board\u00a0"
+        }, 
+        {
+            "def": "Metal rings with spring-loaded gates, used as connectors. Usually oval or roughly D shaped. Also known as crab or biner (pronounced kar-uh-bee-ner).", 
+            "link": null, 
+            "name": "Carabiner\u00a0"
+        }, 
+        {
+            "def": "A compound used to improve grip by absorbing sweat. It is actually gymnastics chalk, usually magnesium carbonate. Its use is controversial in some areas.", 
+            "link": null, 
+            "name": "Chalk\u00a0"
+        }, 
+        {
+            "def": "A hand-sized holder for a climber's chalk that is usually carried on a chalkbelt for easy access during a climb.", 
+            "link": null, 
+            "name": "Chalk bag\u00a0"
+        }, 
+        {
+            "def": "Jamming the torso into a wide crack, for resting.", 
+            "link": null, 
+            "name": "Chest jam\u00a0"
+        }, 
+        {
+            "def": "see bollard, horn.", 
+            "link": null, 
+            "name": "Chicken head\u00a0"
+        }, 
+        {
+            "def": "This is a crack climbing technique. A hand is placed on one side of the crack and the shoulder on the other.", 
+            "link": null, 
+            "name": "Chicken Wing\u00a0"
+        }, 
+        {
+            "def": "Improving a hold by permanently altering the rock, which is considered unethical and unacceptable.", 
+            "link": null, 
+            "name": "Chipping\u00a0"
+        }, 
+        {
+            "def": "Loose or \"rotten\" rock.", 
+            "link": null, 
+            "name": "Choss\u00a0"
+        }, 
+        {
+            "def": "See Grade.", 
+            "link": null, 
+            "name": "Classification\u00a0"
+        }, 
+        {
+            "def": "Use of front points of crampons, ice axe pick and ice hammer pick to climb a slope.", 
+            "link": null, 
+            "name": "Clawing\u00a0"
+        }, 
+        {
+            "def": "A device for removing jammed equipment, especially nuts, from a route. Also known as a nut key.", 
+            "link": null, 
+            "name": "Cleaning tool\u00a0"
+        }, 
+        {
+            "def": "A region that is plentiful with climbing routes.", 
+            "link": null, 
+            "name": "Climbing area\u00a0"
+        }, 
+        {
+            "def": "A short phrase used for communication between a climber and a belayer.", 
+            "link": null, 
+            "name": "Climbing command\u00a0"
+        }, 
+        {
+            "def": "Specialized indoor climbing centres. See gym climbing. (Usually just called a 'climbing wall' in Britain).", 
+            "link": null, 
+            "name": "Climbing gym\u00a0"
+        }, 
+        {
+            "def": "Footwear designed specifically for climbing. Usually well fitting, with a rubber sole.", 
+            "link": null, 
+            "name": "Climbing shoe\u00a0"
+        }, 
+        {
+            "def": "Particular techniques, or moves, commonly applied in climbing.", 
+            "link": null, 
+            "name": "Climbing technique\u00a0"
+        }, 
+        {
+            "def": "Artificial rock, typically in a climbing gym.", 
+            "link": null, 
+            "name": "Climbing wall\u00a0"
+        }, 
+        {
+            "def": "The process of attaching to belay lines or anchors for protection.", 
+            "link": null, 
+            "name": "Clipping in\u00a0"
+        }, 
+        {
+            "def": "In bolted climbing, an extendable pole which allows the climber to reach the first bolt from the ground, thus making the route safer and less committing. Ethically controversial.", 
+            "link": null, 
+            "name": "Clipstick\u00a0"
+        }, 
+        {
+            "def": "A small pass or \"saddle\" between two peaks. Excellent for navigation as when standing on one it's always down in two, opposite, directions and up in the two directions in between those.", 
+            "link": null, 
+            "name": "Col\u00a0"
+        }, 
+        {
+            "def": "A small nut with a head made of soft metal on a loop of wire.", 
+            "link": null, 
+            "name": "Copperhead\u00a0"
+        }, 
+        {
+            "def": "a lock or toggle used to fasten cords with gloved hands. Used on most mountaineering gear.", 
+            "link": null, 
+            "name": "Cord lock\u00a0"
+        }, 
+        {
+            "def": "A long loop of accessory cord used to tie into multiple anchor points.", 
+            "link": null, 
+            "name": "Cordelette\u00a0"
+        }, 
+        {
+            "def": "An inside corner of rock, the opposite to an ar\u00eate (UK). See Dihedral.", 
+            "link": null, 
+            "name": "Corner\u00a0"
+        }, 
+        {
+            "def": "An overhanging edge of snow on a ridge.", 
+            "link": null, 
+            "name": "Cornice\u00a0"
+        }, 
+        {
+            "def": "A steep gully or gorge frequently filled with snow or ice.", 
+            "link": null, 
+            "name": "Couloir\u00a0"
+        }, 
+        {
+            "def": "To ascend on a rock face by wedging body parts into cracks, i.e. not face climbing. See jamming and chimney.", 
+            "link": null, 
+            "name": "Crack climbing\u00a0"
+        }, 
+        {
+            "def": "A small area with climbing routes, often just a small cliff face or a few boulders.", 
+            "link": null, 
+            "name": "Crag\u00a0"
+        }, 
+        {
+            "def": "Metal framework with spikes attached to boots to increase safety on snow and ice.", 
+            "link": null, 
+            "name": "Crampons\u00a0"
+        }, 
+        {
+            "def": "To pull on a hold as hard as possible.", 
+            "link": null, 
+            "name": "Crank\u00a0"
+        }, 
+        {
+            "def": "A thick mat used to soften landings or to cover hazardous objects in the event of a fall. See: Bouldering mat", 
+            "link": null, 
+            "name": "Crash pad\u00a0"
+        }, 
+        {
+            "def": "Hitting the ground at the end of a fall instead of being caught by the rope.", 
+            "link": null, 
+            "name": "Crater\u00a0"
+        }, 
+        {
+            "def": "The most difficult portion of a climb.", 
+            "link": null, 
+            "name": "Crux\u00a0"
+        }, 
+        {
+            "def": "A hand grip which is squeezed, over the top or around the side, between the fingers and palm, forming a cup shape with the hand, or applying this type of hold on any protrusion or feature. More commonly known as guppy.", 
+            "link": null, 
+            "name": "Cup\u00a0"
+        }, 
+        {
+            "def": "Where a climber's feet swing away from the rock on overhanging terrain, leaving the climber hanging only by their hands. Also known as \"Cutting feet.\"", 
+            "link": null, 
+            "name": "Cut-loose\u00a0"
+        }, 
+        {
+            "def": "(Welsh) A hanging valley, or cirque\u2014a steep-walled semicircular basin in a mountain\u2014sometimes containing a lake; also known as a corrie.", 
+            "link": null, 
+            "name": "Cwm\u00a0"
+        }, 
+        {
+            "def": "A special purpose type of sling with multiple sewn or tied loops, used in aid and big wall climbing. It is designed to hold a climber's bodyweight, rather than arrest a fall, and while the sling as a whole will have a strength rating comparable to that of a standard sling, the individual loops will typically have much lower ratings.", 
+            "link": null, 
+            "name": "Daisy chain\u00a0"
+        }, 
+        {
+            "def": "Type of High Ball boulder, where one can possibly die when falling from above.", 
+            "link": null, 
+            "name": "Dead Ball\u00a0"
+        }, 
+        {
+            "def": "To hang limp, such that weight is held by ligament tension rather than muscles.", 
+            "link": null, 
+            "name": "Dead hang\u00a0"
+        }, 
+        {
+            "def": "An object buried into snow to serve as an anchor for an attached rope. One common type of such an anchor is the snow fluke. Any object that is buried in order to make an anchor, or what you become if that anchor fails.", 
+            "link": null, 
+            "name": "Deadman anchor\u00a0"
+        }, 
+        {
+            "def": "A dynamic climbing technique in which the hold is grabbed at the apex of upward motion. This technique places minimal strain on both the hold and the arms.", 
+            "link": null, 
+            "name": "Deadpoint\u00a0"
+        }, 
+        {
+            "def": "Free climbing an area that overhangs a deep enough body of water to allow for a safe fall. Often abbreviated DWS.", 
+            "link": null, 
+            "name": "Deep Water Soloing\u00a0"
+        }, 
+        {
+            "def": "A device for controlled descent on a rope. Also called a rappel device. Many belay devices may be used as descenders, including ATCs, figure eights, or even carabiners. See rappel.", 
+            "link": null, 
+            "name": "Descender\u00a0"
+        }, 
+        {
+            "def": "A ground fall (from Desmond Dekker, a reggae artist and 'to deck').", 
+            "link": null, 
+            "name": "Desmond\u00a0"
+        }, 
+        {
+            "def": "A pharmaceutical drug used in the treatment of high altitude cerebral edema as well as high altitude pulmonary edema. It is commonly carried on mountain climbing expeditions to help climbers deal with altitude sickness.[2] Also known as \"dex\".", 
+            "link": null, 
+            "name": "Dexamethasone \u00a0"
+        }, 
+        {
+            "def": "To have complete understanding of a particular climbing move or route.", 
+            "link": null, 
+            "name": "Dialled\u00a0"
+        }, 
+        {
+            "def": "A drug used to inhibit the onset of altitude sickness. Otherwise known as acetazolamide.[2]", 
+            "link": null, 
+            "name": "Diamox\u00a0"
+        }, 
+        {
+            "def": "A dihedral.", 
+            "link": null, 
+            "name": "Di\u00e8dre\u00a0"
+        }, 
+        {
+            "def": "An inside corner of rock, with more than a 90-degree angle between the faces. See also corner and ar\u00eate.", 
+            "link": null, 
+            "name": "Dihedral\u00a0"
+        }, 
+        {
+            "def": "A type of tension climbing consisting of using one or more belay ropes to haul the leader up to the next point of protection.", 
+            "link": null, 
+            "name": "Direct aid\u00a0"
+        }, 
+        {
+            "def": "climbers living cheaply and supporting themselves through odd jobs in order to maximize the amount of time climbing. Well known practitioners of this lifestyle include Jan and Herb Conn or Fred Beckey.", 
+            "link": null, 
+            "name": "Dirtbag\u00a0"
+        }, 
+        {
+            "def": "The term denotes the use of two separate ropes, which is true of alpine and rock climbers, but not as much for tree climbers, who usually see it as synonymous with Doubled Rope Technique.", 
+            "link": null, 
+            "name": "Double Rope Technique (DRT)\u00a0"
+        }, 
+        {
+            "def": "A method used primarily by tree climbers where the rope passes over a support/limb and continuously slides over the limb as the climber ascends or descends.", 
+            "link": null, 
+            "name": "Doubled Rope Technique (DdRT)\u00a0"
+        }, 
+        {
+            "def": "To descend by climbing downward, typically after completing a climb.", 
+            "link": null, 
+            "name": "Downclimb\u00a0"
+        }, 
+        {
+            "def": "See Egyptian.", 
+            "link": null, 
+            "name": "Drop Knee\u00a0"
+        }, 
+        {
+            "def": "Using tools for ice climbing like crampons and ice axes on rock.", 
+            "link": null, 
+            "name": "Dry-tooling\u00a0"
+        }, 
+        {
+            "def": "A method of rappelling, without mechanical tools, where the uphill rope is straddled by the climber then looped around a hip, across the chest, over the opposite (weak) shoulder, and held with the downhill (strong) hand to adjust the shoulder friction and thus the descending speed.", 
+            "link": null, 
+            "name": "D\u00fclfersitz\u00a0"
+        }, 
+        {
+            "def": "Technique of stopping a long fall using smooth braking to reduce stress on the protection points and avoid unnecessary trauma from an abrupt stop.", 
+            "link": null, 
+            "name": "Dynamic belay\u00a0"
+        }, 
+        {
+            "def": "A slightly elastic rope that softens falls to some extent. Also tend to be damaged less severely by heavy loads. Compare with static rope.", 
+            "link": null, 
+            "name": "Dynamic rope\u00a0"
+        }, 
+        {
+            "def": "Any move in which body momentum is used to progress. As opposed to static technique where three-point suspension and slow, controlled movement is the rule.", 
+            "link": null, 
+            "name": "Dynamic motion\u00a0"
+        }, 
+        {
+            "def": "Tightly gripping handholds, simultaneously flagging out both legs then proceeding to violently kick downwards and inwards in a desperate attempt to produce upwards motion; making the climber resemble an explosive bottom feeder[citation needed].", 
+            "link": null, 
+            "name": "Dynamite starfish\u00a0"
+        }, 
+        {
+            "def": "A dynamic move to grab a hold that would otherwise be out of reach. Generally both feet will leave the rock face and return again once the target hold is caught. Non-climbers would call it a jump or a leap.", 
+            "link": null, 
+            "name": "Dyno\u00a0"
+        }, 
+        {
+            "def": "A thin ledge on the rock.", 
+            "link": null, 
+            "name": "Edge\u00a0"
+        }, 
+        {
+            "def": "Using the edge of the climbing shoe on a foothold. In the absence of footholds, smearing is used.", 
+            "link": null, 
+            "name": "Edging\u00a0"
+        }, 
+        {
+            "def": "Method for reducing muscle strain in arms when holding a side grip. One knee ends up in a lower position with the body twisted towards the other leg. It can give a longer reach as the body and shoulders twist towards a hold. Also known as a \"drop knee.\"", 
+            "link": null, 
+            "name": "Egyptian\u00a0"
+        }, 
+        {
+            "def": "The same position as bridging or chimneying, but with one leg in front and one behind the body.", 
+            "link": null, 
+            "name": "Egyptian bridging\u00a0"
+        }, 
+        {
+            "def": "A mountain whose elevation exceeds 8,000 metres above sea level.", 
+            "link": null, 
+            "name": "Eight-thousander\u00a0"
+        }, 
+        {
+            "def": "A bouldering move or series of moves in which either certain holds are placed 'off bounds' or other artificial restrictions are imposed.", 
+            "link": null, 
+            "name": "Eliminate\u00a0"
+        }, 
+        {
+            "def": "Wobbly knees resulting from tired legs. See Sewing machine leg.", 
+            "link": null, 
+            "name": "Elvis legs\u00a0"
+        }, 
+        {
+            "def": "An ordinary climb rendered difficult by a dangerous combination of weather, injuries, darkness, lack of preparedness or other adverse factors. See Punter.", 
+            "link": null, 
+            "name": "Epic\u00a0"
+        }, 
+        {
+            "def": "A flat overhand used to join a pair of ropes for retrievable abseils. So named as the technique originated in Europe and the Americans initially distrusted it.", 
+            "link": null, 
+            "name": "European Death Knot (EDK)\u00a0"
+        }, 
+        {
+            "def": "Empty space below a climber, usually referring to a great distance a climber is above the ground or large ledge, or the psychological sense of this distance due to being unprotected, or because the rock angles away due to climbing an ar\u00eate or overhang. Exposure can also refer to exposure to the elements, like wind, snow, or sun.", 
+            "link": null, 
+            "name": "Exposure\u00a0"
+        }, 
+        {
+            "def": "To ascend a vertical rock face using finger holds, edges and smears, i.e. not crack climbing.", 
+            "link": null, 
+            "name": "Face climbing\u00a0"
+        }, 
+        {
+            "def": "To unintentionally descend under the influence of gravity. Hopefully stopped by a rope.", 
+            "link": null, 
+            "name": "Fall\u00a0"
+        }, 
+        {
+            "def": "An instruction on indoor bouldering routes requiring foot movements match preceding hand movements, with no intermediate moves.", 
+            "link": null, 
+            "name": "Feet follow\u00a0"
+        }, 
+        {
+            "def": "A protrusion or indentation on an indoor climbing wall which is permanently moulded into the wall itself.", 
+            "link": null, 
+            "name": "Feature\u00a0"
+        }, 
+        {
+            "def": "A route on a mountain where the safety is provided by steel ropes or chains, permanently fixated to the rock. The progression is often aided by artificial steps or ladders. Typically found in the Alps, also called Klettersteig.", 
+            "link": null, 
+            "name": "Via Ferrata\u00a0"
+        }, 
+        {
+            "def": "Advanced climbing technique where the climber hooks a leg over the opposite arm, and then pushes down with this leg to achieve a greater vertical reach. Requires strength and a solid handhold.", 
+            "link": null, 
+            "name": "Figure four\u00a0"
+        }, 
+        {
+            "def": "A belay device or descender shaped like an \"8\".", 
+            "link": null, 
+            "name": "Figure eight\u00a0"
+        }, 
+        {
+            "def": "A knot commonly used to secure the climber's harness to the climbing rope.", 
+            "link": null, 
+            "name": "Figure-eight knot\u00a0"
+        }, 
+        {
+            "def": "Training equipment used to build finger strength.", 
+            "link": null, 
+            "name": "Finger board\u00a0"
+        }, 
+        {
+            "def": "The person who performed the first ascent.", 
+            "link": null, 
+            "name": "First ascensionist\u00a0"
+        }, 
+        {
+            "def": "The first successful completion of a route.", 
+            "link": null, 
+            "name": "First ascent (FA)\u00a0"
+        }, 
+        {
+            "def": "First ascent without aid.", 
+            "link": null, 
+            "name": "First free ascent (FFA)\u00a0"
+        }, 
+        {
+            "def": "A type of jam using the hand. See climbing technique.", 
+            "link": null, 
+            "name": "Fist jam\u00a0"
+        }, 
+        {
+            "def": "A rope which has a fixed attachment point. Commonly used for abseiling or aid climbing.", 
+            "link": null, 
+            "name": "Fixed rope\u00a0"
+        }, 
+        {
+            "def": "Climbing technique where a leg is held in a position to maintain balance, rather than to support weight. Often useful to prevent barn-dooring. There are three types of flagging:", 
+            "link": null, 
+            "name": "Flagging\u00a0"
+        }, 
+        {
+            "def": "An injury consisting of a piece of loose (flapping) skin. A climber will usually just repair these with sticky tape or super glue.", 
+            "link": null, 
+            "name": "Flapper\u00a0"
+        }, 
+        {
+            "def": "To successfully and cleanly complete a climbing route on the first attempt after having received beta of some form. Also refers to an ascent of this type. For ascents on the first attempt without receiving beta see on-sight.", 
+            "link": null, 
+            "name": "Flash\u00a0"
+        }, 
+        {
+            "def": "Non-climber.", 
+            "link": null, 
+            "name": "Flat-lander\u00a0"
+        }, 
+        {
+            "def": "A usually insecure fin or flake of rock or ice.", 
+            "link": null, 
+            "name": "Flute\u00a0"
+        }, 
+        {
+            "def": "What the second does.", 
+            "link": null, 
+            "name": "Follow\u00a0"
+        }, 
+        {
+            "def": "The French bouldering grading system.", 
+            "link": null, 
+            "name": "Font\u00a0"
+        }, 
+        {
+            "def": "Also known as the heel-to-toe jam. It involves jamming the foot into a larger crack by twisting the foot into place, the contact with the crack being on the heel and toes.", 
+            "link": null, 
+            "name": "Foot jam\u00a0"
+        }, 
+        {
+            "def": "Mountain that tops 14,000 feet (4,300\u00a0m) in the contiguous United States.", 
+            "link": null, 
+            "name": "Fourteener\u00a0"
+        }, 
+        {
+            "def": "Climbing with your only protection being a parachute that is deployed in the event of a fall. A combination of free soloing, and BASE jumping.", 
+            "link": null, 
+            "name": "Free base\u00a0"
+        }, 
+        {
+            "def": "Climbing without aid or protection. This typically means climbing without a rope.", 
+            "link": null, 
+            "name": "Free solo\u00a0"
+        }, 
+        {
+            "def": "Also known as French climbing, or French freeing, it is the use of aid climbing techniques to bypass a section due to climbing difficulty, rock conditions, etc.; typically for only a short section of the total climb.[4]", 
+            "link": null, 
+            "name": "French free\u00a0"
+        }, 
+        {
+            "def": "An exercise used to develop lock-off strength consisting of pull-ups that stop with the elbows locked at angles between 20 and 160 degrees.", 
+            "link": null, 
+            "name": "Frenchies\u00a0"
+        }, 
+        {
+            "def": "Delicate and easily broken rock, often dangerous.", 
+            "link": null, 
+            "name": "Friable\u00a0"
+        }, 
+        {
+            "def": "Climbing technique relying on the friction between the sloped rock and the sole of the shoe to support the climber's weight, as opposed using holds or edges, cracks, etc.", 
+            "link": null, 
+            "name": "Friction\u00a0"
+        }, 
+        {
+            "def": "A name brand of a type of spring-loaded camming device (SLCD), sometimes used to refer to any type of spring-loaded camming device.", 
+            "link": null, 
+            "name": "Friend\u00a0"
+        }, 
+        {
+            "def": "A climbing grip using one hand with the thumb down and elbow out, often thought of as a reverse side pull. The grip maintains friction against a hold by pressing outward toward the elbow.", 
+            "link": null, 
+            "name": "Gaston\u00a0"
+        }, 
+        {
+            "def": "The action of the gate on a carabiner opening during a fall.", 
+            "link": null, 
+            "name": "Gate Flutter\u00a0"
+        }, 
+        {
+            "def": "A pinnacle or isolated rock tower frequently encountered along a ridge.", 
+            "link": null, 
+            "name": "Gendarme\u00a0"
+        }, 
+        {
+            "def": "A modified dulfersitz rappel using the hip and downhill arm for friction, rather than the chest and shoulder, offering less complexity, but less friction and less control. 'Geneva Style' is also a description used in Australia for what is commonly referred to elsewhere as 'Australian Rappelling'.", 
+            "link": null, 
+            "name": "Geneva rappel\u00a0"
+        }, 
+        {
+            "def": "walking or climbing on a glacier; a rope is usually used to arrest falls into crevasses, but protection is not used.", 
+            "link": null, 
+            "name": "Glacier travel\u00a0"
+        }, 
+        {
+            "def": "A usually voluntary act of sliding down a steep slope of snow.", 
+            "link": null, 
+            "name": "Glissade\u00a0"
+        }, 
+        {
+            "def": "When a climber is cleaning a route and forgets to pull out a piece or unclip the rope and begins to climb above the piece rendering the top rope ineffective.", 
+            "link": null, 
+            "name": "Golden Retriever\u00a0"
+        }, 
+        {
+            "def": "Trail mix for periodic nibbling to keep high energy level between meals on long climbs or hikes.", 
+            "link": null, 
+            "name": "Gorp\u00a0"
+        }, 
+        {
+            "def": "A route (often off-width) requiring the use of unconventional and uncomfortable techniques.", 
+            "link": null, 
+            "name": "Graunchy\u00a0"
+        }, 
+        {
+            "def": "Climbing a sport route with the use of traditional gear.", 
+            "link": null, 
+            "name": "Green Point\u00a0"
+        }, 
+        {
+            "def": "A belay device designed to be easy to use and safer for beginners because it is assisted-braking under load. Invented and manufactured by Petzl. Many experienced climbers advocate the use of an atc type device for beginners.", 
+            "link": null, 
+            "name": "Grigri\u00a0"
+        }, 
+        {
+            "def": "Scared. Also over gripping the rock.", 
+            "link": null, 
+            "name": "Gripped\u00a0"
+        }, 
+        {
+            "def": "Accidentally going off-route while leading and becoming lost on a rock face in an area much more difficult than the climb being attempted. The word arises from the climb \"Gronk\" in Avon Gorge which is notorious for this.", 
+            "link": null, 
+            "name": "Gronked\u00a0"
+        }, 
+        {
+            "def": "To climb with obviously poor style or technique.", 
+            "link": null, 
+            "name": "Grovel\u00a0"
+        }, 
+        {
+            "def": "An inexperienced, unknowledgeable and oblivious climber; is a derogatory term. Gumbies are incapable of learning.", 
+            "link": null, 
+            "name": "Gumby\u00a0"
+        }, 
+        {
+            "def": "Synonym for cup, commonly used in bouldering.", 
+            "link": null, 
+            "name": "Guppy\u00a0"
+        }, 
+        {
+            "def": "Climbing indoors, on artificial climbing walls. This is typically for training but many people consider this a worthwhile activity in its own right.", 
+            "link": null, 
+            "name": "Gym climbing\u00a0"
+        }, 
+        {
+            "def": "A route that has become climbed excessively, causing the rock to become slippery or \"greasy\".", 
+            "link": null, 
+            "name": "Grease ball\u00a0"
+        }, 
+        {
+            "def": "High Altitude Cerebral Edema - a severe, and often fatal, form of altitude sickness.[2]", 
+            "link": null, 
+            "name": "HACE\u00a0"
+        }, 
+        {
+            "def": "The act of pulling oneself up with both arms parallel in front of your chest. Resembles a Hamster during feeding. That sloper required some hamstering to get to the next move.", 
+            "link": null, 
+            "name": "Hamster\u00a0"
+        }, 
+        {
+            "def": "Making progress by inserting the hand (usually vertically with the thumb uppermost) into a crack and then pushing the thumb downwards towards the palm. This expands the hand and can make a highly secure placement. In the UK this move was credited with facilitating the advances in free climbing in the late 1940s and 50s made by climbers such as Joe Brown and Don Whillans although they did not invent it.'", 
+            "link": null, 
+            "name": "Handjam\u00a0"
+        }, 
+        {
+            "def": "Traversing without any definitive footholds, i.e. smearing or heelhooking.", 
+            "link": null, 
+            "name": "Hand traverse\u00a0"
+        }, 
+        {
+            "def": "While lead climbing or on top rope, to hang on the rope or a piece of protection for a rest.", 
+            "link": null, 
+            "name": "Hangdog\u00a0"
+        }, 
+        {
+            "def": "Belaying at a point such that the belayer is suspended.", 
+            "link": null, 
+            "name": "Hanging belay\u00a0"
+        }, 
+        {
+            "def": "High Altitude Pulmonary Edema\u00a0\u2014 a serious form of altitude sickness.[2]", 
+            "link": null, 
+            "name": "HAPE\u00a0"
+        }, 
+        {
+            "def": "A sewn nylon webbing device worn around the waist and thighs that is designed to allow a person to safely hang suspended in the air.", 
+            "link": null, 
+            "name": "Harness\u00a0"
+        }, 
+        {
+            "def": "A large and often unwieldy bag into which supplies and climbing equipment may be thrown.", 
+            "link": null, 
+            "name": "Haul bag\u00a0"
+        }, 
+        {
+            "def": "The practice of top-roping a hard trad route before leading it cleanly.", 
+            "link": null, 
+            "name": "Headpoint\u00a0"
+        }, 
+        {
+            "def": "A region at the top of a cliff or rock face that steepens dramatically.", 
+            "link": null, 
+            "name": "Headwall\u00a0"
+        }, 
+        {
+            "def": "Using the back of the heel to apply pressure to a hold, for balance or leverage; this technique requires pulling with the heel of a foot by flexing the hamstring. This technique is notable since in most forms of climbing one uses the toes to push.", 
+            "link": null, 
+            "name": "Heel hook\u00a0"
+        }, 
+        {
+            "def": "A combination of a toe hook and heel hook. Also known as a heel-toe cam, involves using opposing pressure from the toes and heel between two holds to hold the body on the wall.", 
+            "link": null, 
+            "name": "Heel-toe\u00a0"
+        }, 
+        {
+            "def": "Also known as a brain bucket or skid lid. It can save your life, but only while worn.", 
+            "link": null, 
+            "name": "Helmet\u00a0"
+        }, 
+        {
+            "def": "A protective device. It is an eccentric hexagonal nut attached to a wire loop. The nut is inserted into a crack and it holds through counter-pressure. Often just called Hex.", 
+            "link": null, 
+            "name": "Hexcentric\u00a0"
+        }, 
+        {
+            "def": "A tall boulder problem. Falling becomes more dangerous due to the increase in height.", 
+            "link": null, 
+            "name": "High Ball\u00a0"
+        }, 
+        {
+            "def": "Climbing grown in the Himalayas. In a broader sense this Himalayan mountaineering climbing, similar as to the nature of climbing in the Himalayas, but also grown in other high mountains, where the height of the peaks above 7000 meters above sea level are the Karakoram, Kunlun, Hindu Kush, Pamir, Tien Shan, Daxue Shan.", 
+            "link": null, 
+            "name": "Himalaism\u00a0"
+        }, 
+        {
+            "def": "A place to temporarily cling, grip, jam, press, or stand in the process of climbing.", 
+            "link": null, 
+            "name": "Hold\u00a0"
+        }, 
+        {
+            "def": "A round-ended carabiner for use with a Munter hitch (from the German name for the hitch; Halbmastwurfsicherung).", 
+            "link": null, 
+            "name": "HMS Carabiner\u00a0"
+        }, 
+        {
+            "def": "To be in peak mental and physical fitness for climbing.", 
+            "link": null, 
+            "name": "Honed\u00a0"
+        }, 
+        {
+            "def": "Large, pointed protrusion of rock that can be slung. Typically also makes a good handhold. Known in the UK as a \"Spike\". See bollard, chicken head.", 
+            "link": null, 
+            "name": "Horn\u00a0"
+        }, 
+        {
+            "def": "(Spanish hueco \"hole\") A climbing hold consisting of a pocket in the rock, typically round and deep and featuring a positive lip. Huecos vary in size from accommodating a single finger (this is also called a \"mono\") to large enough to fit one's entire body. The term hueco entered the jargon of rock climbers from the Texas climbing area Hueco Tanks that is famous for this sort of hold.", 
+            "link": null, 
+            "name": "Hueco\u00a0"
+        }, 
+        {
+            "def": "A handy tool for safety and balance, having a pick/adze head and a spike at the opposite end of a shaft.", 
+            "link": null, 
+            "name": "Ice axe\u00a0"
+        }, 
+        {
+            "def": "A lightweight ice axe with a hammer/pick head on a short handle and no spike.", 
+            "link": null, 
+            "name": "Ice hammer\u00a0"
+        }, 
+        {
+            "def": "Long, wide, serrated piton once used for weak protection on ice.", 
+            "link": null, 
+            "name": "Ice piton\u00a0"
+        }, 
+        {
+            "def": "A screw used to protect a climb over steep ice or for setting up a crevasse rescue system. The strongest and most reliable is the modern tubular ice screw which ranges in length from 18 to 23\u00a0cm.", 
+            "link": null, 
+            "name": "Ice screw\u00a0"
+        }, 
+        {
+            "def": "A specialized elaboration of the modern ice axe (and often described broadly as an ice axe or technical axe), used in ice climbing, mostly for the more difficult configurations.", 
+            "link": null, 
+            "name": "Ice tool\u00a0"
+        }, 
+        {
+            "def": "See gym climbing.", 
+            "link": null, 
+            "name": "Indoor climbing\u00a0"
+        }, 
+        {
+            "def": "Wedging a body part into a crack.", 
+            "link": null, 
+            "name": "Jamming\u00a0"
+        }, 
+        {
+            "def": "A particularly small foothold, usually only large enough for the big toe, sometimes relying heavily on friction to support weight.", 
+            "link": null, 
+            "name": "Jib\u00a0"
+        }, 
+        {
+            "def": "A shortened term for Jug Hold, both noun and verb.", 
+            "link": null, 
+            "name": "Jug\u00a0"
+        }, 
+        {
+            "def": "A large, easily held hold. Also known simply as a jug.", 
+            "link": null, 
+            "name": "Jug hold\u00a0"
+        }, 
+        {
+            "def": "See Cairn.", 
+            "link": null, 
+            "name": "Karen\u00a0"
+        }, 
+        {
+            "def": "An alternative to the Prusik knot, useful when the climber is short of cord but has plenty of webbing.", 
+            "link": null, 
+            "name": "Klemheist knot\u00a0"
+        }, 
+        {
+            "def": "See Egyptian.", 
+            "link": null, 
+            "name": "Knee Drop\u00a0"
+        }, 
+        {
+            "def": "Climbers rely on many different knots for anchoring oneself to a mountain, joining two ropes together, slings for climbing up the rope, etc.", 
+            "link": null, 
+            "name": "Knots\u00a0"
+        }, 
+        {
+            "def": "Climbing a vertical edge by side-pulling the edge with both hands and relying on friction or very small holds for the feet.", 
+            "link": null, 
+            "name": "Laybacking or liebacking"
+        }, 
+        {
+            "def": "A form of climbing in which the climber places anchors and attaches the belay rope as they climb (traditional) or clips the belay rope into preplaced equipment attached to bolts (sport).", 
+            "link": null, 
+            "name": "Lead climbing\u00a0"
+        }, 
+        {
+            "def": "A fall while lead climbing. A fall from above the climber's last piece of protection. The falling leader will fall at least twice the distance back to his or her last piece, plus slack and rope stretch.", 
+            "link": null, 
+            "name": "Leader Fall\u00a0"
+        }, 
+        {
+            "def": "Ice climbing with your axes not being attached to your wrist, if you drop them they're gone, but the trade off is greater mobility", 
+            "link": null, 
+            "name": "Leashless\u00a0"
+        }, 
+        {
+            "def": "A liquid form of chalk with a longer hold time than normal chalk. It is used on very hard routes and competitions, where the act of rechalking requires too much energy or time.", 
+            "link": null, 
+            "name": "Liquid Chalk\u00a0"
+        }, 
+        {
+            "def": "A carabiner with a locking gate, to prevent accidental release of the rope.", 
+            "link": null, 
+            "name": "Locking carabiner\u00a0"
+        }, 
+        {
+            "def": "Using tendon strength to support weight on a handhold without tiring muscles too much.", 
+            "link": null, 
+            "name": "Lock-off\u00a0"
+        }, 
+        {
+            "def": "A face climb that is less than vertical; the opposite of an overhang or roof. The same as \"slab\".", 
+            "link": null, 
+            "name": "Low-Angle\u00a0"
+        }, 
+        {
+            "def": "A move used to surmount a ledge or feature in the rock in the absence of any useful holds directly above. It involves pushing down on a ledge or feature instead of pulling oneself up. In ice climbing, manteling is done by moving the hands from the shaft to the top of the ice tool and pushing down on the head of the tool.", 
+            "link": null, 
+            "name": "Mantel (abbreviation of mantelshelf)\u00a0"
+        }, 
+        {
+            "def": "The external covering of a climbing rope. Climbing ropes use kernmantle construction consisting of a kern (or core) for strength and an external sheath called the mantle.", 
+            "link": null, 
+            "name": "Mantle\u00a0"
+        }, 
+        {
+            "def": "To use one hold for two limbs.", 
+            "link": null, 
+            "name": "Match\u00a0"
+        }, 
+        {
+            "def": "To retrieve another climbers gear because he is unable to or because it would be more convenient.", 
+            "link": null, 
+            "name": "Merkel\u00a0"
+        }, 
+        {
+            "def": "A crevasse that forms where the glacier pulls away from a rock formation.", 
+            "link": null, 
+            "name": "Moat\u00a0"
+        }, 
+        {
+            "def": "(French monodoigt 'single finger') A climbing hold, typically a pocket or hueco, that only has enough room for one finger.", 
+            "link": null, 
+            "name": "Mono\u00a0"
+        }, 
+        {
+            "def": "The search and rescue activities that occur in a mountainous environment, although the term sometimes also applies to search and rescue in other wilderness environments. Also see rescue doctrine.", 
+            "link": null, 
+            "name": "Mountain rescue\u00a0"
+        }, 
+        {
+            "def": "Application of a specific climbing technique to progress on a climb.", 
+            "link": null, 
+            "name": "Move\u00a0"
+        }, 
+        {
+            "def": "Method of climbing\u00a0\u2013 used on easy Alpine ground\u00a0\u2013 in which two or more climbers climb at the same time with running belays between them and fixed belays not being used. Similar to simulclimbing, a technique for steeper terrain.", 
+            "link": null, 
+            "name": "Moving together\u00a0"
+        }, 
+        {
+            "def": "Climbing on routes that are too long for a single belay rope.", 
+            "link": null, 
+            "name": "Multi-pitch climbing\u00a0"
+        }, 
+        {
+            "def": "A simple hitch that is often used for belaying without a mechanical belay device. Otherwise known as an Italian hitch or a friction hitch.", 
+            "link": null, 
+            "name": "Munter hitch\u00a0"
+        }, 
+        {
+            "def": "Permanent granular ice formed by repeated freeze-thaw cycles.", 
+            "link": null, 
+            "name": "N\u00e9v\u00e9\u00a0"
+        }, 
+        {
+            "def": "An entirely leg-supported resting position during climbing that does not require hands on the rock.", 
+            "link": null, 
+            "name": "No-hand rest\u00a0"
+        }, 
+        {
+            "def": "A little hold that only a few fingers can grip, or the tips of the toes.", 
+            "link": null, 
+            "name": "Nub\u00a0"
+        }, 
+        {
+            "def": "A mountain or rock that protrudes through an ice field.", 
+            "link": null, 
+            "name": "Nunatak\u00a0"
+        }, 
+        {
+            "def": "A metal wedge attached to a wire loop that is inserted into cracks for protection. See hexcentric.", 
+            "link": null, 
+            "name": "Nut\u00a0"
+        }, 
+        {
+            "def": "See Cleaning Tool.", 
+            "link": null, 
+            "name": "Nut Key\u00a0"
+        }, 
+        {
+            "def": "The quiet, deliberate, and precise placement of toes upon a foothold.", 
+            "link": null, 
+            "name": "Ninja feet\u00a0"
+        }, 
+        {
+            "def": "Danger in a climbing situation which comes from hazards inherent in the location of the climb, not depending on the climber's skill level. Most often these involve falling rock or ice, or avalanches.", 
+            "link": null, 
+            "name": "Objective danger\u00a0"
+        }, 
+        {
+            "def": "Called by a climber when requesting that the belayer remove belay equipment from the climbing rope (for example, when cleaning top protection from a lead route). Replied to with Belay off.", 
+            "link": null, 
+            "name": "Off belay\u00a0"
+        }, 
+        {
+            "def": "A crack that is too wide for effective hand or foot jams, but is not as large as a chimney.", 
+            "link": null, 
+            "name": "Off-width\u00a0"
+        }, 
+        {
+            "def": "What an American climber calls when he is ready to be belayed. Replied to with Belay on.", 
+            "link": null, 
+            "name": "On belay\u00a0"
+        }, 
+        {
+            "def": "A clean ascent, with no prior practice or beta. For ascents on the first attempt with receiving beta see flash.", 
+            "link": null, 
+            "name": "On-sight\u00a0"
+        }, 
+        {
+            "def": "An inside angle in the rock. See also dihedral.", 
+            "link": null, 
+            "name": "Open book\u00a0"
+        }, 
+        {
+            "def": "A section of rock or ice that is angled beyond vertical. See roof.", 
+            "link": null, 
+            "name": "Overhang\u00a0"
+        }, 
+        {
+            "def": "A panicking novice climber clinging to handholds while searching desperately for a foothold.", 
+            "link": null, 
+            "name": "Panic Bear\u00a0"
+        }, 
+        {
+            "def": "To systematically attain designated summits under prescribed conditions.", 
+            "link": null, 
+            "name": "Peak-bagging\u00a0"
+        }, 
+        {
+            "def": "To fall.", 
+            "link": null, 
+            "name": "Peel\u00a0"
+        }, 
+        {
+            "def": "A piton.", 
+            "link": null, 
+            "name": "Peg\u00a0"
+        }, 
+        {
+            "def": "Adjustable attachment point from climber to anchor. Allows for building anchors, cleaning routes and rappeling to be done efficiently and faster.", 
+            "link": null, 
+            "name": "Personal Anchor System (PAS)\u00a0"
+        }, 
+        {
+            "def": "Long, tubular rods driven into snow to provide a quick anchor.", 
+            "link": null, 
+            "name": "Pickets\u00a0"
+        }, 
+        {
+            "def": "A movement where the foot is placed on the same hold as the hand.", 
+            "link": null, 
+            "name": "Pied \u00e0 main\u00a0"
+        }, 
+        {
+            "def": "A crampon technique in the French style: to climb on high-angle ice with feet flat on the ice (as opposed to front-pointing).", 
+            "link": null, 
+            "name": "Pied \u00e0 plat\u00a0"
+        }, 
+        {
+            "def": "A crampon technique in the French style: to rest on high-angle ice with one foot tucked under the buttocks, toes pointed straight down-slope.", 
+            "link": null, 
+            "name": "Pied assis\u00a0"
+        }, 
+        {
+            "def": "A short, light sleeping bag covering the lower half of the body only. It is designed to be used in connection with a down jacket for lightweight bivvies.", 
+            "link": null, 
+            "name": "Pied d'Elephant\u00a0"
+        }, 
+        {
+            "def": "A crampon technique in the French style: to walk on moderate-angle ice with toes pointed outward; literally, 'duck-footed'.", 
+            "link": null, 
+            "name": "Pied en canard\u00a0"
+        }, 
+        {
+            "def": "A crampon technique in the French style: to walk on low-angle ice with toes pointed straight ahead.", 
+            "link": null, 
+            "name": "Pied marche\u00a0"
+        }, 
+        {
+            "def": "A No-hand rest.", 
+            "link": null, 
+            "name": "Picknick stop\u00a0"
+        }, 
+        {
+            "def": "This is a hold where you must pinch it to hold on. They come in various sizes.", 
+            "link": null, 
+            "name": "Pinch Hold\u00a0"
+        }, 
+        {
+            "def": "To complete a lead climb without falling or resting on the rope (hangdogging), but with pre-placed protection and carabiners. Also see clean and redpoint.", 
+            "link": null, 
+            "name": "Pinkpoint\u00a0"
+        }, 
+        {
+            "def": "In the strictest climbing definition, a pitch is considered one rope length 50\u201360 metres (160\u2013200\u00a0ft). However, in guide books and route descriptions, a pitch is the portion of a climb between two belay points.", 
+            "link": null, 
+            "name": "Pitch\u00a0"
+        }, 
+        {
+            "def": "A flat or angled metal blade of steel which incorporates a clipping hole for a carabiner or a ring in its body. A piton is typically used in aid-climbing and an appropriate size and shape is hammered into a thin crack in the rock and preferably removed by the last team member.", 
+            "link": null, 
+            "name": "Piton\u00a0"
+        }, 
+        {
+            "def": "Clip-on string fastened to piton when inserting or removing, so as to avoid loss.", 
+            "link": null, 
+            "name": "Piton catcher\u00a0"
+        }, 
+        {
+            "def": "An aggressive step pattern for descending on hard or steep angle snow.", 
+            "link": null, 
+            "name": "Plunge step\u00a0"
+        }, 
+        {
+            "def": "An alternative to chalk made from pine resin. Popular in Fontainebleau but discouraged (or actively forbidden) everywhere else since it deposits a thick, shiny resin layer on the rock and friction can only be achieved by using more pof.", 
+            "link": null, 
+            "name": "Pof\u00a0"
+        }, 
+        {
+            "def": "On popular routes, the sheer passage of traffic can polish the rock to such an extent as to make the climbing much more difficult. This is most noticeable at the crux, and more common on certain rock types.", 
+            "link": null, 
+            "name": "Polish\u00a0"
+        }, 
+        {
+            "def": "A hold or part of a hold, having a surface facing upwards, or away from the direction it is pulled, facilitating use.", 
+            "link": null, 
+            "name": "Positive\u00a0"
+        }, 
+        {
+            "def": "Forcefully exhaling to facilitate O2/CO2 exchange at altitude. Also called the \"Whittaker wheeze\".", 
+            "link": null, 
+            "name": "Pressure Breathing\u00a0"
+        }, 
+        {
+            "def": "Used in bouldering, the path that a climber takes in order to complete the climb. Same as route in roped climbing.", 
+            "link": null, 
+            "name": "Problem\u00a0"
+        }, 
+        {
+            "def": "A potential new route or bouldering problem that is being attempted, but has not seen a first ascent yet.", 
+            "link": null, 
+            "name": "Project\u00a0"
+        }, 
+        {
+            "def": "To climb a wall Toprope with having another rope connected to the climber, for practice of Lead climbing clipping. The other rope is normally not connected to any belayer below and is only there to practice the clipping. Usually practiced while learning how to Lead Climb. Also commonly referred to as \"mock leading\".", 
+            "link": null, 
+            "name": "Pseudo Leading\u00a0"
+        }, 
+        {
+            "def": "A piece of protection that everyone knows will not hold a fall, but makes the climber feel better about having gear beneath them anyhow.", 
+            "link": null, 
+            "name": "Psychological protection\u00a0"
+        }, 
+        {
+            "def": "An over-ambitious and under-prepared climber.", 
+            "link": null, 
+            "name": "Punter\u00a0"
+        }, 
+        {
+            "def": "To have a solid grip on a hold or feature. \"I had good purchase on that jug.\"", 
+            "link": null, 
+            "name": "Purchase\u00a0"
+        }, 
+        {
+            "def": "Used to attach a freely running rope to anchors or chocks. Sometimes called quickies, draws, or extenders.", 
+            "link": null, 
+            "name": "Quickdraw\u00a0"
+        }, 
+        {
+            "def": "A screw-type oval-shape stainless steel carabiner which is smaller than normal oval-shape biner, particularly used for attaching to the chains of the master anchor. Also known as a maillon or maillon rapide.", 
+            "link": null, 
+            "name": "Quicklink\u00a0"
+        }, 
+        {
+            "def": "The set of equipment carried up a climb; also, the part of a harness (consisting of several plastic loops) where equipment is hung, ready to be used.", 
+            "link": null, 
+            "name": "Rack\u00a0"
+        }, 
+        {
+            "def": "The process by which a climber may descend on a fixed rope using a friction device. Also known as abseil or roping down.", 
+            "link": null, 
+            "name": "Rappel\u00a0"
+        }, 
+        {
+            "def": "A removable bolt, similar in concept to a sliding nut, but shaped to fit into a drilled hole.", 
+            "link": null, 
+            "name": "RB\u00a0"
+        }, 
+        {
+            "def": "The replacement of bolts on an existing climb.", 
+            "link": null, 
+            "name": "Rebolting\u00a0"
+        }, 
+        {
+            "def": "To complete while placing protection on a lead climb after making previous unsuccessful attempts, done without falling or resting on the rope (hangdogging). Also see clean and pinkpoint.", 
+            "link": null, 
+            "name": "Redpoint\u00a0"
+        }, 
+        {
+            "def": "Energy-saving technique where unweighted (uphill) leg is rested between each forward step, sometimes by \"locking\" knee of rear leg.", 
+            "link": null, 
+            "name": "Rest step\u00a0"
+        }, 
+        {
+            "def": "The addition of bolts to an existing climb which has already been ascended using natural protection.", 
+            "link": null, 
+            "name": "Retro-bolting\u00a0"
+        }, 
+        {
+            "def": "To clip into the first piece of protection from the ground by swinging a loop of rope so that it is caught by a carabiner. This can only be done when the first piece of gear is already placed.", 
+            "link": null, 
+            "name": "Rodeo clipping\u00a0"
+        }, 
+        {
+            "def": "A steep overhang which transitions sharply into shallower climbing often blocking direct sight of the feet causing the climber to find footholds blindly.", 
+            "link": null, 
+            "name": "Roof\u00a0"
+        }, 
+        {
+            "def": "A basic item of climbing equipment that physically connects the climber to the belayer.", 
+            "link": null, 
+            "name": "Rope\u00a0"
+        }, 
+        {
+            "def": "The most capable climber in the group. The person who can get the rope up there for the rest of the party.", 
+            "link": null, 
+            "name": "Rope gun\u00a0"
+        }, 
+        {
+            "def": "Jumping from objects using rock climbing equipment.", 
+            "link": null, 
+            "name": "Rope jumping\u00a0"
+        }, 
+        {
+            "def": "Also roped team or roped party. Team of mountaineers or climbers joined together by a safety rope.", 
+            "link": null, 
+            "name": "Rope team\u00a0"
+        }, 
+        {
+            "def": "The path of a particular climb, or a predefined set of moves.", 
+            "link": null, 
+            "name": "Route\u00a0"
+        }, 
+        {
+            "def": "A small nut, named after Roland Pauligk. Not certified for sale in Europe.", 
+            "link": null, 
+            "name": "RP\u00a0"
+        }, 
+        {
+            "def": "Made of nylon and nylon/blend materials, runners, also referred to as slings, are used by climbers for a multitude of purposes.", 
+            "link": null, 
+            "name": "Runner\u00a0"
+        }, 
+        {
+            "def": "Acronym, stands for Realized Ultimate Reality Piton. Miniature, postage-stamp sized piton originally designed by Yvon Chouinard", 
+            "link": null, 
+            "name": "RURP\u00a0"
+        }, 
+        {
+            "def": "A high pass between two peaks, larger than a col.", 
+            "link": null, 
+            "name": "Saddle\u00a0"
+        }, 
+        {
+            "def": "A climb which receives a much lower grade than deserved. Also used as a verb when referring to the act of describing a climbing route as easier than it actually is.", 
+            "link": null, 
+            "name": "Sandbag\u00a0"
+        }, 
+        {
+            "def": "Head Sherpa mountain guide.", 
+            "link": null, 
+            "name": "Sardar or Sirdar\u00a0"
+        }, 
+        {
+            "def": "contraction of the word ascend, past tense: 'scended. See also send.", 
+            "link": null, 
+            "name": "'scend"
+        }, 
+        {
+            "def": "The intense feeling of disappointment when finding a difficult crux after a jug or good handhold.", 
+            "link": null, 
+            "name": "Scheissegrippen"
+        }, 
+        {
+            "def": "A type of climbing somewhere between hiking and graded rock climbing.", 
+            "link": null, 
+            "name": "Scrambling\u00a0"
+        }, 
+        {
+            "def": "Small, loose, broken rocks, often at the base of a cliff. Also an area or slope covered in scree. Scree is distinguished from Talus by its smaller size and looser configuration.", 
+            "link": null, 
+            "name": "Scree\u00a0"
+        }, 
+        {
+            "def": "A small climbing hold, screwed onto the wall in climbing gyms. Can be used for feet in a route regardless of its colour. Also referred to as a foot chip, chip or micro.", 
+            "link": null, 
+            "name": "Screw on\u00a0"
+        }, 
+        {
+            "def": "A climber who follows the lead, or first, climber.", 
+            "link": null, 
+            "name": "Second\u00a0"
+        }, 
+        {
+            "def": "The act of planting the pick of your ice axe into the snow to arrest a fall in the event of a slip. Also a method of stopping in a controlled glissade.", 
+            "link": null, 
+            "name": "Self-Arrest\u00a0"
+        }, 
+        {
+            "def": "To perform belaying for oneself.", 
+            "link": null, 
+            "name": "Self-Belay\u00a0"
+        }, 
+        {
+            "def": "To cleanly complete a route. i.e. on-sight, flash, redpoint. See also 'scend.", 
+            "link": null, 
+            "name": "Send\u00a0"
+        }, 
+        {
+            "def": "A large ice tower.", 
+            "link": null, 
+            "name": "Serac\u00a0"
+        }, 
+        {
+            "def": "The involuntary vibration of one or both legs resulting from fatigue or panic. Also known as scissor leg, Elvis Presley syndrome, or disco knee. Can often be remedied by bringing the heel of the offending leg down, changing the muscles used to support the weight of the climber", 
+            "link": null, 
+            "name": "Sewing-machine leg\u00a0"
+        }, 
+        {
+            "def": "The end of the belay rope that is attached to the lead climber. Being on the sharp end refers to the act of lead climbing, which is considered more psychologically demanding than top-roping or following, since it may involve more route-finding, as well as the possibility of longer, more consequential falls.", 
+            "link": null, 
+            "name": "Sharp end\u00a0"
+        }, 
+        {
+            "def": "A Sherpa is a person of the ethnic group of the same name that is located in the Himalayan Mountains. Also a generic term for mountaineering porters in Nepal (usually those working at or above base camp) regardless of their ethnic group", 
+            "link": null, 
+            "name": "Sherpa\u00a0"
+        }, 
+        {
+            "def": "A traditionally-belayed lead climber reaches a new belay station, creates an anchor, tying the lead rope off to the anchor. The climber then switches over to self-belaying and continues to climb. Meanwhile, the second climber ascends the fixed rope using ascenders (aka Jugging) and cleans the pitch. When the second reaches the belay, he or she anchors in and starts to belay the leader in the traditional way again. When the leader reaches the next belay the process is repeated.", 
+            "link": null, 
+            "name": "Short fixing\u00a0"
+        }, 
+        {
+            "def": "A hold that needs to be gripped with a sideways pull towards the body.", 
+            "link": null, 
+            "name": "Side pull\u00a0"
+        }, 
+        {
+            "def": "A technique where both climbers move simultaneously upward with the leader placing protection which the second removes as they advance. A device known as a Tibloc which allows the rope to only move in a single direction is sometimes used to prevent the second climber from accidentally pulling the lead climber off should the second slip.", 
+            "link": null, 
+            "name": "Simulclimbing\u00a0"
+        }, 
+        {
+            "def": "The use of a single rope where one or both ends of the rope are attached to fixed anchor points.", 
+            "link": null, 
+            "name": "Single Rope Technique (SRT)\u00a0"
+        }, 
+        {
+            "def": "A method of starting a rappel from a cliff edge, accomplished by sitting with legs over the edge and then spinning around to face the cliff while planting feet on the face.", 
+            "link": null, 
+            "name": "Sit and spin\u00a0"
+        }, 
+        {
+            "def": "Starting a climb from a position in which the climber is sitting on the floor. This is common in climbing gyms in order to fit an extra move into the climb. Noted as SS or SDS in some topo guides.", 
+            "link": null, 
+            "name": "Sit start\u00a0"
+        }, 
+        {
+            "def": "Climbing without following any specific color in a gym with color-designated routes/problems. Also referred to as \"climbing the rainbow,\" since any and all colors of holds are used.", 
+            "link": null, 
+            "name": "Skittling\u00a0"
+        }, 
+        {
+            "def": "A small hook which gives hold on small protrusions on watery and slippery grips. They are most often used for placements, often extremely marginal, in aid climbing, although they also feature in some extreme free routes. Additionally, the skyhook can be attached to the harness, thus allowing the climber to rest, or held in one or both hands to hold a grip.", 
+            "link": null, 
+            "name": "Skyhook\u00a0"
+        }, 
+        {
+            "def": "A relatively low-angle (significantly less than vertical) section of rock, usually with few large features. Requires slab climbing techniques.", 
+            "link": null, 
+            "name": "Slab\u00a0"
+        }, 
+        {
+            "def": "A particular type of rock climbing, and its associated techniques, involved in climbing rock that is less than vertical. The emphasis is on balance, footwork, and making use of very small features or rough spots on the rock for friction.", 
+            "link": null, 
+            "name": "Slab climbing\u00a0"
+        }, 
+        {
+            "def": "Portion of rope that is not taut, preferably minimized during belay.", 
+            "link": null, 
+            "name": "Slack\u00a0"
+        }, 
+        {
+            "def": "Abbreviation for spring-loaded camming device, a type of protection device. These are better known by the term cam.", 
+            "link": null, 
+            "name": "SLCD\u00a0"
+        }, 
+        {
+            "def": "Webbing sewn, or tied, into a loop.", 
+            "link": null, 
+            "name": "Sling\u00a0"
+        }, 
+        {
+            "def": "Poor footwork [Northumberland climbing slang] as in \"nae sloppy ploppin'\", i.e. 'you'll need accurate footwork to have any chance of flashing this'.", 
+            "link": null, 
+            "name": "Sloppy Plopping\u00a0"
+        }, 
+        {
+            "def": "A sloping hold with very little positive surface. A sloper is comparable to palming a basketball.", 
+            "link": null, 
+            "name": "Sloper\u00a0"
+        }, 
+        {
+            "def": "To use friction on the sole of the climbing shoe, in the absence of any useful footholds.", 
+            "link": null, 
+            "name": "Smearing\u00a0"
+        }, 
+        {
+            "def": "Smearing on an edge, especially on a dime edge or any linear hold that is too small to stand on or use as an ordinary positive hold.", 
+            "link": null, 
+            "name": "Smedging\u00a0"
+        }, 
+        {
+            "def": "A type of tubular ice screw that is inserted by hammering.", 
+            "link": null, 
+            "name": "Snarg\u00a0"
+        }, 
+        {
+            "def": "An angled aluminium plate attached to a metal cable. The fluke is buried into snow, typically used as a deadman anchor.", 
+            "link": null, 
+            "name": "Snow fluke\u00a0"
+        }, 
+        {
+            "def": "Setting and cleaning one's own protection on an ascent; climbing by oneself.", 
+            "link": null, 
+            "name": "Solo climbing\u00a0"
+        }, 
+        {
+            "def": "A hold that is wet and slimy from water or some other source.", 
+            "link": null, 
+            "name": "Soupy\u00a0"
+        }, 
+        {
+            "def": "In indoor climbing, a hold that is not secure and spins in place when weight is applied.", 
+            "link": null, 
+            "name": "Spinner\u00a0"
+        }, 
+        {
+            "def": "See horn.", 
+            "link": null, 
+            "name": "Spike\u00a0"
+        }, 
+        {
+            "def": "Describes a clean crack with perfectly parallel sides, usually in an otherwise blank face. Generalized to refer to any great climb, happy situation, or even favorable weather.", 
+            "link": null, 
+            "name": "Splitter\u00a0"
+        }, 
+        {
+            "def": "A style of climbing where form, technical (or gymnastic) ability and strength are more emphasized over exploration, self-reliance and the exhilaration of the inherent dangers involved in the sport. Sport climbing routes tend to be well protected with pre-placed bolt-anchors and lends itself well to competitive climbing.", 
+            "link": null, 
+            "name": "Sport climbing\u00a0"
+        }, 
+        {
+            "def": "A method of protection commonly used during bouldering or before the leader has placed a piece of protection. The spotter stands beneath the climber, ready to absorb the energy of a fall and direct him away from any hazards.", 
+            "link": null, 
+            "name": "Spotting\u00a0"
+        }, 
+        {
+            "def": "A type of hand position where the fingers and thumb are opposed.", 
+            "link": null, 
+            "name": "Sprag\u00a0"
+        }, 
+        {
+            "def": "Giving unwanted\u00a0\u2014 and unasked-for - beta to a fellow climber. Also, excessive, overly prominent, or boorish proclamation of one's own (often exaggerated) skills or exploits.", 
+            "link": null, 
+            "name": "Spraying\u00a0"
+        }, 
+        {
+            "def": "Of a style of climbing or specific move, not dynamic. In general this entails movement of a limb to a new hold without the simultaneous transfer of weight. Instead weight transfer occurs after the limb has moved.", 
+            "link": null, 
+            "name": "Static\u00a0"
+        }, 
+        {
+            "def": "A non-elastic rope. Compare with dynamic rope.", 
+            "link": null, 
+            "name": "Static rope\u00a0"
+        }, 
+        {
+            "def": "Descriptive of any climbing face that is angled beyond vertical. See overhang.", 
+            "link": null, 
+            "name": "Steep\u00a0"
+        }, 
+        {
+            "def": "Scooping steps out of snow or ice with the adze of an ice axe.", 
+            "link": null, 
+            "name": "Step cutting\u00a0"
+        }, 
+        {
+            "def": "Scooping and stamping steps out of soft snow with the feet.", 
+            "link": null, 
+            "name": "Step kicking\u00a0"
+        }, 
+        {
+            "def": "A belay device consisting of a flat plate with a pair of slots. Named after the inventor Fritz Sticht.", 
+            "link": null, 
+            "name": "Sticht plate\u00a0"
+        }, 
+        {
+            "def": "A long stick on the end of which a climber can affix a quickdraw. It allows the climber to clip a quickdraw to the first bolt on a sport climb while still standing on the ground. This is especially useful if the first bolt is high up, and out of the comfort zone of the climber. A stick clip can be bought or easily made by attaching a quickdraw to a stick with a rubber band.", 
+            "link": null, 
+            "name": "Stick clip\u00a0"
+        }, 
+        {
+            "def": "A kind of proto-climbing harness consisting of a long length of tubular webbing wrapped several times around the climbers body and secured with a water knot. Largely eschewed today in favor of commercial harnesses.", 
+            "link": null, 
+            "name": "Swami Belt\u00a0"
+        }, 
+        {
+            "def": "Refers to the last member or the tail of a climbing group. The sweeper's task is to spot and retrieve things that may have accidentally fallen from the preceding climbers; to make sure that no mess or gear is left behind; and to make sure that the rear is keeping up with the whole team. The term sweeper, a Filipino contribution to mountaineering vocabulary, was introduced in 1998 and was inspired by the Cleaner, a character in the 1990 film Nikita (also known as La Femme Nikita) by Luc Besson.", 
+            "link": null, 
+            "name": "Sweeper\u00a0"
+        }, 
+        {
+            "def": "A dynamic form of the lieback, described above, rotating off one foot while maintaining a grip with one hand, then grabbing a high handhold at the deadpoint of the swing with the other hand. This move is frequently reversible, unlike more aerial dynos.", 
+            "link": null, 
+            "name": "Swinging-lieback\u00a0"
+        }, 
+        {
+            "def": "To swap limbs on a particular hold. Not to be confused with matching.", 
+            "link": null, 
+            "name": "Switcharoo\u00a0"
+        }, 
+        {
+            "def": "Called by a climber when requesting that the belayer remove all slack. See hang dogging.", 
+            "link": null, 
+            "name": "Take\u00a0"
+        }, 
+        {
+            "def": "An area of large rock fragments on a mountainside that may vary from house-size to as small as a small backpack. The area, if older and consolidated, may be stable, or the rocks may be precariously balanced. Talus is distinguished from scree in that it is larger and may feature solid interlocking of the rocks, while scree is by definition loose.", 
+            "link": null, 
+            "name": "Talus\u00a0"
+        }, 
+        {
+            "def": "When, after a whipper, or long fall, a climber falls past their belayer, who is generally lifted up off the ground.", 
+            "link": null, 
+            "name": "Teabagging\u00a0"
+        }, 
+        {
+            "def": "Climbing involving a rope and some means of protection, as opposed to scrambling or glacier travel.", 
+            "link": null, 
+            "name": "Technical climbing\u00a0"
+        }, 
+        {
+            "def": "A term often used to describe very technical sequences of moves and / or the degree of ingenuity and creativity required to protect a route. Difficulty ratings of climbs often is a combination of technicality of a climb and the endurance or strength necessary to complete it.", 
+            "link": null, 
+            "name": "Technical\u00a0"
+        }, 
+        {
+            "def": "Specialized moves given names to help communicate what to do to another person.", 
+            "link": null, 
+            "name": "Technique\u00a0"
+        }, 
+        {
+            "def": "From the French word meaning outstretched. In this grip the fingers are close to the position when the hand is open. The relative angle between the finger bones is gradual. The load applied is coming from tension in the forearm muscles.", 
+            "link": null, 
+            "name": "Tendu\u00a0"
+        }, 
+        {
+            "def": "A technique for maintaining balance using a taut rope through a point of protection.", 
+            "link": null, 
+            "name": "Tension\u00a0"
+        }, 
+        {
+            "def": "A climb that is representative of the hardest, best climbs in an area.", 
+            "link": null, 
+            "name": "Testpiece\u00a0"
+        }, 
+        {
+            "def": "Make progress by squeezing into a space and wriggling against opposing rock surfaces.", 
+            "link": null, 
+            "name": "Thrutching\u00a0"
+        }, 
+        {
+            "def": "The leg straps and waist belt create two loops connecting the belay loop. The points which you tie in at. Also known as soft loops.", 
+            "link": null, 
+            "name": "Tie-In Points\u00a0"
+        }, 
+        {
+            "def": "A toe hook is securing the upper side of the toes on a hold. It helps pull the body inwards\u2014towards the wall. The toe hook is often used on overhanging rock where it helps to keep the body from swinging away from the wall.", 
+            "link": null, 
+            "name": "Toe hook\u00a0"
+        }, 
+        {
+            "def": "To belay from a fixed anchor point above the climb. Top-roping requires easy access to the top of the climb, by means of a footpath or scrambling.", 
+            "link": null, 
+            "name": "Top rope\u00a0"
+        }, 
+        {
+            "def": "To complete a route by ascending over the top of the structure being climbed.", 
+            "link": null, 
+            "name": "Top-out\u00a0"
+        }, 
+        {
+            "def": "To use holds specified out for you in any route, usually used in gym climbing.", 
+            "link": null, 
+            "name": "Track\u00a0"
+        }, 
+        {
+            "def": "A style of climbing that emphasizes the adventure and exploratory nature of climbing. While sport climbers generally will use pre-placed protection (\"bolts\"), traditional (or \"trad\") climbers will place their own protection as they climb, generally carried with them on a rack.", 
+            "link": null, 
+            "name": "Traditional climbing\u00a0"
+        }, 
+        {
+            "def": "Getting prepared to climb on difficult mountains.", 
+            "link": null, 
+            "name": "Training\u00a0"
+        }, 
+        {
+            "def": "A technique that is typically used while lowering and cleaning gear from an overhanging and/or traversing route. A quickdraw is clipped between the climber's harness and the rope that is threaded through the gear. As the climber is lowered by the belayer, the quickdraw holds the cleaner close to the wall and following the line of the route. Without the quickdraw, the climber would lower straight down, further and further from the remaining gear to be cleaned. Also known as trolleying.", 
+            "link": null, 
+            "name": "Tramming\u00a0"
+        }, 
+        {
+            "def": "A simple camming protection device that has no moving parts.", 
+            "link": null, 
+            "name": "Tricam\u00a0"
+        }, 
+        {
+            "def": "A belay device.", 
+            "link": null, 
+            "name": "Tuber\u00a0"
+        }, 
+        {
+            "def": "A limestone rib formation that protrudes from the wall which can sometimes fit within the pinching grasp of a climber's hand; alternatively: a plastic, bolted on bouldering hold designed to replicate such a formation on an indoor climbing wall.", 
+            "link": null, 
+            "name": "Tufa\u00a0"
+        }, 
+        {
+            "def": "An outdated climbing technique where one climber stands on the shoulders of another climber as an assist in climbing.", 
+            "link": null, 
+            "name": "Two man stand\u00a0"
+        }, 
+        {
+            "def": "A hold which is gripped with the palm of the hand facing upwards", 
+            "link": null, 
+            "name": "Undercling\u00a0"
+        }, 
+        {
+            "def": "A technical grading system for bouldering problems, invented by John Sherman.", 
+            "link": null, 
+            "name": "\"V\"-grade\u00a0"
+        }, 
+        {
+            "def": "A type of abseiling point used especially in winter and ice climbing. Also called abalakov thread.", 
+            "link": null, 
+            "name": "V-thread\u00a0"
+        }, 
+        {
+            "def": "A thin coating of ice that forms over rocks when rainfall or melting snow freezes on rock. Hard to climb on as there is insufficient depth for crampons to have reliable penetration. See also clear ice and glaze ice.", 
+            "link": null, 
+            "name": "Verglas\u00a0"
+        }, 
+        {
+            "def": "A large, hollow bolted-on bouldering hold.", 
+            "link": null, 
+            "name": "Volume\u00a0"
+        }, 
+        {
+            "def": "Originating in Sheffield, a WAD is a \"super climber\" or climber who is on-sighting 7c+.", 
+            "link": null, 
+            "name": "WAD\u00a0"
+        }, 
+        {
+            "def": "A bamboo stick with a small flag on top used to mark paths over glaciers and snow fields.", 
+            "link": null, 
+            "name": "Wand\u00a0"
+        }, 
+        {
+            "def": "A graceful female climber who appears to dance up the climbing wall.", 
+            "link": null, 
+            "name": "Wallerina\u00a0"
+        }, 
+        {
+            "def": "Hollow and flat nylon strip, mainly used to make slings.", 
+            "link": null, 
+            "name": "Webbing\u00a0"
+        }, 
+        {
+            "def": "A piece of webbing with eyes sewn into the ends which can be used in place of a cordelette.", 
+            "link": null, 
+            "name": "Webolette\u00a0"
+        }, 
+        {
+            "def": "As in, \"weighting the rope.\" Any time the rope takes the weight of the climber. This can happen during a minor fall, a whipper (long fall), or simply by resting while hanging on the belay rope (see also hangdogging).", 
+            "link": null, 
+            "name": "Weighting\u00a0"
+        }, 
+        {
+            "def": "A lead fall from above and to the side of the last clip, whipping oneself downwards and in an arc. Has come to denote any fall beyond the last placed or clipped piece of protection.", 
+            "link": null, 
+            "name": "Whipper\u00a0"
+        }, 
+        {
+            "def": "A route or sequence that a climber has rehearsed extensively and thus ascends with ease. See dialled.", 
+            "link": null, 
+            "name": "Wired\u00a0"
+        }, 
+        {
+            "def": "See nuts.", 
+            "link": null, 
+            "name": "Wires\u00a0"
+        }, 
+        {
+            "def": "To complete a lead climb during night time.", 
+            "link": null, 
+            "name": "Wolf moon\u00a0"
+        }, 
+        {
+            "def": "A home made climbing wall. Often specifically a hybrid between a climbing wall and a fingerboard. Specifically called such because of the wooden panels (usually left unpainted) used to attach the climbing holds to.", 
+            "link": null, 
+            "name": "Woodie\u00a0"
+        }, 
+        {
+            "def": "A rating from the Yosemite Decimal System given to climbs that have very poor or no protection. These climbs often present risk of serious injury or death if a fall were to occur, even if the climb is properly protected.", 
+            "link": null, 
+            "name": "X (Protection Rating)\u00a0"
+        }, 
+        {
+            "def": "A hold appearing to be composed of a different type of rock than the surrounding face.", 
+            "link": null, 
+            "name": "Xeno\u00a0"
+        }, 
+        {
+            "def": "Another name for a Sit start, a 'Yabo start' was named after John 'Yabo' Yablonski.[6]", 
+            "link": null, 
+            "name": "Yabo\u00a0"
+        }, 
+        {
+            "def": "To pull on the rope to make upward progress, often with assistance from the belayer. This may be done to bypass a crux, or to quickly regain ground lost after a fall without re-climbing the section. AKA to \"jug up\" the rope.", 
+            "link": null, 
+            "name": "Yard up\u00a0"
+        }, 
+        {
+            "def": "A numerical system for rating the difficulty of walks, hikes, and climbs in the United States. The rock climbing (5.x) portion of the scale is the most common climb grading system used in the US. The scale starts with the easiest grades at 5.0 and is open-ended on the harder end. As of November 2013[update], the most difficult grade was 5.15c.", 
+            "link": null, 
+            "name": "Yosemite Decimal System\u00a0"
+        }, 
+        {
+            "def": "Clipping into an anchor with the segment of rope from beneath the previous piece of protection, resulting in a potentially dangerous tangled configuration of the belay rope.", 
+            "link": null, 
+            "name": "Z-clipping\u00a0"
+        }, 
+        {
+            "def": "A fall in which each piece of protection fails in turn. In some cases when the rope comes taut during a fall, the protection can fail from the bottom up, especially if the first piece was not placed to account for outward and/or upward force.", 
+            "link": null, 
+            "name": "Zipper fall\u00a0"
+        }, 
+        {
+            "def": "Also Z-system. A particular configuration of rope, anchors, and pulleys typically used to extricate a climber after falling into a crevasse.", 
+            "link": null, 
+            "name": "Z-pulley\u00a0"
+        }
+    ]
+}

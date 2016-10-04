@@ -1,0 +1,1896 @@
+{
+    "c2": "Transportation", 
+    "c3": "rail transport", 
+    "words": [
+        {
+            "def": "A British signalling scheme designed to ensure the safe operation of a railway by allowing only one train to occupy a defined section of track (block) at a time[2]", 
+            "link": "/wiki/Absolute_block_signalling", 
+            "name": "Absolute block signalling"
+        }, 
+        {
+            "def": "The most common type of railway, where power is applied by driving some or all of the wheels of the locomotive[3]", 
+            "link": "/wiki/Adhesion_railway", 
+            "name": "Adhesion railway"
+        }, 
+        {
+            "def": "The weight on the driving wheels of a locomotive, which determines the frictional grip between wheels and rail, and hence the drawbar pull which a locomotive can exert[4]", 
+            "link": "/wiki/Adhesive_weight", 
+            "name": "Adhesive weight"
+        }, 
+        {
+            "def": "A power braking system with compressed air as the operating medium[5]", 
+            "link": "/wiki/Railway_air_brake", 
+            "name": "Air brake"
+        }, 
+        {
+            "def": "Similar to the dead man's switch other than it does not require the operator's constant interaction. Instead, an alarm is sounded at a preset interval in which the operator must respond by pressing a button to reset the alarm and timer if no other controls are operated. If the operator does not respond within a preset time, the prime mover is automatically throttled back to idle and the brakes are automatically applied.[6]", 
+            "link": null, 
+            "name": "Alerter or watchdog"
+        }, 
+        {
+            "def": "The adhesion available during traction mode with 99% reliability in all weather conditions[7]", 
+            "link": "/wiki/Adhesion_railway#All-weather_adhesion", 
+            "name": "All weather adhesion"
+        }, 
+        {
+            "def": "An electrical generator that converts mechanical energy to electrical energy in the form of alternating current[8]", 
+            "link": "/wiki/Alternator", 
+            "name": "Alternator"
+        }, 
+        {
+            "def": "The second largest builder of steam locomotives in the United States[9][10]", 
+            "link": "/wiki/American_Locomotive_Company", 
+            "name": "American Locomotive Company (ALCO)"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-4-0 wheel arrangement[11]", 
+            "link": null, 
+            "name": "American type"
+        }, 
+        {
+            "def": "A valve affixed to each end of a piece of rolling stock that, when opened, admits compressed air to the brake pipe (or vents it to the atmosphere if air hose is detached)[12]", 
+            "link": null, 
+            "name": "Angle cock"
+        }, 
+        {
+            "def": "Tubes connected to the water-space of the boiler provided in and across the firebox in order to add extra high-temperature heating surface. They also serve to support the brick arch or equivalent.[citation needed]", 
+            "link": "/wiki/Fire-tube_boiler#Water_tubes", 
+            "name": "Arch tubes"
+        }, 
+        {
+            "def": "A steam locomotive with one or more engine units that can move relative to the main frame[9][13]", 
+            "link": "/wiki/Articulated_locomotive", 
+            "name": "Articulated locomotive"
+        }, 
+        {
+            "def": "The sharing of one truck by adjacent ends of two rail vehicles", 
+            "link": "/wiki/Articulated_vehicles", 
+            "name": "Articulation"
+        }, 
+        {
+            "def": "A feature of a locomotive which has the same form and purpose as the domestic variety (i.e. to collect the ashes which fall through the bars of the grate). The only significant difference is the size, measured in feet rather than inches.", 
+            "link": "/wiki/Ashpan", 
+            "name": "Ashpan"
+        }, 
+        {
+            "def": "An alternating current electric motor whose speed varies with load and has no fixed relation to the frequency of the supply", 
+            "link": "/wiki/Asynchronous_motor", 
+            "name": "Asynchronous"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-4-2 wheel arrangement[14][15][16]", 
+            "link": null, 
+            "name": "Atlantic type"
+        }, 
+        {
+            "def": "A system that consists of a series of signals that divide a railway line into a series of blocks and then functions to control the movement of trains between them through automatic signals", 
+            "link": "/wiki/Automatic_block_signaling", 
+            "name": "Automatic block signaling (ABS)"
+        }, 
+        {
+            "def": "A general class of train protection systems for railways that involves a speed control mechanism in response to external inputs", 
+            "link": "/wiki/Automatic_train_control", 
+            "name": "Automatic train control (ATC)"
+        }, 
+        {
+            "def": "An operational safety enhancement device used to help automate operations of trains", 
+            "link": "/wiki/Automatic_train_operation", 
+            "name": "Automatic train operation (ATO)"
+        }, 
+        {
+            "def": "Either of two implementations of a train protection system installed in some trains in order to help prevent collisions through a driver's failure to observe a signal or speed restriction", 
+            "link": "/wiki/Automatic_train_protection", 
+            "name": "Automatic train protection (ATP)"
+        }, 
+        {
+            "def": "A branch-line train consisting of a steam locomotive and passenger carriages that can be driven from either end by means of rodding to the regulator and an additional vacuum brake valve. The fireman remains with the locomotive and, when the driver is at the other end, the fireman controls the cut off and vacuum ejectors in addition to his usual duties.", 
+            "link": "/wiki/GWR_Autotrain", 
+            "name": "Autotrain, push-pull train"
+        }, 
+        {
+            "def": "\n\nThe housing that holds the axle bearings of a locomotive[17]\nThe housing attaching the end of the axle to the bogie which contains the bearing allowing the axle to rotate.[18] See also journal box below.\n\n", 
+            "link": "/wiki/Axlebox", 
+            "name": "Axlebox or axle box"
+        }, 
+        {
+            "def": "A tag or note applied to a defective piece of equipment. Generally, equipment tagged as bad order is not to be used until repairs are performed and the equipment is inspected and approved for use.[19][20]", 
+            "link": null, 
+            "name": "Bad order"
+        }, 
+        {
+            "def": "To release the locomotive brakes while the train brakes are being applied in order to permit smoother handling and prevent excessive slack, wheel slide and flat wheels[21]", 
+            "link": null, 
+            "name": "Bail off"
+        }, 
+        {
+            "def": "The reciprocation and revolving masses of any steam, diesel or electric locomotive need balancing, if it is to work smoothly. Revolving masses can easily be balanced by counterweights, but the balancing of reciprocating parts is a matter of compromise and judgement.", 
+            "link": "/wiki/Engine_balance", 
+            "name": "Balancing"
+        }, 
+        {
+            "def": "Aggregate stone, gravel, or cinders forming the track bed on which sleepers (ties) and track are laid to ensure stability and proper drainage[19][22]", 
+            "link": "/wiki/Track_ballast", 
+            "name": "Ballast"
+        }, 
+        {
+            "def": "See Tamping machine.", 
+            "link": null, 
+            "name": "Ballast tamper"
+        }, 
+        {
+            "def": "A looped length of track, usually at the end of a spur or branch, which allows trains to turn around for the return trip without reversing or shunting. Can be used as part of a freight installation to allow the loading or unloading of bulk materials without the need to stop the train (see merry-go-round train (MGR)).", 
+            "link": "/wiki/Balloon_loop", 
+            "name": "Balloon"
+        }, 
+        {
+            "def": "A platform and track arrangement where the train pulls into a siding, or dead-end, when serving the platform", 
+            "link": "/wiki/Bay_platform", 
+            "name": "Bay platform"
+        }, 
+        {
+            "def": "A one-of-a-kind switcher locomotive (also referred to as the SWBLW) built by the Atchison, Topeka and Santa Fe Railway in 1970", 
+            "link": "/wiki/Beep_(locomotive)", 
+            "name": "Beep"
+        }, 
+        {
+            "def": "A widening of an underground rail tunnel, in preparation for future connection or expansion of service. Used particularly in subway nomenclature.[23][24]", 
+            "link": null, 
+            "name": "Bellmouth"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-8-4 wheel arrangement[25][26][27]", 
+            "link": null, 
+            "name": "Berkshire type"
+        }, 
+        {
+            "def": "A part of a steam locomotive that discharges exhaust steam from the cylinders into the smokebox beneath the chimney in order to increase the draught through the fire", 
+            "link": "/wiki/Blastpipe", 
+            "name": "Blastpipe"
+        }, 
+        {
+            "def": "A locomotive with a four-wheel per truck configuration, each individually powered, as opposed to a six-wheel \"Co-Co\" configuration.", 
+            "link": "/wiki/UIC_classification_of_locomotive_axle_arrangements", 
+            "name": "Bo-Bo (Europe)"
+        }, 
+        {
+            "def": "A cylindrical container adjacent to the firebox in which steam is produced to drive a steam locomotive[28]", 
+            "link": "/wiki/Boiler", 
+            "name": "Boiler"
+        }, 
+        {
+            "def": "A transverse floating beam member of a truck suspension system supporting the weight of a vehicle body[29]", 
+            "link": "/wiki/List_of_railroad_truck_parts#Truck_bolster", 
+            "name": "Bolster"
+        }, 
+        {
+            "def": "A pivoted road barrier at a level crossing", 
+            "link": "/wiki/Boom_barrier", 
+            "name": "Boom barrier"
+        }, 
+        {
+            "def": "An extra set of cylinders that can be engaged on a steam locomotive to drive a trailing truck or tender truck to give additional tractive effort at starting and low speeds[19][30]", 
+            "link": "/wiki/Booster_engine", 
+            "name": "Booster engine"
+        }, 
+        {
+            "def": "A small hut at one end of a railway wagon to protect the brakeman from the elements", 
+            "link": "/wiki/Brakeman%27s_cabin", 
+            "name": "Brakeman's cabin or brakeman's cab"
+        }, 
+        {
+            "def": "The main air pipe of a train's air brake system[31]", 
+            "link": null, 
+            "name": "Brake pipe"
+        }, 
+        {
+            "def": "A secondary railway line that splits off from a main line[19]", 
+            "link": "/wiki/Branch_line", 
+            "name": "Branch line"
+        }, 
+        {
+            "def": "A brick or concrete baffle provided at the front of a locomotive firebox below the tubes, in order to extend the flame path. Early locomotives burned coke; provision of a brick arch was necessary before coal could be used without producing excessive smoke.", 
+            "link": "/wiki/Firebox_(steam_engine)#Brick_arch", 
+            "name": "Brick arch"
+        }, 
+        {
+            "def": "A type of platform trolley found on stations all over the UK rail network from the late 1960s to the early 1980s", 
+            "link": "/wiki/British_Rail_Universal_Trolley_Equipment", 
+            "name": "British Rail Universal Trolley Equipment (BRUTE)"
+        }, 
+        {
+            "def": "Track where the rails are spaced more widely apart than 1,435\u00a0mm (4\u00a0ft\u00a08\u00a01\u20442\u00a0in) (which is called standard gauge).[19] Many early railroads were broad gauge, for example the Great Western Railway in the UK which adopted 7\u00a0ft (2,134\u00a0mm) gauge until it was converted to standard gauge in the 1860s - 1890s. Russia still has over 80,000\u00a0km (50,000\u00a0mi) of broad gauge (1,520\u00a0mm (4\u00a0ft\u00a011\u00a027\u204432\u00a0in)) railroads. Broad gauge is also normal in Spain and Portugal (1,668\u00a0mm (5\u00a0ft\u00a05\u00a021\u204432\u00a0in) Iberian gauge), in India (1,676\u00a0mm (5\u00a0ft\u00a06\u00a0in) Indian gauge), as well as Ireland and used in some parts of Australia (1,600\u00a0mm (5\u00a0ft\u00a03\u00a0in) Irish gauge).", 
+            "link": "/wiki/Broad_gauge", 
+            "name": "Broad gauge"
+        }, 
+        {
+            "def": "A nickname for a British Rail Class 121 railcar[32]", 
+            "link": null, 
+            "name": "Bubble car"
+        }, 
+        {
+            "def": "A side-operated version of the top- or bottom-operated Janney coupler[33]", 
+            "link": null, 
+            "name": "Buckeye coupler"
+        }, 
+        {
+            "def": "A device that cushions the ends of rail vehicles against each other", 
+            "link": "/wiki/Buffer_(rail_transport)", 
+            "name": "Buffer"
+        }, 
+        {
+            "def": "The barrier installed at the end of a dead-end track to prevent rail vehicles from proceeding further", 
+            "link": "/wiki/Buffer_stop", 
+            "name": "Buffer stop or bumper post"
+        }, 
+        {
+            "def": "The nameplate fitted by their manufacturer to locomotives and items of rolling stock", 
+            "link": "/wiki/Builder%27s_plate", 
+            "name": "Builder's plate"
+        }, 
+        {
+            "def": "An open-top flatcar with a wall at each end", 
+            "link": "/wiki/Flatcar#Bulkhead_flatcars", 
+            "name": "Bulkhead flatcar"
+        }, 
+        {
+            "def": "The housing for signals and communications computers that control switches, crossings, and other such controls, relaying information to and from the RTC (rail traffic control).[34]", 
+            "link": null, 
+            "name": "Bungalow"
+        }, 
+        {
+            "def": "A portmanteau of the words \"bus\" and \"substitution\", the practice of replacing a train service with one provided by buses, whether as a temporary or a permanent measure", 
+            "link": "/wiki/Bustitution", 
+            "name": "Bustitution"
+        }, 
+        {
+            "def": "The control room of a locomotive housing the engine crew and their control consoles[35][36]", 
+            "link": "/wiki/Cab_(locomotive)", 
+            "name": "Cab"
+        }, 
+        {
+            "def": "A steam locomotive with its cab at the leading end of the boiler, rather than the usual trailing end adjacent to the tender. The best known example is the Southern Pacific Railroad's AC type, built to handle drag freights through the SP's many tunnels and snow sheds without the danger of the exhaust asphyxiating the engine crew.", 
+            "link": "/wiki/Cab_forward", 
+            "name": "Cab forward"
+        }, 
+        {
+            "def": "A locomotive without a cab. Commonly referred to as a B unit or a Slug, although not all Slugs are cabless.", 
+            "link": "/wiki/Cabless", 
+            "name": "Cabless"
+        }, 
+        {
+            "def": "A railroad car attached usually to the end of a train, in which railroad workers could ride and monitor track and rolling stock conditions. Largely obsolete, having been replaced by the electronic end-of-train device (ETD), or flashing rear-end device (FRED).[37]", 
+            "link": "/wiki/Caboose", 
+            "name": "Caboose"
+        }, 
+        {
+            "def": "The angle of an individual rail relative to vertical (e.g. around curves)", 
+            "link": "/wiki/Cant_(rail)", 
+            "name": "Cant"
+        }, 
+        {
+            "def": "A locomotive which derives its structural strength from a bridge-truss design framework in the sides and roof, which cover the full width of the locomotive", 
+            "link": "/wiki/Cab_unit", 
+            "name": "Carbody unit"
+        }, 
+        {
+            "def": "The overhead wire system used to send electricity to an electric locomotive or multiple unit, tram or light rail vehicle[37]", 
+            "link": "/wiki/Overhead_line", 
+            "name": "Catenary"
+        }, 
+        {
+            "def": "A bulkhead flatcar with a braced beam bisecting its length, used to transport lumber products", 
+            "link": "/wiki/Flatcar#Centerbeam_flatcars.2FLumber_racks", 
+            "name": "Centerbeam"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-6-6-4 wheel arrangement[38][39][40][41]", 
+            "link": null, 
+            "name": "Challenger type"
+        }, 
+        {
+            "def": "A heavier duty locomotive with six wheels per bogie (all axles being separately driven) configuration as opposed to a four-wheel \"Bo-Bo\" configuration. The correct classification is Co'Co', but Co-Co is used more often.", 
+            "link": "/wiki/UIC_classification", 
+            "name": "Co-Co (EU)"
+        }, 
+        {
+            "def": "A steam-operated device in the tender intended to push coal forward to a point where it can be shovelled directly into the fire[42]", 
+            "link": null, 
+            "name": "Coal pusher"
+        }, 
+        {
+            "def": "A signal in which the colour of the light determines the meaning of the aspect shown", 
+            "link": "/wiki/Colour_light_signals", 
+            "name": "Colour light signal"
+        }, 
+        {
+            "def": "A signaling system that uses both colour and light position to determine the meaning of the aspect shown", 
+            "link": "/wiki/Railway_signal#Colour-position_signals", 
+            "name": "Colour position signal"
+        }, 
+        {
+            "def": "A handle or lever which controls both the throttle and the dynamic braking on the locomotive: on a desktop-type control stand, forward (away from operator) past center operates the dynamic brake, backward (toward operator), past center, is throttle up[43][44][45]", 
+            "link": null, 
+            "name": "Combined power handle"
+        }, 
+        {
+            "def": "A steam locomotive passing steam through two sets of cylinders. One set uses high pressure steam, then passes the low pressure exhausted steam to the second.[46]", 
+            "link": "/wiki/Compound_locomotive", 
+            "name": "Compound locomotive"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-8-0 wheel arrangement[47][48]", 
+            "link": null, 
+            "name": "Consolidation type"
+        }, 
+        {
+            "def": "The loading of a shipping container onto a simple flat car[37]", 
+            "link": null, 
+            "name": "Container on flat car (COFC)"
+        }, 
+        {
+            "def": "A form of track in which the rails are welded together by utilising the thermite reaction or flash butt welding to form one continuous rail that may be several kilometres long[37]", 
+            "link": "/wiki/Continuous_welded_rail", 
+            "name": "Continuous welded rail (CWR)"
+        }, 
+        {
+            "def": "A passenger coach which has a full set of train controls at one end, allowing for the use of push-pull train operation[49]", 
+            "link": "/wiki/Control_car", 
+            "name": "Control car"
+        }, 
+        {
+            "def": "Effective length of piece of rolling stock", 
+            "link": "/wiki/Headstock_(rolling_stock)#Length_over_headstocks", 
+            "name": "Coupler pulling faces, length over"
+        }, 
+        {
+            "def": "Rods between crank pins on the wheels, transferring power from a driving axle to a driven axle of a locomotive[50]", 
+            "link": "/wiki/Coupling_rod", 
+            "name": "Coupling rods"
+        }, 
+        {
+            "def": "A type of rolling stock with a flat bottom enclosed on all sides and top, which is loaded and unloaded from sliding doors on each side[19][51]", 
+            "link": "/wiki/Covered_goods_wagon", 
+            "name": "Covered goods wagon (UIC)"
+        }, 
+        {
+            "def": "A diesel locomotive with a crew cab permanently coupled to and acting as a controller for a similar slave diesel locomotive without a crew cab, primarily used for switching/shunting duties for large groups of rolling stock. Also known as master and slave, as in the British Rail Class 13 shunters at Tinsley Marshalling Yard.", 
+            "link": "/wiki/Cow-calf", 
+            "name": "Cow-calf or cow and calf"
+        }, 
+        {
+            "def": "A pin protruding from a wheel into a main or coupling rod", 
+            "link": "/wiki/Crank_pin", 
+            "name": "Crank pin"
+        }, 
+        {
+            "def": "In a steam locomotive, the moving member of a sliding guide which absorbs upward and downward forces from the connecting (main) rod, which otherwise would tend to bend the piston rod[52]", 
+            "link": "/wiki/Crosshead", 
+            "name": "Crosshead"
+        }, 
+        {
+            "def": "\n\nTo uncouple one or more cars from a train (i.e. to \"make a cut\")[53]\nSame as \"cutting\"[53]\n\n", 
+            "link": null, 
+            "name": "Cut"
+        }, 
+        {
+            "def": "A manual lever which releases the pin of an automatic coupler when pulled to separate cars or locomotives[54][55]", 
+            "link": null, 
+            "name": "Cut lever"
+        }, 
+        {
+            "def": "A variable device on steam locomotives which closes the steam valve to the steam cylinder before the end of the piston stroke, thus conserving steam while allowing the steam in the cylinder to expand under its own energy. See also: Reverser handle.", 
+            "link": "/wiki/Cutoff_(steam_engine)", 
+            "name": "Cut off"
+        }, 
+        {
+            "def": "A channel dug through a hillside to enable rail track to maintain a shallow gradient. See also embankment.", 
+            "link": "/wiki/Cut_(earthmoving)", 
+            "name": "Cutting"
+        }, 
+        {
+            "def": "Making repeated service brake reductions in short succession to maintain a constant speed on short but steep grades. Each reduction must be at least 5 PSI lower than the previous one in order to keep the brakes applying regularly, but excessive cycle braking can deplete the air supply and require an emergency application.[56]", 
+            "link": null, 
+            "name": "Cycle braking"
+        }, 
+        {
+            "def": "A cavity in a reciprocating engine in which a piston travels", 
+            "link": "/wiki/Cylinder_(engine)", 
+            "name": "Cylinder"
+        }, 
+        {
+            "def": "On steam locomotives, this appurtenance allows condensed water to be drained from the steam cylinders when the throttle is opened, thus preventing damage to the pistons, running gear, and cylinder heads[57]", 
+            "link": null, 
+            "name": "Cylinder cock"
+        }, 
+        {
+            "def": "A block signal that is displaying no discernible aspect, often due to burned out lamps or local power failure. Most railroads require that a dark signal be treated as displaying its most restrictive aspect (e.g. stop and stay for an absolute signal).[58]", 
+            "link": null, 
+            "name": "Dark signal"
+        }, 
+        {
+            "def": "A section of track without block signals[59]", 
+            "link": "/wiki/Dark_territory", 
+            "name": "Dark territory"
+        }, 
+        {
+            "def": "A safety mechanism on a train controller which automatically applies the brake if a lever is released. It is intended to stop a train if the driver is incapacitated. In some forms, this device may be pedal-actuated. See also Dead-man's vigilance device.", 
+            "link": "/wiki/Dead_man%27s_handle", 
+            "name": "Dead man's handle"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-10-0 wheel arrangement[60][61][62]", 
+            "link": null, 
+            "name": "Decapod type"
+        }, 
+        {
+            "def": "A track side device used to detect various defects such as hotboxes (overheated axle bearings), dragging equipment, leaning cars, overloaded cars, overheight cars, seized (locked) wheels, etc.[63]", 
+            "link": "/wiki/Defect_detector", 
+            "name": "Defect detector"
+        }, 
+        {
+            "def": "A monetary charge levied by a railroad to a customer for excessive delay in loading or unloading cars", 
+            "link": "/wiki/Demurrage#Railway_transport", 
+            "name": "Demurrage"
+        }, 
+        {
+            "def": "A safety device that will derail vehicles passing it, often used to prevent rolling stock from unintentionally entering the mainline from a siding[63]", 
+            "link": "/wiki/Derail_(railroad)", 
+            "name": "Derail or derailer"
+        }, 
+        {
+            "def": "Small explosive charges placed on the running rail which detonate when run over\u2014used to warn drivers in following trains of an incident ahead", 
+            "link": "/wiki/Detonator_(railway)", 
+            "name": "Detonator"
+        }, 
+        {
+            "def": "Track which allows a rail line to cross another at grade[63]", 
+            "link": "/wiki/Level_junction", 
+            "name": "Diamond"
+        }, 
+        {
+            "def": "A set of diesel-powered self-propelling passenger rail vehicles able to operate in multiple with other such sets. Such units, especially those consisting of a single vehicle, are sometimes termed railcars.", 
+            "link": "/wiki/Diesel_multiple_unit", 
+            "name": "Diesel multiple unit (DMU)"
+        }, 
+        {
+            "def": "A system in which train dispatchers communicate directly with train crews via radio to authorize track occupancy in predefined blocks[63]", 
+            "link": "/wiki/Direct_traffic_control", 
+            "name": "Direct traffic control (DTC)"
+        }, 
+        {
+            "def": "A practice employed to move large trains through the mountains. Consists of the locomotives on the head end, a \"swing\" (mid-train) helper or two, and pusher locomotive(s) on the rear; today, all units are remotely controlled by the engineer in the lead unit. The power distribution alleviates stress on the couplers and relieves the lead units of the full weight of the train, making it easier to move on grades.", 
+            "link": "/wiki/Distributed_power", 
+            "name": "Distributed power"
+        }, 
+        {
+            "def": "A pair of lights, usually found on modern locomotives, located several feet below and outboard of the main headlight, that may alternately flash when the train is sounding its horn[64]", 
+            "link": null, 
+            "name": "Ditch lights"
+        }, 
+        {
+            "def": "The trackage area under the jurisdiction of a railway superintendent[65]", 
+            "link": null, 
+            "name": "Division"
+        }, 
+        {
+            "def": "A spike with a slightly altered head shape for easier extraction when the spike has become too loose in the sleeper[66][67]", 
+            "link": null, 
+            "name": "Dog or dogspike (India)"
+        }, 
+        {
+            "def": "A self-powered gasoline-electric passenger car used for small capacity rural commuter service.[63] Also a British Rail Class 153 DMU.", 
+            "link": "/wiki/Doodlebug_(rail_car)", 
+            "name": "Doodlebug"
+        }, 
+        {
+            "def": "If a train has insufficient power to climb a grade and no helpers are available, the train will be split into two sections and run separately to the top.[68]", 
+            "link": null, 
+            "name": "Double"
+        }, 
+        {
+            "def": "A configuration in which two steam locomotives are coupled head-to-tail in order to haul a heavy train up a long or steep hill. In the present day, double heading (and occasionally triple heading) are done primarily on large passenger trains or as a show for railfans.", 
+            "link": "/wiki/Double_heading", 
+            "name": "Double heading"
+        }, 
+        {
+            "def": "A long, heavy freight train moving at low speed", 
+            "link": "/wiki/Drag_freight", 
+            "name": "Drag"
+        }, 
+        {
+            "def": "See Defect detector.[63]", 
+            "link": null, 
+            "name": "Dragging equipment detector"
+        }, 
+        {
+            "def": "The part of a coupler that attaches to the frame of the car or locomotive; may be equipped with a pneumatic cushion depending on a freight car's design cargo (e.g. an autorack). Alternately, the pinned double bars coupling a steam locomotive to its tender.", 
+            "link": "/wiki/Drawbar_(haulage)#Rail", 
+            "name": "Drawbar"
+        }, 
+        {
+            "def": "The operator of a locomotive[69]", 
+            "link": null, 
+            "name": "Driver or engine driver"
+        }, 
+        {
+            "def": "Operation of a train by the engineer or driver only.[70] Also known as one person train operation (OPTO)", 
+            "link": null, 
+            "name": "Driver only operation (DO or DOO)"
+        }, 
+        {
+            "def": "A wheel in contact with the rail that also propels a locomotive", 
+            "link": "/wiki/Driving_wheel", 
+            "name": "Driver"
+        }, 
+        {
+            "def": "A signal light that is considerably smaller and closer to the ground than a high-mast signal; often absolute, and placed within interlocking limits, its aspects tend to differ from those conveyed by a taller signal for certain indications. Also called 'pot' or 'jack'.", 
+            "link": "/wiki/Railway_signal#Ground_mounting", 
+            "name": "Dwarf signal"
+        }, 
+        {
+            "def": "The use of a traction motors' output, working as generators, to retard train speed without relying solely on the air brakes", 
+            "link": "/wiki/Dynamic_braking", 
+            "name": "Dynamic braking"
+        }, 
+        {
+            "def": "\n\nA component of vacuum brake system usually fitted in pairs. Steam passing through a cone sucks air from the train pipe to create the vacuum.\nA small ejector running continuously to overcome leaks and to restore the vacuum after light braking and a large ejector operated when needed to release the brakes quickly after a heavy application or to create the initial vacuum after coupling\n\n", 
+            "link": "/wiki/Aspirator_(pump)", 
+            "name": "Ejector"
+        }, 
+        {
+            "def": "A set of electrically powered self-propelling passenger rail vehicles able to operate in multiple with other such sets", 
+            "link": "/wiki/Electric_multiple_unit", 
+            "name": "Electric multiple unit (EMU)"
+        }, 
+        {
+            "def": "The world's second largest builder of railroad locomotives. EMD was previously Electro-Motive Division of General Motors before being sold.", 
+            "link": "/wiki/Electro-Motive_Diesel", 
+            "name": "Electro-Motive Diesel (EMD)"
+        }, 
+        {
+            "def": "A railway built on supports over city streets", 
+            "link": "/wiki/Elevated_railway", 
+            "name": "Elevated railway, el, or L"
+        }, 
+        {
+            "def": "A bank, usually of earth but sometimes of stone, constructed to form a level or minimally graded trackbed for a line of railway needing to pass over a depression in the terrain or other pre-existing surface feature. See also cutting.", 
+            "link": "/wiki/Embankment_(transportation)", 
+            "name": "Embankment"
+        }, 
+        {
+            "def": "A train used to bring carriages into (or out of) service. They usually run between sidings and main stations, with the carriages then forming a service train to another destination. They are often worked under freight train rules (e.g. without needing a guard in the UK).[71]", 
+            "link": null, 
+            "name": "Empty coaching stock (ECS)"
+        }, 
+        {
+            "def": "A switching locomotive with no short hood, thus having its cab forming one end of its carbody", 
+            "link": "/wiki/List_of_GM-EMD_locomotives#Switchers_.28SW.29", 
+            "name": "End-cab switcher"
+        }, 
+        {
+            "def": "A small air reservoir in a locomotive control stand. When the automatic brake valve is operated, this reservoir responds by reducing or increasing the air pressure in the brake pipe.[72]", 
+            "link": null, 
+            "name": "Equalizing reservoir"
+        }, 
+        {
+            "def": "A device that continuously captures analog and digital train systems information and stores that data for a minimum of 48 hours. This data is used to evaluate incidents and accidents. Typical stored data includes speed, brake pressure, dynamic brake, horn activation, track signal, etc. In the U.S., event recorders are mandated by the Federal Railroad Administration (FRA) for freight, passenger and commuter rail. Regulations for railroad outside the U.S. vary by country. Transit operations are not generally required to have event recorders, but have begun to add them voluntarily.", 
+            "link": "/wiki/Event_recorder", 
+            "name": "Event recorder"
+        }, 
+        {
+            "def": "A train that passes selected stations without stopping", 
+            "link": "/wiki/Express_train", 
+            "name": "Express train"
+        }, 
+        {
+            "def": "A train not included in the normal schedule of a railroad[73][74][75] They often run during busy holiday travel periods in order to handle larger crowds and reduce the number of passengers that are forced to stand or are stranded at a station. In train order territory, extras are required to clear the main line for scheduled trains to pass.[76]", 
+            "link": null, 
+            "name": "Extra"
+        }, 
+        {
+            "def": "A turnout that can select which way to diverge a train\u2014the opposite of trailing", 
+            "link": "/wiki/Facing_and_trailing", 
+            "name": "Facing"
+        }, 
+        {
+            "def": "A type of articulated locomotive, typically (but not exclusively) with two boilers and connected fireboxes in a central cab", 
+            "link": "/wiki/Fairlie", 
+            "name": "Fairlie"
+        }, 
+        {
+            "def": "A heavy, hinged steel plate attached in a horizontal position to the rear of the locomotive footplate or front of a locomotive tender. When the tender is attached to its locomotive the plate is allowed to fall to cover the gap in the \"floor\" between the two units. The sliding edge is not fixed and has a smooth chamfer so as to avoid a trip hazard.[77]", 
+            "link": null, 
+            "name": "Fall plate"
+        }, 
+        {
+            "def": "A device to preheat the water for a steam locomotive to improve efficiency", 
+            "link": "/wiki/Feedwater_heater", 
+            "name": "Feedwater heater"
+        }, 
+        {
+            "def": "A valve which controls the amount of air pressure being channelled from the locomotive's main reservoir to the brake pipe, in accordance with the set pressure in the equalizing reservoir[78]", 
+            "link": null, 
+            "name": "Feed valve or regulating valve"
+        }, 
+        {
+            "def": "In railway modelling, a concealed group of sidings used to provide more realistic operation in a limited space", 
+            "link": "/wiki/Fiddle_yard", 
+            "name": "Fiddle yard"
+        }, 
+        {
+            "def": "In steam locomotives, a chamber in which a fire is made to produce sufficient heat to create steam once the hot gases created there are carried into the adjacent boiler via tubes or flues[79]", 
+            "link": "/wiki/Firebox_(steam_engine)", 
+            "name": "Firebox"
+        }, 
+        {
+            "def": "A worker whose primary job is to shovel coal into the firebox and ensure that the boiler maintains sufficient steam pressure", 
+            "link": "/wiki/Fireman_(steam_engine)", 
+            "name": "Fireman, stoker, or boilerman"
+        }, 
+        {
+            "def": "A wheel defect where the tread of a wheel has a flat spot and is no longer round; flats can be heard as regular clicking or banging noises when the wheel passes by. This is caused either by a locked bearing, or a brake that was not fully released before the car was moved, dragging the wheel without turning.[80]", 
+            "link": null, 
+            "name": "Flat"
+        }, 
+        {
+            "def": "A railway junction that has a track configuration in which merging or crossing railroad lines provide track connections with each other without requiring trains to cross in front of opposing traffic on the same level[80]", 
+            "link": "/wiki/Flying_junction", 
+            "name": "Flying junction or flyover"
+        }, 
+        {
+            "def": "The point of a switch turnout where a car or locomotive on one track will obstruct movement on the adjacent track[81]", 
+            "link": null, 
+            "name": "Fouling point"
+        }, 
+        {
+            "def": "Colloquially, the area between the running rails of a standard-gauge track. The actual distance between the rails is 4\u00a0ft\u00a08\u00a01\u20442\u00a0in (1,435\u00a0mm). See also six-foot and ten-foot.[82]", 
+            "link": null, 
+            "name": "Four-foot"
+        }, 
+        {
+            "def": "A type of boom barrier", 
+            "link": "/wiki/Four-quadrant_gate", 
+            "name": "Four-quadrant gate"
+        }, 
+        {
+            "def": "A type of modular layout in model railroading", 
+            "link": "/wiki/Free-mo", 
+            "name": "Free-mo"
+        }, 
+        {
+            "def": "A rail vehicle designed for the carriage of freight", 
+            "link": "/wiki/Freight_car", 
+            "name": "Freight wagon (UIC)"
+        }, 
+        {
+            "def": "The maximum air pressure that can be exerted against brake pistons in a normal brake application. To increase pressure beyond this point, the brakes must be placed in emergency.[83]", 
+            "link": null, 
+            "name": "Full service reduction"
+        }, 
+        {
+            "def": "A pyrotechnic device similar to an automotive flare that is used in signalling[80]", 
+            "link": "/wiki/Flare", 
+            "name": "Fusee"
+        }, 
+        {
+            "def": "A threaded plug, with a soft metal core, that is screwed into the crown plate of a firebox. If the water level gets too low the core melts and the noise of the escaping steam warns the enginemen.", 
+            "link": "/wiki/Fusible_plug", 
+            "name": "Fusible plug"
+        }, 
+        {
+            "def": "A type of steam locomotive that is articulated into three parts[84]", 
+            "link": "/wiki/Garratt", 
+            "name": "Garratt"
+        }, 
+        {
+            "def": "The width between the inner faces of the rails", 
+            "link": "/wiki/Rail_gauge", 
+            "name": "Gauge"
+        }, 
+        {
+            "def": "Any of the GP (\"general-purpose\") series of Electro-Motive four-axle diesel locomotives; originally applied only to EMD GP7, GP9, and GP18 models[85]", 
+            "link": null, 
+            "name": "Geep"
+        }, 
+        {
+            "def": "The control switch of a diesel-electric locomotive that opens or closes the circuit between the main generator and the traction motors[86]", 
+            "link": null, 
+            "name": "Generator field"
+        }, 
+        {
+            "def": "To break a train in two, usually by shearing the knuckle pin in a coupler, often caused by the application of excessive head end power at startup[87][88]", 
+            "link": null, 
+            "name": "Get a knuckle"
+        }, 
+        {
+            "def": "A nickname for General Electric's Evolution series of modern diesel locomotives[89][90]", 
+            "link": null, 
+            "name": "GEVO"
+        }, 
+        {
+            "def": "A quick coupling and uncoupling connector at the end of a trainline air hose that resembles a pair of shaking hands when hoses are connected", 
+            "link": "/wiki/Gladhand_connector", 
+            "name": "Gladhand connector"
+        }, 
+        {
+            "def": "A hand-powered railroad car (see Handcar and Draisine), or a small gasoline powered railroad car[91][92]", 
+            "link": null, 
+            "name": "Go-devil"
+        }, 
+        {
+            "def": "A handle on the side of a car to allow switching personnel to hold on[93]", 
+            "link": null, 
+            "name": "Grab bar or grab iron"
+        }, 
+        {
+            "def": "A colour associated with go or proceed", 
+            "link": "/wiki/Green", 
+            "name": "Green"
+        }, 
+        {
+            "def": "The condition of locomotives and cars swaying in opposite directions when traversing depressions on the roadbed. A potentially dangerous condition that can cause coupler damage, lading damage, or derailments at slower speeds.[94][95]", 
+            "link": null, 
+            "name": "Harmonic rock or harmonic rock and roll"
+        }, 
+        {
+            "def": "A scheme whereby the locomotive engine or a separate generator provides hotel power to carriages[96]", 
+            "link": "/wiki/Head-end_power", 
+            "name": "Head-end power (HEP)"
+        }, 
+        {
+            "def": "A sign attached to a locomotive to identify a named train or charter, or for other special occasions[97]", 
+            "link": "/wiki/Headboard_(train)", 
+            "name": "Headboard"
+        }, 
+        {
+            "def": "A transverse structural member located at the extreme end of a rail vehicle's underframe. The headstock supports the coupling at that end of the vehicle, and may also support buffers, in which case it may also be known as a \"buffer beam\".[98]", 
+            "link": "/wiki/Headstock_(rolling_stock)", 
+            "name": "Headstock"
+        }, 
+        {
+            "def": "Heavy freight operations[99][100][101]", 
+            "link": null, 
+            "name": "Heavy haul"
+        }, 
+        {
+            "def": "The upper rail in a curve or superelevation which typically experiences the higher lateral loads and greater wear", 
+            "link": "/wiki/High_rail", 
+            "name": "High rail"
+        }, 
+        {
+            "def": "A passing siding. Inferior trains \"lay over in the hole\" to let superior ones pass.[102]", 
+            "link": null, 
+            "name": "Hole"
+        }, 
+        {
+            "def": "See absolute signal.", 
+            "link": null, 
+            "name": "Home signal"
+        }, 
+        {
+            "def": "Plates lining the axlebox cut-outs in a locomotive frame to allow smooth vertical movement under control of the springs[103][104]", 
+            "link": null, 
+            "name": "Horn blocks"
+        }, 
+        {
+            "def": "The action of shuttling a locomotive from the yard to the engine house or vice versa[105]", 
+            "link": null, 
+            "name": "Hostling"
+        }, 
+        {
+            "def": "An axle bearing that has become excessively hot due to friction[96][106][107]", 
+            "link": "/wiki/Hot_box", 
+            "name": "Hotbox"
+        }, 
+        {
+            "def": "A device attached to the track which monitors passing trains for hot axles, and then reports the results via a radio transmission (typical in the US) or a circuit to the signal box (typical in the UK). See defect detector.[96]", 
+            "link": null, 
+            "name": "Hotbox detector"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-6-4 wheel arrangement[27][108]", 
+            "link": null, 
+            "name": "Hudson type"
+        }, 
+        {
+            "def": "A raised section in a rail sorting yard that allows operators to use gravity to move freight railcars into the proper position within the yard when making up trains of cars. This is faster and requires less effort than moving cars with a switching engine.[96]", 
+            "link": "/wiki/Classification_yard", 
+            "name": "Hump"
+        }, 
+        {
+            "def": "Swaying motion of a railway vehicle or bogie caused by the coning action on which the directional stability of an adhesion railway depends. The truck or bogie wanders from side to side between the rails, \"hunting\" for the optimum location based on the forces at play.[96]", 
+            "link": "/wiki/Hunting_oscillation", 
+            "name": "Hunting"
+        }, 
+        {
+            "def": "The braking system that applies or releases the brakes of a locomotive independently from its train[109][110]", 
+            "link": null, 
+            "name": "Independent brake or locomotive brake"
+        }, 
+        {
+            "def": "A train station built on an existing passenger line to address demand in a location between existing stations", 
+            "link": "/wiki/Infill_station", 
+            "name": "Infill station or in-fill station"
+        }, 
+        {
+            "def": "A device to force water into a steam locomotive's boiler by steam pressure[111]", 
+            "link": "/wiki/Injector", 
+            "name": "Injector"
+        }, 
+        {
+            "def": "Rail joints incorporating insulation to isolate individual track circuits[112][113]", 
+            "link": null, 
+            "name": "Insulated rail joint (IRJ) or insulated block joint (IBJ)"
+        }, 
+        {
+            "def": "Any track or yard where rail cars are transferred from one carrier to another[114][115]", 
+            "link": null, 
+            "name": "Interchange"
+        }, 
+        {
+            "def": "Moving goods by more than one type of vehicle. Intermodal freight can be transported using shipping containers which can easily be transferred among railroad flatcars, ships, airplanes, and tractor-trailer trucks.[111]", 
+            "link": "/wiki/Intermodal_freight_transport", 
+            "name": "Intermodal freight"
+        }, 
+        {
+            "def": "Moving people by more than one type of vehicle[111]", 
+            "link": "/wiki/Intermodal_passenger_transport", 
+            "name": "Intermodal passenger"
+        }, 
+        {
+            "def": "A railway platform that has tracks along the full lengths of both sides", 
+            "link": "/wiki/Island_platform", 
+            "name": "Island platform"
+        }, 
+        {
+            "def": "A metal plate that joins the ends of rails in jointed track[116]", 
+            "link": null, 
+            "name": "Joint bar or rail joiner"
+        }, 
+        {
+            "def": "Track in which the rails are laid in lengths of around 20\u00a0m and bolted to each other end-to-end by means of fishplates or joint bars[117]", 
+            "link": "/wiki/Rail_tracks#Jointed_track", 
+            "name": "Jointed track"
+        }, 
+        {
+            "def": "A bearing without rolling elements; a plain bearing[118]", 
+            "link": "/wiki/Journal_bearing", 
+            "name": "Journal bearing"
+        }, 
+        {
+            "def": "The housing of a journal bearing[118][119]", 
+            "link": "/wiki/Journal_box", 
+            "name": "Journal box"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-4-4 wheel arrangement[120]", 
+            "link": null, 
+            "name": "Jubilee type"
+        }, 
+        {
+            "def": "A point at which two lines or separate routes diverge from each other[117]", 
+            "link": "/wiki/Junction_(rail)", 
+            "name": "Junction"
+        }, 
+        {
+            "def": "A padlock or hook securing the lever of a hand-operated switch, thereby preventing the switch points from moving as rolling stock passes over them[121][122]", 
+            "link": null, 
+            "name": "Keeper"
+        }, 
+        {
+            "def": "To shove a car a short distance and uncouple it in motion, allowing it to roll free under gravity and/or its own inertia onto a track. Commonly practiced in bowl or hump yards to make up or break down trains or classify large numbers of cars in an expedient fashion. Differs from a flying switch in that the locomotive is pushing the car rather than pulling it when the cut is made.[123]", 
+            "link": null, 
+            "name": "Kick"
+        }, 
+        {
+            "def": "A freight car with a defect in its brake valve that causes the entire train's brake system to go into emergency when any application is made[124]", 
+            "link": null, 
+            "name": "Kicker"
+        }, 
+        {
+            "def": "The outline of the space beside and above the track that must be kept clear of obstructions for the train to pass. This can be larger than the static clearance around an unmoving engine or car.[125] See also: loading gauge and structure gauge", 
+            "link": null, 
+            "name": "Kinematic envelope (KE)"
+        }, 
+        {
+            "def": "The articulating part of a coupler that locks automatically in its closed position to join rail cars; so named because its movement resembles that of the human finger[126]", 
+            "link": null, 
+            "name": "Knuckle"
+        }, 
+        {
+            "def": "A non-main track from which several others branch within a short distance, such as within a rail yard or engine terminal[127]", 
+            "link": null, 
+            "name": "Lead track"
+        }, 
+        {
+            "def": "A crossing on one level (\"at-grade intersection\")\u2014without recourse to a bridge or tunnel\u2014generally of a railway line by a road or path", 
+            "link": "/wiki/Level_crossing", 
+            "name": "Level crossing, railroad crossing, railway crossing, train crossing, or grade crossing"
+        }, 
+        {
+            "def": "A locomotive travelling on its own, or perhaps with just a caboose (brake van) attached[128]", 
+            "link": null, 
+            "name": "Light engine"
+        }, 
+        {
+            "def": "A city-based rail system based on tram design standards that operates mostly in private rights-of-way separated from other traffic but sometimes, if necessary, mixed with other traffic in city streets.[129] Light rail vehicles (LRV) generally have a top speed of around 55\u00a0mph (89\u00a0km/h) though mostly operating at much lower speeds, more akin to road vehicles. Light rail vehicles usually run on trackage that weighs less per foot (due to a smaller track profile) than the tracks used for main-line freight trains; thus they are \"light rail\" due to the smaller rails usually used.[128]", 
+            "link": "/wiki/Light_rail", 
+            "name": "Light rail"
+        }, 
+        {
+            "def": "An obsolete method of coupling rail cars, consisting of manually dropping the coupling pin into the drawbar as the cars joined. Extremely hazardous to the brakemen of its day, it was outlawed in the United States by the Railroad Safety Appliance Act of 1893.", 
+            "link": "/wiki/Link_and_pin", 
+            "name": "Link and pin"
+        }, 
+        {
+            "def": "A train that stops at most, if not all, stations along its route[130]", 
+            "link": null, 
+            "name": "Local train"
+        }, 
+        {
+            "def": "An off-white color of railway signal light, like the Moon, achieved by the use of a clear lens of very light blue, to make it distinct from a light that has a broken lens.[131][132]", 
+            "link": null, 
+            "name": "Lunar"
+        }, 
+        {
+            "def": "The electric generator in a diesel-electric locomotive that is coupled directly to the prime mover and feeds electrical energy to the traction motors[133]", 
+            "link": null, 
+            "name": "Main generator"
+        }, 
+        {
+            "def": "The compressed-air tank of a locomotive containing source air for the brakes and other pneumatic appliances[134]", 
+            "link": null, 
+            "name": "Main reservoir"
+        }, 
+        {
+            "def": "A type of articulated locomotive designed by the Swiss mechanical engineer Anatole Mallet (pronounced \"mallay\").[135][136] See Compound engine.", 
+            "link": null, 
+            "name": "Mallet"
+        }, 
+        {
+            "def": "An express freight train carrying a variety of general merchandise[137][138]", 
+            "link": null, 
+            "name": "Manifest"
+        }, 
+        {
+            "def": "A signal in which the aspect is conveyed by moving an arm[139][140]", 
+            "link": null, 
+            "name": "Mechanical semaphore signal"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-8-2 wheel arrangement[141]", 
+            "link": null, 
+            "name": "Mikado type"
+        }, 
+        {
+            "def": "A aggregator for transporting milk from farms to dairies, such as British Railways Milk Trains[142][143][144]", 
+            "link": null, 
+            "name": "Milk train"
+        }, 
+        {
+            "def": "An inter-modal car", 
+            "link": "/wiki/Modalohr", 
+            "name": "Modalohr"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-6-0 wheel arrangement[145]", 
+            "link": null, 
+            "name": "Mogul type"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-8-2 wheel arrangement[146]", 
+            "link": null, 
+            "name": "Mountain type"
+        }, 
+        {
+            "def": "The bottom of the water space surrounding a steam locomotive's firebox that collects solid deposits distilled from the water supply during the boiling process[147]", 
+            "link": null, 
+            "name": "Mud ring"
+        }, 
+        {
+            "def": "A system of colour-light signalling in which signals may show three or four aspects[148]", 
+            "link": null, 
+            "name": "Multiple aspect signalling"
+        }, 
+        {
+            "def": "A self-propelled rail vehicle that can be joined with compatible others and controlled from a single driving station. The sub-classes of this type of vehicle; Diesel Multiple Unit (DMU), Diesel-Electric Multiple Unit (DEMU) and Electric Multiple Unit (EMU) are more common terms. These may also be termed railcars.", 
+            "link": "/wiki/Multiple_unit", 
+            "name": "Multiple unit (MU)"
+        }, 
+        {
+            "def": "Railroad track where the rails are spaced less than 1,435\u00a0mm (4\u00a0ft\u00a08\u00a01\u20442\u00a0in) apart,[149] often found in mountainous terrain where the cost savings of building a smaller railroad can be considerable[citation needed]", 
+            "link": "/wiki/Narrow_gauge_railway", 
+            "name": "Narrow gauge"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-8-4 wheel arrangement, also known in North America as \"Pocono\", \"Niagara\", \"Confederation\", \"Greenbrier\", and \"Potomac\"[150][151]", 
+            "link": null, 
+            "name": "Northern type"
+        }, 
+        {
+            "def": "The eighth notch of a locomotive throttle control, indicating full power[152][153]", 
+            "link": null, 
+            "name": "Notch 8 or run 8"
+        }, 
+        {
+            "def": "A form of freight hauling car for bulk goods[154]", 
+            "link": "/wiki/Open_wagon", 
+            "name": "Open wagon (UIC)"
+        }, 
+        {
+            "def": "When equipment is placed ahead of the fouling point of a switch turnout", 
+            "link": null, 
+            "name": "Out to foul"
+        }, 
+        {
+            "def": "A steam locomotive with a 4-6-2 wheel arrangement[155]", 
+            "link": null, 
+            "name": "Pacific type"
+        }, 
+        {
+            "def": "A tank locomotive where the water tanks are mounted on the boiler in pannier-like fashion", 
+            "link": "/wiki/Pannier_tank", 
+            "name": "Pannier tank"
+        }, 
+        {
+            "def": "An apparatus mounted on the roof of a rail vehicle to allow the collection of electric current from overhead lines[156][157]", 
+            "link": "/wiki/Pantograph_(rail)", 
+            "name": "Pantograph"
+        }, 
+        {
+            "def": "Colloquially, a track warrant, train order or other movement permit that is dictated by a dispatcher and copied in writing by a train crew member[citation needed]", 
+            "link": null, 
+            "name": "Paper"
+        }, 
+        {
+            "def": "\n\nAbbreviation for the former Pennsylvania Railroad[158]\nA nickname for the PRR's K-4 class steam locomotive[citation needed]\n\n", 
+            "link": null, 
+            "name": "Pennsy"
+        }, 
+        {
+            "def": "\n\nA fee paid by a rail company to the owner of a car (or wagon) for the time it spends on the company's property[156][159]\nAn authorized living expense payment for some workers forced away from their home terminal[156][160]\n\n", 
+            "link": "/wiki/Per_diem", 
+            "name": "Per diem (pronounced by some U.S. railroaders per die-um, not per dee-um)"
+        }, 
+        {
+            "def": "A block signal whose most restrictive indication is stop and proceed. A permissive signal is identified by the presence of a number plate affixed to the mast or supporting structure. Proceeding beyond a permissive signal at stop is allowed at restricted speed if operating conditions enable a train operator to stop before reaching any train or obstruction.[161][162][163]", 
+            "link": null, 
+            "name": "Permissive signal"
+        }, 
+        {
+            "def": "\n\nA deflective shield affixed to the front of a locomotive to protect its wheels from on-track debris; archaically called a \"cowcatcher\"[164] See also: Pilot (locomotive)\nAn employee qualified on the operating rules and physical characteristics of a certain section of the railroad, assisting a crew member who is not so qualified[165][166] See also: Railroad engineer\n\n", 
+            "link": null, 
+            "name": "Pilot"
+        }, 
+        {
+            "def": "\n\nThe leading locomotive during a double-heading operation[167]\nAn unattached locomotive driven a specified distance in front of a special train[167][168][169]\n\n", 
+            "link": null, 
+            "name": "Pilot engine"
+        }, 
+        {
+            "def": "Where it is necessary to temporarily work a section of line as single track (for instance if the other track of a double-track line is out of use), a person (the pilot man) acts as the single track token.", 
+            "link": "/wiki/Token_(railway_signalling)#Variations", 
+            "name": "Pilot man"
+        }, 
+        {
+            "def": "The moving component in the cylinder of a steam engine or internal combustion engine that translates into motion the force exerted by pressurised steam or quickly-burning fuel[170]", 
+            "link": "/wiki/Piston", 
+            "name": "Piston"
+        }, 
+        {
+            "def": "A specified distance that a brake piston may move from its cylinder to the brake rigging. If the travel exceeds or falls short of this distance, the equipment must be set out for repair.[171]", 
+            "link": null, 
+            "name": "Piston travel"
+        }, 
+        {
+            "def": "A two-wheel truck or bogie at the front of a locomotive[172]", 
+            "link": "/wiki/Pony_truck", 
+            "name": "Pony truck"
+        }, 
+        {
+            "def": "The extended walkway at either end of a U.S. locomotive[173]", 
+            "link": null, 
+            "name": "Porch"
+        }, 
+        {
+            "def": "An employee who performs or performed (the role has now largely become obsolete) various physical duties, chiefly but not exclusively involving lifting. Various types of porter include:\n\nA baggage porter assisting with luggage\nAn operating porter assisting with safeworking duties\nA station porter assisting with general station duties\nA lad porter being a junior station porter\n\n", 
+            "link": "/wiki/Porter_(railroad)", 
+            "name": "Porter"
+        }, 
+        {
+            "def": "The practice of coupling two or more passenger trains together over common sections of their respective routes, but otherwise operating the trains separately[174][175]", 
+            "link": "/wiki/Portion_working", 
+            "name": "Portion working"
+        }, 
+        {
+            "def": "A block signal in which the relative position of the lights determines the meaning", 
+            "link": "/wiki/Position_light", 
+            "name": "Position light signal"
+        }, 
+        {
+            "def": "A system of functional requirements for monitoring and controlling train movements with the aim of increasing operational safety", 
+            "link": "/wiki/Positive_train_control", 
+            "name": "Positive train control (PTC)"
+        }, 
+        {
+            "def": "A period of time when one or more tracks are closed for maintenance. For the duration of the work, a person in charge of possession (PICOP) has control of the line. When work is complete the possession is relinquished and control of the line handed back to the signaller.[176]", 
+            "link": null, 
+            "name": "Possession"
+        }, 
+        {
+            "def": "The weight (and thus the cross section) of a length of rail. A heavier rail can carry heavier loads with less distortion and less damage to the rails themselves and the roadbed.", 
+            "link": "/wiki/Pound_(rail)", 
+            "name": "Pound"
+        }, 
+        {
+            "def": "A locomotive or group of connected (MU'd) locomotives serving as the motive power for a train[156]", 
+            "link": null, 
+            "name": "Power"
+        }, 
+        {
+            "def": "Pulling against the train brakes at the higher end of the locomotive's power output (e.g. notches five through eight on a conventional throttle). This is considered wasteful of fuel and brake shoes, and is therefore discouraged by most operating departments.[177][178]", 
+            "link": null, 
+            "name": "Power braking"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-6-2 wheel arrangement[179]", 
+            "link": null, 
+            "name": "Prairie type"
+        }, 
+        {
+            "def": "The internal combustion engine of a diesel locomotive", 
+            "link": "/wiki/Prime_mover_(locomotive)", 
+            "name": "Prime mover"
+        }, 
+        {
+            "def": "A rail broken from cold-related contraction[180][181]", 
+            "link": null, 
+            "name": "Pull apart"
+        }, 
+        {
+            "def": "A pole about 12 feet (366\u00a0cm) long and having a diameter of 5 inches (127\u00a0mm) and used in the United States between 1870 and the mid-1960s to push a freight car onto or off a siding or onto another track by being placed between a locomotive (on an adjacent track) and the freight car. The two ends of the poles were placed in receptacles called push pole pockets.[182]", 
+            "link": null, 
+            "name": "Push pole"
+        }, 
+        {
+            "def": "A mode of operation whereby a locomotive-hauled train may be driven with the locomotive at the front, back, or center of the train. See also: Auto train. See Top and tail for train with locomotives at both front and back.[156]", 
+            "link": "/wiki/Push%E2%80%93pull_train", 
+            "name": "Push\u2013pull"
+        }, 
+        {
+            "def": "A federally mandated safety inspection performed on a locomotive every 92 operating days[183]", 
+            "link": null, 
+            "name": "Quarterly inspection or periodic inspection"
+        }, 
+        {
+            "def": "A steep-grade railway with a toothed rack rail (usually between the running rails), used when adhesion is insufficient", 
+            "link": "/wiki/Rack_railway", 
+            "name": "Rack railway, rack-and-pinion railway, or cog railway"
+        }, 
+        {
+            "def": "A passenger rail vehicle (typically non-articulated or rigid frame) that was derived from bus propulsion and construction technology, but which may evolve into larger dimensions, performance, and characteristics similar in appearance to a light DMU railcar", 
+            "link": "/wiki/Railbus", 
+            "name": "Railbus"
+        }, 
+        {
+            "def": "A powered single unit or articulated passenger car, usually \u201crailroad-derived\u201d light DMU or EMU, with a driver's cab at one or both ends", 
+            "link": "/wiki/Railcar", 
+            "name": "Railcar"
+        }, 
+        {
+            "def": "A hobbyist or enthusiast of trains", 
+            "link": "/wiki/Railfan", 
+            "name": "Railfan"
+        }, 
+        {
+            "def": "A machine used to remove irregularities in the surface of the rails that may be self-powered or part of a consist", 
+            "link": "/wiki/Rail_grinder", 
+            "name": "Rail grinder"
+        }, 
+        {
+            "def": "The cross section shape of rail. There are many rail profiles which are often specific to individual railroads. Rails need to be periodically scanned electronically, the data inspected and analysed, then re-profiled with rail grinding machines to maintain the safe and proper \"rail profile\". Rails that cannot be brought back to the proper rail profile are condemned and replaced.", 
+            "link": "/wiki/Rail_profile", 
+            "name": "Rail profile"
+        }, 
+        {
+            "def": "A screeching train-track friction sound, most commonly occurring on sharp curves or heavy braking[184]", 
+            "link": "/wiki/Rail_squeal", 
+            "name": "Rail squeal"
+        }, 
+        {
+            "def": "A small petrol (gas) or diesel shunting (switcher) locomotive", 
+            "link": "/wiki/Switcher", 
+            "name": "Rail tractor"
+        }, 
+        {
+            "def": "Any railroad vehicle other than a locomotive", 
+            "link": "/wiki/Railroad_car", 
+            "name": "Railroad car"
+        }, 
+        {
+            "def": "Artifacts of railways around the world", 
+            "link": "/wiki/Railroadiana", 
+            "name": "Railroadiana"
+        }, 
+        {
+            "def": "\n\nA railway route connecting two or more places or other railway routes[185]\nA railway route constructed by an organization, usually one formed for that purpose[185][186][187]\nA railway route which has been given the line name officially (e.g. by engineers line references in the UK)[188]\nA set of railway routes which are bundled for publicity purposes (e.g. a UK train operating company)[189][190]\nA set of railway routes without official standing, on which railfans have bestowed a title[citation needed]\n\n", 
+            "link": null, 
+            "name": "Railway line"
+        }, 
+        {
+            "def": "A train station, a stopping point for trains, usually with passenger access", 
+            "link": "/wiki/Railway_station", 
+            "name": "Railway station"
+        }, 
+        {
+            "def": "A building for passengers at the end of a railway line", 
+            "link": "/wiki/Railway_terminal", 
+            "name": "Railway terminal"
+        }, 
+        {
+            "def": "A colour generally associated with stop, when shown by signals or flags", 
+            "link": "/wiki/Red", 
+            "name": "Red"
+        }, 
+        {
+            "def": "The area between, under, or within a few feet of cars and locomotives. To enter the zone, a ground employee must obtain protection from the locomotive engineer (if a locomotive is coupled) or a blue signal (if no locomotive is coupled).[191][192][193]", 
+            "link": null, 
+            "name": "Red zone"
+        }, 
+        {
+            "def": "A refrigerated railcar, used to transport perishable goods[194]", 
+            "link": "/wiki/Refrigerator_car", 
+            "name": "Reefer"
+        }, 
+        {
+            "def": "A siding used as a passing place on a main line, where slow trains may be held whilst an express passes\u2014a simpler, but less convenient, form of the passing loop", 
+            "link": null, 
+            "name": "Refuge siding"
+        }, 
+        {
+            "def": "A two- to four-letter code, assigned by the Association of American Railroads, that is applied to equipment operating on North American railroads to identify the owner[195][196][197]", 
+            "link": "/wiki/Reporting_mark", 
+            "name": "Reporting mark"
+        }, 
+        {
+            "def": "A metal casting slotted over the rail near the wheel of a derailed train car. The engine then pushes or pulls the car so that the derailed wheel runs up the rerailer and back onto the track.[198]", 
+            "link": null, 
+            "name": "Rerail frog or rerailer"
+        }, 
+        {
+            "def": "A device installed in a classification yard used to reduce the speed of freight cars as they are sorted into consists[199]", 
+            "link": "/wiki/Retarder_(railroad)", 
+            "name": "Retarder"
+        }, 
+        {
+            "def": "The handle that controls the directional control on a locomotive. See also Cut off.", 
+            "link": "/wiki/Cutoff_(steam_engine)", 
+            "name": "Reverser or reverser handle"
+        }, 
+        {
+            "def": "Continuously welded rail[195]", 
+            "link": null, 
+            "name": "Ribbon rail"
+        }, 
+        {
+            "def": "A failure in a signalling or other safety critical system which leaves the system in a safe condition[200]", 
+            "link": null, 
+            "name": "Right-side failure"
+        }, 
+        {
+            "def": "A highway trailer, or semi-trailer, that is specially equipped for direct use on a railroad", 
+            "link": "/wiki/Roadrailer", 
+            "name": "Roadrailer"
+        }, 
+        {
+            "def": "\n\nIn UK parlance, any railway vehicle that is not capable of moving under its own power[201]\nIn US parlance, any railroad car or locomotive[195][202][203]\n\n", 
+            "link": "/wiki/Rolling_stock", 
+            "name": "Rolling stock"
+        }, 
+        {
+            "def": "See Trainee.", 
+            "link": "/wiki/Rookie", 
+            "name": "Rookie"
+        }, 
+        {
+            "def": "Short for rotary snowplow, an extreme-duty railroad snowplow used mainly in the mountain ranges of the American West[204]", 
+            "link": null, 
+            "name": "Rotary"
+        }, 
+        {
+            "def": "A circular or semi-circular structure used for storage and running maintenance of locomotives", 
+            "link": "/wiki/Roundhouse", 
+            "name": "Roundhouse"
+        }, 
+        {
+            "def": "A box or panel adjacent to a rail line at an interlocking, with several buttons for train operators to select a desired route, which is then either communicated to a signal tower where an operator fulfills the request, or switched automatically[205][206]", 
+            "link": "/wiki/New_York_City_Subway", 
+            "name": "Route selector panel, punch box, or train-identification pushbuttons (New York City Subway)"
+        }, 
+        {
+            "def": "The longest or steepest grade on a division, thus setting the standard for track speeds, locomotive tonnage ratings, and train handling instructions[207]", 
+            "link": "/wiki/Ruling_gradient", 
+            "name": "Ruling gradient"
+        }, 
+        {
+            "def": "A heavy train that has lost speed control while descending a steep grade, due to either brake failure or poor preparation by the crew[208]", 
+            "link": null, 
+            "name": "Runaway"
+        }, 
+        {
+            "def": "An other-than-main track, typically providing access to a yard or industry and governed by the requirements of restricted speed[209]", 
+            "link": null, 
+            "name": "Running track"
+        }, 
+        {
+            "def": "The practice of detaching a locomotive from its train, driving it to the other end of the train and re-attaching it, to allow the train to proceed in the direction it has just come from (e.g. when it reaches its destination and forms a service in the other direction).[195][210]", 
+            "link": "/wiki/Headshunt#Run-round", 
+            "name": "Run-round"
+        }, 
+        {
+            "def": "Locomotives that remain attached to a manifest or unit train from their home rails over the tracks of a receiving railroad until the train reaches its final destination[211]", 
+            "link": null, 
+            "name": "Run-through power"
+        }, 
+        {
+            "def": "A tank locomotive with the water tank mounted on top of the boiler like a saddle[212]", 
+            "link": "/wiki/Saddle_tank_(locomotive)", 
+            "name": "Saddle tank"
+        }, 
+        {
+            "def": "The system of rules and equipment designed to ensure the safe operation of trains[213]", 
+            "link": null, 
+            "name": "Safeworking"
+        }, 
+        {
+            "def": "A granular material sprayed onto the rail just in front of the drive wheels to improve traction", 
+            "link": "/wiki/Sand", 
+            "name": "Sand"
+        }, 
+        {
+            "def": "A container on locomotives and self-propelled multiple units, or trams, that run on tramways and adhesion railways. The container holds sand which can be dropped onto the rail to improve rail adhesion under wet, steep, or slippery rail conditions. The sandbox and operating mechanism are collectively known as sanding gear.", 
+            "link": "/wiki/Sandbox_(railways)", 
+            "name": "Sandbox"
+        }, 
+        {
+            "def": "Consists of a mixture of sand, aluminium, and a unique type of adhesive, used instead of plain sand for extreme slippery rail conditions", 
+            "link": "/wiki/Sandite", 
+            "name": "Sandite"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-10-2 wheel arrangement, named for the Atchison, Topeka and Santa Fe Railway\u2014the first railroad to use such a configuration[214][215]", 
+            "link": null, 
+            "name": "Santa Fe type"
+        }, 
+        {
+            "def": "A steam locomotive not equipped with a superheater; the steam thus remains at the same temperature as the water in the boiler[citation needed]", 
+            "link": null, 
+            "name": "Saturated locomotive"
+        }, 
+        {
+            "def": "Solid debris distilled from boiling water in a steam locomotive. To prevent corrosion damage from scale build-up, the locomotive must undergo a boiler wash once each operating month.[216]", 
+            "link": null, 
+            "name": "Scale"
+        }, 
+        {
+            "def": "A specialized type of freight car for extra heavy and over sized loads where the car is loaded in such a way that the load forms part of the car superstructure", 
+            "link": "/wiki/Schnabel_car", 
+            "name": "Schnabel car"
+        }, 
+        {
+            "def": "A signal with a single light source usually capable of displaying three different colors. An internal mechanism governs the color displayed.[212]", 
+            "link": "/wiki/Colour_light_signals", 
+            "name": "Searchlight"
+        }, 
+        {
+            "def": "A division of track for tracking occupation[citation needed]", 
+            "link": null, 
+            "name": "Section"
+        }, 
+        {
+            "def": "A type of signal that has a moving arm to change the indication", 
+            "link": "/wiki/Railway_semaphore_signal", 
+            "name": "Semaphore signal"
+        }, 
+        {
+            "def": "A type of geared steam locomotive built to the patents of Ephraim Shay[212]", 
+            "link": "/wiki/Shay_locomotive", 
+            "name": "Shay locomotive"
+        }, 
+        {
+            "def": "In UK and Australian parlance, to make up and divide trains in sidings, to move trains to or from sidings, or to move trains between platforms in a station[217]", 
+            "link": null, 
+            "name": "Shunt"
+        }, 
+        {
+            "def": "A train, usually a passenger service, that runs back and forth, usually over a relatively short distance, such as between a junction station and a branch-line terminus.", 
+            "link": "/wiki/Shuttle_train", 
+            "name": "Shuttle train"
+        }, 
+        {
+            "def": "A tank locomotive with water tanks mounted each side of the boiler", 
+            "link": "/wiki/Side_tank", 
+            "name": "Side tank"
+        }, 
+        {
+            "def": "A section of track off the main line. Sidings are often used for storing rolling stock or freight. A siding is also used as a form of rail access for warehouses and other businesses, where the siding will often meet up with loading docks at rail car height in the building. In the U.S. the term is also used to cover the British term: loop. Also, a passing track in the U.S.", 
+            "link": "/wiki/Rail_siding", 
+            "name": "Siding"
+        }, 
+        {
+            "def": "A device that indicates the condition of the line ahead to the driver of a train", 
+            "link": "/wiki/Railway_signal", 
+            "name": "Signal"
+        }, 
+        {
+            "def": "The information conveyed to a railroad vehicle operator by a block signal. Signals may use colored lights, position-significant lights or mechanical semaphores to generate various aspects.[citation needed]", 
+            "link": null, 
+            "name": "Signal aspect"
+        }, 
+        {
+            "def": "A building or room which houses signal levers (usually in a frame), a control panel or a VDU-based control system", 
+            "link": "/wiki/Signal_box", 
+            "name": "Signal box"
+        }, 
+        {
+            "def": "An event in which a train passes a signal to stop without authorization to do so[citation needed]", 
+            "link": "/wiki/Signal_passed_at_danger", 
+            "name": "Signal passed at danger"
+        }, 
+        {
+            "def": "A person in charge of the signalling at a station or junction, often in a signal box", 
+            "link": "/wiki/Signalman_(rail)", 
+            "name": "Signalman"
+        }, 
+        {
+            "def": "The narrow corridor between a pair of closely spaced tracks, nominally six feet wide. See also four-foot and ten-foot.[218]", 
+            "link": null, 
+            "name": "Six-foot"
+        }, 
+        {
+            "def": "The condition of fallen leaves or other debris lying on and clinging to a railroad track that could cause train wheel slippage, resulting in premature wheel wear and train delays", 
+            "link": "/wiki/Slippery_rail", 
+            "name": "Slippery rail"
+        }, 
+        {
+            "def": "A local speed restriction below the track's normal speed limit often designated by yellow and green flags. Slow orders can be imposed on a temporary basis to protect, for example, maintenance of way employees while sections of track are under repair. Widely used in areas where track is substandard and in need of repair.", 
+            "link": "/wiki/Slow_order", 
+            "name": "Slow order"
+        }, 
+        {
+            "def": "A locomotive that contains traction motors yet lacks the diesel engine to create its own power, which is instead supplied by a connected mother locomotive[212]", 
+            "link": "/wiki/Slug_(railroad)", 
+            "name": "Slug"
+        }, 
+        {
+            "def": "An enclosed (normally cylindrical) space attached to the end of the boiler opposite the firebox on a steam locomotive (normally the front). Supports the stack/chimney; steam pipes to and from the cylinders pass through here; contains the blastpipe/exhaust nozzle where the exhaust steam is used to provide draft for the fire. In superheated locomotives, also contains the superheater header and (optionally) a front-end throttle. A smokebox door allows access for cleaning.", 
+            "link": "/wiki/Smokebox", 
+            "name": "Smokebox"
+        }, 
+        {
+            "def": "A rail service vehicle used for snow removal from train tracks[219]", 
+            "link": "/wiki/Snowplow", 
+            "name": "Snowplow, snow plow, snowplough, or snow plough"
+        }, 
+        {
+            "def": "A long shelter erected over a railroad track on the side of a mountain to protect the line from avalanches and drifting[220]", 
+            "link": null, 
+            "name": "Snow shed"
+        }, 
+        {
+            "def": "The beam between two bogies", 
+            "link": "/wiki/Span_bolster", 
+            "name": "Span bolster"
+        }, 
+        {
+            "def": "A bolt, pin, or nail used to hold rails, or plates connected to the rails (known as tie plates), to sleepers (ties)", 
+            "link": "/wiki/Rail_spike", 
+            "name": "Spike"
+        }, 
+        {
+            "def": "See Track transition curve. Also known as tangent lead-in.[212]", 
+            "link": null, 
+            "name": "Spiral easement"
+        }, 
+        {
+            "def": "Maintenance of way equipment designed to spread or shape ballast profiles, remove snow, clean and dig ditches as well as trim embankments", 
+            "link": "/wiki/Spreader_(railroad)", 
+            "name": "Spreader"
+        }, 
+        {
+            "def": "A self-propelled rail-defect detector car[221]", 
+            "link": null, 
+            "name": "Self-propelled ultrasonic rail testing (SPURT) (India)"
+        }, 
+        {
+            "def": "A method of safeworking involving a token[when defined as?][212]", 
+            "link": null, 
+            "name": "Staff and ticket"
+        }, 
+        {
+            "def": "A gauge where the rails are spaced 1,435\u00a0mm (4\u00a0ft\u00a08\u00a01\u20442\u00a0in) apart\u2014by far the most common gauge worldwide[212]", 
+            "link": "/wiki/Standard_gauge", 
+            "name": "Standard gauge"
+        }, 
+        {
+            "def": "The person in charge of a station", 
+            "link": "/wiki/Station_master", 
+            "name": "Station master"
+        }, 
+        {
+            "def": "A device generally used in passenger trains to create steam for heating. The steam generator is usually in the locomotive but may also be located in other cars.[212]", 
+            "link": "/wiki/Steam_generator_(railroad)", 
+            "name": "Steam generator"
+        }, 
+        {
+            "def": "A reversing gear worked by a steam cylinder controlled from the cab", 
+            "link": "/wiki/Steam_reverser", 
+            "name": "Steam reverser"
+        }, 
+        {
+            "def": "A person in a dining car with a role similar to that of a Maitre d\u2019Hotel[citation needed]", 
+            "link": null, 
+            "name": "Steward"
+        }, 
+        {
+            "def": "Pulling against train brakes at the lower end of a locomotive's power output (e.g. notches one through four) of a conventional throttle, thus keeping coupler slack stretched and permitting smoother train handling. This is considered most effective on undulating track profiles or when dynamic braking is not available.[citation needed]", 
+            "link": null, 
+            "name": "Stretch braking"
+        }, 
+        {
+            "def": "The trackage area within a division covered by a single timetable[222]", 
+            "link": null, 
+            "name": "Subdivision"
+        }, 
+        {
+            "def": "A mechanical device that boosts the pressure of engine intake air to above atmospheric level, causing an increase in power. Not to be confused with the blower used to scavenge the cylinders of a naturally aspirated two-stroke Diesel engine.", 
+            "link": "/wiki/Supercharger", 
+            "name": "Supercharger"
+        }, 
+        {
+            "def": "A device in a steam locomotive that raises the temperature of saturated steam substantially beyond the boiling point of water, increasing power and efficiency[212]", 
+            "link": "/wiki/Superheater", 
+            "name": "Superheater"
+        }, 
+        {
+            "def": "To determine the position of constructed objects, including rail infrastructure, in relation to the earth's surface. This is accomplished by measuring angles and distances based on the principles of triangulation.", 
+            "link": "/wiki/Surveying", 
+            "name": "Survey"
+        }, 
+        {
+            "def": "A person assigned to perform survey work", 
+            "link": "/wiki/Surveying", 
+            "name": "Surveyor"
+        }, 
+        {
+            "def": "A railroad worker responsible for assembling trains and switching railroad cars in a yard", 
+            "link": "/wiki/Switchman", 
+            "name": "Switchman"
+        }, 
+        {
+            "def": "Generally, a locomotive used in track maintenance and equipped with track lifting facilities, and paddles enabling ballast to be pushed beneath a rail track so as to assure its level and cant", 
+            "link": "/wiki/Tamping_machine", 
+            "name": "Tamping machine"
+        }, 
+        {
+            "def": "A type of rolling stock designed to transport liquid and gaseous commodities", 
+            "link": "/wiki/Tank_car", 
+            "name": "Tank car"
+        }, 
+        {
+            "def": "A spur or siding for loading freight, often used by firms not having their own direct rail access[223]", 
+            "link": "/wiki/Team_track", 
+            "name": "Team track"
+        }, 
+        {
+            "def": "A specialized rail car attached to a steam locomotive to carry its fuel and water supplies, along with tools and flagging equipment", 
+            "link": "/wiki/Tender_(rail)", 
+            "name": "Tender"
+        }, 
+        {
+            "def": "An area, usually at least ten feet wide, between a pair of widely spaced tracks, wide enough to form a place of safety in which railway workers can stand while a train goes past. See also four-foot and six-foot.[224]", 
+            "link": null, 
+            "name": "Ten-foot"
+        }, 
+        {
+            "def": "A company in the United States that owns no cars of its own and transports only the railroad cars of other companies around a specific terminal station[225]", 
+            "link": "/wiki/Terminal_railroad", 
+            "name": "Terminal railroad (or terminal railway)"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-10-4 wheel arrangement[citation needed]", 
+            "link": null, 
+            "name": "Texas type"
+        }, 
+        {
+            "def": "An electrified rail that runs along the tracks, giving power to trains. Used mostly in subways and rapid transit systems.[223]", 
+            "link": "/wiki/Third_rail", 
+            "name": "Third rail"
+        }, 
+        {
+            "def": "A passenger coach that is disconnected from one train and attached to another before continuing on with its journey, thus avoiding the need for passengers themselves to switch trains[226]", 
+            "link": "/wiki/Through_coach", 
+            "name": "Through coach"
+        }, 
+        {
+            "def": "The standard platform and track arrangement at a station. The train pulls alongside the platform, arriving from one end of the station, and may pass out the other end of the station by continuing along the same track[227]", 
+            "link": null, 
+            "name": "Through platform"
+        }, 
+        {
+            "def": "Combining two or more different railways onto a common length of track. This is often done to eliminate redundant trackage or improve service.[citation needed]", 
+            "link": null, 
+            "name": "Through routing"
+        }, 
+        {
+            "def": "A plate which is bolted to sleepers, holding the rails in place", 
+            "link": "/wiki/Tie_plate", 
+            "name": "Tie plate"
+        }, 
+        {
+            "def": "The general compass direction of a railroad or subdivision, as specified by its official timetable rulebook. Only the four cardinal compass points may be used to state a train's direction of travel.[citation needed]", 
+            "link": null, 
+            "name": "Timetable direction"
+        }, 
+        {
+            "def": "Intermodal freight transport[223]", 
+            "link": null, 
+            "name": "Trailer on flat car (TOFC)"
+        }, 
+        {
+            "def": "A physical object given to a locomotive driver to authorize use of a particular stretch of single track", 
+            "link": "/wiki/Token_(railway_signalling)", 
+            "name": "Token"
+        }, 
+        {
+            "def": "The foundation of rail tracks", 
+            "link": "/wiki/Track_bed", 
+            "name": "Track bed or trackbed"
+        }, 
+        {
+            "def": "A form used by railroad employees that shows the locations of slow orders, maintenance of way work locations, and other conditions affecting the track and movement of trains[citation needed]", 
+            "link": null, 
+            "name": "Track bulletin"
+        }, 
+        {
+            "def": "An electrical circuit that detects the presence of locomotives or cars (as their wheelsets electrically bond the rails) in a block of track, and provides real-time input to signaling logic", 
+            "link": "/wiki/Track_circuit", 
+            "name": "Track circuit"
+        }, 
+        {
+            "def": "The gradual application of superelevation and tighter curve radius, calculated with reference to the anticipated line speed and the final curve radius, on the approach to a bend. Also known as the transition spiral and spiral easement.", 
+            "link": "/wiki/Track_transition_curve", 
+            "name": "Track transition curve"
+        }, 
+        {
+            "def": "See Wayobjects.", 
+            "link": null, 
+            "name": "Trackside objects"
+        }, 
+        {
+            "def": "A large electric motor that powers the driving wheels of an electric or diesel-electric locomotive[223]", 
+            "link": "/wiki/Traction_motor", 
+            "name": "Traction motor"
+        }, 
+        {
+            "def": "The electric source for the traction motors of electric trains[citation needed]", 
+            "link": null, 
+            "name": "Traction supply"
+        }, 
+        {
+            "def": "The pulling or pushing force exerted by a locomotive or other vehicle", 
+            "link": "/wiki/Tractive_effort", 
+            "name": "Tractive effort"
+        }, 
+        {
+            "def": "A turnout where both legs merge in the direction of travel\u2014the opposite of facing", 
+            "link": "/wiki/Facing_and_trailing", 
+            "name": "Trailing"
+        }, 
+        {
+            "def": "An employee assigned to train service, such as a conductor, brakeman, or switchman", 
+            "link": "/wiki/Trainman", 
+            "name": "Trainman"
+        }, 
+        {
+            "def": "A dispatcher\u2014the person in charge of all traffic within assigned blocks[citation needed]", 
+            "link": null, 
+            "name": "Trainmaster"
+        }, 
+        {
+            "def": "A group of rolling stock that is permanently or semi-permanently coupled together to form a unified set of equipment. Trainsets are most often used in passenger train configurations.[citation needed]", 
+            "link": null, 
+            "name": "Trainset"
+        }, 
+        {
+            "def": "A city-based rail system that typically shares its operational space with other vehicles and often runs on, across, or down the center of city streets", 
+            "link": "/wiki/Tram", 
+            "name": "Tram"
+        }, 
+        {
+            "def": "Trams that are designed to run both on the tracks of a city-based rail system and on the existing railway networks. Tram-trains' dual-voltage capability makes it possible to operate at lower speeds on city streets and at over 60 miles per hour (97\u00a0km/h) on main line tracks allowing travel in an extended geographical area without changing the method of transport.", 
+            "link": "/wiki/Tram-train", 
+            "name": "Tram-train"
+        }, 
+        {
+            "def": "A mechanical or electrical device for detecting the presence of a rail vehicle with pin-point accuracy, unlike a track circuit, which provides detection over an arbitrary distances", 
+            "link": "/wiki/Treadle_(railway)", 
+            "name": "Treadle"
+        }, 
+        {
+            "def": "A switch[citation needed]", 
+            "link": "/wiki/Points_(rail)", 
+            "name": "Turnout or points"
+        }, 
+        {
+            "def": "A section of track that can rotate, allowing locomotives and rolling stock to be reversed, and also allow a large number of engine maintenance sidings to be accessed in a small area", 
+            "link": "/wiki/Turntable_(railroad)", 
+            "name": "Turntable"
+        }, 
+        {
+            "def": "A train in which all cars (wagons) carry the same commodity and are shipped from the same origin to the same destination, without being split up or stored en route[228]", 
+            "link": "/wiki/Unit_train", 
+            "name": "Unit train"
+        }, 
+        {
+            "def": "A continuous train brake which is fail-safe in operation; the brake is powered by a vacuum from the locomotive but the application is actually by atmospheric pressure when the vacuum is released. Now largely superseded by the air brake.", 
+            "link": "/wiki/Vacuum_brake", 
+            "name": "Vacuum brake"
+        }, 
+        {
+            "def": "The linkage mechanism that operates the valve for a driving cylinder, to alternately admit steam to the cylinder and then exhaust it when the piston's stroke is nearly complete[229]", 
+            "link": "/wiki/Valve_gear", 
+            "name": "Valve gear"
+        }, 
+        {
+            "def": "A device used for delivering a large volume of water into the tank or tender of a steam locomotive", 
+            "link": "/wiki/Water_column_(railroad)", 
+            "name": "Standpipe"
+        }, 
+        {
+            "def": "A device showing the level of water in the boiler[230]", 
+            "link": "/wiki/Water_gauge", 
+            "name": "Water gauge or water glass"
+        }, 
+        {
+            "def": "An alternate term for a caboose used by the Chicago, Burlington and Quincy Railroad, Chicago and North Western Railway, and Atchison, Topeka and Santa Fe Railway[230]", 
+            "link": "/wiki/Caboose", 
+            "name": "Way car"
+        }, 
+        {
+            "def": "See Local train.", 
+            "link": null, 
+            "name": "Way freight"
+        }, 
+        {
+            "def": "Trackside objects or any structures at the wayside or beside the rail tracks usually within the right-of-way, such as railway signals, third rails, overhead lines and their supports, electrification systems, platforms, or boom barriers[citation needed]", 
+            "link": null, 
+            "name": "Wayobjects or wayside objects"
+        }, 
+        {
+            "def": "Trackside[citation needed]", 
+            "link": null, 
+            "name": "Wayside"
+        }, 
+        {
+            "def": "A type of tank locomotive. The water tank is mounted between the frame plates, beneath the cab and boiler.", 
+            "link": "/wiki/Well_tank", 
+            "name": "Well tank"
+        }, 
+        {
+            "def": "A flat wagon with a depressed centre used for carrying extra tall loads", 
+            "link": "/wiki/Well_wagon", 
+            "name": "Well wagon (UIC)"
+        }, 
+        {
+            "def": "The rolling component typically pressed onto an axle and mounted on a rail car or locomotive truck or bogie. Wheels are cast or forged (wrought) and are heat treated to have a specific hardness. New wheels are trued to a specific profile before being pressed onto an axle. All wheel profiles need to be periodically monitored to insure proper wheel to rail interface. Improperly trued wheels increase rolling resistance, reduce energy efficiency and may create unsafe operation. A railroad wheel typically consists of two main parts: the wheel itself, and the tire around the outside. A railway tire is itself steel, and is typically heated and pressed onto the wheel, where it remains firmly as it shrinks and cools.", 
+            "link": "/wiki/Train_wheel", 
+            "name": "Wheel"
+        }, 
+        {
+            "def": "The process of a wheel climbing up and often off the inside or gauge side of the rail. It is a major source of derailments. Wheel climb is more likely to occur in curves with wheels whose flanges are worn or have improper angles. See Rail adhesion.", 
+            "link": "/wiki/Rail_adhesion", 
+            "name": "Wheel climb"
+        }, 
+        {
+            "def": "The inner section of a wheel that rides between the two rails. The angle between the wheel tread and flange is often specific to the rail to prevent wheel climb and possible derailments. See Rail adhesion. The wheel flange is part of the wheel tire.", 
+            "link": "/wiki/Rail_adhesion", 
+            "name": "Wheel flange"
+        }, 
+        {
+            "def": "The on-contact interaction between wheels and rails. The term is used in connection with the design and management of their interaction.", 
+            "link": "/wiki/Wheel-rail_interface", 
+            "name": "Wheel-rail interface"
+        }, 
+        {
+            "def": "The loss of traction due to a slippery rail or wheel. Wheel slip was common with steam engines as they started to move due to the excessive torque often generated at low speed. Steam engines carried sand dispensing gear to increase traction at the start of motion.[230]", 
+            "link": "/wiki/Slippery_rail", 
+            "name": "Wheel slip"
+        }, 
+        {
+            "def": "An historical railway occupation; people employed to tap train wheels with hammers and listen to the sound made to determine the integrity of the wheel; cracked wheels, like cracked bells, do not sound the same as their intact counterparts. The job was associated with the steam age, but they still operate in some eastern European countries. Modern planned maintenance procedures have mostly obviated the need for the wheel-tapper.", 
+            "link": "/wiki/Wheeltapper", 
+            "name": "Wheeltapper"
+        }, 
+        {
+            "def": "The slightly conical section (often with a 1 in 20 slope) of a railroad wheel that is the primary contact point with the rail. See Rail adhesion.", 
+            "link": "/wiki/Rail_adhesion", 
+            "name": "Wheel tread"
+        }, 
+        {
+            "def": "Train whistles are used as a safety warning and also by the engineer to communicate to other railroad workers. See train whistle for a description of the whistle code used to communicate. Also a nickname for an air horn on a diesel locomotive. Steam engine whistles were historically known as chimes in the US during the 19th century.", 
+            "link": "/wiki/Train_whistle", 
+            "name": "Whistle"
+        }, 
+        {
+            "def": "An advance warning to the engineer of an upcoming grade crossing. It is the point at which the engineer should begin sounding the whistle or horn.", 
+            "link": "/wiki/Whistle_post", 
+            "name": "Whistle post"
+        }, 
+        {
+            "def": "A system of describing steam locomotive wheel arrangements (e.g. 4-6-4, 2-10-2). The first number indicates the number of \"pilot\" wheels that help lead the engine into turns. The second is the number of coupled wheels (\"drivers\"). Third are the trailing idler wheels, usually to provide support to larger fireboxes. Articulated locomotives are similarly described. For example, a Union Pacific \"Big Boy\" would be described as a 4-8-8-4, wherein the pilot has four wheels, followed by two sets of drivers, eight wheels per set, and a four-wheel trailing bogie under the firebox. The numbers include the wheels on both sides of the engine, so a 2-8-2 engine would have one idler, four drivers, and a final idler on each side of the engine.", 
+            "link": "/wiki/Whyte_notation", 
+            "name": "Whyte notation"
+        }, 
+        {
+            "def": "A largely superseded Level or Grade Crossing Warning Signal consisting of a swinging disc facing road traffic with a red light in the centre. The disc normally hangs straight down, but an approaching train will set it swinging from side to side, the red light will illuminate or flash, and a bell will ring.", 
+            "link": "/wiki/Wigwag_(railroad)", 
+            "name": "Wigwag"
+        }, 
+        {
+            "def": "The condition of a steam locomotive drawing water through its throttle valve, cylinders, and smokestack, often causing damage to the cylinders or running gear[citation needed]", 
+            "link": null, 
+            "name": "Working water, foaming, or priming"
+        }, 
+        {
+            "def": "A failure in a signalling system that leaves the system in a dangerous condition[citation needed]", 
+            "link": "/wiki/Wrong-side_failure", 
+            "name": "Wrong-side failure"
+        }, 
+        {
+            "def": "A location where rolling stock is switched to and from trains, freight is loaded or unloaded, and consists made up[231]", 
+            "link": "/wiki/Rail_yard", 
+            "name": "Yard"
+        }, 
+        {
+            "def": "The person responsible for conducting all traffic within the yard in order to assemble or disassemble consists[citation needed]", 
+            "link": null, 
+            "name": "Yardmaster"
+        }, 
+        {
+            "def": "A colour associated with a warning or a need to slow down when used by flags or signals, but the exact meaning varies from railway to railway", 
+            "link": "/wiki/Yellow", 
+            "name": "Yellow"
+        }, 
+        {
+            "def": "A steam locomotive with a 2-8-8-4 wheel arrangement[citation needed]", 
+            "link": null, 
+            "name": "Yellowstone type"
+        }, 
+        {
+            "def": "A method of climbing and descending steep gradients, where shallow-gradient track reverses direction for a while, and then reverses again to continue in the original direction", 
+            "link": "/wiki/Zig_zag_(railway)", 
+            "name": "Zig zag or switchback"
+        }
+    ]
+}

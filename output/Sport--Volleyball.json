@@ -1,0 +1,721 @@
+{
+    "c2": "Sport", 
+    "c3": "Volleyball", 
+    "words": [
+        {
+            "def": "Ace\u00a0: A serve which lands in the receiving team's court without being touched by the receiving team, or one that is touched by only one member of the receiving team, and is not passed legally back over the net.", 
+            "link": null, 
+            "name": "Ace"
+        }, 
+        {
+            "def": "Assist\u00a0: Usually the second of a teams three contacts, an assist is awarded for any set ball that results in a kill on the ensuing attack.", 
+            "link": null, 
+            "name": "Assist"
+        }, 
+        {
+            "def": "Attack\u00a0: Usually the third of a teams three contacts, an attack is any attempt by the offense to score a point against the defense (this does not include free balls or over-passes).", 
+            "link": null, 
+            "name": "Attack"
+        }, 
+        {
+            "def": "Cut / Cut shot\u00a0: attack with an extreme angle (nearly parallel to the net).", 
+            "link": null, 
+            "name": "Cut"
+        }, 
+        {
+            "def": "Dig\u00a0: A defensive contact following an opponent's attack resulting in a playable ball.", 
+            "link": "/wiki/Volleyball_dig", 
+            "name": "Dig"
+        }, 
+        {
+            "def": "Double contact / Double\u00a0: A fault in which a player contacts the ball with two body parts consecutively.", 
+            "link": null, 
+            "name": "Double contact"
+        }, 
+        {
+            "def": "D.S.\u00a0: The abbreviation for \"defensive specialist\", a position player similar to the libero.", 
+            "link": null, 
+            "name": "D.S."
+        }, 
+        {
+            "def": "Dump\u00a0: A surprise attack usually executed by a front row setter to catch the defense off guard; many times executed with the left hand, sometimes with the right, aimed at the donut or area 4 on the court.", 
+            "link": null, 
+            "name": "Dump"
+        }, 
+        {
+            "def": "Five-One\u00a0: Six player offensive system where a single designated setter sets regardless of court position. He or she is responsible for the second touch on every reception of serve, and ideally every defensive play.", 
+            "link": null, 
+            "name": "Five-One"
+        }, 
+        {
+            "def": "Free ball / Chance ball\u00a0: A ball that is passed over the net because an attack wasn't possible.", 
+            "link": null, 
+            "name": "Free ball"
+        }, 
+        {
+            "def": "Four-Two\u00a0: Six player offense where there are two designated setters and the front row setter sets.", 
+            "link": null, 
+            "name": "Four-Two"
+        }, 
+        {
+            "def": "Goofy\u00a0: When a player jumps with wrong foot first (while attacking)", 
+            "link": null, 
+            "name": "Goofy"
+        }, 
+        {
+            "def": "Joust\u00a0: when the ball is falling directly on top of the net, two opposing players jump and push against the ball, trying to push it onto the other's side.", 
+            "link": null, 
+            "name": "Joust"
+        }, 
+        {
+            "def": "Kill\u00a0: successful, legal, point-scoring play. It can be from a spike attack, tip or dump.", 
+            "link": null, 
+            "name": "Kill"
+        }, 
+        {
+            "def": "Mis-hit\u00a0: A hit in which a player swings but does not contact the ball as intended, giving it a different speed, direction, and spin than the player intended.", 
+            "link": null, 
+            "name": "Mis-hit"
+        }, 
+        {
+            "def": "On-Two\u00a0: When the player making the second contact on the ball decides to play the ball over the net instead of setting up his or her team mate. Most often used in court volleyball by the setter, it is often called a 'setter dump' or a 'turn and burn', but on the beach it is colloquially referred to as an 'on-two'.", 
+            "link": null, 
+            "name": "On-Two"
+        }, 
+        {
+            "def": "One-Two-Two Coverage\u00a0: Attack coverage system where one player covers directly under the block, two players cover 1\u20133 meters away, and two players cover 4\u20135 meters away.", 
+            "link": null, 
+            "name": "One-Two-Two Coverage"
+        }, 
+        {
+            "def": "Opposite\u00a0: The player which plays in the rotation opposite the setter and usually attacks from the right side.", 
+            "link": null, 
+            "name": "Opposite"
+        }, 
+        {
+            "def": "Pepper\u00a0: A drill in which players hit a ball back and forth in a pass, set, spike, pass, set, spike, etc. pattern, without a net.", 
+            "link": "/wiki/Pepper_(volleyball)", 
+            "name": "Pepper"
+        }, 
+        {
+            "def": "Seam\u00a0: When serving, the spot between passers; when attacking, the spot between blockers.", 
+            "link": null, 
+            "name": "Seam"
+        }, 
+        {
+            "def": "Set\u00a0: The setter, located in the center front, hits the ball high above the net so that a spiker can spike it across. The setter always takes the second hit, if possible.", 
+            "link": null, 
+            "name": "Set"
+        }, 
+        {
+            "def": "Shank\u00a0: When a player unintentionally passes a ball in a wild manner, rendering it unplayable to his or her teammates.", 
+            "link": null, 
+            "name": "Shank"
+        }, 
+        {
+            "def": "Shot\u00a0: An offensive play in which a set ball, rather than being spiked hard, is directed to an open area of the court.", 
+            "link": null, 
+            "name": "Shot"
+        }, 
+        {
+            "def": "Side out\u00a0: When the team that served the ball loses the rally, causing the other team to serve the next point.", 
+            "link": null, 
+            "name": "Side out"
+        }, 
+        {
+            "def": "Six-Two\u00a0: Six player offense where there are two designated setters and the back row setter sets. Called six-two because there are two setters and six other players (two outsides, two middle hitters, and two right-side hitters)", 
+            "link": null, 
+            "name": "Six-Two"
+        }, 
+        {
+            "def": "Six-back\u00a0: Defensive system where the player in 'six' (the middle position in the back-court) plays deep in the court covering attacks through the seam in the block, attacks over top of the block, and attacks that go high off the block. With certain blocking schemes the player in 'six' might also be responsible for deep line roll shots.", 
+            "link": null, 
+            "name": "Six-back"
+        }, 
+        {
+            "def": "Six-up\u00a0: Defensive system where the player in 'six' (the middle position in the back-court) plays up behind the block with the responsibility of defending against a tip attack.", 
+            "link": null, 
+            "name": "Six-up"
+        }, 
+        {
+            "def": "Six-zero\u00a0: Six player offense where there are no designated positions. Instead, the designated setter is just the player in position 3 (or sometimes 2).", 
+            "link": null, 
+            "name": "Six-zero"
+        }, 
+        {
+            "def": "Spike\u00a0: When an offensive player attacks the ball with a one-arm motion done over the head, attempting to get a kill.", 
+            "link": "/wiki/Volleyball_spiking", 
+            "name": "Spike"
+        }, 
+        {
+            "def": "Spatch\u00a0: When a player contacts the ball incorrectly during a hit causing the ball to propel unlike how the hitter intended.", 
+            "link": null, 
+            "name": "Spatch"
+        }, 
+        {
+            "def": "Strong side\u00a0: The left side of the court, so-called because it is usually the easier side for right-handed players to attack from. Also referred to as the \"On-hand\" side.", 
+            "link": null, 
+            "name": "Strong side"
+        }, 
+        {
+            "def": "\"The Gap\"\u00a0: A spike between area two and area three that the middle hits. It\u2019s always the same distance from the setter no matter where the setter is positioned on the set.", 
+            "link": null, 
+            "name": "\"The Gap\""
+        }, 
+        {
+            "def": "The \"W\"\u00a0: A common serve receive formation at lower levels where 5 players prepare to pass with 1 designated setter. So named because from above, the 5 passers are assembled on the five points of a \"W\". (Alternatively, possibly a Serve Screening formation by the serving team, also named for resembling a W)", 
+            "link": null, 
+            "name": "The \"W\""
+        }, 
+        {
+            "def": "Whiff - When a hitter swings for the ball and slightly grazes it with his middle finger and ring finger.", 
+            "link": null, 
+            "name": "Whiff"
+        }, 
+        {
+            "def": "Two-Three Coverage\u00a0: Attack coverage system where two players cover 1\u20132 meters away from the block, and three players cover 2\u20134 meters away.", 
+            "link": null, 
+            "name": "Two-Three Coverage"
+        }, 
+        {
+            "def": "Weak Side\u00a0: The right side of the court, so-called because it is generally easier for right-handed players to attack from the left ('strong') side. Also known \"off-hand\" side.", 
+            "link": null, 
+            "name": "Weak Side"
+        }, 
+        {
+            "def": "A\u00a0: A back row set aimed at the left side of the court [A|B||C|D]. Also could be a quick set to the middle.", 
+            "link": null, 
+            "name": "A"
+        }, 
+        {
+            "def": "B\u00a0: A back row set aimed to the left side of the middle of the court [A|B||C|D].", 
+            "link": null, 
+            "name": "B"
+        }, 
+        {
+            "def": "Back-Two: A ball set relatively high and to the middle or to the right side hitter, directly behind the setter.", 
+            "link": null, 
+            "name": "Back-Two"
+        }, 
+        {
+            "def": "Back-One: A ball set relatively low (or quick) to the middle hitter or to the right side hitter, directly behind the setter.", 
+            "link": null, 
+            "name": "Back-One"
+        }, 
+        {
+            "def": "Bick\u00a0: Similar to the \"Pipe\", but set very low", 
+            "link": null, 
+            "name": "Bick"
+        }, 
+        {
+            "def": "C\u00a0: A back row set aimed to the right side of the middle of the court [A|B||C|D].", 
+            "link": null, 
+            "name": "C"
+        }, 
+        {
+            "def": "Chaos: An outside in which the middle runs a one, the outside comes for a two off the middle's shoulder, and the weak side runs around the back to hit an outside 3.", 
+            "link": null, 
+            "name": "Chaos"
+        }, 
+        {
+            "def": "D\u00a0: A back row set aimed at the right side of the court [A|B||C|D].", 
+            "link": null, 
+            "name": "D"
+        }, 
+        {
+            "def": "Five\u00a0: Same as a four set, but to the outside.", 
+            "link": null, 
+            "name": "Five"
+        }, 
+        {
+            "def": "Four/Back\u00a0: A high set to the weak/right side hitter.", 
+            "link": null, 
+            "name": "Four"
+        }, 
+        {
+            "def": "Go\u00a0: A set to the outside hitter, higher than a shoot but lower and faster than a hut.", 
+            "link": null, 
+            "name": "Go"
+        }, 
+        {
+            "def": "Hut / Loop\u00a0: A lower set to the outsider hitter. Higher than a shoot.", 
+            "link": null, 
+            "name": "Hut"
+        }, 
+        {
+            "def": "Jones\u00a0: A variation of \"Chaos\" where the middle runs a one, the outside comes for a \"back 2,\" and the weakside comes around to hit an \"outside 3.\" The setter may choose to set the ball to any of the three hitting options. This play is designed so that the setter is able to accommodate the set according to where the block is positioned.", 
+            "link": null, 
+            "name": "Jones"
+        }, 
+        {
+            "def": "One / Quick / Fifty One\u00a0: A type of middle hit when the middle jumps before the setter sets, with the ball being set directly to the middle hitter's hand.", 
+            "link": null, 
+            "name": "One"
+        }, 
+        {
+            "def": "Pipe\u00a0: A back row set aimed at the middle of the court between a B and a C-ball [A|B|^|C|D].", 
+            "link": null, 
+            "name": "Pipe"
+        }, 
+        {
+            "def": "Shocker: A attack in which the Middle runs a one, the Opposite comes for a two off the middle's shoulder, and the Outside runs/slides around to hit a back-two.", 
+            "link": null, 
+            "name": "Shocker"
+        }, 
+        {
+            "def": "Shoot\u00a0: A variation on the quick set except instead of setting the ball to the middle the ball is set to the outside hitter.", 
+            "link": null, 
+            "name": "Shoot"
+        }, 
+        {
+            "def": "Step / Slide\u00a0: An attack where the hitter fakes a quick-set (one) approach with his/her first step and subsequently chases the ball behind the setter and parallel to the net, jumps off one foot and hits the ball close to the antenna on the weak-side.", 
+            "link": null, 
+            "name": "Step / Slide"
+        }, 
+        {
+            "def": "Ten\u00a0: A ball set for a back row attack.", 
+            "link": null, 
+            "name": "Ten"
+        }, 
+        {
+            "def": "Three / Thirty-Three\u00a0: A quick lower set to the outside.", 
+            "link": null, 
+            "name": "Three"
+        }, 
+        {
+            "def": "Thirty-Two: An attack where the hitter fakes a quick-set (one) approach with his/her first step and subsequently chases the ball in front of the setter and parallel to the net, jumps off one foot and hits the ball in the outside 3 position. Generally used as adapted version of the Slide for left-handed hitters.", 
+            "link": null, 
+            "name": "Thirty-Two"
+        }, 
+        {
+            "def": "Two\u00a0: A ball set to the middle hitter. Also, a \"back two\" is the same set set behind the setter.", 
+            "link": null, 
+            "name": "Two"
+        }, 
+        {
+            "def": "Cross (X)\u00a0: A play in which the middle hitter jumps for a one, and the weak-side hitter, having moved to the middle of the court, takes an approach for a two at the same location.", 
+            "link": null, 
+            "name": "Cross (X)"
+        }, 
+        {
+            "def": "Thirty One / Inside Shoot\u00a0: A play in which the middle hitter runs a one ball 5 to 10 feet away from the setter.", 
+            "link": null, 
+            "name": "Thirty One"
+        }, 
+        {
+            "def": "Stack / Tandem\u00a0: Similar to the \"cross\" but the outside hitter hits the two ball.", 
+            "link": null, 
+            "name": "Stack"
+        }, 
+        {
+            "def": "Thirty Stack\u00a0: A play in which the middle hitter runs a Thirty One and the Outside Hitter runs a Thirty Two", 
+            "link": null, 
+            "name": "Thirty Stack"
+        }, 
+        {
+            "def": "Shaft\u00a0: A deep pipe set, generally set high.", 
+            "link": null, 
+            "name": "Shaft"
+        }, 
+        {
+            "def": "Middle-finger Ball\u00a0: When the libero takes an approach and jumps as if to hit a one ball, making as much noise as possible to distract the other team. This will hopefully cause blockers to jump with the libero, despite there being no threat of attack. Usually used by a team winning by a significant margin.", 
+            "link": null, 
+            "name": "Middle-finger Ball"
+        }, 
+        {
+            "def": "Beach dig\u00a0: A dig made using both hands and fingers to surround the ball, squeeze and actually slightly lift the ball. Allowed when defending against a hard hit on the beach.", 
+            "link": null, 
+            "name": "Beach dig"
+        }, 
+        {
+            "def": "Bump\u00a0: Similar in motion to a pass, but used to set a ball for an attack.", 
+            "link": null, 
+            "name": "Bump"
+        }, 
+        {
+            "def": "Chicken wing\u00a0: When a defending player is forced to react very quickly to a ball coming at their upper torso, the player may lift a bent arm in the shape of a chicken wing to dig the ball.", 
+            "link": null, 
+            "name": "Chicken wing"
+        }, 
+        {
+            "def": "Chop Shot\u00a0: A type of attack usually executed on the beach, instead of contacting behind the ball the player turns their hand sideways and chops the side of the ball, creating side spin and a sharp sideways trajectory along the net. Most easily done with the right hand on the right side, and the left hand on the left side.", 
+            "link": null, 
+            "name": "Chop Shot"
+        }, 
+        {
+            "def": "Cobra\u00a0: With the fingers extended straight and stiff, the ball is poked with the fingertips.", 
+            "link": null, 
+            "name": "Cobra"
+        }, 
+        {
+            "def": "Crepe\u00a0: When a player digs the ball by extending his or her foot flat on the floor, letting the ball bounce off the top of the foot.", 
+            "link": null, 
+            "name": "Crepe"
+        }, 
+        {
+            "def": "Dinosaur-Dig\u00a0: When one attempts to block a ball but it falls down between them and the net, so they bring their arms down in front of them like a T-Rex and play the ball up with the backs of their wrists.", 
+            "link": null, 
+            "name": "Dinosaur-Dig"
+        }, 
+        {
+            "def": "Flipper\u00a0: A reaching contact made with the outstretched back of the hand in a flipping motion. Popularized by beach player Andy Fishburn.", 
+            "link": null, 
+            "name": "Flipper"
+        }, 
+        {
+            "def": "Floater/Float\u00a0: A non-spinning serve characterized by unpredictable, erratic movement during flight caused by airflow interacting with the seams of the ball. Similar to a knuckleball in baseball.", 
+            "link": null, 
+            "name": "Floater"
+        }, 
+        {
+            "def": "Gator\u00a0: A defensive digging technique used on the beach in the defense of a hard hit ball. The hands are formed into the shape of 2 gator jaws. The maneuver involves digging the ball with the bottom hand and then directing it with the upper hand.", 
+            "link": null, 
+            "name": "Gator"
+        }, 
+        {
+            "def": "J-Stroke\u00a0: an emergency play made either running or diving, often with one hand, where a player has to reach well in front of them to contact the ball and follow through in a 'J' motion in order to send the ball back over their head.", 
+            "link": null, 
+            "name": "J-Stroke"
+        }, 
+        {
+            "def": "Jay-pass\u00a0: a forearm or overhead pass that places the setter in a position to only be able to set the passer who initiated the pass. Generally passed low to the ground and immediately in front of the passer.", 
+            "link": null, 
+            "name": "Jay-pass"
+        }, 
+        {
+            "def": "Jump float\u00a0: A float serve with a small hop/jump.", 
+            "link": null, 
+            "name": "Jump float"
+        }, 
+        {
+            "def": "Jump Serve / Jump spin\u00a0: a serve made famous by Karch Kiraly; the server tosses the ball high into the air about 3~5 feet away from himself, flicking the wrist making top spin on the ball then taking a spike approach and contacting the ball while in mid air snapping the wrist to cause great forward spin to allow the ball to suddenly drop when the opponent is going to pass the ball.", 
+            "link": "/wiki/Volleyball_jump_serve", 
+            "name": "Jump Serve"
+        }, 
+        {
+            "def": "Kong\u00a0: A one-handed block, usually because the blocker is late. Initially popularized by Randy Stoklos.", 
+            "link": null, 
+            "name": "Kong"
+        }, 
+        {
+            "def": "Pancake\u00a0: When a player digs the ball by extending his or her hand flat on the floor, palm facing down, letting the ball bounce off the back of the hand.", 
+            "link": null, 
+            "name": "Pancake"
+        }, 
+        {
+            "def": "Pokey\u00a0: A ball contacted with the knuckles especially on the beach.", 
+            "link": null, 
+            "name": "Pokey"
+        }, 
+        {
+            "def": "Roll Shot\u00a0: An attacker hits the set softly putting extreme topspin on the ball so that it will clear the block and drop quickly and directly over the block.", 
+            "link": null, 
+            "name": "Roll Shot"
+        }, 
+        {
+            "def": "Sprawl\u00a0: A type of dig in which the player does not dive forward, but rather places his hands on the ground and pushes his body forward and down. Similar to diving for a ball, but not actually leaving the ground.", 
+            "link": null, 
+            "name": "Sprawl"
+        }, 
+        {
+            "def": "Sky ball\u00a0: A unique underhand serve in which the ball is shot unusually high into the air above the opposing team's court in the attempt to confuse the receiver.", 
+            "link": null, 
+            "name": "Sky ball"
+        }, 
+        {
+            "def": "Thunder: A spike or attack that requires a lot of force from the arm, and a very high jump. The ball is hit steeply downwards from the point of contact, and is very difficult to receive.", 
+            "link": null, 
+            "name": "Thunder"
+        }, 
+        {
+            "def": "Tip\u00a0: A softer or off-speed finesse attack, usually committed with more of the fingers and fingertips than the whole hand as used in an attack.", 
+            "link": null, 
+            "name": "Tip"
+        }, 
+        {
+            "def": "Wipe / Swipe\u00a0: When one player pushes the ball against the opponents block and physically wipes the ball out of bounds. Similar to a tool.", 
+            "link": null, 
+            "name": "Wipe"
+        }, 
+        {
+            "def": "Steino\u00a0: A 3 Knuckle pokey shot in beach Volleyball made famous by AVP Pro and USA Olympian Stein Metzger. Stein Metzger gives credit to the introduction of the shot on the AVP Pro tour to Eduardo Jorge \"Anjinho\" Bacil Filho better known as Anjinho Bacil.", 
+            "link": null, 
+            "name": "Steino"
+        }, 
+        {
+            "def": "Bang / Bounce / Thump: A ball spiked very hard with a steep downward angle.", 
+            "link": null, 
+            "name": "Bang"
+        }, 
+        {
+            "def": "Beer: When an attacked ball goes through a defenders legs. After being \"Beered\" the defender then owes the attacker a beer.", 
+            "link": null, 
+            "name": "Beer"
+        }, 
+        {
+            "def": "Blash: When a ball is blocked and the ball travels faster from the blocker to the floor than the attacker to the block. Made famous by Cameron Billingham, the term comes from a combination of the words 'Block' and 'Smash'.", 
+            "link": null, 
+            "name": "Blash"
+        }, 
+        {
+            "def": "Block City: A fictional place that players claim to go when they are blocking very well. Also known as Turkey Town. (See \"Stuff Turkey\").", 
+            "link": null, 
+            "name": "Block City"
+        }, 
+        {
+            "def": "Butter / Nectar / Sauce / Cheddar Biscuits\u00a0: A perfect set.", 
+            "link": null, 
+            "name": "Butter"
+        }, 
+        {
+            "def": "Chowder/Chum\u00a0: A badly mangled set.", 
+            "link": null, 
+            "name": "Chowder/Chum"
+        }, 
+        {
+            "def": "Chick Impressor: When an aggressive kill setup by an over passed ball impresses physically attractive bystanders.", 
+            "link": null, 
+            "name": "Chick Impressor"
+        }, 
+        {
+            "def": "Chicken Presser: See Chick Impressor.", 
+            "link": null, 
+            "name": "Chicken Presser"
+        }, 
+        {
+            "def": "Crab Defense: When a player is serving, the opposing three passers shuffle side to side and pinch their hands like crabs to distract the server.", 
+            "link": null, 
+            "name": "Crab Defense"
+        }, 
+        {
+            "def": "Deep Dish/Chicago style pizza/Evan set\u00a0: An illegal set that is held excessively long, typically set from below the shoulders and seen in beach volleyball.", 
+            "link": null, 
+            "name": "Deep Dish/Chicago style pizza/Evan set"
+        }, 
+        {
+            "def": "Dirt Dessert: When a player gets a kill so sweet, it's almost comparable to the utter sweetness of a classic Dirt Dessert.", 
+            "link": null, 
+            "name": "Dirt Dessert"
+        }, 
+        {
+            "def": "Double-double\u00a0: When a player accumulates double-digit amounts in two of five statistical categories\u2014aces, kills, blocks, digs, and assists\u2014during one match.", 
+            "link": null, 
+            "name": "Double-double"
+        }, 
+        {
+            "def": "Easy\u00a0: What a defending player should yell at the top of their lungs when successfully digging a very hard hit attack or perfectly passing a hard serve, as if to say that the attacking/serving player is easy.", 
+            "link": null, 
+            "name": "Easy"
+        }, 
+        {
+            "def": "Facial / Six-Pack / Tattoo/ Dome\u00a0: When a defending player gets hit in the face with the ball either from an attack by the opposing team or by a deflection off the block. The term \"six-pack\" refers to the dizzying sensation of being hit directly in the head or face by a volleyball as being analogous to the dizzying sensation of having drunk a six pack of beer. The abdominal muscles are sometimes referred to as a \"six-pack,\" so getting hit in the stomach by the ball is getting 'six-packed.' The term \"tattoo\" refers to marks left on the skin of the hit player by the seams/lettering on the ball.", 
+            "link": null, 
+            "name": "Facial"
+        }, 
+        {
+            "def": "Fishing: Making illegal contact with the net.", 
+            "link": null, 
+            "name": "Fishing"
+        }, 
+        {
+            "def": "Hands\u00a0: Hand setting. Someone with \"nice hands\" sets well.", 
+            "link": null, 
+            "name": "Hands"
+        }, 
+        {
+            "def": "Heat\u00a0: Speed. Used to describe a hard-hit ball.", 
+            "link": null, 
+            "name": "Heat"
+        }, 
+        {
+            "def": "House / Stuff / Roof\u00a0: When the defensive player blocks a ball so hard that it is immediately returned to the hitter and goes straight to the floor.", 
+            "link": null, 
+            "name": "House"
+        }, 
+        {
+            "def": "Hubby-wife / Campfire\u00a0: In beach volleyball, when a serve drops between two players because the players don't decide in time who will pass it.", 
+            "link": null, 
+            "name": "Hubby-wife"
+        }, 
+        {
+            "def": "Jet Nai Heed\u00a0: The act of intentionally blocking a spike from the opposing team.", 
+            "link": null, 
+            "name": "Jet Nai Heed"
+        }, 
+        {
+            "def": "Jungleball / Barbecue ball / Picnic ball\u00a0: A volleyball game played by inexperienced players with little ball control.", 
+            "link": null, 
+            "name": "Jungleball"
+        }, 
+        {
+            "def": "Killing Ants\u00a0: when a player digging a hit passes the ball directly into the ground", 
+            "link": null, 
+            "name": "Killing Ants"
+        }, 
+        {
+            "def": "Killshot\u00a0: on a serve or a swing when the ball hits the passers neck or chest region, in between digging and getting facialed", 
+            "link": null, 
+            "name": "Killshot"
+        }, 
+        {
+            "def": "Lombardo: A beach volley player who demonstrates a gross lack of skill, knowledge, or style. \"That lombardo has been throwing party balls all day!\".", 
+            "link": null, 
+            "name": "Lombardo"
+        }, 
+        {
+            "def": "Nail\u00a0: A perfect pass.", 
+            "link": null, 
+            "name": "Nail"
+        }, 
+        {
+            "def": "O.T.\u00a0: When an attacker hits the ball over top of the blocker and it lands in front of the defense.", 
+            "link": null, 
+            "name": "O.T."
+        }, 
+        {
+            "def": "Overkill\u00a0: When an overpass (or a free ball) occurs and the opposing team attacks the ball for a kill.", 
+            "link": null, 
+            "name": "Overkill"
+        }, 
+        {
+            "def": "Paintbrush / Whiff / Spatch\u00a0: A mishit \u2014 when a player attempts to hit (or spike) the ball with the open hand and nearly misses the ball, only contacting the ball with his/her fingers resulting in a backspin on the ball.", 
+            "link": null, 
+            "name": "Paintbrush"
+        }, 
+        {
+            "def": "Pancake Lake\u00a0: An imaginary place a player (normally libero) goes when they repeatedly pancake a tipped ball or ball headed for the ground.", 
+            "link": null, 
+            "name": "Pancake Lake"
+        }, 
+        {
+            "def": "Party Ball\u00a0: Opportunity for a front row player to return an overpassed ball with a hit.", 
+            "link": null, 
+            "name": "Party Ball"
+        }, 
+        {
+            "def": "Phone Booth\u00a0: When a blocker's hands seal off every possible attack angle on a set ball. Often referred to as, \"It's like trying to hit out of a phone booth.\"", 
+            "link": null, 
+            "name": "Phone Booth"
+        }, 
+        {
+            "def": "Pineapple\u00a0: An attack on the second contact by the setter of a team, usually with the right hand designed to land in the deep corner of the court. Often done without looking at the target for deception. Made famous by USA setter Lloy Ball when playing in college.", 
+            "link": null, 
+            "name": "Pineapple"
+        }, 
+        {
+            "def": "Popcorn setting/Sprinkler\u00a0: When an unskilled setter is sending sets in a random pattern (like popcorn being popped, or like a water sprinkler on the grass).", 
+            "link": null, 
+            "name": "Popcorn setting"
+        }, 
+        {
+            "def": "Quadruple-double\u00a0: When a player amasses a double-digit total in four of five statistical categories\u2014aces, kills, blocks, digs, and assists\u2014during a match.", 
+            "link": null, 
+            "name": "Quadruple-double"
+        }, 
+        {
+            "def": "Quintuple-double\u00a0: When a player accomplishes ten or more aces, kills, blocks, digs, and assists during a match.", 
+            "link": null, 
+            "name": "Quintuple-double"
+        }, 
+        {
+            "def": "Rainbow\u00a0: A shot especially on the beach that is hit over the head of the defender to the far corner and lands cleanly. Also known as a Jumbo Shrimp (due to the arc/shape of the shot).", 
+            "link": null, 
+            "name": "Rainbow"
+        }, 
+        {
+            "def": "Ref\u00a0: A variation of \"Refs\", but one that is socially accepted by the players.", 
+            "link": null, 
+            "name": "Ref"
+        }, 
+        {
+            "def": "Refs\u00a0: Collective noun for those officiating at a volleyball event - including referees and lines people. Often mocked for wearing predominantly white shoes on a beach volleyball event.", 
+            "link": null, 
+            "name": "Refs"
+        }, 
+        {
+            "def": "Rufio\u00a0: A cheer done in volleyball, famous from the movie Hook, where a player blocks the opposing player straight down on the opposing players' side. Players scream, Rufio, Rufio, Ru-fi-OOOOOO!!!", 
+            "link": null, 
+            "name": "Rufio"
+        }, 
+        {
+            "def": "A Scotford\u00a0: To celebrate heartily after officiating at an event, sometimes by wearing the headwear of many nations.", 
+            "link": null, 
+            "name": "A Scotford"
+        }, 
+        {
+            "def": "Scrappy\u00a0: Referring to a team that doesn't let a single ball hit the ground without much effort. (used positively)", 
+            "link": null, 
+            "name": "Scrappy"
+        }, 
+        {
+            "def": "Shag\u00a0: Picking up and collecting scattered volleyballs.", 
+            "link": null, 
+            "name": "Shag"
+        }, 
+        {
+            "def": "Skunk/Skunk rule\u00a0: A win that occurs when a team scores 7 points while the opposition has not scored. Similar to the mercy rule.", 
+            "link": null, 
+            "name": "Skunk/Skunk rule"
+        }, 
+        {
+            "def": "Spalding: when the hitters hit the ball and it hits the opposing defensive team in the face or on their body. Spalding refers to the letters of the ball staying on the players face because it hit them so hard.", 
+            "link": null, 
+            "name": "Spalding"
+        }, 
+        {
+            "def": "Spiketown/Bouncetown: A fictional place that a hitter claims to go to when he/she gets an impressive kill that bounces very high and no one can return (a lot of times near the 3 meter line.)", 
+            "link": null, 
+            "name": "Spiketown/Bouncetown"
+        }, 
+        {
+            "def": "Stuff Turkey: A stuff block in which the ball hits the opponents' floor before the blocker does; When such an event occurs, a player is said to have had his turkey stuffed.", 
+            "link": null, 
+            "name": "Stuff Turkey"
+        }, 
+        {
+            "def": "Sui-set: A ball set too close to the net directly in to the hands of a waiting blocker; The attacker will get blocked most of the time.", 
+            "link": null, 
+            "name": "Sui-set"
+        }, 
+        {
+            "def": "Tool / Use\u00a0: An attack which is deflected off an opponent (usually during a block) and is unplayable resulting in a point for the attacking team (also called a bounce off).", 
+            "link": null, 
+            "name": "Tool"
+        }, 
+        {
+            "def": "Tough Bacon\u00a0: Any ball that is played in a way that makes it difficult for the next player to successfully play the ball. For instance, after a bad set the intended hitter might remark \"that was tough bacon\". Similarly, a setter might remark as such after a bad pass, or a passer might remark as such after a difficult serve.", 
+            "link": null, 
+            "name": "Tough Bacon"
+        }, 
+        {
+            "def": "Trap\u00a0: A ball set too close to the net where the hitter typically gets stuffed.", 
+            "link": null, 
+            "name": "Trap"
+        }, 
+        {
+            "def": "Triple-double\u00a0: When a player, during a single match, scores at least ten times in three of five statistical categories: Aces, kills, blocks, digs, and assists.", 
+            "link": null, 
+            "name": "Triple-double"
+        }, 
+        {
+            "def": "Vegas Line: A kill resulting from a powerful hard-line spike that penetrates or beats the opponents' line block. So-named after Sean Rosenthal, a member of the AVP delivered such a memorable kill in Las Vegas, 2005.", 
+            "link": null, 
+            "name": "Vegas Line"
+        }, 
+        {
+            "def": "Waffle: Another term for a mishit attack that results in backspin on the ball.", 
+            "link": null, 
+            "name": "Waffle"
+        }, 
+        {
+            "def": "Waterfall Ball: When a players hit goes inside the block of the opposing team and falls down on their side much like a waterfall.", 
+            "link": null, 
+            "name": "Waterfall Ball"
+        }, 
+        {
+            "def": "Yummy: When a player gets a kill out of an overpass from the opposing team.", 
+            "link": null, 
+            "name": "Yummy"
+        }
+    ]
+}

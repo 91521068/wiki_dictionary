@@ -1,0 +1,796 @@
+{
+    "c2": "Computing and IT", 
+    "c3": "object-oriented programming", 
+    "words": [
+        {
+            "def": "See also", 
+            "link": "#See_also", 
+            "name": "See also"
+        }, 
+        {
+            "def": "References", 
+            "link": "#References", 
+            "name": "References"
+        }, 
+        {
+            "def": "External links", 
+            "link": "#External_links", 
+            "name": "External links"
+        }, 
+        {
+            "def": "Abstract class", 
+            "link": "/wiki/Abstract_type", 
+            "name": "Abstract class"
+        }, 
+        {
+            "def": "Accessibility", 
+            "link": "/wiki/Member_visibility", 
+            "name": "Accessibility"
+        }, 
+        {
+            "def": "Abstract method", 
+            "link": "/wiki/Method_(computer_science)", 
+            "name": "Abstract method"
+        }, 
+        {
+            "def": "Abstraction (computer science)", 
+            "link": "/wiki/Abstraction_(computer_science)", 
+            "name": "Abstraction (computer science)"
+        }, 
+        {
+            "def": "Access control", 
+            "link": "/wiki/Access_control", 
+            "name": "Access control"
+        }, 
+        {
+            "def": "Access modifiers", 
+            "link": "/wiki/Access_modifiers", 
+            "name": "Access modifiers"
+        }, 
+        {
+            "def": "Accessor method", 
+            "link": "/wiki/Mutator_method", 
+            "name": "Accessor method"
+        }, 
+        {
+            "def": "Adapter pattern", 
+            "link": "/wiki/Adapter_pattern", 
+            "name": "Adapter pattern"
+        }, 
+        {
+            "def": "Aspect-oriented", 
+            "link": "/wiki/Aspect-oriented_programming", 
+            "name": "Aspect-oriented"
+        }, 
+        {
+            "def": "Bridge pattern", 
+            "link": "/wiki/Bridge_pattern", 
+            "name": "Bridge pattern"
+        }, 
+        {
+            "def": "Builder pattern", 
+            "link": "/wiki/Builder_pattern", 
+            "name": "Builder pattern"
+        }, 
+        {
+            "def": "Base class", 
+            "link": "/wiki/Base_class", 
+            "name": "Base class"
+        }, 
+        {
+            "def": "Cast", 
+            "link": "/wiki/Type_conversion", 
+            "name": "Cast"
+        }, 
+        {
+            "def": "Chain-of-responsibility pattern", 
+            "link": "/wiki/Chain-of-responsibility_pattern", 
+            "name": "Chain-of-responsibility pattern"
+        }, 
+        {
+            "def": "Class", 
+            "link": "/wiki/Class_(computer_science)", 
+            "name": "Class"
+        }, 
+        {
+            "def": "Class hierarchy", 
+            "link": "/wiki/Hierarchy_(object-oriented_programming)", 
+            "name": "Class hierarchy"
+        }, 
+        {
+            "def": "Class method", 
+            "link": "/wiki/Method_(computer_science)", 
+            "name": "Class method"
+        }, 
+        {
+            "def": "Class object", 
+            "link": "/wiki/Object_(computer_science)", 
+            "name": "Class object"
+        }, 
+        {
+            "def": "Class variable", 
+            "link": "/wiki/Class_variable", 
+            "name": "Class variable"
+        }, 
+        {
+            "def": "Cohesion", 
+            "link": "/wiki/Cohesion_(computer_science)", 
+            "name": "Cohesion"
+        }, 
+        {
+            "def": "Collection class", 
+            "link": "/wiki/Container_(data_structure)", 
+            "name": "Collection class"
+        }, 
+        {
+            "def": "Composition", 
+            "link": "/wiki/Object_composition", 
+            "name": "Composition"
+        }, 
+        {
+            "def": "Constructor", 
+            "link": "/wiki/Constructor_(computer_science)", 
+            "name": "Constructor"
+        }, 
+        {
+            "def": "Container (data structure)", 
+            "link": "/wiki/Container_(data_structure)", 
+            "name": "Container (data structure)"
+        }, 
+        {
+            "def": "Contravariance", 
+            "link": "/wiki/Covariance_and_contravariance_(computer_science)", 
+            "name": "Contravariance"
+        }, 
+        {
+            "def": "Copy constructor", 
+            "link": "/wiki/Copy_constructor", 
+            "name": "Copy constructor"
+        }, 
+        {
+            "def": "Coupling", 
+            "link": "/wiki/Coupling_(computer_science)", 
+            "name": "Coupling"
+        }, 
+        {
+            "def": "Covariance", 
+            "link": "/wiki/Covariance_and_contravariance_(computer_science)", 
+            "name": "Covariance"
+        }, 
+        {
+            "def": "Data-driven design", 
+            "link": "/wiki/Data-driven_design", 
+            "name": "Data-driven design"
+        }, 
+        {
+            "def": "Data hiding", 
+            "link": "/wiki/Information_hiding", 
+            "name": "Data hiding"
+        }, 
+        {
+            "def": "Default constructor", 
+            "link": "/wiki/Default_constructor", 
+            "name": "Default constructor"
+        }, 
+        {
+            "def": "Deep copy", 
+            "link": "/wiki/Object_copy", 
+            "name": "Deep copy"
+        }, 
+        {
+            "def": "Delegation", 
+            "link": "/wiki/Delegation_(programming)", 
+            "name": "Delegation"
+        }, 
+        {
+            "def": "Dependency injection", 
+            "link": "/wiki/Dependency_injection", 
+            "name": "Dependency injection"
+        }, 
+        {
+            "def": "Destructor", 
+            "link": "/wiki/Destructor_(computer_science)", 
+            "name": "Destructor"
+        }, 
+        {
+            "def": "Dispatch table", 
+            "link": "/wiki/Dispatch_table", 
+            "name": "Dispatch table"
+        }, 
+        {
+            "def": "Dynamic binding (also called Late Binding)", 
+            "link": "/wiki/Late_binding", 
+            "name": "Dynamic binding (also called Late Binding)"
+        }, 
+        {
+            "def": "Dynamic dispatch", 
+            "link": "/wiki/Dynamic_dispatch", 
+            "name": "Dynamic dispatch"
+        }, 
+        {
+            "def": "Dynamically typed language", 
+            "link": "/wiki/Type_system", 
+            "name": "Dynamically typed language"
+        }, 
+        {
+            "def": "Early binding", 
+            "link": "/wiki/Name_binding", 
+            "name": "Early binding"
+        }, 
+        {
+            "def": "Eigenclass", 
+            "link": "/wiki/Eigenclass_model", 
+            "name": "Eigenclass"
+        }, 
+        {
+            "def": "Encapsulation (computer science)", 
+            "link": "/wiki/Encapsulation_(computer_science)", 
+            "name": "Encapsulation (computer science)"
+        }, 
+        {
+            "def": "European Conference on Object-Oriented Programming", 
+            "link": "/wiki/European_Conference_on_Object-Oriented_Programming", 
+            "name": "European Conference on Object-Oriented Programming"
+        }, 
+        {
+            "def": "Exception handling", 
+            "link": "/wiki/Exception_handling", 
+            "name": "Exception handling"
+        }, 
+        {
+            "def": "Extension", 
+            "link": "/wiki/Software_extension", 
+            "name": "Extension"
+        }, 
+        {
+            "def": "Facade - pattern", 
+            "link": "/wiki/Facade_pattern", 
+            "name": "Facade - pattern"
+        }, 
+        {
+            "def": "Factory method pattern", 
+            "link": "/wiki/Factory_method_pattern", 
+            "name": "Factory method pattern"
+        }, 
+        {
+            "def": "Factory object", 
+            "link": "/wiki/Factory_object", 
+            "name": "Factory object"
+        }, 
+        {
+            "def": "Factory pattern", 
+            "link": "/wiki/Factory_pattern", 
+            "name": "Factory pattern"
+        }, 
+        {
+            "def": "Field", 
+            "link": "/wiki/Member_variable", 
+            "name": "Field"
+        }, 
+        {
+            "def": "Finalizer", 
+            "link": "/wiki/Finalizer", 
+            "name": "Finalizer"
+        }, 
+        {
+            "def": "First-class function", 
+            "link": "/wiki/First-class_function", 
+            "name": "First-class function"
+        }, 
+        {
+            "def": "Fragile base class", 
+            "link": "/wiki/Fragile_base_class", 
+            "name": "Fragile base class"
+        }, 
+        {
+            "def": "Function composition", 
+            "link": "/wiki/Function_composition_(computer_science)", 
+            "name": "Function composition"
+        }, 
+        {
+            "def": "Generic programming", 
+            "link": "/wiki/Generic_programming", 
+            "name": "Generic programming"
+        }, 
+        {
+            "def": "Heap-based memory allocation", 
+            "link": "/wiki/Dynamic_memory_allocation", 
+            "name": "Heap-based memory allocation"
+        }, 
+        {
+            "def": "Helper class", 
+            "link": "/wiki/Helper_class", 
+            "name": "Helper class"
+        }, 
+        {
+            "def": "Hybrid language", 
+            "link": "/wiki/Multi-paradigm_programming_language", 
+            "name": "Hybrid language"
+        }, 
+        {
+            "def": "Immutable object (also called immutable value)", 
+            "link": "/wiki/Immutable_object", 
+            "name": "Immutable object (also called immutable value)"
+        }, 
+        {
+            "def": "Information hiding", 
+            "link": "/wiki/Information_hiding", 
+            "name": "Information hiding"
+        }, 
+        {
+            "def": "Inheritance", 
+            "link": "/wiki/Inheritance_(object-oriented_programming)", 
+            "name": "Inheritance"
+        }, 
+        {
+            "def": "Initialize", 
+            "link": "/wiki/Booting", 
+            "name": "Initialize"
+        }, 
+        {
+            "def": "Inline function", 
+            "link": "/wiki/Inline_expansion", 
+            "name": "Inline function"
+        }, 
+        {
+            "def": "Inner class", 
+            "link": "/wiki/Inner_class", 
+            "name": "Inner class"
+        }, 
+        {
+            "def": "Instance", 
+            "link": "/wiki/Object_(computer_science)", 
+            "name": "Instance"
+        }, 
+        {
+            "def": "Instance method", 
+            "link": "/wiki/Method_(computer_science)", 
+            "name": "Instance method"
+        }, 
+        {
+            "def": "Instance variable (also called data member)", 
+            "link": "/wiki/Instance_variable", 
+            "name": "Instance variable (also called data member)"
+        }, 
+        {
+            "def": "Interaction diagram", 
+            "link": "/wiki/Unified_Modeling_Language", 
+            "name": "Interaction diagram"
+        }, 
+        {
+            "def": "Interface", 
+            "link": "/wiki/Interface_(computing)", 
+            "name": "Interface"
+        }, 
+        {
+            "def": "Inversion of control (IoC)", 
+            "link": "/wiki/Inversion_of_control", 
+            "name": "Inversion of control (IoC)"
+        }, 
+        {
+            "def": "Iterator", 
+            "link": "/wiki/Iterator", 
+            "name": "Iterator"
+        }, 
+        {
+            "def": "Late binding", 
+            "link": "/wiki/Dynamic_binding_(computer_science)", 
+            "name": "Late binding"
+        }, 
+        {
+            "def": "Liskov substitution principle", 
+            "link": "/wiki/Liskov_substitution_principle", 
+            "name": "Liskov substitution principle"
+        }, 
+        {
+            "def": "Member accessibility", 
+            "link": "/wiki/Member_visibility", 
+            "name": "Member accessibility"
+        }, 
+        {
+            "def": "Members, any contents of a class: Attributes, Methods and Inner classes", 
+            "link": "/wiki/Attribute_(computing)", 
+            "name": "Members, any contents of a class: Attributes, Methods and Inner classes"
+        }, 
+        {
+            "def": "Message passing", 
+            "link": "/wiki/Message_passing", 
+            "name": "Message passing"
+        }, 
+        {
+            "def": "Metaclass", 
+            "link": "/wiki/Metaclass", 
+            "name": "Metaclass"
+        }, 
+        {
+            "def": "Metaprogramming", 
+            "link": "/wiki/Metaprogramming", 
+            "name": "Metaprogramming"
+        }, 
+        {
+            "def": "Method (computer programming)", 
+            "link": "/wiki/Method_(computer_programming)", 
+            "name": "Method (computer programming)"
+        }, 
+        {
+            "def": "Mixin", 
+            "link": "/wiki/Mixin", 
+            "name": "Mixin"
+        }, 
+        {
+            "def": "Mock object", 
+            "link": "/wiki/Mock_object", 
+            "name": "Mock object"
+        }, 
+        {
+            "def": "Model\u2013view\u2013controller (MVC)", 
+            "link": "/wiki/Model%E2%80%93view%E2%80%93controller", 
+            "name": "Model\u2013view\u2013controller (MVC)"
+        }, 
+        {
+            "def": "Modular programming", 
+            "link": "/wiki/Modular_programming", 
+            "name": "Modular programming"
+        }, 
+        {
+            "def": "Multiple dispatch", 
+            "link": "/wiki/Multiple_dispatch", 
+            "name": "Multiple dispatch"
+        }, 
+        {
+            "def": "Multiple inheritance", 
+            "link": "/wiki/Multiple_inheritance", 
+            "name": "Multiple inheritance"
+        }, 
+        {
+            "def": "Multitier architecture", 
+            "link": "/wiki/Multitier_architecture", 
+            "name": "Multitier architecture"
+        }, 
+        {
+            "def": "Mutable variable", 
+            "link": "/wiki/Mutable_variable", 
+            "name": "Mutable variable"
+        }, 
+        {
+            "def": "Mutator method", 
+            "link": "/wiki/Mutator_method", 
+            "name": "Mutator method"
+        }, 
+        {
+            "def": "Name mangling", 
+            "link": "/wiki/Name_mangling", 
+            "name": "Name mangling"
+        }, 
+        {
+            "def": "Namespace", 
+            "link": "/wiki/Namespace", 
+            "name": "Namespace"
+        }, 
+        {
+            "def": "Native method", 
+            "link": "/wiki/Java_Native_Interface", 
+            "name": "Native method"
+        }, 
+        {
+            "def": "Nested class", 
+            "link": "/wiki/Inner_class", 
+            "name": "Nested class"
+        }, 
+        {
+            "def": "Object (computer science)", 
+            "link": "/wiki/Object_(computer_science)", 
+            "name": "Object (computer science)"
+        }, 
+        {
+            "def": "Object type", 
+            "link": "/wiki/Object_type", 
+            "name": "Object type"
+        }, 
+        {
+            "def": "OOPSLA \u2013 annual conference on Object-Oriented Programming Systems Language and Application", 
+            "link": "/wiki/OOPSLA", 
+            "name": "OOPSLA \u2013 annual conference on Object-Oriented Programming Systems Language and Application"
+        }, 
+        {
+            "def": "Open/closed principle", 
+            "link": "/wiki/Open/closed_principle", 
+            "name": "Open/closed principle"
+        }, 
+        {
+            "def": "Orthogonality", 
+            "link": "/wiki/Orthogonal_(computing)", 
+            "name": "Orthogonality"
+        }, 
+        {
+            "def": "Overload", 
+            "link": "/wiki/Operator_overloading", 
+            "name": "Overload"
+        }, 
+        {
+            "def": "package", 
+            "link": "/wiki/Member_visibility", 
+            "name": "package"
+        }, 
+        {
+            "def": "Parametric overloading", 
+            "link": "/wiki/Type_polymorphism", 
+            "name": "Parametric overloading"
+        }, 
+        {
+            "def": "Parameterized classes", 
+            "link": "/wiki/Generic_programming", 
+            "name": "Parameterized classes"
+        }, 
+        {
+            "def": "Parnas's principles", 
+            "link": "/wiki/David_Parnas", 
+            "name": "Parnas's principles"
+        }, 
+        {
+            "def": "Partial class", 
+            "link": "/wiki/Partial_class", 
+            "name": "Partial class"
+        }, 
+        {
+            "def": "Patterns", 
+            "link": "/wiki/Software_design_pattern", 
+            "name": "Patterns"
+        }, 
+        {
+            "def": "Policy-based design", 
+            "link": "/wiki/Policy-based_design", 
+            "name": "Policy-based design"
+        }, 
+        {
+            "def": "Polymorphic", 
+            "link": "/wiki/Type_polymorphism", 
+            "name": "Polymorphic"
+        }, 
+        {
+            "def": "Primitive data type", 
+            "link": "/wiki/Primitive_data_type", 
+            "name": "Primitive data type"
+        }, 
+        {
+            "def": "private, a way of encapsulation in object-oriented programming", 
+            "link": "/wiki/Encapsulation_(object-oriented_programming)", 
+            "name": "private, a way of encapsulation in object-oriented programming"
+        }, 
+        {
+            "def": "Programming paradigm", 
+            "link": "/wiki/Programming_paradigm", 
+            "name": "Programming paradigm"
+        }, 
+        {
+            "def": "protected, a way of encapsulation in object-oriented programming", 
+            "link": "/wiki/Encapsulation_(object-oriented_programming)#Encapsulation", 
+            "name": "protected, a way of encapsulation in object-oriented programming"
+        }, 
+        {
+            "def": "Protocol", 
+            "link": "/wiki/Protocol_(object-oriented_programming)", 
+            "name": "Protocol"
+        }, 
+        {
+            "def": "Prototype pattern", 
+            "link": "/wiki/Prototype_pattern", 
+            "name": "Prototype pattern"
+        }, 
+        {
+            "def": "Prototype-based programming", 
+            "link": "/wiki/Prototype-based_programming", 
+            "name": "Prototype-based programming"
+        }, 
+        {
+            "def": "public, a way of encapsulation in object-oriented programming", 
+            "link": "/wiki/Encapsulation_(object-oriented_programming)", 
+            "name": "public, a way of encapsulation in object-oriented programming"
+        }, 
+        {
+            "def": "Pure polymorphism", 
+            "link": "/wiki/Type_polymorphism", 
+            "name": "Pure polymorphism"
+        }, 
+        {
+            "def": "Pure virtual function (also called pure virtual method)", 
+            "link": "/wiki/Virtual_function", 
+            "name": "Pure virtual function (also called pure virtual method)"
+        }, 
+        {
+            "def": "Rapid prototyping (rapid application development)", 
+            "link": "/wiki/Rapid_application_development", 
+            "name": "Rapid prototyping (rapid application development)"
+        }, 
+        {
+            "def": "Recursion", 
+            "link": "/wiki/Recursion", 
+            "name": "Recursion"
+        }, 
+        {
+            "def": "Refinement", 
+            "link": "/wiki/Program_refinement", 
+            "name": "Refinement"
+        }, 
+        {
+            "def": "Reflection", 
+            "link": "/wiki/Reflection_(computer_science)", 
+            "name": "Reflection"
+        }, 
+        {
+            "def": "Responsibility-driven design", 
+            "link": "/wiki/Responsibility-driven_design", 
+            "name": "Responsibility-driven design"
+        }, 
+        {
+            "def": "Reverse polymorphism", 
+            "link": "/wiki/Type_polymorphism", 
+            "name": "Reverse polymorphism"
+        }, 
+        {
+            "def": "Run-time type information", 
+            "link": "/wiki/Run-time_type_information", 
+            "name": "Run-time type information"
+        }, 
+        {
+            "def": "Scope", 
+            "link": "/wiki/Scope_(programming)", 
+            "name": "Scope"
+        }, 
+        {
+            "def": "Shallow copy, as opposed to deep copy", 
+            "link": "/wiki/Object_copy", 
+            "name": "Shallow copy, as opposed to deep copy"
+        }, 
+        {
+            "def": "Single Responsibility Principle", 
+            "link": "/wiki/Single_responsibility_principle", 
+            "name": "Single Responsibility Principle"
+        }, 
+        {
+            "def": "Singleton pattern", 
+            "link": "/wiki/Singleton_pattern", 
+            "name": "Singleton pattern"
+        }, 
+        {
+            "def": "Singly rooted hierarchy", 
+            "link": "/wiki/Singly_rooted_hierarchy", 
+            "name": "Singly rooted hierarchy"
+        }, 
+        {
+            "def": "Slicing", 
+            "link": "/wiki/Object_slicing", 
+            "name": "Slicing"
+        }, 
+        {
+            "def": "Specification class, a class implementing abstract class", 
+            "link": "/w/index.php?title=Specification_class&action=edit&redlink=1", 
+            "name": "Specification class, a class implementing abstract class"
+        }, 
+        {
+            "def": "Stack-based memory allocation", 
+            "link": "/wiki/Stack-based_memory_allocation", 
+            "name": "Stack-based memory allocation"
+        }, 
+        {
+            "def": "Static method", 
+            "link": "/wiki/Method_(computer_science)", 
+            "name": "Static method"
+        }, 
+        {
+            "def": "Statically typed language, as opposed to Dynamically typed language", 
+            "link": "/wiki/Type_system", 
+            "name": "Statically typed language, as opposed to Dynamically typed language"
+        }, 
+        {
+            "def": "Strongly-typed programming language", 
+            "link": "/wiki/Strongly-typed_programming_language", 
+            "name": "Strongly-typed programming language"
+        }, 
+        {
+            "def": "Subclass (also called child class or derived class)", 
+            "link": "/wiki/Subclass_(computer_science)", 
+            "name": "Subclass (also called child class or derived class)"
+        }, 
+        {
+            "def": "Subclass coupling", 
+            "link": "/wiki/Coupling_(computer_science)", 
+            "name": "Subclass coupling"
+        }, 
+        {
+            "def": "SOLID", 
+            "link": "/wiki/SOLID_(object-oriented_design)", 
+            "name": "SOLID"
+        }, 
+        {
+            "def": "Substitutability, principle of", 
+            "link": "/wiki/Substitutability", 
+            "name": "Substitutability, principle of"
+        }, 
+        {
+            "def": "Subtype", 
+            "link": "/wiki/Subtype", 
+            "name": "Subtype"
+        }, 
+        {
+            "def": "Superclass (also called parent class or base class)", 
+            "link": "/wiki/Superclass_(computer_science)", 
+            "name": "Superclass (also called parent class or base class)"
+        }, 
+        {
+            "def": "Tiers", 
+            "link": "/wiki/Multitier_architecture", 
+            "name": "Tiers"
+        }, 
+        {
+            "def": "Template method pattern", 
+            "link": "/wiki/Template_method_pattern", 
+            "name": "Template method pattern"
+        }, 
+        {
+            "def": "Test-driven development", 
+            "link": "/wiki/Test-driven_development", 
+            "name": "Test-driven development"
+        }, 
+        {
+            "def": "Trait", 
+            "link": "/wiki/Trait_(computer_science)", 
+            "name": "Trait"
+        }, 
+        {
+            "def": "Type", 
+            "link": "/wiki/Type_system", 
+            "name": "Type"
+        }, 
+        {
+            "def": "Type conversion (also called typecasting)", 
+            "link": "/wiki/Type_conversion", 
+            "name": "Type conversion (also called typecasting)"
+        }, 
+        {
+            "def": "Virtual class", 
+            "link": "/wiki/Virtual_class", 
+            "name": "Virtual class"
+        }, 
+        {
+            "def": "Virtual function (also called virtual method)", 
+            "link": "/wiki/Virtual_function", 
+            "name": "Virtual function (also called virtual method)"
+        }, 
+        {
+            "def": "Virtual function pointer (also called virtual method pointer)", 
+            "link": "/wiki/Virtual_function_pointer", 
+            "name": "Virtual function pointer (also called virtual method pointer)"
+        }, 
+        {
+            "def": "Virtual inheritance (Object Oriented Programming)", 
+            "link": "/wiki/Virtual_inheritance", 
+            "name": "Virtual inheritance (Object Oriented Programming)"
+        }, 
+        {
+            "def": "Virtual method table (also called vtable, virtual function table or virtual method table)", 
+            "link": "/wiki/Virtual_method_table", 
+            "name": "Virtual method table (also called vtable, virtual function table or virtual method table)"
+        }, 
+        {
+            "def": "Viscosity (programming)", 
+            "link": "/wiki/Viscosity_(programming)", 
+            "name": "Viscosity (programming)"
+        }, 
+        {
+            "def": "Void type", 
+            "link": "/wiki/Void_type", 
+            "name": "Void type"
+        }, 
+        {
+            "def": "Weak reference", 
+            "link": "/wiki/Weak_reference", 
+            "name": "Weak reference"
+        }, 
+        {
+            "def": "Yo-yo problem", 
+            "link": "/wiki/Yo-yo_problem", 
+            "name": "Yo-yo problem"
+        }
+    ]
+}

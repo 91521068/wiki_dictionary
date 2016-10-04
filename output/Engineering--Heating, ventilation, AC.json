@@ -1,0 +1,321 @@
+{
+    "c2": "Engineering", 
+    "c3": "Heating, ventilation, AC", 
+    "words": [
+        {
+            "def": "\n\n\nMain article: Air changes per hour\nThe hourly ventilation rate divided by the volume of a space. For perfectly mixed air or laminar flow spaces, this is equal to the number of times per hour that the volume the space is exchanged by mechanical and natural ventilation. Also called air change rate or air exchange rate. Abbreviated ACH or ac/hr.\n\n", 
+            "link": null, 
+            "name": "air changes per hour"
+        }, 
+        {
+            "def": "\n\n\nMain article: Air conditioner\nAn appliance, system, or mechanism designed to dehumidify and extract heat from an area. Usually this term is reserved for smaller self contained units such as a residential system.\n\n", 
+            "link": null, 
+            "name": "air conditioner"
+        }, 
+        {
+            "def": "\n\n\nMain article: Air handler\nA central unit consisting of a blower, heating and cooling elements, filter racks or chamber, dampers, humidifier, and other central equipment in direct contact with the airflow. This does not include the ductwork through the building. Abbreviated AH or AHU.\n\n", 
+            "link": null, 
+            "name": "air handling unit"
+        }, 
+        {
+            "def": "\n\n\nMain article: British thermal unit\nAny of several units of energy (heat) in the HVAC industry, each slightly more than 1 kJ. One BTU is the energy required to raise one pound of water one degree Fahrenheit, but the many different types of BTU are based on different interpretations of this \u201cdefinition\u201d. In the United States the power of HVAC systems (the rate of cooling and dehumidifying or heating) is sometimes expressed in BTU/hour instead of watts. Abbreviated BTU or Btu.\n\n", 
+            "link": null, 
+            "name": "British thermal unit (BTU)"
+        }, 
+        {
+            "def": "\n\n\n\n\nMain article: Centrifugal fan\nA centrifugal fan is a mechanical device for moving air or other gases.\n\n\n\n", 
+            "link": null, 
+            "name": "centrifugal fan"
+        }, 
+        {
+            "def": "\n\n\nMain article: Chiller\nA device that removes heat from a liquid via a vapor-compression or absorption refrigeration cycle. This cooled liquid flows through pipes in a building and passes through coils in air handlers, fan-coil units, or other systems, cooling and usually dehumidifying the air in the building. Chillers are of two types; air-cooled or water-cooled. Air-cooled chillers are usually outside and consist of condenser coils cooled by fan-driven air. Water-cooled chillers are usually inside a building, and heat from these chillers is carried by recirculating water to a heat sink such as an outdoor cooling tower.\n\n", 
+            "link": null, 
+            "name": "chiller"
+        }, 
+        {
+            "def": "\n\nEquipment that performs heat transfer to air when mounted inside an air handling unit or ductwork. It is heated or cooled by electrical means or by circulating liquid or steam within it.\n\n", 
+            "link": null, 
+            "name": "coil"
+        }, 
+        {
+            "def": "\n\n\nMain article: Condenser (heat transfer)\nA component in the basic refrigeration cycle that ejects or removes heat from the system. The condenser is the hot side of an air conditioner or heat pump. Condensers are heat exchangers, and can transfer heat to air or to an intermediate fluid (such as water or an aqueous solution of ethylene glycol) to carry heat to a distant sink, such as ground (earth sink), a body of water, or air (as with cooling towers).\n\n", 
+            "link": null, 
+            "name": "condenser"
+        }, 
+        {
+            "def": "\n\n\nMain article: Constant air volume\nA system designed to provide a constant air flow. This term is applied to HVAC systems that have variable supply-air temperature but constant air flow rates. Most residential forced-air systems are small CAV systems with on/off control. Abbreviated CAV.\n\n", 
+            "link": null, 
+            "name": "constant air volume"
+        }, 
+        {
+            "def": "\n\n\nMain article: Controller (control theory)\nA device that controls the operation of part or all of a system. It may simply turn a device on and off, or it may more subtly modulate the set point of components. Most controllers are automatic but have user input such as temperature set points, e.g. a thermostat. Controls may be analog or digital.\n\n", 
+            "link": null, 
+            "name": "controller"
+        }, 
+        {
+            "def": "\n\n\nMain article: Damper (flow)\nA plate or gate placed in a duct to control air flow by increasing friction in the duct.\n\n", 
+            "link": null, 
+            "name": "damper"
+        }, 
+        {
+            "def": "\n\n\nMain article: Deep lake water cooling\nThe heat is rejected to deep lake regions to cool homes and offices, reducing the energy costs.\n\n", 
+            "link": null, 
+            "name": "deep lake water cooling"
+        }, 
+        {
+            "def": "\n\n(Also delta T) a reference to a temperature difference. It is used to describe the difference in temperature of a heating or cooling medium as it enters and as it leaves a system.\n\n", 
+            "link": null, 
+            "name": "\u0394T"
+        }, 
+        {
+            "def": "\n\n\nMain article: Duct (HVAC)\nSpecialized housing for the air flow.\n\n", 
+            "link": null, 
+            "name": "duct"
+        }, 
+        {
+            "def": "\n\nA dehumidifier is the equipment that extracts and removes humidity from the air. It works by cooling air to the point where water turns to liquid from vapor form and then the liquid is removed.\n\n", 
+            "link": null, 
+            "name": "Dehumidifier"
+        }, 
+        {
+            "def": "\n\nA diffuser is placed over ductwork, and it separates air with vanes going in differing directions. It evenly distributes air flow in the desired directions.\n\n", 
+            "link": null, 
+            "name": "Diffuser"
+        }, 
+        {
+            "def": "\n\nDry bulb temperature is the temperature of air measured by a thermometer which is freely exposed to the air while it is shielded from radiation and moisture. It is usually thought of as air temperature, and it is the true thermodynamic temperature. It is a measurement of heat intensity independently of humidity and a dry bulb thermometer is used to measure it.\n\n", 
+            "link": null, 
+            "name": "Dry Bulb Temperature"
+        }, 
+        {
+            "def": "\n\nA dry bulb thermometer is a device that measures air temperature independently of humidity. It is freely exposed to the air it is measuring and is protected from the radiation and moisture.\n\n", 
+            "link": null, 
+            "name": "Dry Bulb Thermometer"
+        }, 
+        {
+            "def": "\n\n\nMain article: Economizer\nAn HVAC component that uses outside air, under suitable climate conditions, to reduce required mechanical cooling. When the outside air\u2019s enthalpy is less than the required supply air during a call for cooling, an economizer allows a building\u2019s mechanical ventilation system to use up to the maximum amount of outside air.\n\n", 
+            "link": null, 
+            "name": "economizer"
+        }, 
+        {
+            "def": "\n\n\nMain article: Enthalpy\nFor a given sample of air, a measure of the total heat content (the sum of the heat energy of the dry air and heat energy of the water vapor within it). It is typically used to determine the amount of fresh outside air that can be added to recirculated air for the lowest cooling cost.\n\n", 
+            "link": null, 
+            "name": "enthalpy"
+        }, 
+        {
+            "def": "\n\n\nMain article: Evaporator\nA component in the basic refrigeration cycle that absorbs or adds heat to the system. Evaporators can be used to absorb heat from air or from a liquid. The evaporator is the cold side of an air conditioner or heat pump.\n\n", 
+            "link": null, 
+            "name": "evaporator"
+        }, 
+        {
+            "def": "\n\n\nMain article: Fan coil unit\nA small terminal unit that is often composed of only a blower and a heating and/or cooling coil, as is often used in hotels, condominiums, or apartments. Abbreviated FCU.\n\n", 
+            "link": null, 
+            "name": "fan coil unit"
+        }, 
+        {
+            "def": "\n\nA transfer of fluid volume per unit time.\n\n", 
+            "link": null, 
+            "name": "flow"
+        }, 
+        {
+            "def": "\n\nAbbreviated FAF.\n\n", 
+            "link": null, 
+            "name": "fresh air fan"
+        }, 
+        {
+            "def": "\n\nFresh air fraction quantifies action of the economizer, and is defined by (Mass flow rate of fresh-air / Total air flow rate). Abbreviated faf.\n\n", 
+            "link": null, 
+            "name": "fresh air fraction"
+        }, 
+        {
+            "def": "\n\nAn opening through which outside air is drawn into the building. This may be to replace air in the building that has been exhausted by the ventilation system, or to provide fresh air for combustion of fuel. Abbreviated FAI.\n\n", 
+            "link": null, 
+            "name": "fresh air intake"
+        }, 
+        {
+            "def": "\n\n\nMain article: Furnace\nA component of an HVAC system that adds heat to air or an intermediate fluid by burning fuel (natural gas, oil, propane, butane, or other flammable substances) in a heat exchanger.\n\n", 
+            "link": null, 
+            "name": "furnace"
+        }, 
+        {
+            "def": "\n\nA gas furnace heat exchanger is responsible for the transfer of heat from inside the furnace into the air outside the furnace. The duct system then transfers this exchanged air to different rooms in the building or space.\n\n", 
+            "link": null, 
+            "name": "gas furnace heat exchanger"
+        }, 
+        {
+            "def": "\n\nA facing across a duct opening, often rectangular in shape, containing multiple parallel slots through which air may be delivered or withdrawn from a ventilated space. The grille directs the air flow in a particular direction and prevents the passage of large items.\n\n", 
+            "link": null, 
+            "name": "grille"
+        }, 
+        {
+            "def": "\n\nA heating coil is the part of the system that conducts heat. It allows electricity to act as fire.\n\n", 
+            "link": null, 
+            "name": "heating coil"
+        }, 
+        {
+            "def": "\n\nA heat exchanger is the part of the system that transfers heat from the hot parts of the machine or a system to the cold parts of the machine or system.\n\n", 
+            "link": null, 
+            "name": "heat exchanger"
+        }, 
+        {
+            "def": "\n\nTerms for the amount of cooling (heat gain) or heating (heat loss) needed to maintain desired temperatures and humidities in controlled air. Regardless of how well-insulated and sealed a building is, buildings gain heat from sunlight, conduction through the walls, and internal heat sources such as people and electrical equipment. Buildings lose heat through conduction during cold weather. Engineers use heat load calculations to determine the HVAC needs of the space being cooled or heated.\n\n", 
+            "link": null, 
+            "name": "heat loss"
+        }, 
+        {
+            "def": "\n\nA heat pump is a compressor that cycles hot or cold air. It is a device that is designed to move thermal energy in the opposite direction of heat flow by absorbing heat from a cold space which is released to a warmer space.\n\n", 
+            "link": null, 
+            "name": "heat pump"
+        }, 
+        {
+            "def": "\n\nHeat transfer happens when heat moves from one area to another. It is an important and vital step in the process of cooling a space.\n\n", 
+            "link": null, 
+            "name": "heat transfer"
+        }, 
+        {
+            "def": "\n\nHeating Seasonal Performance Factor is the measurement of heat efficiency over the period of a heating season.\n\n", 
+            "link": null, 
+            "name": "hspf - (Heating Seasonal Performance Factor)"
+        }, 
+        {
+            "def": "\n\nA liquid or gas used to transfer heat between two heat exchangers. An intermediate fluid is used when the hot and cold fluids are too bulky (such as air) or difficult to handle (such as halocarbon refrigerant) to directly transfer the heat.\n\n", 
+            "link": null, 
+            "name": "intermediate fluid"
+        }, 
+        {
+            "def": "\n\n1.\u00a0 Components made of multiple smaller blades, sometimes adjustable, placed in ducts or duct entries to control the volume of air flow. When used inside of ducts, their function is similar to that of a damper, but they can be manufactured to fit larger openings than a single-piece damper.\n2.\u00a0 Blades in a rectangular frame placed in doors or walls to permit the movement of air.\n\n", 
+            "link": null, 
+            "name": "louver"
+        }, 
+        {
+            "def": "\n\nAn air handler that conditions 100% outside air. Typically used in industrial or commercial settings, or in \"once-through\" (blower sections that only blow air one-way into the building), \"low flow\" (air handling systems that blow air at a low flow rate), or \"primary-secondary\" (air handling systems that have an air handler or rooftop unit connected to an add-on makeup unit or hood) commercial HVAC systems. Abbreviated MAU.\n\n", 
+            "link": null, 
+            "name": "makeup air unit"
+        }, 
+        {
+            "def": "\n\nThe lowest amount of fresh air flow that can be allowed into a recirculating system. This limit is sent to ensure that the interior air remains safe and comfortable to breathe.\n\n", 
+            "link": null, 
+            "name": "minimum outside air"
+        }, 
+        {
+            "def": "\n\nAn automatic louver or damper that controls the fresh air flow into an air handler and modulates to the most energy efficient setting.\n\n", 
+            "link": null, 
+            "name": "outside air damper"
+        }, 
+        {
+            "def": "\n\nA measure of the air temperature outside a building. The temperature and humidity of air inside and outside the building are used in enthalpy calculations to determine when outside air can be used for free heating or cooling. Abbreviated OAT.\n\n", 
+            "link": null, 
+            "name": "outside air temperature"
+        }, 
+        {
+            "def": "\n\nAn air conditioner and heater combined into a single, electrically powered unit, typically installed through a wall and often found in hotels. Abbreviated PTAC.\n\n", 
+            "link": null, 
+            "name": "packaged terminal air conditioner"
+        }, 
+        {
+            "def": "\n\n\nMain article: Air handler\nAn air-handling unit, defined as either \"recirculating\" or \"once-through\" design, made specifically for outdoor installation. They most often include, internally, their own heating and cooling devices. Very common in some regions, particularly in single-story commercial buildings. Also called a rooftop unit (RTU)\n\n", 
+            "link": null, 
+            "name": "packaged unit"
+        }, 
+        {
+            "def": "\n\n\nMain article: Plenum space\nAn enclosed space inside a building or other structure, used for airflow. Often refers to the space between a dropped ceiling and the structural ceiling, or a raised floor and the hard floor. Distinct from ductwork as a plenum is part of the structure itself. Cable and piping within a plenum must be properly rated for its fire and smoke indices. See also: plenum chamber\n\n", 
+            "link": null, 
+            "name": "plenum space"
+        }, 
+        {
+            "def": "\n\n\nMain article: Psychrometrics\nThe study of the behavior of air-water vapor mixtures. Water vapor plays an important role in energy transfer and human comfort in HVAC design.\n\n", 
+            "link": null, 
+            "name": "psychrometric"
+        }, 
+        {
+            "def": "\n\nSame as Air handler.\n\n", 
+            "link": null, 
+            "name": "rooftop unit (RTU)"
+        }, 
+        {
+            "def": "\n\nUsually metal panels suspended under the ceiling, insulated from the building structure. The primary cooling/heating agent temperature is close to the room's temperature.\n\n", 
+            "link": null, 
+            "name": "radiant ceiling panels"
+        }, 
+        {
+            "def": "\n\nA type of radiant heating system where the building floor contains channels or tubes through which hot fluids such as air or water are circulated. The whole floor is evenly heated. Thus, the room is heated from the bottom up. Radiant floor heating eliminates the draft and dust problems associated with forced air heating systems.\n\n", 
+            "link": null, 
+            "name": "radiant floor"
+        }, 
+        {
+            "def": "\n\nThe transfer of heat directly from one surface to another (without heating the intermediate air acting as a transfer mechanism).\n\n", 
+            "link": null, 
+            "name": "radiation"
+        }, 
+        {
+            "def": "\n\n\nMain article: Seasonal energy efficiency ratio\n\n\nThe SEER (Seasonal Energy Efficiency Ratio) rating of a unit is the cooling output during a typical cooling-season divided by the total electric energy input during the same period. The higher the unit's SEER rating the more energy efficient it is.", 
+            "link": null, 
+            "name": "SEER"
+        }, 
+        {
+            "def": "\n\nA damper or adjustable louver designed to augment the ventilation of a space during a fire.\n\n", 
+            "link": null, 
+            "name": "smoke damper"
+        }, 
+        {
+            "def": "\n\nA split system is the combination of an outdoor unit and an indoor unit. This is the most common type of system.\n\n", 
+            "link": null, 
+            "name": "split system"
+        }, 
+        {
+            "def": "\n\nA The number of degrees a vapor is above its boiling point at a specific pressure.\n\n", 
+            "link": null, 
+            "name": "superheat"
+        }, 
+        {
+            "def": "\n\nA The condition where liquid refrigerant is colder than the minimum temperature required to keep it from boiling which would change it from a liquid to a gas phase. Subcooling is the difference between its saturation temperature and the actual liquid refrigerant temperature.\n\n", 
+            "link": null, 
+            "name": "subcooling"
+        }, 
+        {
+            "def": "\n\nGeneral term used to refer to the set or a subset of components that perform a specific HVAC function within a building.\n\n", 
+            "link": null, 
+            "name": "system"
+        }, 
+        {
+            "def": "\n\nA small component that contains a heating coil, cooling coil, automatic damper, or some combination of the three. Used to control the temperature of a single room. Abbreviated TU.\n\n", 
+            "link": null, 
+            "name": "terminal unit"
+        }, 
+        {
+            "def": "\n\nAn individual space or group of neighboring indoor spaces that the HVAC designer expects will have similar thermal loads. Building codes may require zoning to save energy in commercial buildings. Zones are defined in the building to reduce the number of HVAC subsystems, and thus initial cost. For example, for perimeter offices, rather than one zone for each office, all offices facing west can be combined into one zone. Small residences typically have only one conditioned thermal zone, plus unconditioned spaces such as garages, attics, and crawlspaces, and basements.\n\n", 
+            "link": null, 
+            "name": "thermal zone"
+        }, 
+        {
+            "def": "\n\nA thermostat is a system that monitors and regulates a heating or cooling system. It can be used to set the desired temperature at which it keeps the environment either heated or cooled.\n\n", 
+            "link": null, 
+            "name": "thermostat"
+        }, 
+        {
+            "def": "\n\nA two-stage air conditioner is designed to operate on high and low settings during different weather conditions and seasons. The high setting is used during extreme weather, and the low setting is used during moderate weather. This type of air conditioner produces a balanced temperature and is in use for a longer period of time.\n\n", 
+            "link": null, 
+            "name": "two-stage (cooling and heating)"
+        }, 
+        {
+            "def": "\n\nA thermostatic expansion valve is a piece of equipment that meters the flow of liquid refrigerant into the evaporator while measuring the vapor refrigerant leaving the evaporator. It thereby controls the superheating at the outlet of the evaporator.\n\n", 
+            "link": null, 
+            "name": "txv - Thermostatic Expansion Valve"
+        }, 
+        {
+            "def": "\n\n\nMain article: Underfloor air distribution\nA method for providing ventilation and space conditioning by using the air plenum below a raised floor to distribute conditioned air through diffusers directly to the occupied zone. Abbreviated UFAD.\n\n", 
+            "link": null, 
+            "name": "underfloor air distribution"
+        }, 
+        {
+            "def": "\n\n\nMain article: Variable air volume\nAn HVAC system that has a stable supply-air temperature, and varies the air flow rate to meet the temperature requirements. Compared to constant air volume systems, these systems conserve energy through lower fan speeds during times of lower temperature control demand. Most new commercial buildings have VAV systems. VAVs may be bypass type or pressure dependent. Pressure dependent type VAVs save energy while both types help in maintaining temperature of the zone that it feeds. Abbreviated VAV.\n\n", 
+            "link": null, 
+            "name": "variable air volume"
+        }, 
+        {
+            "def": "\n\nA zoning system sections a building or a space into zones which are controlled independently of each other. This is beneficial when different areas or rooms of a building have different temperatures as well as when the desired temperatures in different rooms are different. Temperature is controlled by different thermostats.\n\n", 
+            "link": null, 
+            "name": "zoning system"
+        }
+    ]
+}

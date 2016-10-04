@@ -1,0 +1,2656 @@
+{
+    "c2": "Physics", 
+    "c3": "modern physics", 
+    "words": [
+        {
+            "def": "Abbe number \u2013", 
+            "link": "/wiki/Abbe_number", 
+            "name": "Abbe number"
+        }, 
+        {
+            "def": "Absolute electrode potential \u2013", 
+            "link": "/wiki/Absolute_electrode_potential", 
+            "name": "Absolute electrode potential"
+        }, 
+        {
+            "def": "Absolute humidity \u2013 The ratio of water vapor in a sample of air to the volume of the sample", 
+            "link": "/wiki/Absolute_humidity", 
+            "name": "Absolute humidity"
+        }, 
+        {
+            "def": "Absolute magnitude \u2013", 
+            "link": "/wiki/Absolute_magnitude", 
+            "name": "Absolute magnitude"
+        }, 
+        {
+            "def": "Absolute motion \u2013", 
+            "link": "/wiki/Absolute_motion", 
+            "name": "Absolute motion"
+        }, 
+        {
+            "def": "Absolute pressure \u2013", 
+            "link": "/wiki/Absolute_pressure", 
+            "name": "Absolute pressure"
+        }, 
+        {
+            "def": "Absolute scale \u2013", 
+            "link": "/wiki/Absolute_scale", 
+            "name": "Absolute scale"
+        }, 
+        {
+            "def": "Absolute zero \u2013 The theoretical lowest possible temperature. More formally, it is the theoretical temperature at which entropy reaches its minimum value.", 
+            "link": "/wiki/Absolute_zero", 
+            "name": "Absolute zero"
+        }, 
+        {
+            "def": "Absorption spectroscopy \u2013", 
+            "link": "/wiki/Absorption_spectroscopy", 
+            "name": "Absorption spectroscopy"
+        }, 
+        {
+            "def": "Absorptivity \u2013", 
+            "link": "/wiki/Absorbance", 
+            "name": "Absorptivity"
+        }, 
+        {
+            "def": "Accelerating universe \u2013", 
+            "link": "/wiki/Accelerating_universe", 
+            "name": "Accelerating universe"
+        }, 
+        {
+            "def": "Acceleration \u2013 The rate at which the velocity of a body changes with time", 
+            "link": "/wiki/Acceleration", 
+            "name": "Acceleration"
+        }, 
+        {
+            "def": "Acceleration due to gravity \u2013 The acceleration on an object caused by force of gravitation", 
+            "link": "/wiki/Gravitational_acceleration", 
+            "name": "Acceleration due to gravity"
+        }, 
+        {
+            "def": "Accelerometer \u2013", 
+            "link": "/wiki/Accelerometer", 
+            "name": "Accelerometer"
+        }, 
+        {
+            "def": "Acoustics \u2013 The branch of physics dealing with the production, transmission and effects produced by sound", 
+            "link": "/wiki/Acoustics", 
+            "name": "Acoustics"
+        }, 
+        {
+            "def": "Adhesion \u2013 The tendency of dissimilar particles or surfaces to cling to one another", 
+            "link": "/wiki/Adhesion", 
+            "name": "Adhesion"
+        }, 
+        {
+            "def": "Adiabatic cooling \u2013", 
+            "link": "/wiki/Adiabatic_cooling", 
+            "name": "Adiabatic cooling"
+        }, 
+        {
+            "def": "Adiabatic heating \u2013", 
+            "link": "/wiki/Adiabatic_heating", 
+            "name": "Adiabatic heating"
+        }, 
+        {
+            "def": "Aerodynamics \u2013", 
+            "link": "/wiki/Aerodynamics", 
+            "name": "Aerodynamics"
+        }, 
+        {
+            "def": "Afocal system \u2013", 
+            "link": "/wiki/Afocal_system", 
+            "name": "Afocal system"
+        }, 
+        {
+            "def": "Air mass \u2013", 
+            "link": "/wiki/Air_mass", 
+            "name": "Air mass"
+        }, 
+        {
+            "def": "Air mass (astronomy) \u2013", 
+            "link": "/wiki/Air_mass_(astronomy)", 
+            "name": "Air mass (astronomy)"
+        }, 
+        {
+            "def": "Air mass (solar energy) \u2013", 
+            "link": "/wiki/Air_mass_(solar_energy)", 
+            "name": "Air mass (solar energy)"
+        }, 
+        {
+            "def": "Albedo \u2013 The fraction of the total light incident on a reflecting surface, especially a celestial body, which is reflected back in all directions", 
+            "link": "/wiki/Albedo", 
+            "name": "Albedo"
+        }, 
+        {
+            "def": "Alloy \u2013", 
+            "link": "/wiki/Alloy", 
+            "name": "Alloy"
+        }, 
+        {
+            "def": "Alpha particle \u2013 Consist of two protons and two neutrons bound together into a particle identical to a helium nucleus, which is classically produced in the process of alpha decay, but may be produced also in other ways and given the same name.", 
+            "link": "/wiki/Alpha_particle", 
+            "name": "Alpha particle"
+        }, 
+        {
+            "def": "Alternating current \u2013 A form of electric current in which the movement of electric charge periodically reverses direction.", 
+            "link": "/wiki/Alternating_current", 
+            "name": "Alternating current"
+        }, 
+        {
+            "def": "Alternative hypothesis \u2013", 
+            "link": "/wiki/Alternative_hypothesis", 
+            "name": "Alternative hypothesis"
+        }, 
+        {
+            "def": "Ammeter \u2013 An instrument that is used to measure current.", 
+            "link": "/wiki/Ammeter", 
+            "name": "Ammeter"
+        }, 
+        {
+            "def": "Amorphous solid \u2013", 
+            "link": "/wiki/Amorphous_solid", 
+            "name": "Amorphous solid"
+        }, 
+        {
+            "def": "Ampere \u2013 A unit that describes the rate of flow of electricity (current).", 
+            "link": "/wiki/Ampere", 
+            "name": "Ampere"
+        }, 
+        {
+            "def": "Amplifier \u2013", 
+            "link": "/wiki/Amplifier", 
+            "name": "Amplifier"
+        }, 
+        {
+            "def": "Amplitude \u2013 Height of a wave measured from its centre (normal) position. For example, the height of a water wave above the level of calm water.", 
+            "link": "/wiki/Amplitude", 
+            "name": "Amplitude"
+        }, 
+        {
+            "def": "Angle of incidence \u2013", 
+            "link": "/wiki/Angle_of_incidence_(optics)", 
+            "name": "Angle of incidence"
+        }, 
+        {
+            "def": "Angle of reflection \u2013", 
+            "link": "/wiki/Angle_of_reflection", 
+            "name": "Angle of reflection"
+        }, 
+        {
+            "def": "Angstrom \u2013", 
+            "link": "/wiki/Angstrom", 
+            "name": "Angstrom"
+        }, 
+        {
+            "def": "Angular acceleration \u2013", 
+            "link": "/wiki/Angular_acceleration", 
+            "name": "Angular acceleration"
+        }, 
+        {
+            "def": "Angular displacement \u2013", 
+            "link": "/wiki/Angular_displacement", 
+            "name": "Angular displacement"
+        }, 
+        {
+            "def": "Angular frequency \u2013", 
+            "link": "/wiki/Angular_frequency", 
+            "name": "Angular frequency"
+        }, 
+        {
+            "def": "Angular momentum \u2013", 
+            "link": "/wiki/Angular_momentum", 
+            "name": "Angular momentum"
+        }, 
+        {
+            "def": "Angular velocity \u2013", 
+            "link": "/wiki/Angular_velocity", 
+            "name": "Angular velocity"
+        }, 
+        {
+            "def": "Anion \u2013 negatively charged ion", 
+            "link": "/wiki/Anion", 
+            "name": "Anion"
+        }, 
+        {
+            "def": "Annihilation \u2013", 
+            "link": "/wiki/Annihilation", 
+            "name": "Annihilation"
+        }, 
+        {
+            "def": "Anode \u2013", 
+            "link": "/wiki/Anode", 
+            "name": "Anode"
+        }, 
+        {
+            "def": "Antigravity \u2013", 
+            "link": "/wiki/Antigravity", 
+            "name": "Antigravity"
+        }, 
+        {
+            "def": "Antimatter \u2013", 
+            "link": "/wiki/Antimatter", 
+            "name": "Antimatter"
+        }, 
+        {
+            "def": "Antineutron \u2013", 
+            "link": "/wiki/Antineutron", 
+            "name": "Antineutron"
+        }, 
+        {
+            "def": "Antiparticle \u2013", 
+            "link": "/wiki/Antiparticle", 
+            "name": "Antiparticle"
+        }, 
+        {
+            "def": "Antiproton \u2013", 
+            "link": "/wiki/Antiproton", 
+            "name": "Antiproton"
+        }, 
+        {
+            "def": "Arc length \u2013", 
+            "link": "/wiki/Arc_length", 
+            "name": "Arc length"
+        }, 
+        {
+            "def": "Archimedes' principle \u2013", 
+            "link": "/wiki/Archimedes%27_principle", 
+            "name": "Archimedes' principle"
+        }, 
+        {
+            "def": "Area moment of inertia \u2013", 
+            "link": "/wiki/Area_moment_of_inertia", 
+            "name": "Area moment of inertia"
+        }, 
+        {
+            "def": "Astronomical unit \u2013", 
+            "link": "/wiki/Astronomical_unit", 
+            "name": "Astronomical unit"
+        }, 
+        {
+            "def": "Astrophysics \u2013 The branch of astronomy that deals with the physics of the universe, especially with \"the nature of the heavenly bodies, rather than their positions or motions in space", 
+            "link": "/wiki/Astrophysics", 
+            "name": "Astrophysics"
+        }, 
+        {
+            "def": "Attenuation coefficient \u2013", 
+            "link": "/wiki/Attenuation_coefficient", 
+            "name": "Attenuation coefficient"
+        }, 
+        {
+            "def": "Atom \u2013 A basic unit of matter that consists of a dense central nucleus surrounded by a cloud of negatively charged electrons. The atomic nucleus contains a mix of positively charged protons and electrically neutral neutrons", 
+            "link": "/wiki/Atom", 
+            "name": "Atom"
+        }, 
+        {
+            "def": "Atomic line filter \u2013", 
+            "link": "/wiki/Atomic_line_filter", 
+            "name": "Atomic line filter"
+        }, 
+        {
+            "def": "Atomic mass \u2013", 
+            "link": "/wiki/Atomic_mass", 
+            "name": "Atomic mass"
+        }, 
+        {
+            "def": "Atomic mass unit \u2013 one-twelfth the mass of an atom of the isotope 12\u20446C", 
+            "link": "/wiki/Atomic_mass_unit", 
+            "name": "Atomic mass unit"
+        }, 
+        {
+            "def": "Atomic number \u2013 The number of protons found in the nucleus of an atom. Represented by the letter \"Z,\" it is most often used to classify elements (see periodic table)", 
+            "link": "/wiki/Atomic_number", 
+            "name": "Atomic number"
+        }, 
+        {
+            "def": "Atomic orbital \u2013", 
+            "link": "/wiki/Atomic_orbital", 
+            "name": "Atomic orbital"
+        }, 
+        {
+            "def": "Atomic packing factor \u2013", 
+            "link": "/wiki/Atomic_packing_factor", 
+            "name": "Atomic packing factor"
+        }, 
+        {
+            "def": "Atomic physics \u2013", 
+            "link": "/wiki/Atomic_physics", 
+            "name": "Atomic physics"
+        }, 
+        {
+            "def": "Atomic structure \u2013", 
+            "link": "/wiki/Atomic_structure", 
+            "name": "Atomic structure"
+        }, 
+        {
+            "def": "Atomic weight \u2013", 
+            "link": "/wiki/Atomic_weight", 
+            "name": "Atomic weight"
+        }, 
+        {
+            "def": "Audio frequency \u2013", 
+            "link": "/wiki/Audio_frequency", 
+            "name": "Audio frequency"
+        }, 
+        {
+            "def": "Average speed \u2013", 
+            "link": "/wiki/Speed#Average_speed", 
+            "name": "Average speed"
+        }, 
+        {
+            "def": "Avogadro constant \u2013", 
+            "link": "/wiki/Avogadro_constant", 
+            "name": "Avogadro constant"
+        }, 
+        {
+            "def": "Avogadro's Law - it states that volumes of gases which are equal to each other at the same temperature and pressure will contain equal numbers of molecules", 
+            "link": "/wiki/Avogadro%27s_Law", 
+            "name": "Avogadro's Law"
+        }, 
+        {
+            "def": "Avogadro's Number \u2013 the number of molecules in exactly 12g of carbon-12, equaling 6.022 x 1023.", 
+            "link": "/wiki/Avogadro%27s_Number", 
+            "name": "Avogadro's Number"
+        }, 
+        {
+            "def": "Axion\u2013", 
+            "link": "/wiki/Axion", 
+            "name": "Axion"
+        }, 
+        {
+            "def": "Azimuthal quantum number \u2013", 
+            "link": "/wiki/Azimuthal_quantum_number", 
+            "name": "Azimuthal quantum number"
+        }, 
+        {
+            "def": "Babinet's principle \u2013 A theorem concerning diffraction that states that the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity.", 
+            "link": "/wiki/Babinet%27s_principle", 
+            "name": "Babinet's principle"
+        }, 
+        {
+            "def": "Background radiation \u2013 The ubiquitous ionising radiation that the general population is exposed to.", 
+            "link": "/wiki/Background_radiation", 
+            "name": "Background radiation"
+        }, 
+        {
+            "def": "Balmer series \u2013", 
+            "link": "/wiki/Balmer_series", 
+            "name": "Balmer series"
+        }, 
+        {
+            "def": "Barometer \u2013 A scientific instrument used in meteorology to measure atmospheric pressure. Pressure tendency can forecast short term changes in the weather.", 
+            "link": "/wiki/Barometer", 
+            "name": "Barometer"
+        }, 
+        {
+            "def": "Battery \u2013", 
+            "link": "/wiki/Battery_(electricity)", 
+            "name": "Battery"
+        }, 
+        {
+            "def": "Beam \u2013 A structural element that is capable of withstanding load primarily by resisting bending.Beams are traditionally descriptions of building or civil engineering structural elements, but smaller structures such as truck or automobile frames, machine frames, and other mechanical or structural systems contain beam structures that are designed and analyzed in a similar fashion.", 
+            "link": "/wiki/Beam_(structure)", 
+            "name": "Beam"
+        }, 
+        {
+            "def": "Bending \u2013 (also known as flexure) The behavior of a slender structural element subjected to an external load applied perpendicularly to a longitudinal axis of the element.", 
+            "link": "/wiki/Bending", 
+            "name": "Bending"
+        }, 
+        {
+            "def": "Bending moment \u2013", 
+            "link": "/wiki/Bending_moment", 
+            "name": "Bending moment"
+        }, 
+        {
+            "def": "Bernoulli equation \u2013", 
+            "link": "/wiki/Bernoulli%27s_equation", 
+            "name": "Bernoulli equation"
+        }, 
+        {
+            "def": "Bernoulli's principle \u2013", 
+            "link": "/wiki/Bernoulli%27s_principle", 
+            "name": "Bernoulli's principle"
+        }, 
+        {
+            "def": "Bessel function \u2013", 
+            "link": "/wiki/Bessel_function", 
+            "name": "Bessel function"
+        }, 
+        {
+            "def": "Beta particle \u2013 High-energy, high-speed electrons or positrons emitted by certain types of radioactive nuclei.", 
+            "link": "/wiki/Beta_particle", 
+            "name": "Beta particle"
+        }, 
+        {
+            "def": "Big Bang \u2013 The prevailing cosmological model that describes the early development of the Universe.", 
+            "link": "/wiki/Big_Bang", 
+            "name": "Big Bang"
+        }, 
+        {
+            "def": "Binary star \u2013 A binary star is a star system consisting of two stars orbiting around their common centre of mass.", 
+            "link": "/wiki/Binary_star", 
+            "name": "Binary star"
+        }, 
+        {
+            "def": "Binding energy \u2013 The mechanical energy required to disassemble a whole into separate parts. A bound system typically has a lower potential energy than the sum of its constituent parts.", 
+            "link": "/wiki/Binding_energy", 
+            "name": "Binding energy"
+        }, 
+        {
+            "def": "Binomial random variable \u2013", 
+            "link": "/wiki/Binomial_random_variable", 
+            "name": "Binomial random variable"
+        }, 
+        {
+            "def": "Biocatalysis \u2013", 
+            "link": "/wiki/Biocatalysis", 
+            "name": "Biocatalysis"
+        }, 
+        {
+            "def": "Biophysics \u2013 An interdisciplinary science using methods of, and theories from, physics to study biological systems", 
+            "link": "/wiki/Biophysics", 
+            "name": "Biophysics"
+        }, 
+        {
+            "def": "Black hole \u2013 A region of space-time where gravity prevents anything, including light, from escaping.", 
+            "link": "/wiki/Black_hole", 
+            "name": "Black hole"
+        }, 
+        {
+            "def": "Black-body radiation \u2013 The type of electromagnetic radiation within or surrounding a body in thermodynamic equilibrium with its environment, or emitted by a black body (an opaque and non-reflective body) held at constant, uniform temperature. The radiation has a specific spectrum and intensity that depends only on the temperature of the body.", 
+            "link": "/wiki/Black-body_radiation", 
+            "name": "Black-body radiation"
+        }, 
+        {
+            "def": "Block and tackle \u2013 A system of two or more pulleys with a rope or cable threaded between them, usually used to lift or pull heavy loads.", 
+            "link": "/wiki/Block_and_tackle", 
+            "name": "Block and tackle"
+        }, 
+        {
+            "def": "Bohr model \u2013", 
+            "link": "/wiki/Bohr_model", 
+            "name": "Bohr model"
+        }, 
+        {
+            "def": "Boiling point \u2013 The temperature at which a liquid is changed into a gas; the vapour pressure of liquid and gas are equal at this temperature", 
+            "link": "/wiki/Boiling_point", 
+            "name": "Boiling point"
+        }, 
+        {
+            "def": "Boiling point elevation \u2013", 
+            "link": "/wiki/Boiling_point_elevation", 
+            "name": "Boiling point elevation"
+        }, 
+        {
+            "def": "Boltzmann constant \u2013", 
+            "link": "/wiki/Boltzmann_constant", 
+            "name": "Boltzmann constant"
+        }, 
+        {
+            "def": "Bose-Einstein condensate \u2013", 
+            "link": "/wiki/Bose-Einstein_condensate", 
+            "name": "Bose-Einstein condensate"
+        }, 
+        {
+            "def": "Boson \u2013 One of two classes of elementary particles, the other being fermions. An important characteristic of bosons is that there is no limit to the number that can occupy the same quantum state.", 
+            "link": "/wiki/Boson", 
+            "name": "Boson"
+        }, 
+        {
+            "def": "Boyle's law \u2013 The volume of a given mass of a gas at constant temperature is inversely proportional to the pressure", 
+            "link": "/wiki/Boyle%27s_law", 
+            "name": "Boyle's law"
+        }, 
+        {
+            "def": "Bra\u2013ket notation \u2013", 
+            "link": "/wiki/Bra%E2%80%93ket_notation", 
+            "name": "Bra\u2013ket notation"
+        }, 
+        {
+            "def": "Bragg's law \u2013", 
+            "link": "/wiki/Bragg%27s_law", 
+            "name": "Bragg's law"
+        }, 
+        {
+            "def": "Brewster's angle \u2013", 
+            "link": "/wiki/Brewster%27s_angle", 
+            "name": "Brewster's angle"
+        }, 
+        {
+            "def": "British thermal unit \u2013 A traditional unit of energy equal to about 1055 joules. It is the amount of energy needed to heat one pound of water by one degree Fahrenheit. In scientific contexts the Btu has largely been replaced by the SI unit of energy, the joule.", 
+            "link": "/wiki/British_thermal_unit", 
+            "name": "British thermal unit"
+        }, 
+        {
+            "def": "Brittle \u2013 A material is brittle if, when subjected to stress, it breaks without significant Brittle materials absorb relatively little energy prior to fracture, even those of high strength. Breaking is often accompanied by a snapping sound.", 
+            "link": "/wiki/Brittle", 
+            "name": "Brittle"
+        }, 
+        {
+            "def": "Brownian motion \u2013 The presumably random moving of particles suspended in a fluid (liquid or gas) resulting from their bombardment by the fast-moving atoms or molecules in the gas or liquid. Also called pedesis", 
+            "link": "/wiki/Brownian_motion", 
+            "name": "Brownian motion"
+        }, 
+        {
+            "def": "Bulk modulus \u2013 A measure of a substance's resistance to uniform compression. It is defined as the ratio of the infinitesimal pressure increase to the resulting relative decrease of the volume. Its base unit is the pascal.", 
+            "link": "/wiki/Bulk_modulus", 
+            "name": "Bulk modulus"
+        }, 
+        {
+            "def": "Buoyancy \u2013 An upward force exerted by a fluid, that opposes the weight of an immersed object.", 
+            "link": "/wiki/Buoyancy", 
+            "name": "Buoyancy"
+        }, 
+        {
+            "def": "Calculus \u2013 The mathematical study of change that has two major branches: differential calculus (concerning rates of change and slopes of curves), and integral calculus (concerning accumulation of quantities and the areas under and between curves); these two branches are related to each other by the fundamental theorem of calculus.", 
+            "link": "/wiki/Calculus", 
+            "name": "Calculus"
+        }, 
+        {
+            "def": "Capacitance \u2013", 
+            "link": "/wiki/Capacitance", 
+            "name": "Capacitance"
+        }, 
+        {
+            "def": "Capacitive reactance \u2013", 
+            "link": "/wiki/Capacitive_reactance", 
+            "name": "Capacitive reactance"
+        }, 
+        {
+            "def": "Carnot cycle \u2013", 
+            "link": "/wiki/Carnot_cycle", 
+            "name": "Carnot cycle"
+        }, 
+        {
+            "def": "Cartesian coordinates \u2013", 
+            "link": "/wiki/Cartesian_coordinates", 
+            "name": "Cartesian coordinates"
+        }, 
+        {
+            "def": "Cathode \u2013 An electrode through which electric current flows out of a polarized electrical device. The direction of electric current is, by convention, opposite to the direction of electron flow. Therefore the electrons flow into the polarized electrical device and out of, for example, the connected electrical circuit.", 
+            "link": "/wiki/Cathode", 
+            "name": "Cathode"
+        }, 
+        {
+            "def": "Cathode ray \u2013", 
+            "link": "/wiki/Cathode_ray", 
+            "name": "Cathode ray"
+        }, 
+        {
+            "def": "Celsius scale \u2013 A scale and unit of measurement for temperature, also known as Centigrade.", 
+            "link": "/wiki/Celsius_scale", 
+            "name": "Celsius scale"
+        }, 
+        {
+            "def": "Center of curvature \u2013", 
+            "link": "/wiki/Center_of_curvature", 
+            "name": "Center of curvature"
+        }, 
+        {
+            "def": "Center of gravity \u2013 The point in a body around which the resultant torque due to gravity forces vanish. Near the surface of the earth, where the gravity acts downward as a parallel force field, the center of gravity and the center of mass are the same.", 
+            "link": "/wiki/Center_of_gravity", 
+            "name": "Center of gravity"
+        }, 
+        {
+            "def": "Center of mass \u2013 A distribution of mass in space is the unique point where the weighted relative position of the distributed mass sums to zero.", 
+            "link": "/wiki/Center_of_mass", 
+            "name": "Center of mass"
+        }, 
+        {
+            "def": "Center of pressure \u2013", 
+            "link": "/wiki/Center_of_pressure_(fluid_mechanics)", 
+            "name": "Center of pressure"
+        }, 
+        {
+            "def": "Centigrade \u2013 A scale and unit of measurement for temperature, also known as Celsius", 
+            "link": "/wiki/Centigrade_(temperature)", 
+            "name": "Centigrade"
+        }, 
+        {
+            "def": "Central force motion \u2013", 
+            "link": "/wiki/Central_force_motion", 
+            "name": "Central force motion"
+        }, 
+        {
+            "def": "Central limit theorem \u2013", 
+            "link": "/wiki/Central_limit_theorem", 
+            "name": "Central limit theorem"
+        }, 
+        {
+            "def": "Centrifugal force \u2013 (\"center fleeing\") The apparent outward force that draws a rotating body away from the centre of rotation. It is caused by the inertia of the body as the body's path is continually redirected.", 
+            "link": "/wiki/Centrifugal_force", 
+            "name": "Centrifugal force"
+        }, 
+        {
+            "def": "Centripetal force \u2013 (\"center seeking\") A force which keeps a body moving with a uniform speed along a circular path and is directed along the radius towards the centre.", 
+            "link": "/wiki/Centripetal_force", 
+            "name": "Centripetal force"
+        }, 
+        {
+            "def": "Chain reaction \u2013 A sequence of reactions where a reactive product or by-product causes additional similar reactions to take place.", 
+            "link": "/wiki/Chain_reaction", 
+            "name": "Chain reaction"
+        }, 
+        {
+            "def": "Change of base rule \u2013", 
+            "link": "/wiki/Change_of_base_rule", 
+            "name": "Change of base rule"
+        }, 
+        {
+            "def": "Charles's law \u2013", 
+            "link": "/wiki/Charles%27s_law", 
+            "name": "Charles's law"
+        }, 
+        {
+            "def": "Chemical Physics \u2013 A subdiscipline of chemistry and physics that investigates physicochemical phenomena using techniques from atomic and molecular physics and condensed matter physics; it is the branch of physics that studies chemical processes from the point of view of physics.", 
+            "link": "/wiki/Chemical_Physics", 
+            "name": "Chemical Physics"
+        }, 
+        {
+            "def": "Circle \u2013 A simple shape of Euclidean geometry that is the set of all points in a plane that are at a given distance from a given point, the centre.", 
+            "link": "/wiki/Circle", 
+            "name": "Circle"
+        }, 
+        {
+            "def": "Circular motion \u2013", 
+            "link": "/wiki/Circular_motion", 
+            "name": "Circular motion"
+        }, 
+        {
+            "def": "Classical mechanics \u2013 A sub-field of mechanics that is concerned with the set of physical laws describing the motion of bodies under the action of a system of forces.", 
+            "link": "/wiki/Classical_mechanics", 
+            "name": "Classical mechanics"
+        }, 
+        {
+            "def": "Coherence \u2013", 
+            "link": "/wiki/Coherence_(physics)", 
+            "name": "Coherence"
+        }, 
+        {
+            "def": "Cold fusion \u2013", 
+            "link": "/wiki/Cold_fusion", 
+            "name": "Cold fusion"
+        }, 
+        {
+            "def": "Complex harmonic motion \u2013", 
+            "link": "/wiki/Complex_harmonic_motion", 
+            "name": "Complex harmonic motion"
+        }, 
+        {
+            "def": "Compton scattering \u2013", 
+            "link": "/wiki/Compton_scattering", 
+            "name": "Compton scattering"
+        }, 
+        {
+            "def": "Concave lens \u2013", 
+            "link": "/wiki/Concave_lens", 
+            "name": "Concave lens"
+        }, 
+        {
+            "def": "Condensation point \u2013", 
+            "link": "/wiki/Condensation_point", 
+            "name": "Condensation point"
+        }, 
+        {
+            "def": "Condensed matter physics \u2013 A branch of physics that deals with the physical properties of condensed phases of matter", 
+            "link": "/wiki/Condensed_matter_physics", 
+            "name": "Condensed matter physics"
+        }, 
+        {
+            "def": "Conservation of momentum \u2013", 
+            "link": "/wiki/Momentum#Conservation", 
+            "name": "Conservation of momentum"
+        }, 
+        {
+            "def": "Constructive interference \u2013", 
+            "link": "/wiki/Constructive_interference", 
+            "name": "Constructive interference"
+        }, 
+        {
+            "def": "Continuous spectrum \u2013", 
+            "link": "/wiki/Continuous_spectrum", 
+            "name": "Continuous spectrum"
+        }, 
+        {
+            "def": "Convection \u2013 The transfer of heat by the actual transfer of matter", 
+            "link": "/wiki/Convection", 
+            "name": "Convection"
+        }, 
+        {
+            "def": "Convex lens \u2013", 
+            "link": "/wiki/Convex_lens", 
+            "name": "Convex lens"
+        }, 
+        {
+            "def": "Coulomb \u2013 The SI derived unit of electric charge. It is defined as the charge transported by a steady current of one ampere in one second.", 
+            "link": "/wiki/Coulomb", 
+            "name": "Coulomb"
+        }, 
+        {
+            "def": "Coulomb's law \u2013", 
+            "link": "/wiki/Coulomb%27s_law", 
+            "name": "Coulomb's law"
+        }, 
+        {
+            "def": "Continuum mechanics \u2013", 
+            "link": "/wiki/Continuum_mechanics", 
+            "name": "Continuum mechanics"
+        }, 
+        {
+            "def": "Cosmic background radiation \u2013", 
+            "link": "/wiki/Cosmic_background_radiation", 
+            "name": "Cosmic background radiation"
+        }, 
+        {
+            "def": "Cosmic rays \u2013", 
+            "link": "/wiki/Cosmic_rays", 
+            "name": "Cosmic rays"
+        }, 
+        {
+            "def": "Covalent bond \u2013", 
+            "link": "/wiki/Covalent_bond", 
+            "name": "Covalent bond"
+        }, 
+        {
+            "def": "Covalent compound \u2013", 
+            "link": "/wiki/Covalent_compound", 
+            "name": "Covalent compound"
+        }, 
+        {
+            "def": "Crest \u2013 The point on a wave with the maximum value or upward displacement within a cycle.", 
+            "link": "/wiki/Crest_(physics)", 
+            "name": "Crest"
+        }, 
+        {
+            "def": "Crest factor \u2013", 
+            "link": "/wiki/Crest_factor", 
+            "name": "Crest factor"
+        }, 
+        {
+            "def": "Critical angle \u2013", 
+            "link": "/wiki/Critical_angle_(optics)", 
+            "name": "Critical angle"
+        }, 
+        {
+            "def": "Critical mass \u2013 The smallest amount of fissile material needed for a sustained nuclear chain reaction.", 
+            "link": "/wiki/Critical_mass", 
+            "name": "Critical mass"
+        }, 
+        {
+            "def": "Current density \u2013", 
+            "link": "/wiki/Current_density", 
+            "name": "Current density"
+        }, 
+        {
+            "def": "Curvilinear motion \u2013", 
+            "link": "/wiki/Curvilinear_motion", 
+            "name": "Curvilinear motion"
+        }, 
+        {
+            "def": "Cyclotron \u2013 A type of particle accelerator in which charged particles accelerate outwards from the center along a spiral path", 
+            "link": "/wiki/Cyclotron", 
+            "name": "Cyclotron"
+        }, 
+        {
+            "def": "Dalton's law \u2013", 
+            "link": "/wiki/Dalton%27s_law", 
+            "name": "Dalton's law"
+        }, 
+        {
+            "def": "Damped vibration \u2013", 
+            "link": "/wiki/Damped_vibration", 
+            "name": "Damped vibration"
+        }, 
+        {
+            "def": "Damping \u2013", 
+            "link": "/wiki/Damping", 
+            "name": "Damping"
+        }, 
+        {
+            "def": "Darcy\u2013Weisbach equation \u2013", 
+            "link": "/wiki/Darcy%E2%80%93Weisbach_equation", 
+            "name": "Darcy\u2013Weisbach equation"
+        }, 
+        {
+            "def": "Dark energy \u2013", 
+            "link": "/wiki/Dark_energy", 
+            "name": "Dark energy"
+        }, 
+        {
+            "def": "Dark matter \u2013", 
+            "link": "/wiki/Dark_matter", 
+            "name": "Dark matter"
+        }, 
+        {
+            "def": "DC motor \u2013 A mechanically commutated electric motor powered from direct current (DC).", 
+            "link": "/wiki/DC_motor", 
+            "name": "DC motor"
+        }, 
+        {
+            "def": "Decibel \u2013", 
+            "link": "/wiki/Decibel", 
+            "name": "Decibel"
+        }, 
+        {
+            "def": "Definite integral \u2013", 
+            "link": "/wiki/Definite_integral", 
+            "name": "Definite integral"
+        }, 
+        {
+            "def": "Deflection \u2013 The degree to which a structural element is displaced under a load. It may refer to an angle or a distance.", 
+            "link": "/wiki/Deflection_(engineering)", 
+            "name": "Deflection"
+        }, 
+        {
+            "def": "Deformation (engineering) \u2013", 
+            "link": "/wiki/Deformation_(engineering)", 
+            "name": "Deformation (engineering)"
+        }, 
+        {
+            "def": "Deformation (mechanics) \u2013", 
+            "link": "/wiki/Deformation_(mechanics)", 
+            "name": "Deformation (mechanics)"
+        }, 
+        {
+            "def": "Density \u2013 The mass density or density of a material is its mass per unit volume. Mathematically, density is defined as mass divided by volume.", 
+            "link": "/wiki/Density", 
+            "name": "Density"
+        }, 
+        {
+            "def": "Derivative \u2013", 
+            "link": "/wiki/Derivative", 
+            "name": "Derivative"
+        }, 
+        {
+            "def": "Derived unit \u2013", 
+            "link": "/wiki/SI_derived_unit", 
+            "name": "Derived unit"
+        }, 
+        {
+            "def": "Destructive interference \u2013", 
+            "link": "/wiki/Destructive_interference", 
+            "name": "Destructive interference"
+        }, 
+        {
+            "def": "Dew point \u2013", 
+            "link": "/wiki/Dew_point", 
+            "name": "Dew point"
+        }, 
+        {
+            "def": "Dielectric \u2013", 
+            "link": "/wiki/Dielectric", 
+            "name": "Dielectric"
+        }, 
+        {
+            "def": "Diffraction \u2013", 
+            "link": "/wiki/Diffraction", 
+            "name": "Diffraction"
+        }, 
+        {
+            "def": "Dispersion \u2013", 
+            "link": "/wiki/Dispersion_(optics)", 
+            "name": "Dispersion"
+        }, 
+        {
+            "def": "Displacement (fluid) \u2013 Occurs when an object is immersed in a fluid, pushing it out of the way and taking its place. The volume of the fluid displaced can then be measured, and from this the volume of the immersed object can be deduced (the volume of the immersed object will be exactly equal to the volume of the displaced fluid).", 
+            "link": "/wiki/Displacement_(fluid)", 
+            "name": "Displacement (fluid)"
+        }, 
+        {
+            "def": "Displacement (vector) \u2013 The shortest distance from the initial to the final position of a point. Thus, it is the length of an imaginary straight path, typically distinct from the path actually travelled by.", 
+            "link": "/wiki/Displacement_(vector)", 
+            "name": "Displacement (vector)"
+        }, 
+        {
+            "def": "Distance \u2013 A numerical description of how far apart objects are.", 
+            "link": "/wiki/Distance", 
+            "name": "Distance"
+        }, 
+        {
+            "def": "Drift velocity \u2013", 
+            "link": "/wiki/Drift_velocity", 
+            "name": "Drift velocity"
+        }, 
+        {
+            "def": "Doppler effect \u2013 The change in frequency of a wave (or other periodic event) for an observer moving relative to its source.The received frequency is higher (compared to the emitted frequency) during the approach, it is identical at the instant of passing by, and it is lower during the recession.", 
+            "link": "/wiki/Doppler_effect", 
+            "name": "Doppler effect"
+        }, 
+        {
+            "def": "Drag \u2013 Forces which act on a solid object in the direction of the relative fluid flow velocity. Unlike other resistive forces, such as dry friction, which is nearly independent of velocity, drag forces depend on velocity.", 
+            "link": "/wiki/Drag_(physics)", 
+            "name": "Drag"
+        }, 
+        {
+            "def": "Ductility \u2013 A solid material's ability to deform under tensile stress; this is often characterized by the material's ability to be stretched into a wire.", 
+            "link": "/wiki/Ductility", 
+            "name": "Ductility"
+        }, 
+        {
+            "def": "Dynamics \u2013", 
+            "link": "/wiki/Dynamics_(mechanics)", 
+            "name": "Dynamics"
+        }, 
+        {
+            "def": "Dyne \u2013", 
+            "link": "/wiki/Dyne", 
+            "name": "Dyne"
+        }, 
+        {
+            "def": "Econophysics \u2013", 
+            "link": "/wiki/Econophysics", 
+            "name": "Econophysics"
+        }, 
+        {
+            "def": "Elastic collision \u2013", 
+            "link": "/wiki/Elastic_collision", 
+            "name": "Elastic collision"
+        }, 
+        {
+            "def": "Elastic energy \u2013", 
+            "link": "/wiki/Elastic_energy", 
+            "name": "Elastic energy"
+        }, 
+        {
+            "def": "Elastic instability \u2013", 
+            "link": "/wiki/Elastic_instability", 
+            "name": "Elastic instability"
+        }, 
+        {
+            "def": "Elastic modulus \u2013", 
+            "link": "/wiki/Elastic_modulus", 
+            "name": "Elastic modulus"
+        }, 
+        {
+            "def": "Elasticity \u2013 A physical property of materials which return to their original shape after they are deformed.", 
+            "link": "/wiki/Elasticity_(physics)", 
+            "name": "Elasticity"
+        }, 
+        {
+            "def": "Electric charge \u2013 A physical property of matter that causes it to experience a force when near other electrically charged matter. There exist two types of electric charges, called positive and negative.", 
+            "link": "/wiki/Electric_charge", 
+            "name": "Electric charge"
+        }, 
+        {
+            "def": "Electric circuit \u2013 An electrical network consisting of a closed loop, giving a return path for the current.", 
+            "link": "/wiki/Electric_circuit", 
+            "name": "Electric circuit"
+        }, 
+        {
+            "def": "Electric current \u2013 A flow of electric charge through a conductive medium.", 
+            "link": "/wiki/Electric_current", 
+            "name": "Electric current"
+        }, 
+        {
+            "def": "Electric displacement field \u2013", 
+            "link": "/wiki/Electric_displacement_field", 
+            "name": "Electric displacement field"
+        }, 
+        {
+            "def": "Electric field \u2013 The region of space surrounding electrically charged particles and time-varying magnetic fields. The electric field depicts the force exerted on other electrically charged objects by the electrically charged particle the field is surrounding.", 
+            "link": "/wiki/Electric_field", 
+            "name": "Electric field"
+        }, 
+        {
+            "def": "Electric field gradient \u2013", 
+            "link": "/wiki/Electric_field_gradient", 
+            "name": "Electric field gradient"
+        }, 
+        {
+            "def": "Electric field intensity \u2013", 
+            "link": "/wiki/Electric_intensity", 
+            "name": "Electric field intensity"
+        }, 
+        {
+            "def": "Electric generator \u2013", 
+            "link": "/wiki/Electric_generator", 
+            "name": "Electric generator"
+        }, 
+        {
+            "def": "Electric motor \u2013", 
+            "link": "/wiki/Electric_motor", 
+            "name": "Electric motor"
+        }, 
+        {
+            "def": "Electric potential \u2013", 
+            "link": "/wiki/Electric_potential", 
+            "name": "Electric potential"
+        }, 
+        {
+            "def": "Electrical conductor \u2013 A conductor is a material which contains movable electric charges, and therefore can conduct an electric current, under the influence of an electric field.", 
+            "link": "/wiki/Electrical_conductor", 
+            "name": "Electrical conductor"
+        }, 
+        {
+            "def": "Electrical insulator \u2013 A material whose internal electric charges do not flow freely, and which therefore does not conduct an electric current, under the influence of an electric field.", 
+            "link": "/wiki/Electrical_insulator", 
+            "name": "Electrical insulator"
+        }, 
+        {
+            "def": "Electrical potential energy \u2013", 
+            "link": "/wiki/Electrical_potential_energy", 
+            "name": "Electrical potential energy"
+        }, 
+        {
+            "def": "Electric power \u2013 The rate at which electric energy is transferred by an electric circuit.", 
+            "link": "/wiki/Electric_power", 
+            "name": "Electric power"
+        }, 
+        {
+            "def": "Electrical and electronics engineering \u2013", 
+            "link": "/wiki/Electrical_and_electronics_engineering", 
+            "name": "Electrical and electronics engineering"
+        }, 
+        {
+            "def": "Electrical network \u2013 An interconnection of electrical elements such as resistors, inductors, capacitors, voltage sources, current sources and switches.", 
+            "link": "/wiki/Electrical_network", 
+            "name": "Electrical network"
+        }, 
+        {
+            "def": "Electrical resistance \u2013 The opposition to the passage of an electric current through an electrical element.", 
+            "link": "/wiki/Electrical_resistance", 
+            "name": "Electrical resistance"
+        }, 
+        {
+            "def": "Electricity \u2013 The set of physical phenomena associated with the presence and flow of electric charge.", 
+            "link": "/wiki/Electricity", 
+            "name": "Electricity"
+        }, 
+        {
+            "def": "Electrodynamics \u2013", 
+            "link": "/wiki/Electrodynamics", 
+            "name": "Electrodynamics"
+        }, 
+        {
+            "def": "Electrolytic cell \u2013", 
+            "link": "/wiki/Electrolytic_cell", 
+            "name": "Electrolytic cell"
+        }, 
+        {
+            "def": "Electromagnet \u2013 A type of magnet in which the magnetic field is produced by the flow of electric current.", 
+            "link": "/wiki/Electromagnet", 
+            "name": "Electromagnet"
+        }, 
+        {
+            "def": "Electromagnetic field \u2013 (also EMF or EM field) A physical field produced by moving electrically charged objects.", 
+            "link": "/wiki/Electromagnetic_field", 
+            "name": "Electromagnetic field"
+        }, 
+        {
+            "def": "Electromagnetic induction \u2013", 
+            "link": "/wiki/Electromagnetic_induction", 
+            "name": "Electromagnetic induction"
+        }, 
+        {
+            "def": "Electromagnetic radiation \u2013 (EM radiation or EMR) Electromagnetic radiation is a form of energy emitted and absorbed by charged particles, which exhibits wave-like behavior as it travels through space.", 
+            "link": "/wiki/Electromagnetic_radiation", 
+            "name": "Electromagnetic radiation"
+        }, 
+        {
+            "def": "Electromagnetic spectrum \u2013", 
+            "link": "/wiki/Electromagnetic_spectrum", 
+            "name": "Electromagnetic spectrum"
+        }, 
+        {
+            "def": "Electromagnetic wave equation \u2013", 
+            "link": "/wiki/Electromagnetic_wave_equation", 
+            "name": "Electromagnetic wave equation"
+        }, 
+        {
+            "def": "Electromechanics \u2013", 
+            "link": "/wiki/Electromechanics", 
+            "name": "Electromechanics"
+        }, 
+        {
+            "def": "Electromotive force \u2013", 
+            "link": "/wiki/Electromotive_force", 
+            "name": "Electromotive force"
+        }, 
+        {
+            "def": "Electron \u2013 A subatomic particle with a negative elementary electric charge.", 
+            "link": "/wiki/Electron", 
+            "name": "Electron"
+        }, 
+        {
+            "def": "Electron pair \u2013", 
+            "link": "/wiki/Electron_pair", 
+            "name": "Electron pair"
+        }, 
+        {
+            "def": "Electronvolt \u2013 (symbol eV) A unit of energy equal to approximately 1.6\u00d710\u221219 joule (symbol J). By definition, it is the amount of energy gained by the charge of a single electron moved across an electric potential difference of one volt.", 
+            "link": "/wiki/Electronvolt", 
+            "name": "Electronvolt"
+        }, 
+        {
+            "def": "Electronegativity \u2013 A chemical property that describes the tendency of an atom or a functional group to attract electrons (or electron density) towards itself.", 
+            "link": "/wiki/Electronegativity", 
+            "name": "Electronegativity"
+        }, 
+        {
+            "def": "Electronics \u2013 A field that deals with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies.", 
+            "link": "/wiki/Electronics", 
+            "name": "Electronics"
+        }, 
+        {
+            "def": "Elementary particle \u2013", 
+            "link": "/wiki/Elementary_particle", 
+            "name": "Elementary particle"
+        }, 
+        {
+            "def": "Emission spectrum \u2013", 
+            "link": "/wiki/Emission_spectrum", 
+            "name": "Emission spectrum"
+        }, 
+        {
+            "def": "Energy \u2013The ability to do work", 
+            "link": "/wiki/Energy", 
+            "name": "Energy"
+        }, 
+        {
+            "def": "Endothermic - A process or reaction in which the system absorbs energy from its surroundings in the form of heat.", 
+            "link": "/wiki/Endothermic", 
+            "name": "Endothermic"
+        }, 
+        {
+            "def": "Engineering physics \u2013", 
+            "link": "/wiki/Engineering_physics", 
+            "name": "Engineering physics"
+        }, 
+        {
+            "def": "Entropy \u2013 a quantity which describes the randomness of a substance or system", 
+            "link": "/wiki/Entropy", 
+            "name": "Entropy"
+        }, 
+        {
+            "def": "Equipartition \u2013", 
+            "link": "/wiki/Equipartition", 
+            "name": "Equipartition"
+        }, 
+        {
+            "def": "Escape velocity \u2013 The speed at which the kinetic energy plus the gravitational potential energy of an object is zero.[nb 1] It is the speed needed to \"break free\" from a gravitational field without further propulsion.", 
+            "link": "/wiki/Escape_velocity", 
+            "name": "Escape velocity"
+        }, 
+        {
+            "def": "Exothermic \u2013 (\"outside heating\") A process or reaction that releases energy from the system, usually in the form of heat, but also in the form of light, electricity, or sound.", 
+            "link": "/wiki/Exothermic", 
+            "name": "Exothermic"
+        }, 
+        {
+            "def": "Experimental physics \u2013", 
+            "link": "/wiki/Experimental_physics", 
+            "name": "Experimental physics"
+        }, 
+        {
+            "def": "Farad \u2013", 
+            "link": "/wiki/Farad", 
+            "name": "Farad"
+        }, 
+        {
+            "def": "Falling bodies \u2013 Objects that are moving towards a body with greater gravitational influence, such as a planet.", 
+            "link": "/wiki/Falling_bodies", 
+            "name": "Falling bodies"
+        }, 
+        {
+            "def": "Faraday constant \u2013", 
+            "link": "/wiki/Faraday_constant", 
+            "name": "Faraday constant"
+        }, 
+        {
+            "def": "Fermat's principle \u2013", 
+            "link": "/wiki/Fermat%27s_principle", 
+            "name": "Fermat's principle"
+        }, 
+        {
+            "def": "Ferrimagnetism \u2013", 
+            "link": "/wiki/Ferrimagnetism", 
+            "name": "Ferrimagnetism"
+        }, 
+        {
+            "def": "Ferromagnetism -", 
+            "link": "/wiki/Ferromagnetism", 
+            "name": "Ferromagnetism"
+        }, 
+        {
+            "def": "FIRST \u2013 An organization founded by inventor Dean Kamen in 1989 in order to develop ways to inspire students in engineering and technology fields", 
+            "link": "/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology", 
+            "name": "FIRST"
+        }, 
+        {
+            "def": "Fission\u2013 Either a nuclear reaction or a radioactive decay process in which the nucleus of an atom splits into smaller parts (lighter nuclei), often producing free neutrons and photons (in the form of gamma rays), and releasing a, relatively, very large amount of energy", 
+            "link": "/wiki/Nuclear_fission", 
+            "name": "Fission"
+        }, 
+        {
+            "def": "Fluid \u2013", 
+            "link": "/wiki/Fluid", 
+            "name": "Fluid"
+        }, 
+        {
+            "def": "Fluid mechanics \u2013", 
+            "link": "/wiki/Fluid_mechanics", 
+            "name": "Fluid mechanics"
+        }, 
+        {
+            "def": "Fluid physics \u2013", 
+            "link": "/wiki/Fluid_physics", 
+            "name": "Fluid physics"
+        }, 
+        {
+            "def": "Fluid statics \u2013", 
+            "link": "/wiki/Fluid_statics", 
+            "name": "Fluid statics"
+        }, 
+        {
+            "def": "Fluorescence \u2013", 
+            "link": "/wiki/Fluorescence", 
+            "name": "Fluorescence"
+        }, 
+        {
+            "def": "Flux \u2013", 
+            "link": "/wiki/Flux", 
+            "name": "Flux"
+        }, 
+        {
+            "def": "Focus \u2013", 
+            "link": "/wiki/Focus_(optics)", 
+            "name": "Focus"
+        }, 
+        {
+            "def": "Force \u2013", 
+            "link": "/wiki/Force", 
+            "name": "Force"
+        }, 
+        {
+            "def": "Fraunhofer lines \u2013", 
+            "link": "/wiki/Fraunhofer_lines", 
+            "name": "Fraunhofer lines"
+        }, 
+        {
+            "def": "Frequency modulation \u2013", 
+            "link": "/wiki/Frequency_modulation", 
+            "name": "Frequency modulation"
+        }, 
+        {
+            "def": "Freezing point \u2013 The temperature at which a liquid changes state from to a solid.", 
+            "link": "/wiki/Freezing_point", 
+            "name": "Freezing point"
+        }, 
+        {
+            "def": "Function \u2013", 
+            "link": "/wiki/Function_(mathematics)", 
+            "name": "Function"
+        }, 
+        {
+            "def": "Fundamental frequency \u2013", 
+            "link": "/wiki/Fundamental_frequency", 
+            "name": "Fundamental frequency"
+        }, 
+        {
+            "def": "Fundamental theorem of calculus\u2013", 
+            "link": "/wiki/Fundamental_theorem_of_calculus", 
+            "name": "Fundamental theorem of calculus"
+        }, 
+        {
+            "def": "Fusion\u2013 A nuclear reaction in which two or more atomic nuclei join together, or \"fuse\", to form a single heavier nucleus.", 
+            "link": "/wiki/Nuclear_fusion", 
+            "name": "Fusion"
+        }, 
+        {
+            "def": "Gamma ray \u2013 Electromagnetic radiation of high frequency and therefore high energy.", 
+            "link": "/wiki/Gamma_ray", 
+            "name": "Gamma ray"
+        }, 
+        {
+            "def": "Gamma-ray burst \u2013", 
+            "link": "/wiki/Gamma-ray_burst", 
+            "name": "Gamma-ray burst"
+        }, 
+        {
+            "def": "General relativity \u2013", 
+            "link": "/wiki/General_relativity", 
+            "name": "General relativity"
+        }, 
+        {
+            "def": "Geophysics \u2013", 
+            "link": "/wiki/Geophysics", 
+            "name": "Geophysics"
+        }, 
+        {
+            "def": "Gluon \u2013", 
+            "link": "/wiki/Gluon", 
+            "name": "Gluon"
+        }, 
+        {
+            "def": "Graham's law of diffusion \u2013", 
+            "link": "/wiki/Graham%27s_law_of_diffusion", 
+            "name": "Graham's law of diffusion"
+        }, 
+        {
+            "def": "Gravitation \u2013 (or Gravity) A natural phenomenon by which physical bodies attract each other with a force proportional to their masses.", 
+            "link": "/wiki/Gravitation", 
+            "name": "Gravitation"
+        }, 
+        {
+            "def": "Gravitational constant \u2013 (denoted by G) A physical constant involved in the calculation(s) of gravitational force between two bodies. (Also known as 'the universal gravitational constant', or 'Newton's constant')", 
+            "link": "/wiki/Gravitational_constant", 
+            "name": "Gravitational constant"
+        }, 
+        {
+            "def": "Gravitational energy \u2013 The potential energy associated with the gravitational field.", 
+            "link": "/wiki/Gravitational_energy", 
+            "name": "Gravitational energy"
+        }, 
+        {
+            "def": "Gravitational field \u2013 A model used to explain the influence that a massive body extends into the space around itself, producing a force on another massive body. Thus, a gravitational field is used to explain gravitational phenomena, and is measured in newtons per kilogram (N/kg).", 
+            "link": "/wiki/Gravitational_field", 
+            "name": "Gravitational field"
+        }, 
+        {
+            "def": "Gravitational potential \u2013 The gravitational potential at a location is equal to the work (energy transferred) per unit mass that is done by the force of gravity to move an object to a fixed reference location.", 
+            "link": "/wiki/Gravitational_potential", 
+            "name": "Gravitational potential"
+        }, 
+        {
+            "def": "Gravitational waves -Gravitational waves are ripples in the curvature of spacetime that propagate as waves, generated in certain gravitational interactions and travelling outward from their source.", 
+            "link": "/wiki/Gravitational_waves", 
+            "name": "Gravitational waves"
+        }, 
+        {
+            "def": "Gravity \u2013 (or gravitation) A natural phenomenon by which physical bodies attract each other with a force proportional to their masses.", 
+            "link": "/wiki/Gravity", 
+            "name": "Gravity"
+        }, 
+        {
+            "def": "Ground \u2013", 
+            "link": "/wiki/Ground_(electricity)", 
+            "name": "Ground"
+        }, 
+        {
+            "def": "Ground state \u2013", 
+            "link": "/wiki/Ground_state", 
+            "name": "Ground state"
+        }, 
+        {
+            "def": "Group velocity \u2013", 
+            "link": "/wiki/Group_velocity", 
+            "name": "Group velocity"
+        }, 
+        {
+            "def": "Hadron \u2013", 
+            "link": "/wiki/Hadron", 
+            "name": "Hadron"
+        }, 
+        {
+            "def": "Half-life \u2013 The time required for a quantity to fall to half its value as measured at the beginning of the time period. In physics, half-life typically refers to a property of radioactive decay, but may be refer to any quantity which follows an exponential decay.", 
+            "link": "/wiki/Half-life", 
+            "name": "Half-life"
+        }, 
+        {
+            "def": "Hamilton's principle \u2013", 
+            "link": "/wiki/Hamilton%27s_principle", 
+            "name": "Hamilton's principle"
+        }, 
+        {
+            "def": "Harmonic mean \u2013", 
+            "link": "/wiki/Harmonic_mean", 
+            "name": "Harmonic mean"
+        }, 
+        {
+            "def": "Heat \u2013 (or heat transfer/heat flow) Energy transferred from one body to another by thermal interaction.", 
+            "link": "/wiki/Heat", 
+            "name": "Heat"
+        }, 
+        {
+            "def": "Heat transfer \u2013", 
+            "link": "/wiki/Heat_transfer", 
+            "name": "Heat transfer"
+        }, 
+        {
+            "def": "Helmholtz free energy \u2013", 
+            "link": "/wiki/Helmholtz_free_energy", 
+            "name": "Helmholtz free energy"
+        }, 
+        {
+            "def": "Henderson\u2013Hasselbalch equation \u2013", 
+            "link": "/wiki/Henderson%E2%80%93Hasselbalch_equation", 
+            "name": "Henderson\u2013Hasselbalch equation"
+        }, 
+        {
+            "def": "Henry's law \u2013", 
+            "link": "/wiki/Henry%27s_law", 
+            "name": "Henry's law"
+        }, 
+        {
+            "def": "Hertz \u2013 The SI unit of frequency defined as the number of cycles per second of a periodic phenomenon.", 
+            "link": "/wiki/Hertz", 
+            "name": "Hertz"
+        }, 
+        {
+            "def": "Higgs boson \u2013", 
+            "link": "/wiki/Higgs_boson", 
+            "name": "Higgs boson"
+        }, 
+        {
+            "def": "Horsepower \u2013", 
+            "link": "/wiki/Horsepower", 
+            "name": "Horsepower"
+        }, 
+        {
+            "def": "Hubble Deep Field \u2013", 
+            "link": "/wiki/Hubble_Deep_Field", 
+            "name": "Hubble Deep Field"
+        }, 
+        {
+            "def": "Huygens\u2013Fresnel principle \u2013", 
+            "link": "/wiki/Huygens%E2%80%93Fresnel_principle", 
+            "name": "Huygens\u2013Fresnel principle"
+        }, 
+        {
+            "def": "Hydrostatics \u2013", 
+            "link": "/wiki/Hydrostatics", 
+            "name": "Hydrostatics"
+        }, 
+        {
+            "def": "Ice point \u2013 A physical process that results in the phase transition of a substance from a liquid to a solid.", 
+            "link": "/wiki/Ice_point", 
+            "name": "Ice point"
+        }, 
+        {
+            "def": "Impedance \u2013 The measure of the opposition that a circuit presents to a current when a voltage is applied.", 
+            "link": "/wiki/Electrical_impedance", 
+            "name": "Impedance"
+        }, 
+        {
+            "def": "Indefinite integral\u2013", 
+            "link": "/wiki/Indefinite_integral", 
+            "name": "Indefinite integral"
+        }, 
+        {
+            "def": "Inductance \u2013", 
+            "link": "/wiki/Inductance", 
+            "name": "Inductance"
+        }, 
+        {
+            "def": "Infrasound \u2013", 
+            "link": "/wiki/Infrasound", 
+            "name": "Infrasound"
+        }, 
+        {
+            "def": "Inertia \u2013 The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion.", 
+            "link": "/wiki/Inertia", 
+            "name": "Inertia"
+        }, 
+        {
+            "def": "Inductive reactance \u2013", 
+            "link": "/wiki/Electrical_reactance#Inductive_reactance", 
+            "name": "Inductive reactance"
+        }, 
+        {
+            "def": "Integral \u2013", 
+            "link": "/wiki/Integral", 
+            "name": "Integral"
+        }, 
+        {
+            "def": "Integral transform \u2013", 
+            "link": "/wiki/Integral_transform", 
+            "name": "Integral transform"
+        }, 
+        {
+            "def": "International System of Units \u2013 The International System of Units (abbreviated SI) is the modern form of the metric system. It comprises a system of units of measurement devised around seven base units and the convenience of the number ten.", 
+            "link": "/wiki/International_System_of_Units", 
+            "name": "International System of Units"
+        }, 
+        {
+            "def": "Invariant mass \u2013", 
+            "link": "/wiki/Invariant_mass", 
+            "name": "Invariant mass"
+        }, 
+        {
+            "def": "Ion \u2013 An atom or molecule in which the total number of electrons is not equal to the total number of protons, giving the atom a net positive or negative electrical charge.", 
+            "link": "/wiki/Ion", 
+            "name": "Ion"
+        }, 
+        {
+            "def": "Ionic bond \u2013 A type of chemical bond formed through an electrostatic attraction between two oppositely charged ions.", 
+            "link": "/wiki/Ionic_bond", 
+            "name": "Ionic bond"
+        }, 
+        {
+            "def": "Ionization \u2013 The process of converting an atom or molecule into an ion by adding or removing charged particles such as electrons or ions.", 
+            "link": "/wiki/Ionization", 
+            "name": "Ionization"
+        }, 
+        {
+            "def": "Isotope \u2013 Variants of a particular chemical element. While all isotopes of a given element share the same number of protons, each isotope differs from the others in its number of neutrons.", 
+            "link": "/wiki/Isotope", 
+            "name": "Isotope"
+        }, 
+        {
+            "def": "Joule \u2013 A derived unit of energy, work, or amount of heat in the International System of Units.", 
+            "link": "/wiki/Joule", 
+            "name": "Joule"
+        }, 
+        {
+            "def": "Kelvin \u2013 A unit of measurement for temperature. The Kelvin scale is an absolute, thermodynamic temperature scale using as its null point absolute zero.", 
+            "link": "/wiki/Kelvin", 
+            "name": "Kelvin"
+        }, 
+        {
+            "def": "Kinematics \u2013 The branch of classical mechanics that describes the motion of points, bodies (objects) and systems of bodies (groups of objects) without consideration of the causes of motion. The study of kinematics is often referred to as the geometry of motion.", 
+            "link": "/wiki/Kinematics", 
+            "name": "Kinematics"
+        }, 
+        {
+            "def": "Kirchhoff's circuit laws \u2013 Two approximate equalities that deal with the current and voltage in electrical circuits.also called Kirchhoff's rules or simply Kirchhoff's laws (see also Kirchhoff's laws for other meanings of that term).", 
+            "link": "/wiki/Kirchhoff%27s_circuit_laws", 
+            "name": "Kirchhoff's circuit laws"
+        }, 
+        {
+            "def": "Kirchhoff's equations \u2013 In fluid dynamics, the Kirchhoff equations describe the motion of a rigid body in an ideal fluid.", 
+            "link": "/wiki/Kirchhoff%27s_equations", 
+            "name": "Kirchhoff's equations"
+        }, 
+        {
+            "def": "Laminar flow \u2013 (or streamline flow) Occurs when a fluid flows in parallel layers, with no disruption between the layers.", 
+            "link": "/wiki/Laminar_flow", 
+            "name": "Laminar flow"
+        }, 
+        {
+            "def": "Laplace transform \u2013", 
+            "link": "/wiki/Laplace_transform", 
+            "name": "Laplace transform"
+        }, 
+        {
+            "def": "Laplace\u2013Runge\u2013Lenz vector \u2013 (or LRL vector) A vector used chiefly to describe the shape and orientation of the orbit of one astronomical body around another, such as a planet revolving around a star. For two bodies interacting by Newtonian gravity, the LRL vector is a constant of motion, meaning that it is the same no matter where it is calculated on the orbit; equivalently, the LRL vector is said to be conserved.", 
+            "link": "/wiki/Laplace%E2%80%93Runge%E2%80%93Lenz_vector", 
+            "name": "Laplace\u2013Runge\u2013Lenz vector"
+        }, 
+        {
+            "def": "Laser \u2013", 
+            "link": "/wiki/Laser", 
+            "name": "Laser"
+        }, 
+        {
+            "def": "Law of universal gravitation \u2013", 
+            "link": "/wiki/Newton%27s_law_of_universal_gravitation", 
+            "name": "Law of universal gravitation"
+        }, 
+        {
+            "def": "LC circuit \u2013", 
+            "link": "/wiki/LC_circuit", 
+            "name": "LC circuit"
+        }, 
+        {
+            "def": "Lepton \u2013 An elementary particle which does not undergo strong interactions, but is subject to the Pauli exclusion principle. Two main classes of leptons exist: charged leptons (also known as the electron-like leptons), and neutral leptons (better known as neutrinos).", 
+            "link": "/wiki/Lepton", 
+            "name": "Lepton"
+        }, 
+        {
+            "def": "Lever \u2013 A machine consisting of a beam or rigid rod pivoted at a fixed hinge, or fulcrum.", 
+            "link": "/wiki/Lever", 
+            "name": "Lever"
+        }, 
+        {
+            "def": "Light \u2013 Visible light (commonly referred to simply as light) is electromagnetic radiation that is visible to the human eye, and is responsible for the sense of sight.", 
+            "link": "/wiki/Light", 
+            "name": "Light"
+        }, 
+        {
+            "def": "Linear actuator-- A form of motor that generates a linear movement directly.", 
+            "link": "/wiki/Linear_actuator", 
+            "name": "Linear actuator"
+        }, 
+        {
+            "def": "Linear algebra \u2013 The branch of mathematics concerning vector spaces, often finite or countably infinite dimensional, as well as linear mappings between such spaces.", 
+            "link": "/wiki/Linear_algebra", 
+            "name": "Linear algebra"
+        }, 
+        {
+            "def": "Linear elasticity \u2013 The mathematical study of how solid objects deform and become internally stressed due to prescribed loading conditions. Linear elasticity is a simplification of the more general nonlinear theory of elasticity and is a branch of continuum mechanics.", 
+            "link": "/wiki/Linear_elasticity", 
+            "name": "Linear elasticity"
+        }, 
+        {
+            "def": "Liouville's Theorem - Phase space volume is conserved.", 
+            "link": "/wiki/Liouville%27s_theorem_(conformal_mappings)", 
+            "name": "Liouville's Theorem"
+        }, 
+        {
+            "def": "Liquid \u2013 A classical state of matter with a definite volume but no fixed shape.", 
+            "link": "/wiki/Liquid", 
+            "name": "Liquid"
+        }, 
+        {
+            "def": "Liquid crystal \u2013 (LCs) A matter in a state that has properties between those of conventional liquid and those of solid crystal. For instance, an LC may flow like a liquid, but its molecules may be oriented in a crystal-like way.", 
+            "link": "/wiki/Liquid_crystal", 
+            "name": "Liquid crystal"
+        }, 
+        {
+            "def": "M-theory \u2013 An extension of string theory in which 11 dimensions are identified.", 
+            "link": "/wiki/M-theory", 
+            "name": "M-theory"
+        }, 
+        {
+            "def": "Mach number \u2013 A dimensionless quantity representing the ratio of speed of an object moving through a fluid and the local speed of sound.", 
+            "link": "/wiki/Mach_number", 
+            "name": "Mach number"
+        }, 
+        {
+            "def": "Machine \u2013 A powered tool consisting of one or more parts that is constructed to achieve a particular goal. Machines are usually powered by mechanical, chemical, thermal or electrical means, and are frequently motorised.", 
+            "link": "/wiki/Machine", 
+            "name": "Machine"
+        }, 
+        {
+            "def": "Machine element \u2013 Refers to an elementary component of a machine. consists of three basic types: structural components. mechanisms and control components", 
+            "link": "/wiki/Machine_element", 
+            "name": "Machine element"
+        }, 
+        {
+            "def": "Maclaurin series \u2013 A representation of a function as an infinite sum of terms that are calculated from the values of the function's derivatives at a single point.", 
+            "link": "/wiki/Maclaurin_series", 
+            "name": "Maclaurin series"
+        }, 
+        {
+            "def": "Magnetic field \u2013 A mathematical description of the magnetic influence of electric currents and magnetic materials. The magnetic field at any given point is specified by both a direction and a magnitude (or strength); as such it is a vector field.", 
+            "link": "/wiki/Magnetic_field", 
+            "name": "Magnetic field"
+        }, 
+        {
+            "def": "Magnetism \u2013 A property of materials that respond to an applied magnetic field.", 
+            "link": "/wiki/Magnetism", 
+            "name": "Magnetism"
+        }, 
+        {
+            "def": "Mass balance \u2013 An application of conservation of mass to the analysis of physical systems, also called 'material balance'.", 
+            "link": "/wiki/Mass_balance", 
+            "name": "Mass balance"
+        }, 
+        {
+            "def": "Mass density \u2013 A materials mass per unit volume, also just called density.", 
+            "link": "/wiki/Mass_density", 
+            "name": "Mass density"
+        }, 
+        {
+            "def": "Mass flux \u2013 Is the rate of mass flow per unit area. The common symbols are j, J, \u03c6, or \u03a6, sometimes with subscript m to indicate mass is the flowing quantity. Its SI units are kg s\u22121 m\u22122.", 
+            "link": "/wiki/Mass_flux", 
+            "name": "Mass flux"
+        }, 
+        {
+            "def": "Mass moment of inertia \u2013 A property of a distribution of mass in space that measures its resistance to rotational acceleration about an axis.", 
+            "link": "/wiki/Mass_moment_of_inertia", 
+            "name": "Mass moment of inertia"
+        }, 
+        {
+            "def": "Mass number \u2013 The total number of protons and neutrons (together known as nucleons) in an atomic nucleus, also called atomic mass number or nucleon number.", 
+            "link": "/wiki/Mass_number", 
+            "name": "Mass number"
+        }, 
+        {
+            "def": "Mass spectrometry \u2013", 
+            "link": "/wiki/Mass_spectrometry", 
+            "name": "Mass spectrometry"
+        }, 
+        {
+            "def": "Material properties \u2013", 
+            "link": "/wiki/Material_properties", 
+            "name": "Material properties"
+        }, 
+        {
+            "def": "Materials science \u2013", 
+            "link": "/wiki/Materials_science", 
+            "name": "Materials science"
+        }, 
+        {
+            "def": "Mathematical physics \u2013 \"The application of mathematics to problems in physics and the development of mathematical methods suitable for such applications and for the formulation of physical theories.\"", 
+            "link": "/wiki/Mathematical_physics", 
+            "name": "Mathematical physics"
+        }, 
+        {
+            "def": "Mathematics \u2013 The abstract study of topics encompassing quantity, structure, space, change, and other properties; it has no generally accepted definition.", 
+            "link": "/wiki/Mathematics", 
+            "name": "Mathematics"
+        }, 
+        {
+            "def": "Matrix \u2013 A rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The individual items in a matrix are called its elements or entries.", 
+            "link": "/wiki/Matrix_(mathematics)", 
+            "name": "Matrix"
+        }, 
+        {
+            "def": "Matter \u2013 Generally considered to be a substance (often a particle) that has rest mass and (usually) also volume.", 
+            "link": "/wiki/Matter", 
+            "name": "Matter"
+        }, 
+        {
+            "def": "Maxwell's equations \u2013 A set of partial differential equations that, together with the Lorentz force law, form the foundation of classical electrodynamics, classical optics, and electric circuits.Maxwell's equations describe how electric and magnetic fields are generated and altered by each other and by charges and currents.", 
+            "link": "/wiki/Maxwell%27s_equations", 
+            "name": "Maxwell's equations"
+        }, 
+        {
+            "def": "Mean \u2013 For a data set, the arithmetic mean is equal to the sum of the values divided by the number of values.", 
+            "link": "/wiki/Mean", 
+            "name": "Mean"
+        }, 
+        {
+            "def": "Measures of central tendency \u2013 A term which relates to the way in which quantitative data tend to cluster around some value. A measure of central tendency is any of a number of ways of specifying this \"central value.\"", 
+            "link": "/wiki/Measures_of_central_tendency", 
+            "name": "Measures of central tendency"
+        }, 
+        {
+            "def": "Mechanical filter \u2013", 
+            "link": "/wiki/Mechanical_filter", 
+            "name": "Mechanical filter"
+        }, 
+        {
+            "def": "Mechanical wave \u2013", 
+            "link": "/wiki/Mechanical_wave", 
+            "name": "Mechanical wave"
+        }, 
+        {
+            "def": "Mechanics \u2013 The branch of science concerned with the behaviour of physical bodies when subjected to forces or displacements, and the subsequent effects of the bodies on their environment.", 
+            "link": "/wiki/Mechanics", 
+            "name": "Mechanics"
+        }, 
+        {
+            "def": "Median \u2013 In statistics and probability theory; the median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one. If there is an even number of observations the median is then usually defined to be the mean of the two middle values.", 
+            "link": "/wiki/Median", 
+            "name": "Median"
+        }, 
+        {
+            "def": "Melting \u2013 (or fusion) A physical process that results in the phase transition of a substance from a solid to a liquid.", 
+            "link": "/wiki/Melting", 
+            "name": "Melting"
+        }, 
+        {
+            "def": "Meson \u2013 Hadronic subatomic particles composed of one quark and one antiquark, bound together by the strong interaction.All mesons are unstable, with the longest-lived lasting for only a few hundredths of a microsecond.", 
+            "link": "/wiki/Meson", 
+            "name": "Meson"
+        }, 
+        {
+            "def": "Mode \u2013 The value that appears most often in a set of data.", 
+            "link": "/wiki/Mode_(statistics)", 
+            "name": "Mode"
+        }, 
+        {
+            "def": "Modulus of elasticity \u2013 The mathematical description of an object or substance's tendency to be deformed elastically (i.e., non-permanently) when a force is applied to it. The elastic modulus of an object is defined as the slope of its stress\u2013strain curve in the elastic deformation region. As such, a stiffer material will have a higher elastic modulus.", 
+            "link": "/wiki/Modulus_of_elasticity", 
+            "name": "Modulus of elasticity"
+        }, 
+        {
+            "def": "Molality \u2013", 
+            "link": "/wiki/Molality", 
+            "name": "Molality"
+        }, 
+        {
+            "def": "Molarity \u2013", 
+            "link": "/wiki/Molarity", 
+            "name": "Molarity"
+        }, 
+        {
+            "def": "Molar concentration \u2013", 
+            "link": "/wiki/Molar_concentration", 
+            "name": "Molar concentration"
+        }, 
+        {
+            "def": "Molar mass \u2013 A physical property of matter. It is defined as the mass of a given substance divided by its amount of substance. The unit for molar mass is g/mol.", 
+            "link": "/wiki/Molar_mass", 
+            "name": "Molar mass"
+        }, 
+        {
+            "def": "Molecule \u2013 An electrically neutral group of two or more atoms held together by covalent chemical bonds. Molecules are distinguished from ions by their lack of electrical charge.", 
+            "link": "/wiki/Molecule", 
+            "name": "Molecule"
+        }, 
+        {
+            "def": "Molecular physics \u2013 The study of the physical properties of molecules, the chemical bonds between atoms as well as the molecular dynamics.closely related to atomic physics and overlaps greatly with theoretical chemistry, physical chemistry and chemical physics.", 
+            "link": "/wiki/Molecular_physics", 
+            "name": "Molecular physics"
+        }, 
+        {
+            "def": "Moment of inertia \u2013 A property of a distribution of mass in space that measures its resistance to rotational acceleration about an axis.", 
+            "link": "/wiki/Moment_of_inertia", 
+            "name": "Moment of inertia"
+        }, 
+        {
+            "def": "Muon \u2013 An elementary particle similar to the electron, with unitary negative electric charge (\u22121) and a spin of 1\u20442. Classified as a lepton. Not believed to have any sub-structure", 
+            "link": "/wiki/Muon", 
+            "name": "Muon"
+        }, 
+        {
+            "def": "Nanoengineering \u2013 The practice of engineering on the nanoscale. Nanoengineering is largely a synonym for nanotechnology, but emphasizes the engineering rather than the pure science aspects of the field.", 
+            "link": "/wiki/Nanoengineering", 
+            "name": "Nanoengineering"
+        }, 
+        {
+            "def": "Nanotechnology \u2013 (sometimes shortened to \"nanotech\") The manipulation of matter on an atomic and molecular scale. A more generalized description of nanotechnology is 'the manipulation of matter with at least one dimension sized from 1 to 100 nanometers'.", 
+            "link": "/wiki/Nanotechnology", 
+            "name": "Nanotechnology"
+        }, 
+        {
+            "def": "Navier\u2013Stokes equations \u2013", 
+            "link": "/wiki/Navier%E2%80%93Stokes_equations", 
+            "name": "Navier\u2013Stokes equations"
+        }, 
+        {
+            "def": "Neurophysics \u2013", 
+            "link": "/wiki/Neurophysics", 
+            "name": "Neurophysics"
+        }, 
+        {
+            "def": "Neutrino \u2013 An electrically neutral subatomic particle. The neutrino is denoted by the Greek letter \u03bd (nu). All evidence suggests that neutrinos have mass but that their mass is tiny even by the standards of subatomic particles. Their mass has never been measured accurately.", 
+            "link": "/wiki/Neutrino", 
+            "name": "Neutrino"
+        }, 
+        {
+            "def": "Newton's laws of motion \u2013 The three physical laws that form the basis for classical mechanics. They describe the relationship between the forces acting on a body and its motion due to those forces.", 
+            "link": "/wiki/Newton%27s_laws_of_motion", 
+            "name": "Newton's laws of motion"
+        }, 
+        {
+            "def": "Newton's law of universal gravitation \u2013", 
+            "link": "/wiki/Newton%27s_law_of_universal_gravitation", 
+            "name": "Newton's law of universal gravitation"
+        }, 
+        {
+            "def": "Newtonian fluid \u2013", 
+            "link": "/wiki/Newtonian_fluid", 
+            "name": "Newtonian fluid"
+        }, 
+        {
+            "def": "nth root \u2013", 
+            "link": "/wiki/Nth_root", 
+            "name": "nth root"
+        }, 
+        {
+            "def": "Nuclear physics \u2013 The field of physics that studies the constituents and interactions of atomic nuclei.", 
+            "link": "/wiki/Nuclear_physics", 
+            "name": "Nuclear physics"
+        }, 
+        {
+            "def": "Nuclear transmutation \u2013", 
+            "link": "/wiki/Nuclear_transmutation", 
+            "name": "Nuclear transmutation"
+        }, 
+        {
+            "def": "Ohm \u2013 The SI derived unit of electrical resistance.", 
+            "link": "/wiki/Ohm", 
+            "name": "Ohm"
+        }, 
+        {
+            "def": "Ohm's law \u2013 States that the current through a conductor between two points is directly proportional to the potential difference across the two points.", 
+            "link": "/wiki/Ohm%27s_law", 
+            "name": "Ohm's law"
+        }, 
+        {
+            "def": "Optics \u2013 The branch of physics which involves the behaviour and properties of light, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behaviour of visible, ultraviolet, and infrared light, however, Because light is an electromagnetic wave, other forms of electromagnetic radiation such as X-rays, microwaves, and radio waves exhibit similar properties.", 
+            "link": "/wiki/Optics", 
+            "name": "Optics"
+        }, 
+        {
+            "def": "Parity (mathematics) \u2013", 
+            "link": "/wiki/Parity_(mathematics)", 
+            "name": "Parity (mathematics)"
+        }, 
+        {
+            "def": "Parity (physics) \u2013", 
+            "link": "/wiki/Parity_(physics)", 
+            "name": "Parity (physics)"
+        }, 
+        {
+            "def": "Paraffin \u2013", 
+            "link": "/wiki/Paraffin_wax", 
+            "name": "Paraffin"
+        }, 
+        {
+            "def": "Particle accelerator \u2013", 
+            "link": "/wiki/Particle_accelerator", 
+            "name": "Particle accelerator"
+        }, 
+        {
+            "def": "Particle displacement \u2013", 
+            "link": "/wiki/Particle_displacement", 
+            "name": "Particle displacement"
+        }, 
+        {
+            "def": "Particle physics \u2013 A branch of physics which studies the nature of particles that are the constituents of what is usually referred to as matter and radiation.", 
+            "link": "/wiki/Particle_physics", 
+            "name": "Particle physics"
+        }, 
+        {
+            "def": "Pascal's Law \u2013 A principle in fluid mechanics that states that pressure exerted anywhere in a confined incompressible fluid is transmitted equally in all directions throughout the fluid such that the pressure variations (initial differences) remain the same.", 
+            "link": "/wiki/Pascal%27s_Law", 
+            "name": "Pascal's Law"
+        }, 
+        {
+            "def": "Pendulum \u2013", 
+            "link": "/wiki/Pendulum", 
+            "name": "Pendulum"
+        }, 
+        {
+            "def": "Periodic table \u2013 A tabular display of the chemical elements, organised on the basis of their atomic numbers, electron configurations, and recurring chemical properties. Elements are presented in order of increasing atomic number (number of protons).", 
+            "link": "/wiki/Periodic_table", 
+            "name": "Periodic table"
+        }, 
+        {
+            "def": "pH \u2013 A measure used to describe whether a liquid is acidic or basic (or alkaline).", 
+            "link": "/wiki/PH", 
+            "name": "pH"
+        }, 
+        {
+            "def": "Phase (matter) \u2013", 
+            "link": "/wiki/Phase_(matter)", 
+            "name": "Phase (matter)"
+        }, 
+        {
+            "def": "Phase (waves) \u2013", 
+            "link": "/wiki/Phase_(waves)", 
+            "name": "Phase (waves)"
+        }, 
+        {
+            "def": "Phase equilibrium \u2013", 
+            "link": "/wiki/Phase_equilibrium", 
+            "name": "Phase equilibrium"
+        }, 
+        {
+            "def": "Phosphorescence \u2013", 
+            "link": "/wiki/Phosphorescence", 
+            "name": "Phosphorescence"
+        }, 
+        {
+            "def": "Photon \u2013 An elementary particle, the quantum of light and all other forms of electromagnetic radiation, and the force carrier for the electromagnetic force.", 
+            "link": "/wiki/Photon", 
+            "name": "Photon"
+        }, 
+        {
+            "def": "Physical chemistry \u2013 The study of macroscopic, atomic, subatomic, and particulate phenomena in chemical systems in terms of laws and concepts of physics.", 
+            "link": "/wiki/Physical_chemistry", 
+            "name": "Physical chemistry"
+        }, 
+        {
+            "def": "Physical quantity \u2013", 
+            "link": "/wiki/Physical_quantity", 
+            "name": "Physical quantity"
+        }, 
+        {
+            "def": "Physics \u2013 The natural science that involves the study of matter and its motion through space and time, along with related concepts such as energy and force. More broadly, it is the general analysis of nature, conducted in order to understand how the universe behaves.", 
+            "link": "/wiki/Physics", 
+            "name": "Physics"
+        }, 
+        {
+            "def": "Planck constant \u2013 (denoted h, also called Planck's constant) A physical constant that is the quantum of action in quantum mechanics.", 
+            "link": "/wiki/Planck_constant", 
+            "name": "Planck constant"
+        }, 
+        {
+            "def": "Plasma \u2013", 
+            "link": "/wiki/Plasma_(physics)", 
+            "name": "Plasma"
+        }, 
+        {
+            "def": "Plasma physics \u2013", 
+            "link": "/wiki/Plasma_physics", 
+            "name": "Plasma physics"
+        }, 
+        {
+            "def": "Plasticity \u2013", 
+            "link": "/wiki/Plasticity_(physics)", 
+            "name": "Plasticity"
+        }, 
+        {
+            "def": "Pneumatics \u2013 The control of mechanical force and movement, generated by the application of compressed gas.", 
+            "link": "/wiki/Pneumatics", 
+            "name": "Pneumatics"
+        }, 
+        {
+            "def": "Power (electric) \u2013 The rate at which electric energy is transferred by an electric circuit.", 
+            "link": "/wiki/Electric_power", 
+            "name": "Power (electric)"
+        }, 
+        {
+            "def": "Power (physics) \u2013", 
+            "link": "/wiki/Power_(physics)", 
+            "name": "Power (physics)"
+        }, 
+        {
+            "def": "Pressure \u2013 The ratio of force to the area over which that force is distributed.", 
+            "link": "/wiki/Pressure", 
+            "name": "Pressure"
+        }, 
+        {
+            "def": "Probability \u2013 A measure of the expectation that an event will occur or a statement is true. Probabilities are given a value between 0 (will not occur) and 1 (will occur). The higher the probability of an event, the more certain we are that the event will occur.", 
+            "link": "/wiki/Probability", 
+            "name": "Probability"
+        }, 
+        {
+            "def": "Probability distribution \u2013", 
+            "link": "/wiki/Probability_distribution", 
+            "name": "Probability distribution"
+        }, 
+        {
+            "def": "Probability theory \u2013", 
+            "link": "/wiki/Probability_theory", 
+            "name": "Probability theory"
+        }, 
+        {
+            "def": "Proton \u2013", 
+            "link": "/wiki/Proton", 
+            "name": "Proton"
+        }, 
+        {
+            "def": "Psi particle \u2013", 
+            "link": "/wiki/Psi_particle", 
+            "name": "Psi particle"
+        }, 
+        {
+            "def": "Pulley \u2013 A wheel on an axle that is designed to support movement of a cable or belt along its circumference. Pulleys are used in a variety of ways to lift loads, apply forces, and to transmit power.", 
+            "link": "/wiki/Pulley", 
+            "name": "Pulley"
+        }, 
+        {
+            "def": "Pulse \u2013", 
+            "link": "/wiki/Pulse_(physics)", 
+            "name": "Pulse"
+        }, 
+        {
+            "def": "Pulse wave \u2013", 
+            "link": "/wiki/Pulse_wave", 
+            "name": "Pulse wave"
+        }, 
+        {
+            "def": "Quantum \u2013", 
+            "link": "/wiki/Quantum", 
+            "name": "Quantum"
+        }, 
+        {
+            "def": "Quantum electrodynamics \u2013 The relativistic quantum field theory of electrodynamics. In essence, it describes how light and matter interact and is the first theory where full agreement between quantum mechanics and special relativity is achieved. QED mathematically describes all phenomena involving electrically charged particles interacting by means of exchange of photons and represents the quantum counterpart of classical electromagnetism giving a complete account of matter and light interaction.", 
+            "link": "/wiki/Quantum_electrodynamics", 
+            "name": "Quantum electrodynamics"
+        }, 
+        {
+            "def": "Quantum field theory \u2013 A theoretical framework for constructing quantum mechanical models of subatomic particles in particle physics and quasiparticles in condensed matter physics", 
+            "link": "/wiki/Quantum_field_theory", 
+            "name": "Quantum field theory"
+        }, 
+        {
+            "def": "Quantum mechanics \u2013 A branch of physics dealing with physical phenomena at microscopic scales, where the action is on the order of the Planck constant. Quantum mechanics departs from classical mechanics primarily at the quantum realm of atomic and subatomic length scales. Quantum mechanics provides a mathematical description of much of the dual particle-like and wave-like behavior and interactions of energy and matter.", 
+            "link": "/wiki/Quantum_mechanics", 
+            "name": "Quantum mechanics"
+        }, 
+        {
+            "def": "Quantum physics \u2013 ^see above^", 
+            "link": "/wiki/Quantum_physics", 
+            "name": "Quantum physics"
+        }, 
+        {
+            "def": "Quark \u2013 An elementary particle and a fundamental constituent of matter. Quarks combine to form composite particles called hadrons, the most stable of which are protons and neutrons, the components of atomic nuclei.", 
+            "link": "/wiki/Quark", 
+            "name": "Quark"
+        }, 
+        {
+            "def": "Radiant energy \u2013", 
+            "link": "/wiki/Radiant_energy", 
+            "name": "Radiant energy"
+        }, 
+        {
+            "def": "Radiation \u2013", 
+            "link": "/wiki/Radiation", 
+            "name": "Radiation"
+        }, 
+        {
+            "def": "Radius of curvature \u2013", 
+            "link": "/wiki/Radius_of_curvature_(optics)", 
+            "name": "Radius of curvature"
+        }, 
+        {
+            "def": "Redshift \u2013 Redshift happens when light seen coming from an object that is moving away is proportionally increased in wavelength, or shifted to the red end of the spectrum.", 
+            "link": "/wiki/Redshift", 
+            "name": "Redshift"
+        }, 
+        {
+            "def": "Refraction \u2013", 
+            "link": "/wiki/Refraction", 
+            "name": "Refraction"
+        }, 
+        {
+            "def": "Refractive index \u2013", 
+            "link": "/wiki/Refractive_index", 
+            "name": "Refractive index"
+        }, 
+        {
+            "def": "Relative atomic mass \u2013", 
+            "link": "/wiki/Relative_atomic_mass", 
+            "name": "Relative atomic mass"
+        }, 
+        {
+            "def": "Rigid body \u2013 An idealization of a solid body in which deformation is neglected. In other words, the distance between any two given points of a rigid body remains constant in time regardless of external forces exerted on it. Even though such an object cannot physically exist due to relativity, objects can normally be assumed to be perfectly rigid if they are not moving near the speed of light.", 
+            "link": "/wiki/Rigid_body", 
+            "name": "Rigid body"
+        }, 
+        {
+            "def": "Roche limit \u2013 (also Roche radius) The distance within which a celestial body, held together only by its own gravity, will disintegrate due to a second celestial body's tidal forces exceeding the first body's gravitational self-attraction. Inside the Roche limit, orbiting material will tend to disperse and form rings, while outside the limit, material will tend to coalesce.", 
+            "link": "/wiki/Roche_limit", 
+            "name": "Roche limit"
+        }, 
+        {
+            "def": "Rotational energy \u2013 (or angular kinetic energy) The kinetic energy due to the rotation of an object and forms part of its total kinetic energy.", 
+            "link": "/wiki/Rotational_energy", 
+            "name": "Rotational energy"
+        }, 
+        {
+            "def": "Rotational speed \u2013 (also speed of revolution) The number of complete rotations or revolutions a rotating body makes per time unit", 
+            "link": "/wiki/Rotational_speed", 
+            "name": "Rotational speed"
+        }, 
+        {
+            "def": "Rydberg formula \u2013 A formula used in atomic physics to describe the wavelengths of spectral lines of many chemical elements.", 
+            "link": "/wiki/Rydberg_formula", 
+            "name": "Rydberg formula"
+        }, 
+        {
+            "def": "Scalar (mathematics) \u2013", 
+            "link": "/wiki/Scalar_(mathematics)", 
+            "name": "Scalar (mathematics)"
+        }, 
+        {
+            "def": "Scalar (physics) \u2013 A scalar is a simple physical quantity that is unchanged by coordinate system rotations or translations (in Newtonian mechanics), or by Lorentz transformations or central-time translations (in relativity). A scalar is a quantity that can be described by a single number, unlike vectors, tensors, etc. which are described by several numbers which describe magnitude and direction.", 
+            "link": "/wiki/Scalar_(physics)", 
+            "name": "Scalar (physics)"
+        }, 
+        {
+            "def": "Scattering \u2013 A general physical process where some forms of radiation, such as light, sound, or moving particles, are forced to deviate from a straight trajectory by one or more localised non-uniformities in the medium through which they pass.", 
+            "link": "/wiki/Scattering", 
+            "name": "Scattering"
+        }, 
+        {
+            "def": "Science \u2013 A systematic enterprise that builds and organises knowledge in the form of testable explanations and predictions about the universe.", 
+            "link": "/wiki/Science", 
+            "name": "Science"
+        }, 
+        {
+            "def": "Screw \u2013 A mechanism that converts rotational motion to linear motion, and a torque (rotational force) to a linear force.", 
+            "link": "/wiki/Screw_(simple_machine)", 
+            "name": "Screw"
+        }, 
+        {
+            "def": "Shadow matter \u2013", 
+            "link": "/wiki/Shadow_matter", 
+            "name": "Shadow matter"
+        }, 
+        {
+            "def": "Shear strength \u2013", 
+            "link": "/wiki/Shear_strength", 
+            "name": "Shear strength"
+        }, 
+        {
+            "def": "Shear stress \u2013", 
+            "link": "/wiki/Shear_stress", 
+            "name": "Shear stress"
+        }, 
+        {
+            "def": "Shortwave radiation \u2013", 
+            "link": "/wiki/Shortwave_radiation", 
+            "name": "Shortwave radiation"
+        }, 
+        {
+            "def": "Shrodinger equation \u2013", 
+            "link": "/wiki/Shrodinger_equation", 
+            "name": "Shrodinger equation"
+        }, 
+        {
+            "def": "SI units \u2013 (abbreviated SI) The modern form of the metric system. It comprises a system of units of measurement devised around seven base units and the convenience of the number ten.", 
+            "link": "/wiki/SI_units", 
+            "name": "SI units"
+        }, 
+        {
+            "def": "Simple machine \u2013 A mechanical device that changes the direction or magnitude of a force.[2] In general, they can be defined as the simplest mechanisms that provide mechanical advantage (also called leverage).", 
+            "link": "/wiki/Simple_machine", 
+            "name": "Simple machine"
+        }, 
+        {
+            "def": "Siphon \u2013 A tube in an inverted U shape that causes a liquid to flow uphill without pumps, powered by the fall of the liquid as it flows down the tube under the pull of gravity. May more generally refer to a wide variety of devices that involve the flow of liquids through tubes.", 
+            "link": "/wiki/Siphon", 
+            "name": "Siphon"
+        }, 
+        {
+            "def": "Snell's law \u2013", 
+            "link": "/wiki/Snell%27s_law", 
+            "name": "Snell's law"
+        }, 
+        {
+            "def": "Solar cell \u2013", 
+            "link": "/wiki/Solar_cell", 
+            "name": "Solar cell"
+        }, 
+        {
+            "def": "Solid mechanics \u2013", 
+            "link": "/wiki/Solid_mechanics", 
+            "name": "Solid mechanics"
+        }, 
+        {
+            "def": "Solid-state physics \u2013", 
+            "link": "/wiki/Solid-state_physics", 
+            "name": "Solid-state physics"
+        }, 
+        {
+            "def": "Solubility \u2013 The property of a solid, liquid, or gaseous chemical substance called solute to dissolve in a solid, liquid, or gaseous solvent to form a homogeneous solution of the solute in the solvent. The solubility of a substance fundamentally depends on the used solvent as well as on temperature and pressure.", 
+            "link": "/wiki/Solubility", 
+            "name": "Solubility"
+        }, 
+        {
+            "def": "Sound \u2013 A mechanical wave that is an oscillation of pressure transmitted through a solid, liquid, or gas, composed of frequencies within the range of hearing.", 
+            "link": "/wiki/Sound", 
+            "name": "Sound"
+        }, 
+        {
+            "def": "Special relativity \u2013", 
+            "link": "/wiki/Special_relativity", 
+            "name": "Special relativity"
+        }, 
+        {
+            "def": "Speed of light \u2013 The speed of light in vacuum, commonly denoted c, is a universal physical constant important in many areas of physics. Its value is 299,792,458 metres per second, a figure that is exact because the length of the metre is defined from this constant and the international standard for time.", 
+            "link": "/wiki/Speed_of_light", 
+            "name": "Speed of light"
+        }, 
+        {
+            "def": "Spin quantum number \u2013", 
+            "link": "/wiki/Spin_quantum_number", 
+            "name": "Spin quantum number"
+        }, 
+        {
+            "def": "Standard Model \u2013", 
+            "link": "/wiki/Standard_Model", 
+            "name": "Standard Model"
+        }, 
+        {
+            "def": "State of matter \u2013", 
+            "link": "/wiki/State_of_matter", 
+            "name": "State of matter"
+        }, 
+        {
+            "def": "Statics \u2013 The branch of mechanics that is concerned with the analysis of loads (force and torque, or \"moment\") on physical systems in static equilibrium, that is, in a state where the relative positions of subsystems do not vary over time, or where components and structures are at a constant velocity.", 
+            "link": "/wiki/Statics", 
+            "name": "Statics"
+        }, 
+        {
+            "def": "Statistics \u2013 The study of the collection, organisation, analysis, interpretation, and presentation of data. It deals with all aspects of this, including the planning of data collection in terms of the design of surveys and experiments.", 
+            "link": "/wiki/Statistics", 
+            "name": "Statistics"
+        }, 
+        {
+            "def": "Stiffness \u2013 The rigidity of an object \u2014 the extent to which it resists deformation in response to an applied force.", 
+            "link": "/wiki/Stiffness", 
+            "name": "Stiffness"
+        }, 
+        {
+            "def": "Strain \u2013 The transformation of a body from a reference configuration to a current configuration.[1] A configuration is a set containing the positions of all particles of the body.", 
+            "link": "/wiki/Deformation_(mechanics)", 
+            "name": "Strain"
+        }, 
+        {
+            "def": "Strain hardening \u2013", 
+            "link": "/wiki/Work_hardening", 
+            "name": "Strain hardening"
+        }, 
+        {
+            "def": "Strength of materials \u2013", 
+            "link": "/wiki/Strength_of_materials", 
+            "name": "Strength of materials"
+        }, 
+        {
+            "def": "Stress \u2013 (1) An applied force or system of forces that tends to strain or deform a body. (2) A measure of the internal forces acting within a deformable body. (3) A quantitative measure of the average force per unit area of a surface within a body on which internal forces act.", 
+            "link": "/wiki/Stress_(mechanics)", 
+            "name": "Stress"
+        }, 
+        {
+            "def": "Stress-strain curve \u2013", 
+            "link": "/wiki/Stress-strain_curve", 
+            "name": "Stress-strain curve"
+        }, 
+        {
+            "def": "String duality \u2013", 
+            "link": "/wiki/String_duality", 
+            "name": "String duality"
+        }, 
+        {
+            "def": "String theory \u2013", 
+            "link": "/wiki/String_theory", 
+            "name": "String theory"
+        }, 
+        {
+            "def": "Structural load -", 
+            "link": "/wiki/Structural_load", 
+            "name": "Structural load"
+        }, 
+        {
+            "def": "Subatomic particle \u2013 Subatomic particles are the particles smaller than an atom.", 
+            "link": "/wiki/Subatomic_particle", 
+            "name": "Subatomic particle"
+        }, 
+        {
+            "def": "Sublimation \u2013 The process of transformation directly from the solid phase to the gas phase without passing through an intermediate liquid phase. Sublimation is an endothermic phase transition that occurs at temperatures and pressures below a substance's triple point in its phase diagram.", 
+            "link": "/wiki/Sublimation_(phase_transition)", 
+            "name": "Sublimation"
+        }, 
+        {
+            "def": "Superconductivity \u2013", 
+            "link": "/wiki/Superconductivity", 
+            "name": "Superconductivity"
+        }, 
+        {
+            "def": "Superconductor \u2013 A phenomenon of exactly zero electrical resistance and expulsion of magnetic fields occurring in certain materials when cooled below a characteristic critical temperature.", 
+            "link": "/wiki/Superconductor", 
+            "name": "Superconductor"
+        }, 
+        {
+            "def": "Superposition principle \u2013", 
+            "link": "/wiki/Superposition_principle", 
+            "name": "Superposition principle"
+        }, 
+        {
+            "def": "Superhard material \u2013", 
+            "link": "/wiki/Superhard_material", 
+            "name": "Superhard material"
+        }, 
+        {
+            "def": "Supernova \u2013 A stellar explosion that is more energetic than a nova. Supernovae can be triggered in one of two ways: by the sudden reignition of nuclear fusion in a degenerate star; or by the collapse of the core of a massive star.", 
+            "link": "/wiki/Supernova", 
+            "name": "Supernova"
+        }, 
+        {
+            "def": "Surface tension \u2013", 
+            "link": "/wiki/Surface_tension", 
+            "name": "Surface tension"
+        }, 
+        {
+            "def": "Technical standard \u2013", 
+            "link": "/wiki/Technical_standard", 
+            "name": "Technical standard"
+        }, 
+        {
+            "def": "Temperature \u2013 A physical property of matter that quantitatively expresses the common notions of hot and cold.", 
+            "link": "/wiki/Temperature", 
+            "name": "Temperature"
+        }, 
+        {
+            "def": "Tensile modulus \u2013", 
+            "link": "/wiki/Tensile_Modulus", 
+            "name": "Tensile modulus"
+        }, 
+        {
+            "def": "Tensile strength \u2013", 
+            "link": "/wiki/Tensile_strength", 
+            "name": "Tensile strength"
+        }, 
+        {
+            "def": "Tesla \u2013", 
+            "link": "/wiki/Tesla_(unit)", 
+            "name": "Tesla"
+        }, 
+        {
+            "def": "Test particle \u2013", 
+            "link": "/wiki/Test_particle", 
+            "name": "Test particle"
+        }, 
+        {
+            "def": "Theoretical physics \u2013", 
+            "link": "/wiki/Theoretical_physics", 
+            "name": "Theoretical physics"
+        }, 
+        {
+            "def": "Thermal conduction \u2013", 
+            "link": "/wiki/Thermal_conduction", 
+            "name": "Thermal conduction"
+        }, 
+        {
+            "def": "Thermal equilibrium \u2013", 
+            "link": "/wiki/Thermal_equilibrium", 
+            "name": "Thermal equilibrium"
+        }, 
+        {
+            "def": "Thermal radiation \u2013", 
+            "link": "/wiki/Thermal_radiation", 
+            "name": "Thermal radiation"
+        }, 
+        {
+            "def": "Thermionic emission \u2013", 
+            "link": "/wiki/Thermionic_emission", 
+            "name": "Thermionic emission"
+        }, 
+        {
+            "def": "Thermodynamic free energy \u2013", 
+            "link": "/wiki/Thermodynamic_free_energy", 
+            "name": "Thermodynamic free energy"
+        }, 
+        {
+            "def": "Thermodynamics \u2013", 
+            "link": "/wiki/Thermodynamics", 
+            "name": "Thermodynamics"
+        }, 
+        {
+            "def": "Thermometer \u2013", 
+            "link": "/wiki/Thermometer", 
+            "name": "Thermometer"
+        }, 
+        {
+            "def": "Theory of relativity \u2013", 
+            "link": "/wiki/Theory_of_relativity", 
+            "name": "Theory of relativity"
+        }, 
+        {
+            "def": "Third law of thermodynamics \u2013", 
+            "link": "/wiki/Third_law_of_thermodynamics", 
+            "name": "Third law of thermodynamics"
+        }, 
+        {
+            "def": "Torque \u2013 (also moment or moment of force), is the tendency of a force to rotate an object about an axis, fulcrum, or pivot. Just as a force is a push or a pull, a torque can be thought of as a twist to an object.", 
+            "link": "/wiki/Torque", 
+            "name": "Torque"
+        }, 
+        {
+            "def": "Total internal reflection \u2013", 
+            "link": "/wiki/Total_internal_reflection", 
+            "name": "Total internal reflection"
+        }, 
+        {
+            "def": "Toughness \u2013 The ability of a material to absorb energy and plastically deform without fracturing;[1] Material toughness is defined as the amount of energy per volume that a material can absorb before rupturing. It is also defined as the resistance to fracture of a material when stressed.", 
+            "link": "/wiki/Toughness", 
+            "name": "Toughness"
+        }, 
+        {
+            "def": "Trajectory \u2013 The path that a moving object follows through space as a function of time.", 
+            "link": "/wiki/Trajectory", 
+            "name": "Trajectory"
+        }, 
+        {
+            "def": "Transducer \u2013", 
+            "link": "/wiki/Transducer", 
+            "name": "Transducer"
+        }, 
+        {
+            "def": "Transverse wave \u2013", 
+            "link": "/wiki/Transverse_wave", 
+            "name": "Transverse wave"
+        }, 
+        {
+            "def": "Trigonometry \u2013 A branch of mathematics that studies triangles and the relationships between their sides and the angles between these sides.", 
+            "link": "/wiki/Trigonometry", 
+            "name": "Trigonometry"
+        }, 
+        {
+            "def": "Trimean \u2013", 
+            "link": "/wiki/Trimean", 
+            "name": "Trimean"
+        }, 
+        {
+            "def": "Triple point \u2013 The triple point of a substance is the temperature and pressure at which the three phases (gas, liquid, and solid) of that substance coexist in thermodynamic equilibrium.", 
+            "link": "/wiki/Triple_point", 
+            "name": "Triple point"
+        }, 
+        {
+            "def": "Truncated mean \u2013", 
+            "link": "/wiki/Truncated_mean", 
+            "name": "Truncated mean"
+        }, 
+        {
+            "def": "Uncertainty principle \u2013 Any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a particle, such as position x and momentum p, can be known simultaneously.", 
+            "link": "/wiki/Uncertainty_principle", 
+            "name": "Uncertainty principle"
+        }, 
+        {
+            "def": "Uniform motion \u2013", 
+            "link": "/wiki/Uniform_motion", 
+            "name": "Uniform motion"
+        }, 
+        {
+            "def": "Uniform circular motion \u2013", 
+            "link": "/wiki/Uniform_circular_motion", 
+            "name": "Uniform circular motion"
+        }, 
+        {
+            "def": "Unit vector \u2013", 
+            "link": "/wiki/Unit_vector", 
+            "name": "Unit vector"
+        }, 
+        {
+            "def": "Unit of measurement \u2013", 
+            "link": "/wiki/Units_of_measurement", 
+            "name": "Unit of measurement"
+        }, 
+        {
+            "def": "Utility frequency \u2013 The frequency of the oscillations of alternating current (AC) in an electric power grid transmitted from a power plant to the end-user.", 
+            "link": "/wiki/Utility_frequency", 
+            "name": "Utility frequency"
+        }, 
+        {
+            "def": "Vacuum \u2013 An area of space which contains no matter.", 
+            "link": "/wiki/Vacuum", 
+            "name": "Vacuum"
+        }, 
+        {
+            "def": "Valence electron \u2013 An electron that is associated with an atom, and that can participate in the formation of a chemical bond", 
+            "link": "/wiki/Valence_electron", 
+            "name": "Valence electron"
+        }, 
+        {
+            "def": "Valence shell \u2013 The outermost electron shell of an atom.", 
+            "link": "/wiki/Valence_shell", 
+            "name": "Valence shell"
+        }, 
+        {
+            "def": "Variable capacitor \u2013", 
+            "link": "/wiki/Variable_capacitor", 
+            "name": "Variable capacitor"
+        }, 
+        {
+            "def": "Variable resistor \u2013", 
+            "link": "/wiki/Variable_resistor", 
+            "name": "Variable resistor"
+        }, 
+        {
+            "def": "Vector \u2013 A quantity that has both magnitude and direction", 
+            "link": "/wiki/Vector_(mathematics_and_physics)", 
+            "name": "Vector"
+        }, 
+        {
+            "def": "Vector space \u2013 A mathematical structure formed by a collection of elements called vectors, which may be added together and multiplied (\"scaled\") by numbers, called scalars in this context", 
+            "link": "/wiki/Vector_space", 
+            "name": "Vector space"
+        }, 
+        {
+            "def": "Velocity \u2013", 
+            "link": "/wiki/Velocity", 
+            "name": "Velocity"
+        }, 
+        {
+            "def": "Virtual particle \u2013", 
+            "link": "/wiki/Virtual_particle", 
+            "name": "Virtual particle"
+        }, 
+        {
+            "def": "Viscoelasticity \u2013", 
+            "link": "/wiki/Viscoelasticity", 
+            "name": "Viscoelasticity"
+        }, 
+        {
+            "def": "Viscosity \u2013", 
+            "link": "/wiki/Viscosity", 
+            "name": "Viscosity"
+        }, 
+        {
+            "def": "Visible light \u2013", 
+            "link": "/wiki/Visible_light", 
+            "name": "Visible light"
+        }, 
+        {
+            "def": "Volta potential \u2013", 
+            "link": "/wiki/Volta_potential", 
+            "name": "Volta potential"
+        }, 
+        {
+            "def": "Voltmeter \u2013", 
+            "link": "/wiki/Voltmeter", 
+            "name": "Voltmeter"
+        }, 
+        {
+            "def": "Watt \u2013 A derived unit of power in the International System of Units (SI). The unit, defined as one joule per second, measures the rate of energy conversion or transfer.", 
+            "link": "/wiki/Watt", 
+            "name": "Watt"
+        }, 
+        {
+            "def": "Wave \u2013 A disturbance or oscillation that travels through spacetime, accompanied by a transfer of energy.", 
+            "link": "/wiki/Wave", 
+            "name": "Wave"
+        }, 
+        {
+            "def": "Wave equation \u2013", 
+            "link": "/wiki/Wave_equation", 
+            "name": "Wave equation"
+        }, 
+        {
+            "def": "Wave function \u2013", 
+            "link": "/wiki/Wave_function", 
+            "name": "Wave function"
+        }, 
+        {
+            "def": "Wavelength \u2013 The wavelength of a sinusoidal wave is the spatial period of the wave\u2014the distance over which the wave's shape repeats.", 
+            "link": "/wiki/Wavelength", 
+            "name": "Wavelength"
+        }, 
+        {
+            "def": "Weak interaction \u2013 Weak interaction (also weak force/weak nuclear force) is one of the four fundamental forces of nature, alongside the strong nuclear force, electromagnetism, and gravitation. It is responsible for the radioactive decay of subatomic particles and initiates the process known as hydrogen fusion in stars.", 
+            "link": "/wiki/Weak_interaction", 
+            "name": "Weak interaction"
+        }, 
+        {
+            "def": "Weber \u2013", 
+            "link": "/wiki/Weber_(unit)", 
+            "name": "Weber"
+        }, 
+        {
+            "def": "Wedge \u2013 A triangular shaped round tool, a compound and portable inclined plane, and one of the six classical simple machines.", 
+            "link": "/wiki/Wedge_(mechanical_device)", 
+            "name": "Wedge"
+        }, 
+        {
+            "def": "Wheel and axle \u2013 One of six simple machines identified by Renaissance scientists drawing from Greek texts on technology. The wheel and axle is generally considered to be a wheel attached to an axle so that these two parts rotate together in which a force is transferred from one to the other.", 
+            "link": "/wiki/Wheel_and_axle", 
+            "name": "Wheel and axle"
+        }, 
+        {
+            "def": "White dwarf \u2013 (also degenerate dwarf) A stellar remnant composed mostly of electron-degenerate matter. They are very dense; a white dwarf's mass is comparable to that of the Sun and its volume is comparable to that of the Earth. Its faint luminosity comes from the emission of stored thermal energy.", 
+            "link": "/wiki/White_dwarf", 
+            "name": "White dwarf"
+        }, 
+        {
+            "def": "Wind \u2013 The flow of gases on a large scale.", 
+            "link": "/wiki/Wind", 
+            "name": "Wind"
+        }, 
+        {
+            "def": "Wind shear \u2013 (sometimes called wind gradient) A difference in wind speed and direction over a relatively short distance in the atmosphere. Wind shear can be broken down into vertical and horizontal components, with horizontal wind shear seen across fronts and near the coast, and vertical shear typically near the surface, though also at higher levels in the atmosphere.", 
+            "link": "/wiki/Wind_shear", 
+            "name": "Wind shear"
+        }
+    ]
+}

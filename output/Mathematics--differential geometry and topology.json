@@ -1,0 +1,116 @@
+{
+    "c2": "Mathematics", 
+    "c3": "differential geometry and topology", 
+    "words": [
+        {
+            "def": "Bundle, see fiber bundle.", 
+            "link": null, 
+            "name": "Bundle"
+        }, 
+        {
+            "def": "Codimension. The codimension of a submanifold is the dimension of the ambient space minus the dimension of the submanifold.", 
+            "link": "/wiki/Codimension", 
+            "name": "Codimension"
+        }, 
+        {
+            "def": "Cotangent bundle, the vector bundle of cotangent spaces on a manifold.", 
+            "link": "/wiki/Cotangent_bundle", 
+            "name": "Cotangent bundle"
+        }, 
+        {
+            "def": "Diffeomorphism. Given two differentiable manifolds M and N, a bijective map \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n from M to N is called a diffeomorphism if both \n  \n    \n      \n        f\n        :\n        M\n        \u2192\n        N\n      \n    \n    {\\displaystyle f:M\\to N}\n  \n and its inverse \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        :\n        N\n        \u2192\n        M\n      \n    \n    {\\displaystyle f^{-1}:N\\to M}\n  \n are smooth functions.", 
+            "link": "/wiki/Diffeomorphism", 
+            "name": "Diffeomorphism."
+        }, 
+        {
+            "def": "Doubling, given a manifold M with boundary, doubling is taking two copies of M and identifying their boundaries. As the result we get a manifold without boundary.", 
+            "link": null, 
+            "name": "Doubling,"
+        }, 
+        {
+            "def": "Fiber. In a fiber bundle, \u03c0: E \u2192 B the preimage \u03c0\u22121(x) of a point x in the base B is called the fiber over x, often denoted Ex.", 
+            "link": null, 
+            "name": "Fiber"
+        }, 
+        {
+            "def": "Frame. A frame at a point of a differentiable manifold M is a basis of the tangent space at the point.", 
+            "link": null, 
+            "name": "Frame"
+        }, 
+        {
+            "def": "Frame bundle, the principal bundle of frames on a smooth manifold.", 
+            "link": "/wiki/Frame_bundle", 
+            "name": "Frame bundle"
+        }, 
+        {
+            "def": "Lens space. A lens space is a quotient of the 3-sphere (or (2n + 1)-sphere) by a free isometric action of Zk.", 
+            "link": "/wiki/Lens_space", 
+            "name": "Lens space"
+        }, 
+        {
+            "def": "Manifold. A topological manifold is a locally Euclidean Hausdorff space. (In Wikipedia, a manifold need not be paracompact or second-countable.) A Ck manifold is a differentiable manifold whose chart overlap functions are k times continuously differentiable. A C\u221e or smooth manifold is a differentiable manifold whose chart overlap functions are infinitely continuously differentiable.", 
+            "link": "/wiki/Manifold", 
+            "name": "Manifold"
+        }, 
+        {
+            "def": "Neat submanifold. A submanifold whose boundary equals its intersection with the boundary of the manifold into which it is embedded.", 
+            "link": "/wiki/Neat_submanifold", 
+            "name": "Neat submanifold"
+        }, 
+        {
+            "def": "Parallelizable. A smooth manifold is parallelizable if it admits a smooth global frame. This is equivalent to the tangent bundle being trivial.", 
+            "link": "/wiki/Parallelizable", 
+            "name": "Parallelizable"
+        }, 
+        {
+            "def": "Principal bundle. A principal bundle is a fiber bundle P \u2192 B together with an action on P by a Lie group G that preserves the fibers of P and acts simply transitively on those fibers.", 
+            "link": "/wiki/Principal_bundle", 
+            "name": "Principal bundle"
+        }, 
+        {
+            "def": "Submanifold, the image of a smooth embedding of a manifold.", 
+            "link": "/wiki/Submanifold", 
+            "name": "Submanifold"
+        }, 
+        {
+            "def": "Surface, a two-dimensional manifold or submanifold.", 
+            "link": "/wiki/Surface_(topology)", 
+            "name": "Surface"
+        }, 
+        {
+            "def": "Systole, least length of a noncontractible loop.", 
+            "link": "/wiki/Systolic_geometry", 
+            "name": "Systole"
+        }, 
+        {
+            "def": "Tangent bundle, the vector bundle of tangent spaces on a differentiable manifold.", 
+            "link": "/wiki/Tangent_bundle", 
+            "name": "Tangent bundle"
+        }, 
+        {
+            "def": "Tangent field, a section of the tangent bundle. Also called a vector field.", 
+            "link": null, 
+            "name": "Tangent field"
+        }, 
+        {
+            "def": "Transversality. Two submanifolds M and N intersect transversally if at each point of intersection p their tangent spaces \n  \n    \n      \n        \n          T\n          \n            p\n          \n        \n        (\n        M\n        )\n      \n    \n    {\\displaystyle T_{p}(M)}\n  \n and \n  \n    \n      \n        \n          T\n          \n            p\n          \n        \n        (\n        N\n        )\n      \n    \n    {\\displaystyle T_{p}(N)}\n  \n generate the whole tangent space at p of the total manifold.", 
+            "link": "/wiki/Transversality_(mathematics)", 
+            "name": "Transversality"
+        }, 
+        {
+            "def": "Vector bundle, a fiber bundle whose fibers are vector spaces and whose transition functions are linear maps.", 
+            "link": "/wiki/Vector_bundle", 
+            "name": "Vector bundle"
+        }, 
+        {
+            "def": "Vector field, a section of a vector bundle. More specifically, a vector field can mean a section of the tangent bundle.", 
+            "link": "/wiki/Vector_field", 
+            "name": "Vector field"
+        }, 
+        {
+            "def": "Whitney sum. A Whitney sum is an analog of the direct product for vector bundles. Given two vector bundles \u03b1 and \u03b2 over the same base B their cartesian product is a vector bundle over B \u00d7B. The diagonal map \n  \n    \n      \n        B\n        \u2192\n        B\n        \u00d7\n        B\n      \n    \n    {\\displaystyle B\\to B\\times B}\n  \n induces a vector bundle over B called the Whitney sum of these vector bundles and denoted by \u03b1\u2295\u03b2.", 
+            "link": "/wiki/Whitney_sum", 
+            "name": "Whitney sum"
+        }
+    ]
+}

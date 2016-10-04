@@ -1,0 +1,1281 @@
+{
+    "c2": "Biology", 
+    "c3": "entomology", 
+    "words": [
+        {
+            "def": "Body of the insect, toward the posterior of the thorax.", 
+            "link": "/wiki/Abdomen#Invertebrates", 
+            "name": "abdomen"
+        }, 
+        {
+            "def": "A chemical employed to kill and control mites and ticks.", 
+            "link": "/wiki/Acaricide", 
+            "name": "acaricide"
+        }, 
+        {
+            "def": "feeding on mites (also refers to parasitoids of mites).", 
+            "link": null, 
+            "name": "acariphagous"
+        }, 
+        {
+            "def": "Any secondary gland of the glandular system.", 
+            "link": null, 
+            "name": "accessory gland"
+        }, 
+        {
+            "def": "Small muscular pumps and the veins that accompany them that pump hemolymph into the wings.", 
+            "link": null, 
+            "name": "accessory pulsatile organs (APOs) "
+        }, 
+        {
+            "def": "Alternative spelling of \"acetylcholine\".", 
+            "link": "/wiki/Acetyl_choline", 
+            "name": "acetyl choline"
+        }, 
+        {
+            "def": "The two rows of hairs or bristles lying one on either side of the mid-line of the thorax of a true fly.", 
+            "link": null, 
+            "name": "acrostichal bristles"
+        }, 
+        {
+            "def": "The space within which the concentration of a pheromone or other behaviorally active substance is concentrated enough to generate the required response, remembering that like light and sound pheromones become more dilute the further they radiate out from their source.", 
+            "link": null, 
+            "name": "active space"
+        }, 
+        {
+            "def": "(Hymenoptera) Any member of a group of families that include the familiar stinging ants, bees, and social and hunting wasp.", 
+            "link": "/wiki/Aculeate", 
+            "name": "aculeate"
+        }, 
+        {
+            "def": "Tapering to a long point.", 
+            "link": null, 
+            "name": "acuminate"
+        }, 
+        {
+            "def": "A class of insect growth regulators.", 
+            "link": "/wiki/Acylurea", 
+            "name": "acylurea"
+        }, 
+        {
+            "def": "The part of the male genitalia which is inserted into the female during copulation and which carries the sperm into the female. Its shape is often important in separating closely related species.", 
+            "link": null, 
+            "name": "adeagus"
+        }, 
+        {
+            "def": "Of pupa: the state in which the pupa does not possess movable mandibles, the opposite being decticous.", 
+            "link": null, 
+            "name": "adecticous"
+        }, 
+        {
+            "def": "A major cell type of insects that stores fat body and reserves nutrients.", 
+            "link": "/wiki/Adipocyte", 
+            "name": "adipocytes"
+        }, 
+        {
+            "def": "(adjective): Along the margin.", 
+            "link": null, 
+            "name": "admarginal"
+        }, 
+        {
+            "def": "The sclerotized terminal portion of the male genital tract that is inserted into the female during insemination.", 
+            "link": "/wiki/Aedeagus", 
+            "name": "aedeagus"
+        }, 
+        {
+            "def": "Summer dormancy, entered into when conditions are unfavourable for active life i.e. it is too hot or too dry.", 
+            "link": "/wiki/Aestivation", 
+            "name": "aestivation"
+        }, 
+        {
+            "def": "The regular changing of roles of colony members as they get older.", 
+            "link": null, 
+            "name": "age polyethism"
+        }, 
+        {
+            "def": "A dilated portion of a trachea.", 
+            "link": "/wiki/Pulmonary_alveolus", 
+            "name": "air sac"
+        }, 
+        {
+            "def": "The middle of three flap-like outgrowths at the base of the wing in various flies.", 
+            "link": null, 
+            "name": "alar squama"
+        }, 
+        {
+            "def": "muscles along the dorsal diaphragm that may perform circulation.", 
+            "link": null, 
+            "name": "alary muscles"
+        }, 
+        {
+            "def": "the parthenogenetic winged morph of vividae, specialized for migration.", 
+            "link": null, 
+            "name": "alata"
+        }, 
+        {
+            "def": "Winged; having wings.", 
+            "link": "/wiki/Alate", 
+            "name": "alate"
+        }, 
+        {
+            "def": "(common name). A synthetic insecticide; a chlorinated hydrocarbon of not less than 95 per cent 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene; moderately toxic to mammals, acute oral LD,, for rats 44\u00a0mg/kg; phytotoxicity: none when properly formulated, but some crops are sensitive to solvents in certain formulations.", 
+            "link": "/wiki/Aldrin", 
+            "name": "aldrin"
+        }, 
+        {
+            "def": "feeding on algae.", 
+            "link": null, 
+            "name": "algophagy "
+        }, 
+        {
+            "def": "A term applied to the \"open chain\" or fatty series of hydrocarbons.", 
+            "link": null, 
+            "name": "aliphatic"
+        }, 
+        {
+            "def": "Name given to the thorax and propodeum of 'wasp-waisted' hymenopterans.", 
+            "link": "/wiki/Alitrunk", 
+            "name": "alitrunk"
+        }, 
+        {
+            "def": "When individuals other than the parent assist in the caring for that parents offspring.", 
+            "link": "/wiki/Alloparental", 
+            "name": "alloparental"
+        }, 
+        {
+            "def": "Two or more forms of a species having essentially separate distributions.", 
+            "link": null, 
+            "name": "allopatric"
+        }, 
+        {
+            "def": "When two generations are produced within a life cycle each producing individuals of only one sex, either male first and then female or vice versa.", 
+            "link": "/wiki/Alternation_of_generations", 
+            "name": "alternating generations"
+        }, 
+        {
+            "def": "Self-destructive. or potentially self-destructive behavior performed for the benefit of others.", 
+            "link": null, 
+            "name": "altruistic"
+        }, 
+        {
+            "def": "a broad lobe at the proximal posterior margin of the wing stalk of Diptera.Also termed the axillary lobe.", 
+            "link": "/wiki/Morphology_of_Diptera", 
+            "name": "alula"
+        }, 
+        {
+            "def": "The fungus cultivated by wood-boring beetles of the family Scolytidae.", 
+            "link": "/wiki/Ambrosia", 
+            "name": "ambrosia"
+        }, 
+        {
+            "def": "The insects which develop without metamorphosis, namely the Protura, Thysanura, and Collembola.", 
+            "link": "/wiki/Ametabola", 
+            "name": "ametabola"
+        }, 
+        {
+            "def": "Compound derived from carboxylic acids by replacing the hydroxyl of the -COOH by the amino group, -NH2-.", 
+            "link": "/wiki/Amide", 
+            "name": "amide"
+        }, 
+        {
+            "def": "An organic compound containing nitrogen, derived from ammonia, NH3, by replacing one or more hydrogen atoms by as many hydrocarbon radicals.", 
+            "link": "/wiki/Amine", 
+            "name": "amine"
+        }, 
+        {
+            "def": "Organic compounds that contain the amino (NH2) group and the carboxyl (COOH) group. Amino acids are the \"building stones\" of proteins.", 
+            "link": "/wiki/Amino_acid", 
+            "name": "amino acid"
+        }, 
+        {
+            "def": "A colorless alkaline gas, NH3, soluble in water.", 
+            "link": "/wiki/Ammonia", 
+            "name": "ammonia"
+        }, 
+        {
+            "def": "Pertaining to last abdominal segment which bears the anus.", 
+            "link": null, 
+            "name": "anal"
+        }, 
+        {
+            "def": "The posterior corner of the wing (same as tornus).", 
+            "link": null, 
+            "name": "anal angle"
+        }, 
+        {
+            "def": "A fold in the inner margin of the hindwing.", 
+            "link": "/wiki/Anal_fold", 
+            "name": "anal fold"
+        }, 
+        {
+            "def": "Exposed claspers at the end of the abdomen.", 
+            "link": null, 
+            "name": "anal valves"
+        }, 
+        {
+            "def": "Infection with Anaplasma, a genus of Sporozoa that infests red blood cells.", 
+            "link": "/wiki/Anaplasmosis", 
+            "name": "anaplasmosis"
+        }, 
+        {
+            "def": "A wilt disease of cucurbits caused solely by the feeding of the squash bug, no parasitic microorganism involved.", 
+            "link": null, 
+            "name": "anasa wilt"
+        }, 
+        {
+            "def": "(singula = Androconium) In male butterflies, specialised wing scales (often called scent scales) possessing special glands which produce a chemical attractive to females.", 
+            "link": "/wiki/Androconia", 
+            "name": "androconia"
+        }, 
+        {
+            "def": "Specialised microscopic scales on the wings of male butterflies, believed to be scent scales for attracting the female.", 
+            "link": "/wiki/Androconium", 
+            "name": "androconium or androconia (plural) "
+        }, 
+        {
+            "def": "Formed in ring-like segments or with ring-like markings.", 
+            "link": "/wiki/Annulate", 
+            "name": "annulate"
+        }, 
+        {
+            "def": "Deficient in blood quantity or quality.", 
+            "link": null, 
+            "name": "anemic"
+        }, 
+        {
+            "def": "the lower (anterior) portion of the clypeus of insects.", 
+            "link": null, 
+            "name": "anteclypeus"
+        }, 
+        {
+            "def": "The long feelers situated on the head and close to the eyes. They are however not tactile but used for detecting airborne scents and currents.\n\nIn Papilionoidea the antennae end in bulging tips called clubs.\nIn Hesperioidea they have hooked tips and the club is found just before the tip.\nIn some Lycaenidae like the genus Liphyra the antenna tapers gradually.\n\n", 
+            "link": "/wiki/Antenna_(biology)", 
+            "name": "antennae"
+        }, 
+        {
+            "def": "Touching with the antenna.", 
+            "link": "/wiki/Antennation", 
+            "name": "antennation"
+        }, 
+        {
+            "def": "Bearing antennae, as in \"antenniferous tubercle\".", 
+            "link": "/w/index.php?title=Antenniferous&action=edit&redlink=1", 
+            "name": "antenniferous"
+        }, 
+        {
+            "def": "A segment of an antenna. The term antennomere is used in particular when the segments are fairly uniform, as in filiform antennae, but it also may be used in referring to segments of odd sizes, shapes and functions, such as the scape and pedicel. More specific terms may be used where there are distinct antennal regions; for example flagellomeres are the antennomeres comprising the flagellum.", 
+            "link": "/wiki/Antennomere", 
+            "name": "antennomere"
+        }, 
+        {
+            "def": "in front of or after the aforementioned structure.", 
+            "link": "/wiki/Anterior", 
+            "name": "anterior"
+        }, 
+        {
+            "def": "Small cross-veins at the front of the dragonfly or damselfly wing, between the wing base and the nodus.", 
+            "link": null, 
+            "name": "antenodal veins"
+        }, 
+        {
+            "def": "feeding on flowers.", 
+            "link": null, 
+            "name": "anthophagy"
+        }, 
+        {
+            "def": "An association between two or more organisms that is detrimental to one or more of them.", 
+            "link": "/wiki/Antibiosis", 
+            "name": "antibiosis"
+        }, 
+        {
+            "def": "A substance antagonistic to the coagulation of blood.", 
+            "link": null, 
+            "name": "anticoagulin"
+        }, 
+        {
+            "def": "The posterior opening of the digestive tract.", 
+            "link": "/wiki/Anus", 
+            "name": "anus"
+        }, 
+        {
+            "def": "The anterior corner of the wing.", 
+            "link": null, 
+            "name": "apex / apical area"
+        }, 
+        {
+            "def": "The first posterior cell in the wing of Diptera.It is the space between the third and fourth longitudinal vein beyond the anterior crossvein (R5).", 
+            "link": null, 
+            "name": "apical cell"
+        }, 
+        {
+            "def": "feeding on aphids (and parasitoids of aphids).", 
+            "link": null, 
+            "name": "aphidophagy"
+        }, 
+        {
+            "def": "Medicinal use of the honey bee or its products.", 
+            "link": "/wiki/Apitherapy", 
+            "name": "apitherapy"
+        }, 
+        {
+            "def": "A crossvein between the radius and cubitus near the base of the wing in certain insects.", 
+            "link": null, 
+            "name": "arculus"
+        }, 
+        {
+            "def": "A small ring of color", 
+            "link": null, 
+            "name": "areola"
+        }, 
+        {
+            "def": "A pad-like median lobe between the tarsal claws.", 
+            "link": null, 
+            "name": "arolium"
+        }, 
+        {
+            "def": "Region close to the point of attachment to the thorax.", 
+            "link": null, 
+            "name": "base / basal area of wing"
+        }, 
+        {
+            "def": "Raised area on the wing surface, circular, ovate, or elongated, which is covered with special scent scales or androconia, found in males of some species. Also called sex mark.", 
+            "link": null, 
+            "name": "brand"
+        }, 
+        {
+            "def": "feeding on moss.", 
+            "link": null, 
+            "name": "bryophagy"
+        }, 
+        {
+            "def": "Mainly referring to antennae, but occasionally to other anatomical features such as palps: having a clubbed shape with a relatively long, slender stem, but with an abruptly bulkier, thicker, possibly globular distal head, the capitulum. The term capitate is not strictly distinguished from clavate, but where a distinction is desired, it is that the club of a capitate antenna is abruptly distinct from the shaft, and the head tends to be short and more or less globular. The club of a clavate antenna generally is a more or less tapered thickening, sometimes hardly distinct from the shaft.", 
+            "link": null, 
+            "name": "capitate"
+        }, 
+        {
+            "def": "The head of a capitate structure, such as a capitate antenna, or of a capitate haltere", 
+            "link": null, 
+            "name": "capitulum"
+        }, 
+        {
+            "def": "a keel-like elevation (or ridge) on the body-wall of an insect.", 
+            "link": null, 
+            "name": "carina"
+        }, 
+        {
+            "def": "feeding on fruits and seeds.", 
+            "link": null, 
+            "name": "carpophagy"
+        }, 
+        {
+            "def": "Markings consisting of rings connected together like a chain.", 
+            "link": null, 
+            "name": "catenulate"
+        }, 
+        {
+            "def": "Antennae with ringed appearance.", 
+            "link": null, 
+            "name": "catenulated antennae"
+        }, 
+        {
+            "def": "The central area surrounded by veins. It can be closed by veins or open.\n\nThe vein forming the boundary of the cell along the costal margin is known as the subcostal vein q.v.\nThe vein forming the lower boundary towards the dorsum is called the median vein.\nIn the case of butterflies, the cell is closed by a vein connecting the origins of veins 6 to 4 along the top of the cell which is known as discocellular vein.\n\n", 
+            "link": null, 
+            "name": "cell"
+        }, 
+        {
+            "def": "Taxonomically important term used in Diptera identification keys. Part of the schema of wing venation. Also called the posterior cubital cell and often called the anal cell. see File:Phytomyzinae wing veins-1.svg", 
+            "link": null, 
+            "name": "cell cup"
+        }, 
+        {
+            "def": "feeding on cornified tissues and hair of animals.", 
+            "link": null, 
+            "name": "ceratophagy (Also spelled keratophagy)"
+        }, 
+        {
+            "def": "(Anatomical feature) the structure defining the neck of the insect.", 
+            "link": null, 
+            "name": "cervix"
+        }, 
+        {
+            "def": "See Seta.", 
+            "link": null, 
+            "name": "chaeta"
+        }, 
+        {
+            "def": "An external spine that has a single point. Etymology: Greek chalasa, a tubercle. cf. scolus, which has multiple points.", 
+            "link": null, 
+            "name": "chalaza"
+        }, 
+        {
+            "def": "See Seta.", 
+            "link": null, 
+            "name": "cheta"
+        }, 
+        {
+            "def": "Fine hairs along the edges of the wing.", 
+            "link": "/wiki/Cilia_(entomology)", 
+            "name": "cilia"
+        }, 
+        {
+            "def": "A structure in male insects that is used to hold the female during copulation.", 
+            "link": "/wiki/Clasper", 
+            "name": "clasper or clasp "
+        }, 
+        {
+            "def": "Same as clavus.", 
+            "link": null, 
+            "name": "clava"
+        }, 
+        {
+            "def": "Mainly referring to antennae, but occasionally to other anatomical features such as palps: having a clubbed shape with a relatively long, slender stem, but with a bulkier, thicker distal end, the clava. The term clavate is not strictly distinguished from capitate, but in general, where a distinction is desired, the club of a capitate antenna is abruptly distinct, even globular, whereas the club of a clavate antennae is generally a more or less tapered thickening", 
+            "link": null, 
+            "name": "clavate"
+        }, 
+        {
+            "def": "specifically, in Noctuidae (moths)- an elongate spot or mark extending from the anterior transverse anterior line through the submedian interspace, toward and sometimes to the posterior transverse line.", 
+            "link": null, 
+            "name": "claviform stigma"
+        }, 
+        {
+            "def": "Same as clavus or club", 
+            "link": null, 
+            "name": "clavola"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The thicker distal end of a clavate anatomical structure such as an antenna. Usually comprising more than one joint. Also called clava, clavola, or club", 
+            "link": null, 
+            "name": "clavus"
+        }, 
+        {
+            "def": "The popular (possibly to be preferred) name for the clavus of a clavate antenna.", 
+            "link": null, 
+            "name": "club"
+        }, 
+        {
+            "def": "(Anatomical feature) a sclerite structure below the frons, circumposed by the mandibles and above the labrum.", 
+            "link": "/wiki/Clypeus", 
+            "name": "clypeus"
+        }, 
+        {
+            "def": "feeding on scale insects (and parasitoids of scale insects).", 
+            "link": null, 
+            "name": "coccidophagy"
+        }, 
+        {
+            "def": "An eye consisting of a large number of individual photoreceptor units or ommatidia (ommatidium, singular).Figure 2 d below", 
+            "link": "/wiki/Compound_eye", 
+            "name": "compound eye"
+        }, 
+        {
+            "def": "(largely in Heteroptera and similarly dorsoventrally flattened insects) the edge of the abdomen, containing the connection between the tergite and sternite. May be visible from above in species such as many of the Reduviidae.", 
+            "link": "/w/index.php?title=Connexivum&action=edit&redlink=1", 
+            "name": "connexivum or connexiva (plural)"
+        }, 
+        {
+            "def": "inhabiting feces and consuming mycetes growing inside or cultivating them for feeding.", 
+            "link": null, 
+            "name": "copromycetophagy"
+        }, 
+        {
+            "def": "feeding on the excrements of animals.", 
+            "link": "/wiki/Coprophagy", 
+            "name": "coprophagy"
+        }, 
+        {
+            "def": "The leading edge of the wing.", 
+            "link": null, 
+            "name": "costa / costal area"
+        }, 
+        {
+            "def": "Taxonomically important term used in Diptera identification keys. Part of the schema of wing venation. weakenings of the costa (one to three in number). They are flexing points for the wings during flight", 
+            "link": "/wiki/Morphology_of_Diptera", 
+            "name": "costal break"
+        }, 
+        {
+            "def": "(Anatomical feature) an anterior suture line of the head between the compound eyes, below the median ocellus.", 
+            "link": "/wiki/Coronal_suture", 
+            "name": "coronal suture"
+        }, 
+        {
+            "def": "first leg segment, between body and trochanter.", 
+            "link": "/wiki/Arthropod_leg#Insects", 
+            "name": "coxa"
+        }, 
+        {
+            "def": "A general term for a structure by which an object hangs (from Greek language kremastos, meaning \"hung up\"); for example in entomology:\nin some Lepidoptera, including most butterflies, the pupa attaches to a surface by the cremaster, a structure at the tip of the pupal abdomen. The cremaster is the homologue of the anal plate of the caterpillar. It takes various forms in different species, ranging from a simple point, to various arrangements of hooks that catch Velcro-like in a silken pad that the caterpillar spins on the surface before it enters the prepupal phase.", 
+            "link": null, 
+            "name": "cremaster"
+        }, 
+        {
+            "def": "Adjective = scalloped. Describes the outer edge of a wing that is convex at the end of each vein and concave in between.", 
+            "link": null, 
+            "name": "crenulate"
+        }, 
+        {
+            "def": "Noun = wedge. Particularly in mirid bugs, a wedge-shaped section of the hemelytra (forewings), located at the apex of the thick, leathery part of the wings.", 
+            "link": null, 
+            "name": "cuneus"
+        }, 
+        {
+            "def": "Functional mandibles present in pupal state.", 
+            "link": null, 
+            "name": "decticous"
+        }, 
+        {
+            "def": "feeding on trees.", 
+            "link": null, 
+            "name": "dendrophagy"
+        }, 
+        {
+            "def": "As for crenulate but with the projections at the end of each wing being toothlike.", 
+            "link": null, 
+            "name": "dentate"
+        }, 
+        {
+            "def": "feeding on ground remains of plants and animals.", 
+            "link": null, 
+            "name": "detritophagy"
+        }, 
+        {
+            "def": "The central band passing through the cell.", 
+            "link": null, 
+            "name": "disc / discal area"
+        }, 
+        {
+            "def": "In damselflies (Zygoptera) a basal quadrangular cell in the wing venation, which is delimited by veins MA (anterior side), MP (posterior side), MAb (distal side) and the arculus (basal side).", 
+            "link": null, 
+            "name": "discoidal cell"
+        }, 
+        {
+            "def": "The trailing edge or hind-margin of the wing, extending from the base to the tornus. Dorsal alternately, also refers to the back, i.e. the upper part of the body, from above.", 
+            "link": "/wiki/Dorsum_(anatomy)", 
+            "name": "dorsum / dorsal area"
+        }, 
+        {
+            "def": "(Anatomical feature) having exterior mouthparts, or exposed. A defining feature of insects.", 
+            "link": null, 
+            "name": "ectognathous"
+        }, 
+        {
+            "def": "(Anatomical feature) either a bristle-like or pad-like structure between the tarsal claws of various insects, notably Diptera.", 
+            "link": null, 
+            "name": "empodium"
+        }, 
+        {
+            "def": "the immuno response by plasmatocytes to the presence of parasitoid egg or larvae which results in the formation of a multilayered capsule that causes the parasitoid to sufficate or starve.", 
+            "link": null, 
+            "name": "encapsulation"
+        }, 
+        {
+            "def": "feeding on dead arthropods.", 
+            "link": null, 
+            "name": "entomonecrophagy"
+        }, 
+        {
+            "def": "feeding on other insects.", 
+            "link": "/wiki/Entomophagy", 
+            "name": "entomophagy"
+        }, 
+        {
+            "def": "(Anatomical feature) the top of the anterior structure of the head, or forehead.", 
+            "link": "/wiki/Epicranius", 
+            "name": "epicranius"
+        }, 
+        {
+            "def": "(Anatomical feature) a plate or projection dorsal to the anus in certain insects, generally on abdominal segment X or XI. For example in Archaeognatha and Zygentoma it takes the form of a long, rearwardly directed organ resembling the two cerci that flank it. In the Odonata epiprocts have various functions, both in larvae, in which they may have respiratory roles, and in adults, in which they may have reproductive roles. Not all epiprocts in all insect species are homologous. Note that the term is used in other groups than insects as well, for instance Myriapoda.", 
+            "link": "/wiki/Epiproct", 
+            "name": "epiproct"
+        }, 
+        {
+            "def": "The palpi when vertical, i.e. the axis of the palpi is at right angles to the axis of the body.", 
+            "link": null, 
+            "name": "erect"
+        }, 
+        {
+            "def": "Pupae with their legs and other appendages free and extended.", 
+            "link": "/wiki/Holometabolism", 
+            "name": "exarate"
+        }, 
+        {
+            "def": "Spots resembling mammalian eyes. Can also refer to simple eyes.", 
+            "link": "/wiki/Eyespot_(mimicry)", 
+            "name": "eyespots or ocelli "
+        }, 
+        {
+            "def": "the area between the base of antennae, oral margin, eyes and cheeks (gena). See figure 3.", 
+            "link": null, 
+            "name": "face"
+        }, 
+        {
+            "def": "A color pattern with a broad band.", 
+            "link": null, 
+            "name": "fascia (plural fasciae)"
+        }, 
+        {
+            "def": "third leg segment, between trochanter and tibia.", 
+            "link": "/wiki/Arthropod_leg#Insects", 
+            "name": "femur"
+        }, 
+        {
+            "def": "an antennomere comprising part of the flagellum.", 
+            "link": null, 
+            "name": "flagellomere"
+        }, 
+        {
+            "def": "the part of the antenna distal to the pedicel composed of one or more segments, called flagellomeres.", 
+            "link": null, 
+            "name": "flagellum"
+        }, 
+        {
+            "def": "(Anatomical feature) the posterior opening of the head capsule, covered by the cervix.", 
+            "link": "/wiki/Foramen_magnum", 
+            "name": "foramen magnum"
+        }, 
+        {
+            "def": "(Anatomical feature) the pair of wings of a four-winged insect closest to the head.", 
+            "link": null, 
+            "name": "forewing"
+        }, 
+        {
+            "def": "(Anatomical feature) The frontal area of an insect's head. It covers the upper part of the face above the clypeus and below and between the antennae. It supports the pharyngeal dilator muscles and usually bears an ocellus.", 
+            "link": "/wiki/Frons", 
+            "name": "frons"
+        }, 
+        {
+            "def": "(Anatomical feature) suture lines that meet with the coroanl sutures to form an inverted Y.", 
+            "link": null, 
+            "name": "frontal sutures"
+        }, 
+        {
+            "def": "(Anatomical feature) the area below the compound eyes, the insect equivalent to human cheeks.", 
+            "link": null, 
+            "name": "gena"
+        }, 
+        {
+            "def": "Elbowed. From the Latin for a bended knee, referring to an organ of a type not always expected to be kinked, but having a definite angular bend or hinge. In entomology the term typically refers to an elbowed antenna. For instance, many species of Hemiptera, Coleoptera, and Hymenoptera have markedly geniculate antennae", 
+            "link": null, 
+            "name": "geniculate"
+        }, 
+        {
+            "def": "a strand of silk used to prop up the pupa. Found especially in the Papilionidae.", 
+            "link": null, 
+            "name": "girdle"
+        }, 
+        {
+            "def": "smooth, without hairs or scales.", 
+            "link": null, 
+            "name": "glabrous"
+        }, 
+        {
+            "def": "ventral head sclerite which supports the submentum", 
+            "link": null, 
+            "name": "gula"
+        }, 
+        {
+            "def": "feeding on worms classified with helminths (including parasitoids of helminths).", 
+            "link": null, 
+            "name": "helminthophagy"
+        }, 
+        {
+            "def": "the interior of the insects anatomy, including all organs and hemocyte.", 
+            "link": "/wiki/Hemocoel", 
+            "name": "hemocoel"
+        }, 
+        {
+            "def": "a fluid in the circulatory system of insects containing nutrients, fat, water, etc.", 
+            "link": "/wiki/Hemocyte", 
+            "name": "hemocyte or haemolymph "
+        }, 
+        {
+            "def": "feeding on blood.", 
+            "link": "/wiki/Hemophagy", 
+            "name": "hemophagy"
+        }, 
+        {
+            "def": "(Anatomical feature) the pair of wings of a four-winged insect farthest from the head.", 
+            "link": null, 
+            "name": "hindwing"
+        }, 
+        {
+            "def": "transparent, like glass.", 
+            "link": "/wiki/Hyaline", 
+            "name": "hyaline"
+        }, 
+        {
+            "def": "mode of life: living in the thin film of water on wet rocks.", 
+            "link": null, 
+            "name": "hygropetric"
+        }, 
+        {
+            "def": "having mouthparts that are ventrad of a vertically oriented head, or having an \"under bit\".", 
+            "link": null, 
+            "name": "hypognathous"
+        }, 
+        {
+            "def": "Mouthpart. A tonguelike lobe on the floor of the mouth.", 
+            "link": "/wiki/Arthropod_mouthparts", 
+            "name": "hypopharynx"
+        }, 
+        {
+            "def": "a form of parasitism where the parasitoid paralyzes or leaves the host unable to continue development at oviposition.", 
+            "link": "/wiki/Idiobiont", 
+            "name": "idiobiont"
+        }, 
+        {
+            "def": "(plural is usually imagines) The final, or adult, stage in metamorphosis.", 
+            "link": "/wiki/Imago", 
+            "name": "imago"
+        }, 
+        {
+            "def": "The region between adjacent veins.", 
+            "link": null, 
+            "name": "interspace"
+        }, 
+        {
+            "def": "Old term used usually to indicate a sprinkling of scales interspersed among scales typically of a different color.", 
+            "link": null, 
+            "name": "irrorated or irroration "
+        }, 
+        {
+            "def": "feeding on cornified tissues and hair of animals.", 
+            "link": null, 
+            "name": "keratophagy (Also spelt ceratophagy) "
+        }, 
+        {
+            "def": "A form of parasitism where the parasitoid lives inside the host while allowing it to live after oviposition.", 
+            "link": "/wiki/Koinobiont", 
+            "name": "koinobiont"
+        }, 
+        {
+            "def": "Mouthpart forming the lower lip. Bears the labial palps.", 
+            "link": "/wiki/Insect_mouthparts", 
+            "name": "labium"
+        }, 
+        {
+            "def": "(Anatomical feature) the anterior structure below the clypeus covering some of the mouthparts, sometimes called the \"upper lip\".", 
+            "link": "/wiki/Labrum_(arthropod_mouthpart)", 
+            "name": "labrum"
+        }, 
+        {
+            "def": "feeding on lichens.", 
+            "link": null, 
+            "name": "lichenophagy"
+        }, 
+        {
+            "def": "(Anatomical feature) the suture lines where the integument will split to allow for molting.", 
+            "link": null, 
+            "name": "lines of weakness"
+        }, 
+        {
+            "def": "A body area or marking roughly in the shape of a crescent.", 
+            "link": "/w/index.php?title=Lunule_(entomology)&action=edit&redlink=1", 
+            "name": "lunule"
+        }, 
+        {
+            "def": "large bristles and scales.[1]", 
+            "link": null, 
+            "name": "macrochaete"
+        }, 
+        {
+            "def": "Having long or large elytra, as long, or longer than the abdomen.", 
+            "link": "/w/index.php?title=Macropterous&action=edit&redlink=1", 
+            "name": "macropterous"
+        }, 
+        {
+            "def": "feeding on mollusks (and parasitoids of mollusks).", 
+            "link": null, 
+            "name": "malacophagy"
+        }, 
+        {
+            "def": "Mouthpart. The maxillae are paired and arranged behind the mandibles. May bear palps. See Figures 1 and 3.", 
+            "link": "/wiki/Arthropod_mouthparts", 
+            "name": "maxilla"
+        }, 
+        {
+            "def": "a small triangular opaque region at the base of the hindwing in some dragonflies.", 
+            "link": null, 
+            "name": "membranule"
+        }, 
+        {
+            "def": "the middle segment of the thorax, between the prothorax and the metathorax.", 
+            "link": "/wiki/Mesothorax", 
+            "name": "mesothorax"
+        }, 
+        {
+            "def": "small metallic-looking spots commonly found on the wings of Riodinidae.", 
+            "link": null, 
+            "name": "metalmarks"
+        }, 
+        {
+            "def": "The third and last segment of the thorax after the mesothorax.", 
+            "link": "/wiki/Metathorax", 
+            "name": "metathorax"
+        }, 
+        {
+            "def": "Having short elytra, shorter than the abdomen.", 
+            "link": "/w/index.php?title=Micropterous&action=edit&redlink=1", 
+            "name": "micropterous"
+        }, 
+        {
+            "def": "feeding on myxomycetes fungus.", 
+            "link": null, 
+            "name": "mixomycetophagy"
+        }, 
+        {
+            "def": "Infestation of fly larvae on or in a vertebrate host.", 
+            "link": "/wiki/Myiasis", 
+            "name": "myiasis"
+        }, 
+        {
+            "def": "feeding on fungus.", 
+            "link": "/wiki/Mycetophagy", 
+            "name": "mycetophagy"
+        }, 
+        {
+            "def": "consuming of dead animals and their remains.", 
+            "link": "/wiki/Necrophagy", 
+            "name": "necrophagy"
+        }, 
+        {
+            "def": "Older term for vein. adnervural refers to instance lines running adjacent and alongside the veins.", 
+            "link": null, 
+            "name": "nervure"
+        }, 
+        {
+            "def": "(of Odonata ) A prominent cross-vein near the center of the leading edge of a wing.", 
+            "link": null, 
+            "name": "nodus"
+        }, 
+        {
+            "def": "Appendages fused or glued to the body.", 
+            "link": null, 
+            "name": "obtect"
+        }, 
+        {
+            "def": "(Anatomical feature) the structure that defines the occiput. See Figure 1 (below).", 
+            "link": null, 
+            "name": "occipital suture"
+        }, 
+        {
+            "def": "(Anatomical feature) the region posterior to the vertex on the head. See Figure 2 (below).", 
+            "link": "/w/index.php?title=Occiput_(insect)&action=edit&redlink=1", 
+            "name": "occiput (insect)"
+        }, 
+        {
+            "def": "(Anatomical feature) the structure of the head containing the ocelli.", 
+            "link": null, 
+            "name": "ocular structure"
+        }, 
+        {
+            "def": "A woodlouse shaped, flattened platyform appearance of a larva.[2]", 
+            "link": null, 
+            "name": "onisciform"
+        }, 
+        {
+            "def": "feeding on eggs.", 
+            "link": "/wiki/Oophagy", 
+            "name": "oophagy"
+        }, 
+        {
+            "def": "with receding mouthparts, or having mouthparts that slope backward or face backward.", 
+            "link": null, 
+            "name": "opisthognathous"
+        }, 
+        {
+            "def": "a marking placed between the reniform stigma and the thorax, usually circular in shape.", 
+            "link": null, 
+            "name": "orbicular stigma"
+        }, 
+        {
+            "def": "fleshy structure on some larvae, often discharging odorous chemicals.", 
+            "link": "/wiki/Osmeterium", 
+            "name": "osmeterium"
+        }, 
+        {
+            "def": "the act of laying eggs.", 
+            "link": "/wiki/Oviposition", 
+            "name": "oviposition"
+        }, 
+        {
+            "def": "if part of the ovipositor is visible when not in action, then the basal visible portion, typically tubular, is the oviscape. For examples, see females of many Tephritidae and Pyrgotidae (cf scape).", 
+            "link": "/wiki/Ovipositor", 
+            "name": "oviscape"
+        }, 
+        {
+            "def": "structure by which many insects place their eggs, sometimes by piercing or slitting the host or substrate in which she lays the eggs. The structure may be tubular and may have valves.", 
+            "link": "/wiki/Ovipositor", 
+            "name": "ovipositor"
+        }, 
+        {
+            "def": "a stink gland or repugnatorial gland, from which an animal such as an insect or Myriapod may release a foul-smelling liquid or gas for defence", 
+            "link": "/wiki/Ozadene", 
+            "name": "ozadene"
+        }, 
+        {
+            "def": "the opening of an ozadene, a stink gland or repugnatorial gland", 
+            "link": "/wiki/Ozopore", 
+            "name": "ozopore"
+        }, 
+        {
+            "def": "feeding on pollen.", 
+            "link": null, 
+            "name": "palynophagy"
+        }, 
+        {
+            "def": "In parasitism, the participant that benefits, rather than the one that is being parasitized.", 
+            "link": "/wiki/Parasitoid", 
+            "name": "parasitoid"
+        }, 
+        {
+            "def": "the second segment ( antennomere) of the antenna. See figure 3.", 
+            "link": null, 
+            "name": "pedicel"
+        }, 
+        {
+            "def": "Comparatively large processes that originate from below the head and curve forward in front of the face that sometimes appear like a beak. lp on the figure right.", 
+            "link": "/wiki/Pedipalp", 
+            "name": "pedipalp (or labial palpi or palpi) "
+        }, 
+        {
+            "def": "feeding on bark.[3][4][5]", 
+            "link": null, 
+            "name": "phloeophagy"
+        }, 
+        {
+            "def": "feeding on leaves.", 
+            "link": null, 
+            "name": "phyllophagy"
+        }, 
+        {
+            "def": "feeding on plants.", 
+            "link": "/wiki/Phytophagy", 
+            "name": "phytophagy"
+        }, 
+        {
+            "def": "A sclerotised region on the lateral part of an insect segment, bearing the spiracle, and separating and connecting the tergite and the sternite (compare: pulmonarium).", 
+            "link": null, 
+            "name": "pleurite"
+        }, 
+        {
+            "def": "feeding on pollen.", 
+            "link": null, 
+            "name": "pollinophagy"
+        }, 
+        {
+            "def": "The palpi when horizontally projecting in front of the face. In this case, the axis of the palpi is parallel to the axis of the body.", 
+            "link": null, 
+            "name": "porrect"
+        }, 
+        {
+            "def": "the upper (proximal) portion of the clypeus of insects.", 
+            "link": null, 
+            "name": "postclypeus"
+        }, 
+        {
+            "def": "in a position behind or below the aforementioned.", 
+            "link": "/wiki/Posterior_(anatomy)#Anterior_and_posterior", 
+            "name": "posterior"
+        }, 
+        {
+            "def": "(Anatomical feature) the structure posterior to the occipital suture, surrounding foramen magnum or occipital magnum.", 
+            "link": null, 
+            "name": "postoccipital suture"
+        }, 
+        {
+            "def": "tubular feeding and sucking organ.", 
+            "link": "/wiki/Proboscis", 
+            "name": "proboscis"
+        }, 
+        {
+            "def": "Directed or leaning forward, such as in bristles in particular locations of insects' heads.", 
+            "link": "https://en.wiktionary.org/wiki/proclinate", 
+            "name": "proclinate"
+        }, 
+        {
+            "def": "having mouth parts dorsad of a dorsally oriented head, or \"over bite\".", 
+            "link": "/wiki/Prognathous", 
+            "name": "prognathous"
+        }, 
+        {
+            "def": "fleshy leg like structures arising from the abdominal segments of caterpillars. These prolegs have crochets or curved hooks.", 
+            "link": "/wiki/Proleg", 
+            "name": "proleg"
+        }, 
+        {
+            "def": "The first segment on the thorax anterior to the mesothorax.", 
+            "link": "/wiki/Prothorax", 
+            "name": "prothorax"
+        }, 
+        {
+            "def": "The prominent cell, usually opaque and coloured, near the tip of each wing of the Odonata, on the anterior margin; also, more loosely, called stigma.", 
+            "link": "/wiki/Pterostigma", 
+            "name": "pterostigma (plural pterostigmata)"
+        }, 
+        {
+            "def": "The meso- and metathorax of winged insects, that carries the two pairs of wings.", 
+            "link": null, 
+            "name": "pterothorax"
+        }, 
+        {
+            "def": "A membranous instead of a sclerotised connection or pleurite between the abdominal tergites and sternites of certain groups of insects; in such species the pulmonaria bear the spiracles. The term also refers to an abdomen in which the connection between the tergal and sternal sclerites takes the form of a pulmonarial membrane. (Compare: pleurite)", 
+            "link": null, 
+            "name": "pulmonarium (plural pulmonaria)"
+        }, 
+        {
+            "def": "an oval or kidney-shaped mark on the forewing at the disc (Lepidoptera)", 
+            "link": null, 
+            "name": "reniform stigma"
+        }, 
+        {
+            "def": "(generally in combination as in: \"repugnatorial glands\"): defensive, or \"fighting back\", in particular as applied to an ozadene, a gland that can release irritant, poisonous, alarming or distasteful fluids or gases when an organism is under threat. Examples of repugnatorial glands include the osmeterium of larvae of the Papilionidae, the stink glands of most Heteroptera, the ozadenes of Opiliones, the odoriferous glands of Diplopoda, and others.", 
+            "link": "https://en.wiktionary.org/wiki/repugnatorial", 
+            "name": "repugnatorial"
+        }, 
+        {
+            "def": "feeding on rhizomes.", 
+            "link": null, 
+            "name": "rhizophagy"
+        }, 
+        {
+            "def": "adapted for leaping or jumping.", 
+            "link": null, 
+            "name": "saltatorial"
+        }, 
+        {
+            "def": "feeding on dead bodies of vertebrates.", 
+            "link": null, 
+            "name": "sarconecrophagy"
+        }, 
+        {
+            "def": "inhabiting decaying matter and consuming mycetes growing inside or cultivating them for feeding.", 
+            "link": null, 
+            "name": "sapromycetophagy"
+        }, 
+        {
+            "def": "feeding on decaying organic matter.", 
+            "link": "/wiki/Saprophagy", 
+            "name": "saprophagy"
+        }, 
+        {
+            "def": "the proximal segment ( antennomere) of the antenna. See Figure 3.", 
+            "link": null, 
+            "name": "scape"
+        }, 
+        {
+            "def": "feeding on ground remains of plants and animals.", 
+            "link": null, 
+            "name": "schisophagy"
+        }, 
+        {
+            "def": "An external spine having multiple points. Etymology: Greek skolos, a prickle. cf. chalaza. plural: scoli", 
+            "link": "/wiki/External_morphology_of_Lepidoptera", 
+            "name": "scolus"
+        }, 
+        {
+            "def": "Latin term meaning \"in the sense of\".", 
+            "link": "/wiki/Sensu", 
+            "name": "sensu"
+        }, 
+        {
+            "def": "The process of animals accumulating poisonous compounds from the food they are eating in order to become poisonous themselves for their predators. Pyrrolizidine alkaloid sequestration refers to the sequestration of one such class of poisonous compounds.", 
+            "link": null, 
+            "name": "sequestering"
+        }, 
+        {
+            "def": "A stiff chitinous or sclerotised hair or bristle. Also chaeta, cheta", 
+            "link": null, 
+            "name": "seta"
+        }, 
+        {
+            "def": "\n\nbeing like or having the nature of a seta or of setae\nsetose\n\n", 
+            "link": null, 
+            "name": "setaceous"
+        }, 
+        {
+            "def": "bearing, or covered in setae.", 
+            "link": null, 
+            "name": "setose"
+        }, 
+        {
+            "def": "Diminutive of seta. A small chitinous hair or bristle.", 
+            "link": null, 
+            "name": "setula"
+        }, 
+        {
+            "def": "bearing, or covered in setulae.", 
+            "link": null, 
+            "name": "setulose"
+        }, 
+        {
+            "def": "Respiratory openings on the thorax and abdomen that allow air to enter the trachea.", 
+            "link": "/wiki/Spiracle", 
+            "name": "spiracle"
+        }, 
+        {
+            "def": "feeding on mycet spores.", 
+            "link": null, 
+            "name": "sporophagy"
+        }, 
+        {
+            "def": "Prominent cells on the forewings of some moths. Their size, shape and colour can be useful in identifying some species. Also the prominent cell, usually opaque and coloured, near the tip of each wing of the Odonata, on the anterior margin; also called pterostigma.", 
+            "link": null, 
+            "name": "stigma (plural stigmata) "
+        }, 
+        {
+            "def": "Patterns with thin lines.", 
+            "link": null, 
+            "name": "strigae"
+        }, 
+        {
+            "def": "Taxonomically important term used in Diptera identification keys. Part of the schema of wing venation.The second longitudinal wing vein, posterior to the costa. It may reach the costa, fade before the costa or join R1 before it reaches the costa. see [2] (= auxiliary vein of many authors)", 
+            "link": null, 
+            "name": "subcosta"
+        }, 
+        {
+            "def": "(Anatomical feature) suture lines below the gena.", 
+            "link": null, 
+            "name": "subgenal suture"
+        }, 
+        {
+            "def": "a shared ancestral (\"primitive\") character state that cannot be used to demonstrate the monophyly of a group.", 
+            "link": "/wiki/Symplesiomorphy", 
+            "name": "symplesiomorphy"
+        }, 
+        {
+            "def": "a shared homologous and derived character state (evolutionary novelty) that demonstrates the monophyly of a group (clade).", 
+            "link": "/wiki/Synapomorphy", 
+            "name": "synapomorphy"
+        }, 
+        {
+            "def": "a form of reproduction in which the female continues to produce and to mature eggs throughout its life cycle.", 
+            "link": null, 
+            "name": "synovigenic"
+        }, 
+        {
+            "def": "fifth (last) leg segment, the part that touches the walking surface.", 
+            "link": "/wiki/Arthropod_leg#Insects", 
+            "name": "tarsus (plural tarsi)"
+        }, 
+        {
+            "def": "The edge of the wing most distant from the body.", 
+            "link": null, 
+            "name": "termen"
+        }, 
+        {
+            "def": "Along the margin.", 
+            "link": null, 
+            "name": "terminal and marginal "
+        }, 
+        {
+            "def": "The part of the body that lies between the head and the abdomen. It has three parts - prothorax, mesothorax and metathorax.", 
+            "link": "/wiki/Thorax_(insect_anatomy)", 
+            "name": "thorax"
+        }, 
+        {
+            "def": "fourth leg segment, between femur and tarsus.", 
+            "link": "/wiki/Arthropod_leg#Insects", 
+            "name": "tibia"
+        }, 
+        {
+            "def": "a pubescence consisting of soft, entangled hairs pressed close to the surface of the integument.", 
+            "link": null, 
+            "name": "tomentum"
+        }, 
+        {
+            "def": "The posterior corner of the wing.", 
+            "link": null, 
+            "name": "tornus / tornal area"
+        }, 
+        {
+            "def": "second leg segment, between coxa and femur.", 
+            "link": "/wiki/Arthropod_leg#Insects", 
+            "name": "trochanter"
+        }, 
+        {
+            "def": "The mouthparts of Arthropoda such as insects; typically labrum, mandible, maxilla, labium.", 
+            "link": "/wiki/Arthropod_mouthparts#Insects", 
+            "name": "trophi"
+        }, 
+        {
+            "def": "The singular form of trophi (rarely used).", 
+            "link": "/wiki/Arthropod_mouthparts#Insects", 
+            "name": "trophus"
+        }, 
+        {
+            "def": "hook-like, as in the mouthparts of many fly larvae. (also uncinate)", 
+            "link": null, 
+            "name": "uncate"
+        }, 
+        {
+            "def": "hook-like, as in the mouthparts of many fly larvae. (also uncate)", 
+            "link": null, 
+            "name": "uncinate"
+        }, 
+        {
+            "def": "pretarsus the claws at the tip of most insect pretarsi.", 
+            "link": null, 
+            "name": "unguis (plural ungues)"
+        }, 
+        {
+            "def": "a segment or part of the abdomen in insects.", 
+            "link": null, 
+            "name": "urite"
+        }, 
+        {
+            "def": "plate on the dorsal (upper) surface of an abdominal segment in insects.", 
+            "link": null, 
+            "name": "urotergite"
+        }, 
+        {
+            "def": "One of several appendages that combine to form the ovipositor of a typical female insect.", 
+            "link": "/wiki/Valve", 
+            "name": "valve"
+        }, 
+        {
+            "def": "In female Heteroptera valvifers comprise four blades, one pair on each of abdominal segments 8 and 9. They articulate with the paratergites and bear their corresponding valvulae.", 
+            "link": "/w/index.php?title=Valvifer&action=edit&redlink=1", 
+            "name": "valvifer"
+        }, 
+        {
+            "def": "One of four blades in a female Hemipteran with a laciniate type of ovipositor, that combine to form the ovipositing mechanism.", 
+            "link": "/wiki/Valvula", 
+            "name": "valvula"
+        }, 
+        {
+            "def": "Hollow structures formed from the coupling of the upper and lower walls of the wing. They provide both rigidity and flexibility to the wing. (See also Comstock-Needham system.)", 
+            "link": "/wiki/Insect_wing#Venation", 
+            "name": "vein"
+        }, 
+        {
+            "def": "(Anatomical feature) The apex of the head, usually containing ocelli.", 
+            "link": "/wiki/Vertex_(anatomy)", 
+            "name": "vertex"
+        }, 
+        {
+            "def": "covered with numerous thick-set, slender projections resembling short hairs.", 
+            "link": null, 
+            "name": "villose"
+        }, 
+        {
+            "def": "inhabiting wood and consuming mycetes growing in wood or cultivating them for feeding.", 
+            "link": null, 
+            "name": "xylomycetophagy"
+        }, 
+        {
+            "def": "feeding on wood.", 
+            "link": "/wiki/Xylophagy", 
+            "name": "xylophagy"
+        }, 
+        {
+            "def": "feeding on fungus found on other animals.", 
+            "link": null, 
+            "name": "zoomycetophagy"
+        }, 
+        {
+            "def": "feeding on animals, and/or animal matter.", 
+            "link": null, 
+            "name": "zoophagy"
+        }
+    ]
+}

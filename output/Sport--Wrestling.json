@@ -1,0 +1,996 @@
+{
+    "c2": "Sport", 
+    "c3": "Wrestling", 
+    "words": [
+        {
+            "def": "A wrestling event where a company's biggest draws wrestle.[1]", 
+            "link": null, 
+            "name": "A-show"
+        }, 
+        {
+            "def": "A group of a wrestling promotion's top stars who compete at an A-show.[1] (compare B-team)", 
+            "link": null, 
+            "name": "A-team"
+        }, 
+        {
+            "def": "To discontinue a feud, angle, or gimmick suddenly, usually without explanation or due to a lack of fan interest.[1]", 
+            "link": null, 
+            "name": "Abort"
+        }, 
+        {
+            "def": "A term typically only used in Japanese puroresu for a wrestler designated as the face of the promotion. Not necessarily the same as the top champion. Examples of modern aces include Hiroshi Tanahashi in New Japan Pro Wrestling and Suwama in All Japan Pro Wrestling.[3][4]", 
+            "link": null, 
+            "name": "Ace"
+        }, 
+        {
+            "def": "A management employee, often a former wrestler (though it can be a current wrestler or even peer, as is often the case in NXT), who helps wrestlers set up matches, plans storylines, and relays instructions from the bookers. Often acts as a liaison between wrestlers and higher-level management. Referred to as \"producers\" by WWE and sometimes by other companies. Sometimes they help train and teach younger active wrestlers and give criticism.", 
+            "link": null, 
+            "name": "Agent"
+        }, 
+        {
+            "def": "A cooperative relationship developed between two or more wrestlers, whether wrestling as a tag team or in individual matches. Alliances are often formed for the specific purpose of retaining titles between the members of the alliance, or to counter a specific foe or group of foes. The formation of an alliance can be a storyline of its own.[5]", 
+            "link": null, 
+            "name": "Alliance"
+        }, 
+        {
+            "def": "A fictional storyline. An angle usually begins when one wrestler attacks another (physically or verbally), which results in revenge.[2] An angle may be as small as a single match or a vendetta that lasts for years. It is not uncommon to see an angle become retconned due to it not getting over with the fans, or if one of the wrestlers currently involved in the angle is fired.", 
+            "link": null, 
+            "name": "Angle"
+        }, 
+        {
+            "def": "An old-style professional wrestling magazine that sticks to kayfabe articles.[1] The term refers to the magazines at one time connected to journalist Bill Apter, such as Pro Wrestling Illustrated.[1]", 
+            "link": null, 
+            "name": "Apter mag"
+        }, 
+        {
+            "def": "A wrestling event featuring the middle and lower-level talent of a wrestling promotion. Sometimes includes well-known wrestlers making a return or finishing up their career.[1]", 
+            "link": null, 
+            "name": "B-show"
+        }, 
+        {
+            "def": "The group of wrestlers on a B-show.[1] Frequently, the B-team will compete at a venue the same night wrestlers on the A-team are competing in a different event, although a promotion will sometimes schedule an event with B-team wrestlers to test a new market.", 
+            "link": null, 
+            "name": "B-team"
+        }, 
+        {
+            "def": "\nMain article: Face (professional wrestling)\nA wrestler positioned as a hero, who the crowd are typically cheering for in a match. Often simply known as a \"face\".", 
+            "link": null, 
+            "name": "Babyface"
+        }, 
+        {
+            "def": "A boring match.", 
+            "link": null, 
+            "name": "Bathroom break"
+        }, 
+        {
+            "def": "A situation in which a wrestler or other performer is the recipient of a one-sided beating, usually by a group of wrestlers.[1]", 
+            "link": null, 
+            "name": "Beat down"
+        }, 
+        {
+            "def": "\nMain article: Blading (professional wrestling)\nA wrestler intentionally cutting themself to provoke bleeding. Also known as \"juicing\" or \"gigging\".", 
+            "link": null, 
+            "name": "Blading"
+        }, 
+        {
+            "def": "A tag made in a tag team match where the wrestler on the apron tags his partner unbeknownst to them or without their consent. It can also refer to such a tag where the tagger's opponent is unaware a tag has occurred, leaving them open to a blindside attack. Most often occurs when the partner in the ring is thrown against the ropes or backed into their own corner.", 
+            "link": null, 
+            "name": "Blind tag"
+        }, 
+        {
+            "def": "A missed spot", 
+            "link": null, 
+            "name": "Blown spot"
+        }, 
+        {
+            "def": "The final match in a feud.[1] While the involved wrestlers often move onto new feuds, sometimes it is the final match in the promotion for one or more of the wrestlers.[1]", 
+            "link": null, 
+            "name": "Blow off"
+        }, 
+        {
+            "def": "To become exhausted during a match.[1]", 
+            "link": null, 
+            "name": "Blow up"
+        }, 
+        {
+            "def": "To determine and schedule the events of a wrestling card. The person in charge of setting up matches and writing angles is a \"booker\".[1] It is the wrestling equivalent of a screenwriter. A booker can also be described as someone who recruits and hires talent to work in a particular promotion. The United States District Court for the Southern District of Iowa defined a booker in 1956 as \"...any person who, for a fee or commission, arranges with a promoter or promoters for the performance of wrestlers in professional wrestling exhibitions.\"[6] Booking is also the term a wrestler uses to describe a scheduled match or appearance on a wrestling show.[1]", 
+            "link": null, 
+            "name": "Book"
+        }, 
+        {
+            "def": "\nMain article: Botch (professional wrestling)\nTo attempt a scripted move or spoken line that does not come out as it was originally planned.", 
+            "link": null, 
+            "name": "Botch"
+        }, 
+        {
+            "def": "A time limit draw.", 
+            "link": null, 
+            "name": "Broadway"
+        }, 
+        {
+            "def": "To fall on the mat or ground.[1][7] A flat back bump is a bump in which a wrestler lands solidly on their back with high impact, spread over as much surface as possible.[1] A phantom bump occurs when a wrestler or referee takes a bump without a plausible reason (usually due to a botch or other mistake).[1]", 
+            "link": null, 
+            "name": "Bump"
+        }, 
+        {
+            "def": "The worked lowering (relegation) of a popular wrestler's status in the eyes of the fans. It is the act of a promoter or booker causing a wrestler to lose popularity by forcing them to lose in squash matches, continuously, allow opponents to no-sell or kick out of said wrestlers finishing maneuvers, or participate in unentertaining or degrading storylines. It can be a form of punishment for real-life backstage disagreements or feuds between the wrestler and the booker, the wrestler falling out of favor with the company, or the wrestler receiving an unpopular gimmick that causes them to lose credibility regardless of their win-loss record.", 
+            "link": null, 
+            "name": "Burial (also bury)"
+        }, 
+        {
+            "def": "Professional wrestling; instead of \"profession\" or \"sport\".[2]", 
+            "link": null, 
+            "name": "Business"
+        }, 
+        {
+            "def": "To start to bleed, usually from the head after being hit with something like a chair, and typically after blading.", 
+            "link": null, 
+            "name": "Bust open"
+        }, 
+        {
+            "def": "The act of attracting fans to a wrestling event (as in \"putting butts in seats\"). The phrase is in reference to the infamous Tony Schiavone monologue on the January 4, 1999 episode of WCW Monday Nitro where Schiavone spoiled Mankind's WWE Championship win and sarcastically remarked \"That'll put a lot of butts in seats\".", 
+            "link": null, 
+            "name": "Butts in seats"
+        }, 
+        {
+            "def": "An event featuring the lowest level of talent in a promotion. Often used as a derogatory adjective.", 
+            "link": null, 
+            "name": "C-show"
+        }, 
+        {
+            "def": "To instruct the other wrestler of what is going to happen in the match.[1]", 
+            "link": null, 
+            "name": "Call"
+        }, 
+        {
+            "def": "The lineup of the matches that will be staged at a given venue for a given performance.[1] The card is generally performed in a roughly inverse order to the way in which it might be printed for posters or other promotional materials. The major matches between well-known opponents may be for \"titles\" and are said to be \"top of the card\" or \"headliners\" while the preliminary matches between lesser-known opponents are said to be the \"undercard\".", 
+            "link": null, 
+            "name": "Card"
+        }, 
+        {
+            "def": "The act of one wrestler guiding a typically less experienced performer through a match. Also refers to a match or angle in which a particularly skilled performer is able to make an inferior wrestler look good, or is perceived to be doing all the work.", 
+            "link": null, 
+            "name": "Carry"
+        }, 
+        {
+            "def": "A reigning champion's right to retain a title, should he or she lose a championship match by count-out or disqualification.[8] Also called \"champion's advantage\".[9]", 
+            "link": null, 
+            "name": "Championship advantage"
+        }, 
+        {
+            "def": "The incitement of a negative crowd reaction by insulting the crowd en-masse, typically by bringing up something unrelated to the wrestling business.[1][2]", 
+            "link": null, 
+            "name": "Cheap heat"
+        }, 
+        {
+            "def": "The incitement of a positive crowd reaction by \"kissing up\" to the crowd. Heels often follow the same principle but in reverse to get booed (see \"Cheap heat\" above).", 
+            "link": null, 
+            "name": "Cheap pop"
+        }, 
+        {
+            "def": "An underhanded tactic, such as a low blow or a foreign object to get an advantage over an opponent.", 
+            "link": null, 
+            "name": "Cheap shot"
+        }, 
+        {
+            "def": "To draw blood. Most commonly used in British professional wrestling.", 
+            "link": null, 
+            "name": "Claret"
+        }, 
+        {
+            "def": "A match ending without cheating or outside interference, usually in the center of the ring. (Compare \"screwjob\")", 
+            "link": null, 
+            "name": "Clean finish"
+        }, 
+        {
+            "def": "Matches pitting two babyfaces with no storyline animosity against each other, both obeying the rules throughout. Such matches are characterised by an emphasis on displaying technical wrestling skill instead of working the audience and a general air of sportsmanship. Although a staple of British and Japanese wrestling, it is uncommon in North America.[10]", 
+            "link": null, 
+            "name": "Clean wrestling"
+        }, 
+        {
+            "def": "A titleholder (usually a heel) who ducks top-flight competition, cheats to win (often by managerial interference), and\u2014when forced to wrestle good opponents\u2014deliberately causes themself to be disqualified (since titles often do not change hands by disqualification) to retain the title.[1]", 
+            "link": null, 
+            "name": "Closet champion"
+        }, 
+        {
+            "def": "The amount of bloodshed in a match.[1][11][12]", 
+            "link": null, 
+            "name": "Color"
+        }, 
+        {
+            "def": "A match in which a wrestler is being dominated and then manages to turn things around and fight back successfully. Usually done by faces to earn sympathy. The expression \"feeding a comeback\" refers to something heels do to increase the dramatic impact of a comeback.[13] May become a false comeback if ended prematurely. Known informally as \"Hulking up\" in reference to Hulk Hogan's signature comeback trait.", 
+            "link": null, 
+            "name": "Comeback"
+        }, 
+        {
+            "def": "A face covered in blood, comparable to a mask.", 
+            "link": null, 
+            "name": "Crimson mask"
+        }, 
+        {
+            "def": "An event which occurs when two or more rival promotions put together one card or wrestling event. Some promoters have used cross-promotion style angles to further interest. Cross promotion dates back to the early days of wrestling as challenges between rival promoters in the same area often occurred.", 
+            "link": null, 
+            "name": "Cross-promotion"
+        }, 
+        {
+            "def": "A non-televised match at a televised show (compare house show).[1] A dark match before the show is often used to test new talent or warm up the crowd.[1] A dark match after the show typically features main-event level wrestlers, in order to sell more tickets and send the crowd home happy, without affecting TV storylines.", 
+            "link": null, 
+            "name": "Dark match"
+        }, 
+        {
+            "def": "The most violent form of hardcore wrestling, popular in Japan and some and any US Independent promotions, in which lots of blood, graphic violence, wild, violent, and bloodier brawling techniques, and weapons such as barbed wire, panes of glass, fluorescent-light tubes, light bulbs, weed whackers, fire, C4 explosives, thumbtacks and mousetraps that heavily and strongly featured in any and all matches, as well as combined with brawling all over anywhere other than the arena, typically leading to a wild, brutal, bloodier, and more violent contest. See also Hardcore wrestling and Garbage wrestling", 
+            "link": null, 
+            "name": "Deathmatch wrestling"
+        }, 
+        {
+            "def": "An insider newsletter (or website) in the professional wrestling business. Sometimes written in a negative tone or as a means to \"get dirt\". Not to be confused with traditional news.[14]", 
+            "link": null, 
+            "name": "Dirt sheet"
+        }, 
+        {
+            "def": "A tactic used in a tag team match when both members of a tag team gang up on one of the opponents, or a move that involves two wrestlers working in unison.", 
+            "link": null, 
+            "name": "Double team"
+        }, 
+        {
+            "def": "The occurrence when both the face and the heel switch roles during an angle or a match.", 
+            "link": null, 
+            "name": "Double turn"
+        }, 
+        {
+            "def": "A wrestler or program that attracts the attention of the audience; someone fans are willing to pay to see. Derived from the term \"drawing money\", meaning the wrestler makes money for the promotion.[1]", 
+            "link": null, 
+            "name": "Draw"
+        }, 
+        {
+            "def": "To lose a match or championship (the loser agreed to drop the match to the winner).", 
+            "link": null, 
+            "name": "Drop"
+        }, 
+        {
+            "def": "A finish in which the face appears to win a big match, but the decision is later reversed due to some sort of technicality, such as interference by other heels to save the heel champion, as, in most federations, the title could not change hands on such a disqualification. It can also refer to an ambiguous finish to a match where neither wrestler can be claimed the winner.[1] The \"Dusty\" in the term refers to Dusty Rhodes, who booked many such finishes in National Wrestling Alliance (NWA) and later in World Championship Wrestling (WCW).[1]", 
+            "link": null, 
+            "name": "Dusty finish"
+        }, 
+        {
+            "def": "A (typically larger) wrestler who accompanies another to matches and acts as a bodyguard.[1] This term was coined by Arn Anderson, whose nickname was the \"Enforcer\". The term can also refer to an individual who acts in a \"special guest referee\" capacity from outside the ring, ostensibly to maintain order.", 
+            "link": null, 
+            "name": "Enforcer"
+        }, 
+        {
+            "def": "A style of pro wrestling that heavily featured the use of weapons and high spots, as well as weapon strikes.", 
+            "link": null, 
+            "name": "Extreme wrestling"
+        }, 
+        {
+            "def": "In a tag team match, the member of a face team who is dominated by the heel team for an extended period of the match. The tactic can be used to help get the crowd behind the face tag team and is usually followed up with a hot tag. During the 1980s, Ricky Morton of the Rock 'N' Roll Express was typically in this position while teaming with Robert Gibson; so much so that \"playing Ricky Morton\" has become synonymous with the term.", 
+            "link": null, 
+            "name": "Face-in-peril (also playing Ricky Morton)"
+        }, 
+        {
+            "def": "The ending of the match. A fall is obtained by gaining a decision in any manner, normally consisting of a pinfall, submission, count-out, or disqualification. In a two out of three falls match, a wrestler must gain two decisions to win instead of only one. (See near-fall)", 
+            "link": null, 
+            "name": "Fall"
+        }, 
+        {
+            "def": "The first televised show after a pay-per-view", 
+            "link": null, 
+            "name": "Fallout show"
+        }, 
+        {
+            "def": "A brief offensive flurry by a face, before losing momentum back to a heel after being dominated for several minutes.[1] Usually, it occurs before the actual comeback. Also known as a \"hope spot\"", 
+            "link": null, 
+            "name": "False comeback"
+        }, 
+        {
+            "def": "A pinfall attempt which is kicked out of, usually after a finishing move or series of high impact moves, and usually kicked out of just before the referee counts to three. This builds crowd anticipation towards the actual finish.", 
+            "link": null, 
+            "name": "False finish"
+        }, 
+        {
+            "def": "A champion who defends his title often.", 
+            "link": null, 
+            "name": "Fighting champion"
+        }, 
+        {
+            "def": "The planned end of a match.[1] (See Dusty finish and clean finish)", 
+            "link": null, 
+            "name": "Finish"
+        }, 
+        {
+            "def": "A wrestler's signature move that usually leads to the pinfall or submission.", 
+            "link": null, 
+            "name": "Finisher"
+        }, 
+        {
+            "def": "A particular combination of moves that a certain wrestler tends to use in every match, often in the same sequence, usually ending with their finisher. This term is usually used pejoratively, through it was not originally intended so by Dave Meltzer who coined the term in the 1990s to describe the finishing sequence of Bret Hart, and is most notably used today to describe the common finishing moves of John Cena (a.k.a the \"five moves of boredom\" by his detractors).", 
+            "link": null, 
+            "name": "Five moves of doom"
+        }, 
+        {
+            "def": "A weapon that is not allowed to be used in the match. Usually found under the ring or ringside, in a wrestler's tights, or handed to wrestlers by managers, interfering wrestlers or (less commonly) audience members. If a foreign object is used behind the referee's back, it usually leads to a pinfall. However, the same object is typically less effective in a match where it is legal.", 
+            "link": null, 
+            "name": "Foreign object"
+        }, 
+        {
+            "def": "Steroids,[1] or stamina (as in \"out of gas\").", 
+            "link": null, 
+            "name": "Gas"
+        }, 
+        {
+            "def": "Exhausted or out of breath during a match.", 
+            "link": null, 
+            "name": "Gassed"
+        }, 
+        {
+            "def": "The blade a wrestler uses to cut themself.[1]", 
+            "link": null, 
+            "name": "Gig"
+        }, 
+        {
+            "def": "A jobber who defeats \"pure jobbers\" as well as mid-card wrestlers in matches, but consistently loses to main-event level wrestlers.", 
+            "link": null, 
+            "name": "Glorified jobber"
+        }, 
+        {
+            "def": "When a wrestler, heel or face, evokes such a negative reaction that the intended audience, both in the venue and watching at home, would rather turn the channel or leave the venue when that wrestler is performing. The alternate name \"X-Pac Heat\" is a reference to American wrestler Sean Waltman, who regardless if his character was a heel or a face would receive an overwhelmingly negative response from the crowd.", 
+            "link": null, 
+            "name": "Go away heat (also X-Pac Heat)"
+        }, 
+        {
+            "def": "To finish a match. One wrestler will tell the other to \"go home\" when it is time for them to execute the planned ending for their match. Referees may also tell the wrestlers to go home (usually after receiving word to do so from a producer backstage).", 
+            "link": null, 
+            "name": "Go home"
+        }, 
+        {
+            "def": "The final televised show before a pay-per-view event.", 
+            "link": null, 
+            "name": "Go-home show"
+        }, 
+        {
+            "def": "When a wrestler refuses to \"sell\" to their opponent to get themselves more \"over\".", 
+            "link": null, 
+            "name": "Going into business for him/herself"
+        }, 
+        {
+            "def": "A championship belt.", 
+            "link": null, 
+            "name": "Gold"
+        }, 
+        {
+            "def": "To beat someone.[1]", 
+            "link": null, 
+            "name": "Go over"
+        }, 
+        {
+            "def": "The staging area just behind the curtain where wrestlers come out to the ring, named after Gorilla Monsoon.", 
+            "link": null, 
+            "name": "Gorilla position"
+        }, 
+        {
+            "def": "Refers to a wrestler who is in the early stages of their career and, as a result, may be prone to make mistakes because of their inexperience.[1]", 
+            "link": null, 
+            "name": "Green"
+        }, 
+        {
+            "def": "A deep cut that bleeds a lot,[12] usually caused by a mistake while blading but can be intentional.[1]", 
+            "link": null, 
+            "name": "Gusher"
+        }, 
+        {
+            "def": "Wrestler(s) who is or are bleeding by any and all means other than blading.", 
+            "link": null, 
+            "name": "Hardway"
+        }, 
+        {
+            "def": "A move which, as a result of a botch, causes the receiver to be dropped on their head, often resulting in a legit concussion or other injury such as a broken neck. Also, especially in puroresu, the term can refer to a bump which is intended to make a move appear as if the receiver landed on his or her head. In reality, the full force of the move is intended to be taken on the upper back and shoulders, though such moves still carry a high degree of legitimate risk with them.", 
+            "link": null, 
+            "name": "Head drop"
+        }, 
+        {
+            "def": "Negative reactions from the live fans. When the heat is directed at a heel this is seen as a positive, as it means fans are reacting in the desired way. Also used to describe real-life tension or bad feeling between two wrestlers.", 
+            "link": null, 
+            "name": "Heat"
+        }, 
+        {
+            "def": "A wrestler who is the muscle or back up for another wrestler", 
+            "link": null, 
+            "name": "Heater"
+        }, 
+        {
+            "def": "This is the term for a pay-per-view that is written so that all or a majority of heels are victorious over their opposing faces. It builds up satisfaction when the face wins at a later event.", 
+            "link": null, 
+            "name": "Heel pay-per-view"
+        }, 
+        {
+            "def": "Refers to the top turnbuckle. If a wrestler is on the top turnbuckle for a diving attack, then the wrestler is \"in the high rent district\". This term was popularized by Jim Ross.", 
+            "link": null, 
+            "name": "High rent district"
+        }, 
+        {
+            "def": "The top-ring rope moves and/or the series of moves or maneuvers, along with fast motions among two, three, or more wrestlers, that will perceived to be risky and very dangerous.[1]", 
+            "link": null, 
+            "name": "Highspot"
+        }, 
+        {
+            "def": "A wrestler with strong legitimate mat-wrestling abilities and an array of match-ending (or in extreme cases, career ending) holds known as \"hooks\", hence the name.[1] One of the most famous hookers in wrestling history was world champion Lou Thesz.", 
+            "link": null, 
+            "name": "Hooker"
+        }, 
+        {
+            "def": "A wrestler who is physically large but lacks other skills. A match between two large men who use plenty of stiff strikes is sometimes known as a \"hossfest\".", 
+            "link": null, 
+            "name": "Hoss"
+        }, 
+        {
+            "def": "A rushed feud, climax of a feud, or big match on television instead of at a pay-per-view in order to get a short-term boost for business.[1] Also applies to angles or turns that are done for shock value rather than acting as a part of an ongoing storyline.[1]", 
+            "link": null, 
+            "name": "Hotshot"
+        }, 
+        {
+            "def": "In a tag team match, the face's tag to a fresh partner after several minutes of being dominated by both heels, usually immediately followed by the freshly tagged partner getting in a quick burst of offense.[1] Often the hot tag happens after several teases (where the other face is enticed into the ring, only to be stopped by the referee and the heels getting away with illegal tactics.)", 
+            "link": null, 
+            "name": "Hot tag"
+        }, 
+        {
+            "def": "The amount of money drawn at a particular event.", 
+            "link": null, 
+            "name": "House"
+        }, 
+        {
+            "def": "A match that takes place, specifically on pay-per-views, that was not announced on the card before the event.", 
+            "link": null, 
+            "name": "Impromptu match"
+        }, 
+        {
+            "def": "\nMain article: Independent circuit\nA smaller wrestling company that operates at a local (rather than national) level and typically employs freelance wrestlers, as opposed to signing wrestlers to exclusive contracts.", 
+            "link": null, 
+            "name": "independent promotion (also indie promotion)"
+        }, 
+        {
+            "def": "A term used by WWE during their brand extension to reference a match between the Raw, Smackdown, or ECW brands.", 
+            "link": null, 
+            "name": "Interbrand"
+        }, 
+        {
+            "def": "Also known as cross promotion. A match or event involving wrestlers from two or more different promotions competing, usually against each other, on the same card.", 
+            "link": null, 
+            "name": "Interpromotional"
+        }, 
+        {
+            "def": "The act of someone who is not part of the match getting involved; this may involve distracting or assaulting one or more of the participants in the match.", 
+            "link": null, 
+            "name": "Interference"
+        }, 
+        {
+            "def": "A storyline in which a group of wrestlers from one promotion appear in another promotion. In some cases, this happens suddenly without advance warning or notice, and usually involves the invaders attempting to take the promotion over.", 
+            "link": null, 
+            "name": "Invasion storyline"
+        }, 
+        {
+            "def": "Internet wrestling community; the community of social media users (some of them smarks) who discuss pro wrestling online on social media platforms. The WWE has referred to this community as the Internet sports-entertainment community.[16]", 
+            "link": null, 
+            "name": "IWC"
+        }, 
+        {
+            "def": "To wrestle the first match of the card. Refers to the curtain separating the entranceway from backstage. A wrestler commonly booked in this position is a \"curtain jerker\".", 
+            "link": null, 
+            "name": "Jerk the curtain"
+        }, 
+        {
+            "def": "Steroids.[1] Also blood,[2][11] usually from the forehead.[1]", 
+            "link": null, 
+            "name": "Juice"
+        }, 
+        {
+            "def": "To leave one promotion with intentions of performing in another.", 
+            "link": null, 
+            "name": "Jumping ship"
+        }, 
+        {
+            "def": "A wrestler who routinely loses in order to build the credibility of other wrestlers; referred to as \"enhancement talent\".[1]", 
+            "link": null, 
+            "name": "Jobber"
+        }, 
+        {
+            "def": "A slightly higher level of jobber who loses to established stars while still winning squash matches of their own.", 
+            "link": null, 
+            "name": "Jobber to the stars"
+        }, 
+        {
+            "def": "\nMain article: Kayfabe\nThe presentation of professional wrestling as being entirely legitimate or real. Prior to the mid-1980s, this was universally maintained across all wrestling territories and promotions.", 
+            "link": null, 
+            "name": "Kayfabe"
+        }, 
+        {
+            "def": "To use the legs to literally kick or power out of a pin by using the force made to lift the shoulders off the mat.", 
+            "link": null, 
+            "name": "Kick-out"
+        }, 
+        {
+            "def": "Short-form of \"legitimate\". This term refers to real-life incidents or events that have not been booked or scripted and are therefore not part of the fictional and kayfabe presentation. As such, it can also be used to describe a wrestler with a genuine background in another combat sport (typically boxing, other wrestling codes or mixed martial arts) and so who has proven 'real' fighting skills.", 
+            "link": null, 
+            "name": "Legit"
+        }, 
+        {
+            "def": "A wrestler who is not over with an audience and is perceived as a failure.", 
+            "link": null, 
+            "name": "Lemon"
+        }, 
+        {
+            "def": "A portion of a match, usually the very start of the match, where two wrestler join together in a collar-and-elbow tie up.", 
+            "link": null, 
+            "name": "Lock up (also Link up)"
+        }, 
+        {
+            "def": "A wrestler who typically wrestles near the beginning of a show and does not participate in major storylines or matches. Often seen as being at the bottom of a promotion's hierarchy.", 
+            "link": null, 
+            "name": "Low-carder"
+        }, 
+        {
+            "def": "A wrestler, typically, who stands close to the ring, usually in a lumberjack match, in which he or she (and others similarly called upon) are to forcibly return to the ring any competitor who attempts to leave or is expelled therefrom. Usually, in the case of a heel, he or she is actually helping one or more (rarely all) wrestlers.", 
+            "link": null, 
+            "name": "Lumberjack (m)Lumberjill (f)"
+        }, 
+        {
+            "def": "\nMain article: Lucha libre\nMexican professional wrestling. Translates to \"Free fight\" and is sometimes shorten to simply Lucha.", 
+            "link": null, 
+            "name": "Lucha libre"
+        }, 
+        {
+            "def": "The most heavily promoted, typically final match on a card.A wrestler who competes in main events. Typically among the biggest stars in a promotion and considered to be a draw. Also called a \"headliner\".", 
+            "link": null, 
+            "name": "Main event"
+        }, 
+        {
+            "def": "\nMain article: Manager (professional wrestling)\nA performer (usually a non-wrestler) who is paired with one or more wrestlers in order to help them get over. Typically managers will be seen accompanying their wrestlers to the ring and are presented as having some sort of influence or sway over their wrestlers.", 
+            "link": null, 
+            "name": "Manager"
+        }, 
+        {
+            "def": "An informal term used by wrestling fans when discussing WWE's flagship pay-per-view event WrestleMania. The term \"Mania\" is derived from the name of the event and is thought to be more simple to use. The term is also used in professional wrestling as a suffix added on to other words to describe a phenomenon like Hulkamania.", 
+            "link": null, 
+            "name": "Mania"
+        }, 
+        {
+            "def": "A wrestling fan who enthusiastically believes that professional wrestling is not staged, or loses sight of the staged nature of the business while supporting their favorite wrestlers.[17] Also sometimes used by industry insiders to describe a participant in the wrestling industry who believes that any aspect of the industry is more important than the money they can earn; for example, being preoccupied with holding a title belt rather than being paid more.[18] Although this term has lost most of its original meaning over time; the term has been also known to be related to people have little or no knowledge in about the backstage, the industry as a whole or overzealously defends a major company or product while ignoring all other to ever exist. This sub term is called a \"product mark\". (e.g. WWE mark, TNA mark, ROH mark; etc.)", 
+            "link": null, 
+            "name": "Mark"
+        }, 
+        {
+            "def": "A wrestler whose job it is to feud with the future main event stars and help get them ready for the position. Other times, mechanics are the in-ring teachers helping younger wrestlers gain experience and ability.[19]", 
+            "link": null, 
+            "name": "Mechanic"
+        }, 
+        {
+            "def": "A wrestler who is seen as higher than a low-carder but below a main eventer, typically performing in the middle of a show. Often competing for the secondary title of a federation. An \"upper-midcarder\" is a wrestler who can transition between the midcard and occasional main-event programs.[1]", 
+            "link": null, 
+            "name": "Mid-carder"
+        }, 
+        {
+            "def": "A move or series of moves which are mistimed. Also called a \"blown spot\" or sometimes \"mis-selling\".[1]", 
+            "link": null, 
+            "name": "Missed spot"
+        }, 
+        {
+            "def": "Someone who founds or invests in a wrestling promotion for the purpose of being part of the wrestling industry, often willfully or ignorantly disregarding financial risks a profit-focused investor would avoid.", 
+            "link": null, 
+            "name": "Money mark"
+        }, 
+        {
+            "def": "A highly promoted non-title match at or near the end of a card, which is a main selling point for an event.[1]", 
+            "link": null, 
+            "name": "Money match"
+        }, 
+        {
+            "def": "An extremely powerful, seemingly unbeatable wrestler, either face or heel, who often wins matches in a quick, one-sided manner.", 
+            "link": null, 
+            "name": "Monster"
+        }, 
+        {
+            "def": "A manager who does the promos, or all the talking, for a wrestler possessing poor oration skills.[1]", 
+            "link": null, 
+            "name": "Mouthpiece"
+        }, 
+        {
+            "def": "An informal measure among some fans, mostly smarks, of the amount of blood lost by a wrestler during a match. The scale begins at 0.0 Muta (no blood), with 1.0 Muta being equivalent to the blood loss of Great Muta during an infamous 1992 New Japan Pro Wrestling match with Hiroshi Hase.[20]", 
+            "link": null, 
+            "name": "Muta scale"
+        }, 
+        {
+            "def": "An occurrence in which a wrestler's shoulders are pinned to the mat for a count of two, but the wrestler manages to escape before the referee's hand hits the mat a third time, which would signify a pinfall. \"Two-and-a-half count\" or other fractions used to denote even closer \"counts\", such as \"two-and-three-quarters\", are often used many times in matches to build excitement. Occasionally related to a \"false finish\".", 
+            "link": null, 
+            "name": "Near-fall"
+        }, 
+        {
+            "def": "A match that ends in a draw; has no winner. This is often the result of the winning conditions for a match being impossible or unlikely to occur due to the circumstances of the match.", 
+            "link": null, 
+            "name": "No contest"
+        }, 
+        {
+            "def": "To show no reaction to an opponent's offensive moves; a way to demonstrate endurance, appear invulnerable to pain, legitimately undermine an opponent or to illustrate masochistic tendencies. Compare sell.", 
+            "link": null, 
+            "name": "No-sell"
+        }, 
+        {
+            "def": "A wrestler not showing up for a match.[1] No-shows can be staged for storyline purposes. Legitimate no-shows are less frequent, and the offender typically faces disciplinary action.", 
+            "link": null, 
+            "name": "No-show"
+        }, 
+        {
+            "def": "A higher level of heat, when fans are agitated to the point of being legitimately angry or upset.", 
+            "link": null, 
+            "name": "Nuclear heat"
+        }, 
+        {
+            "def": "The wrestler who is next in line for a championship match.", 
+            "link": null, 
+            "name": "Number-one contender"
+        }, 
+        {
+            "def": "One definition describes it as being popular with the audience.[1] Another definition describes it as achieving the desired reaction from the fans. Babyfaces who are over will be cheered, and heels who are over will be booed. Sometimes particular aspects of a performer's presentation may be over (such as a specific move they perform or their ring entrance) without the performer themselves being considered over.", 
+            "link": null, 
+            "name": "Over"
+        }, 
+        {
+            "def": "To show too much of a reaction to an opponent's offense. The match between Hulk Hogan and Shawn Michaels at SummerSlam 2005 gained infamy because Michaels frequently over-sold Hogan's moves.", 
+            "link": null, 
+            "name": "Over-sell"
+        }, 
+        {
+            "def": "A serious, hushed tone used by announcers to indicate a serious situation (i.e. an injury sustained to a wrestler), kayfabe or legit. Term is derived from the way in which Jim Ross addressed the viewers at Over the Edge following Owen Hart's on-air death.", 
+            "link": null, 
+            "name": "The \"Owen\" voice"
+        }, 
+        {
+            "def": "To give out tickets to an event to make it look better attended than it otherwise would have been.", 
+            "link": null, 
+            "name": "Paper"
+        }, 
+        {
+            "def": "A weak or easily beaten champion, usually awarded the title by dubious means.", 
+            "link": null, 
+            "name": "Paper champion"
+        }, 
+        {
+            "def": "A vague, fictional location. Billing a wrestler as being from \"Parts Unknown\" (rather than from his real hometown or another actual place) is intended to add to a wrestler's mystique. In some territories, the phrase commonly was applied to masked wrestlers. In the post-kayfabe era, it is used less and less, and usually with a certain air of levity. Sometimes, wrestlers can hail from other similarly abstract places, for example Stardust being billed from \"The 5th Dimension\" or Damien Demento being billed from \"The Outer Reaches of Your Mind\".[21]", 
+            "link": null, 
+            "name": "Parts Unknown"
+        }, 
+        {
+            "def": "The culmination of an angle or storyline with the intention of providing gratification for the fans. Typically involves a face finally overcoming a dominant heel.", 
+            "link": null, 
+            "name": "Payoff"
+        }, 
+        {
+            "def": "A worked shoot promo where the wrestler giving the promo appears to break kayfabe. The wrestler, usually scripted to be extremely frustrated, can rip anything from their own circumstances, fans, other wrestlers, backstage personnel, even the company itself. Usually the wrestler dropping the pipe bomb will incorporate what fans are already thinking and complaining about. While appearing to be unscripted, backstage personnel are usually aware of them ahead of time and can be used to dramatically alter storylines. This was a term first used by CM Punk.", 
+            "link": null, 
+            "name": "Pipe bomb"
+        }, 
+        {
+            "def": "A wrestler or actor who poses as a fan, usually seated in the front row of an event.[1] Plants are a good tool for a heel wrestler to gain heat from the crowd,[1] although there is a rare instance where said plant attacks the heel wrestler. At major shows, the plant is often a lesser-known wrestler from the independent circuit.[1] Sometimes the plant might be a heel wrestler's kid portraying a young fan who is disappointed in front of the crowd in ways seen as truly mean.", 
+            "link": null, 
+            "name": "Plant"
+        }, 
+        {
+            "def": "A wrestler, often a respected or feared shooter or street fighter, responsible for enforcing the promoter's will against recalcitrant wrestlers by performing unscripted or painful moves within a match, punishing or intimidating them for defying the management. In today's industry it is a largely outdated because such tactics are illegal if they can be proved. Typically it is only still used by dirt rags and outside commentators who believe one wrestler is deliberately placed in matches against more dangerous opponents and injured deliberately after disagreements with management. While allegations of this sort persist, including being made by wrestlers themselves, few have been proven. Also referred to as a \"house shooter\".[1]", 
+            "link": null, 
+            "name": "Policeman"
+        }, 
+        {
+            "def": "A cheer or positive reaction from the crowd.", 
+            "link": null, 
+            "name": "Pop"
+        }, 
+        {
+            "def": "A strike to the head which makes real contact. A wrestler who endures one or more potatoes is likely to potato the perpetrator back, which is known as a \"receipt\".", 
+            "link": null, 
+            "name": "Potato"
+        }, 
+        {
+            "def": "The act of forcefully exiting the ring.", 
+            "link": null, 
+            "name": "Powdering"
+        }, 
+        {
+            "def": "A series of matches in which the same wrestlers face each other.", 
+            "link": null, 
+            "name": "Program"
+        }, 
+        {
+            "def": "An in-character interview or monologue.[1] Often includes either an \"in-ring interview\" or (on television) a skit by wrestlers and other performers to advance a storyline or feud.[1] The act of performing a promo is referred to as \"cutting\", as in \"cutting a promo\". When the promo is aimed at a specific opponent (which can be an individual, team, or stable), it is said to be cut \"on\" the target.", 
+            "link": null, 
+            "name": "Promo"
+        }, 
+        {
+            "def": "A brawl so vicious that the combatants need to be pulled apart by others.", 
+            "link": null, 
+            "name": "Pull apart"
+        }, 
+        {
+            "def": "\nMain article: Push (professional wrestling)\nThe worked rising of a wrestler's status in the eyes of the fans.", 
+            "link": null, 
+            "name": "Push"
+        }, 
+        {
+            "def": "To enhance or make popular a wrestler or gimmick in the eyes of the fans. Also used as a catch-all term for a victory, as in \"He got put over by his opponent tonight\".", 
+            "link": null, 
+            "name": "Put over"
+        }, 
+        {
+            "def": "Originally, along with \"grunt-and-groan\", used by the mainstream media when presenting a derisive story on professional wrestling, which often stereotyped the participants and audience. Now refers to a style of wrestling popular in Memphis, Tennessee and as a result, the southeastern United States, which emphasizes kayfabe and stiffness, generally with fewer squash matches and longer feuds, hence the more recent \"Southern style\" or to be specific compared to the Jim Crockett or Georgia styles, \"Memphis style\".", 
+            "link": null, 
+            "name": "Rasslin' (also \"wrasslin',\" \"Southern style,\" or more specifically, \"Memphis style\")"
+        }, 
+        {
+            "def": "A term for returning a particularly stiff move back to a competitor.", 
+            "link": null, 
+            "name": "Receipt"
+        }, 
+        {
+            "def": "A scenario where the referee of the match takes a bump and is knocked out and taken out of the match.", 
+            "link": null, 
+            "name": "Ref bump"
+        }, 
+        {
+            "def": "When a champion loses his or her title to another, this may be invoked to procure a title rematch in the near future. This fictional clause is often ignored in storylines.", 
+            "link": null, 
+            "name": "Rematch (or return) clause"
+        }, 
+        {
+            "def": "To give a wrestler a new gimmick and ring name.", 
+            "link": null, 
+            "name": "Repackage"
+        }, 
+        {
+            "def": "A loose hold applied during a match, during which wrestlers catch their breath and/or plan the next series of spots together.[1]", 
+            "link": null, 
+            "name": "Rest hold"
+        }, 
+        {
+            "def": "A practical joke played by or on a wrestler.[1]", 
+            "link": null, 
+            "name": "Rib"
+        }, 
+        {
+            "def": "Getting heat with a wrestler who is far more over with the fans in the hopes of working a program with them, and getting a big payday (blow-off match).", 
+            "link": null, 
+            "name": "Ricky Morton money"
+        }, 
+        {
+            "def": "An experienced wrestler who knows how to work a match to its full potential.", 
+            "link": null, 
+            "name": "Ring general"
+        }, 
+        {
+            "def": "The process of wrestling a match in such a way that the crowd becomes emotionally involved in the show. Performing an engaging match requires acting skills and a good grasp of dramatic timing.[22]", 
+            "link": null, 
+            "name": "Ring psychology"
+        }, 
+        {
+            "def": "Similar to a groupie, one who frequents wrestling events to pursue sex with wrestlers.[1][23] Also known as arena rats.", 
+            "link": null, 
+            "name": "Ring rat"
+        }, 
+        {
+            "def": "A detriment to wrestling ability resulting from lack of practice during a hiatus.", 
+            "link": null, 
+            "name": "Ring rust"
+        }, 
+        {
+            "def": "Helping a less popular wrestler get over by associating them with a more prominent wrestler.[24]", 
+            "link": null, 
+            "name": "Rub"
+        }, 
+        {
+            "def": "The unexpected entry of a new wrestler(s) or returning wrestler in a match already in progress.[1] Run-ins are usually made by heels, typically to further a feud with a face.[1] This is usually done with a \"beat down\". Sometimes a babyface will do a run-in to stop a heel from overly punishing a weaker opponent, usually setting up a feud.", 
+            "link": null, 
+            "name": "Run-in"
+        }, 
+        {
+            "def": "A match finish which occurs sooner (and often differently) than planned. It is used when a wrestler is legitimately injured and cannot continue as planned, when the match is approaching its time limit (or a television segment is running long), or after a botch significantly changes the plot of the match.", 
+            "link": null, 
+            "name": "Rushed finish"
+        }, 
+        {
+            "def": "To sabotage a throw by letting one's body go limp instead of cooperating, which makes the throw much harder, if not impossible, to execute. This is typically done deliberately to make the attacker appear weak or unskilled, but can also be the result of a botch. Sandbagging can be dangerous, as many moves require specific actions by the target to lower the risk of injury.[1]", 
+            "link": null, 
+            "name": "Sandbag"
+        }, 
+        {
+            "def": "A crowd of wrestlers in a brawl, designed to end a match or angle.", 
+            "link": null, 
+            "name": "Schmoz"
+        }, 
+        {
+            "def": "A place where professional wrestlers are trained. These may be beginner schools with classes open to the general public, or high-end facilities operated by major companies (such as the WCW Power Plant, WWE Performance Center, TNA's Al Snow Wrestling Academy, or the New Japan Dojo) that accept students on an invite-only basis.", 
+            "link": null, 
+            "name": "School"
+        }, 
+        {
+            "def": "An unfair and controversial finish, often involving cheating or outside interference.[1] A worked screwjob is part of the story, and is used to generate heat or sympathy. A shoot screwjob occurs when the finish is changed without informing the losing wrestler. One of the most famous screwjobs of all time happened at the 1997 Survivor Series, where Shawn Michaels won the WWF Championship from Bret Hart in Montreal.", 
+            "link": null, 
+            "name": "Screwjob"
+        }, 
+        {
+            "def": "Any part of a wrestling show that is not a wrestling match, such as a promo, a comedy sketch, or an interview.", 
+            "link": null, 
+            "name": "Skit"
+        }, 
+        {
+            "def": "To react to an opponent's attacks in a manner that suggests to the audience that the attacks hurt.[1] Variations include \"restoring\", \"medium sell\", \"big sell\" and \"death sell\".[25] Compare no-sell and over-sell.", 
+            "link": null, 
+            "name": "Sell"
+        }, 
+        {
+            "def": "A move regularly performed by a wrestler, for which the wrestler is well known.[26]", 
+            "link": null, 
+            "name": "Signature move"
+        }, 
+        {
+            "def": "A storyline that develops over a long period of time.", 
+            "link": null, 
+            "name": "Slow burn"
+        }, 
+        {
+            "def": "Short for \"smart mark\". Someone who has inside knowledge of the wrestling business, but isn't speaking from their own personal experience with the business. Often used as a term of derision for know-it-all fans.[27]", 
+            "link": null, 
+            "name": "Smark"
+        }, 
+        {
+            "def": "Having inside knowledge of the wrestling business.[1]", 
+            "link": null, 
+            "name": "Smart"
+        }, 
+        {
+            "def": "Any planned action or series of actions in a match.[1] A \"high spot\" is a particularly exciting move.[2] Other variations are the \"comeback spot\", \"hope spot\" and \"take home spot\". (See also: \"missed spot\")", 
+            "link": null, 
+            "name": "Spot"
+        }, 
+        {
+            "def": "The matches that could involve mainly or entirely of spots, along with lots of daredevil stunts and high impact moves, normally with little flow between moves and no logical transitions and with no psychology and no story-telling.", 
+            "link": null, 
+            "name": "Spotfest"
+        }, 
+        {
+            "def": "The wrestling ring.", 
+            "link": null, 
+            "name": "Squared circle"
+        }, 
+        {
+            "def": "An extremely one-sided, usually short match.[1] They generally feature star wrestlers against relatively unknown jobbers, usually to help get a gimmick or moveset over.", 
+            "link": null, 
+            "name": "Squash"
+        }, 
+        {
+            "def": "A team of three or more wrestlers, usually heels, who generally share common motives, allies and adversaries within a storyline (or through multiple storylines).", 
+            "link": null, 
+            "name": "Stable"
+        }, 
+        {
+            "def": "Using excessive force when executing a move, deliberately or accidentally.[1]", 
+            "link": null, 
+            "name": "Stiff"
+        }, 
+        {
+            "def": "A term from the 1990s used to refer to a lucrative contract, such as the one held by Sting in WCW.[28]", 
+            "link": null, 
+            "name": "Sting money"
+        }, 
+        {
+            "def": "Championship belt.", 
+            "link": null, 
+            "name": "Strap"
+        }, 
+        {
+            "def": "The act of causing physical harm to prospective professional wrestlers, usually by the means of submission holds. In the kayfabe period, this served the dual purpose of protecting the wrestling business from accusations of \"being fake\" and instilling humility in newer members of the locker room. A professional wrestling trainer notable for \"stretching\" his recruits was Stu Hart, in the infamous Hart Dungeon. Other wrestlers in various territories who were used to test out potential newcomers were Danny Hodge, Bob Roop, and \"Dr. Death\" Steve Williams.", 
+            "link": null, 
+            "name": "Stretching"
+        }, 
+        {
+            "def": "Any contact made by one wrestler to their opponent (e.g. punches, kicks, chops; etc.). The term is also used to describe a violation of WWE's wellness policy, with three strikes resulting in a wrestler being released from the promotion.", 
+            "link": null, 
+            "name": "Strike"
+        }, 
+        {
+            "def": "A Japanese-inspired professional wrestling style that is worked, yet aims to deliver realistic performances, through strong martial arts strikes and worked shoots.[1]", 
+            "link": null, 
+            "name": "Strong style"
+        }, 
+        {
+            "def": "A sudden change in the direction of a storyline to surprise the fans. Often, it involves one wrestler turning on an ally in order to join a supposed mutual enemy. Swerves frequently start feuds between the former allies. This also refers to when a booker leads fans to believe that something is going to happen (or someone will appear) at a show, before doing something entirely different.[1]", 
+            "link": null, 
+            "name": "Swerve"
+        }, 
+        {
+            "def": "To indicate a turn. A face teases a heel turn if he starts exhibiting heel behaviors and a heel indicates a face turn if he starts exhibiting face behaviors.", 
+            "link": null, 
+            "name": "Tease"
+        }, 
+        {
+            "def": "A video screen above the entrance stage area, used for showing entrance videos, backstage segments and promos. A play on the name of Sony's JumboTron and Titan Sports, the then-parent company of the World Wrestling Federation, the TitanTron was introduced as part of WWF's Raw set in the mid-1990s. The concept has since been adapted by other major promotions.", 
+            "link": null, 
+            "name": "TitanTron"
+        }, 
+        {
+            "def": "A short-reigning champion who serves to move the title indirectly from one wrestler to a third. They are usually used when the title is to be moved between two faces, to avoid requiring them to wrestle each other.", 
+            "link": null, 
+            "name": "Transitional champion"
+        }, 
+        {
+            "def": "A switch in alignment of a wrestler's character. Turns involve a wrestler going from face to heel or vice versa.[1] There are two types of turns, the hard turn (which occurs quickly and acts as a surprise device) and the soft turn (a gradual shift in character).", 
+            "link": null, 
+            "name": "Turn"
+        }, 
+        {
+            "def": "A feud restricted to weekly television that will not culminate on pay-per-view. Often organised to keep a wrestler(s) occupied until the execution of a major storyline.", 
+            "link": null, 
+            "name": "TV feud"
+        }, 
+        {
+            "def": "A morally ambiguous wrestler who is neither a face nor heel (an in betweener),[1] also sometimes describes a heel who is usually cheered or a face who is usually jeered, especially when two faces or two heels face each other.", 
+            "link": null, 
+            "name": "Tweener"
+        }, 
+        {
+            "def": "The state of two or more championships when merged by one champion.", 
+            "link": null, 
+            "name": "Unified"
+        }, 
+        {
+            "def": "The state of a championship not held by any wrestlers.", 
+            "link": null, 
+            "name": "Vacant"
+        }, 
+        {
+            "def": "A person, usually an attractive female, who accompanies a male performer to the ring.[30] Usually serves to titilate or agitate the crowd, or to interfere in the match.[30]", 
+            "link": null, 
+            "name": "Valet"
+        }, 
+        {
+            "def": "Any piece of video footage featuring characters or events which is shown to the audience for the purposes of entertainment or edification. Usually meant to introduce a debuting character or to get a wrestler over before their TV wrestling debut.", 
+            "link": null, 
+            "name": "Vignette"
+        }, 
+        {
+            "def": "A pinfall that the referee does not see, but the crowd does. It is usually followed by a late kickout when the referee eventually sees the pinfall and starts counting. It is used to heighten the drama of a match by showing that the pinning wrestler \"would have had him\".", 
+            "link": null, 
+            "name": "Visual fall"
+        }, 
+        {
+            "def": "Anything planned to happen,[2] from the carnival tradition of \"working the crowd\".[1] The opposite of shoot.", 
+            "link": null, 
+            "name": "Work (noun)"
+        }, 
+        {
+            "def": "To methodically attack a single body part, setting up an appropriate finisher. Also, to deceive or manipulate an audience.", 
+            "link": null, 
+            "name": "Work (verb)"
+        }, 
+        {
+            "def": "Another term for wrestler. Often used in the context of describing skill level (e.g. \"He is a good/bad worker\").", 
+            "link": null, 
+            "name": "Worker"
+        }, 
+        {
+            "def": "The phenomenon of a wrestler seemingly going \"off script\", often revealing elements of out-of-universe reality, but actually doing so as a fully planned part of the show.[31]", 
+            "link": null, 
+            "name": "Worked shoot"
+        }, 
+        {
+            "def": "The in-ring performance level a wrestler puts into their matches, judged by a combination of skill and effort. A wrestler considered talented in the ring has a \"high workrate\".", 
+            "link": null, 
+            "name": "Workrate"
+        }, 
+        {
+            "def": "A term used often to describe kangaroo courts held backstage with a congregation of wrestlers; this is often used to settle backstage disputes between performers.", 
+            "link": null, 
+            "name": "Wrestler's Court"
+        }, 
+        {
+            "def": "A signal used by referees during a match to indicate that a wrestler is unable to continue and may need medical attention. The referee will make an X with his arms and, if necessary, point to the wrestler who is hurt. Since the fans have picked up on the significance of the signal, it is now sometimes used in kayfabe fashion, to sell a storyline injury.", 
+            "link": null, 
+            "name": "X signal"
+        }
+    ]
+}

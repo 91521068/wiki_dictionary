@@ -1,0 +1,1256 @@
+{
+    "c2": "Mathematics", 
+    "c3": "areas of mathematics", 
+    "words": [
+        {
+            "def": "Absolute differential calculus: the original name for tensor calculus developed around 1890.", 
+            "link": "/wiki/Tensor", 
+            "name": "Absolute differential calculus"
+        }, 
+        {
+            "def": "Absolute geometry: an extension of ordered geometry that is sometimes referred to as neutral geometry because its axiom system is neutral to the parallel postulate.", 
+            "link": "/wiki/Absolute_geometry", 
+            "name": "Absolute geometry"
+        }, 
+        {
+            "def": "Abstract algebra: the study of algebraic structures and their properties. Originally it was known as modern algebra.", 
+            "link": "/wiki/Abstract_algebra", 
+            "name": "Abstract algebra"
+        }, 
+        {
+            "def": "Abstract analytic number theory: a branch mathematics that take ideas from classical analytic number theory and applies them to various other areas of mathematics.", 
+            "link": "/wiki/Abstract_analytic_number_theory", 
+            "name": "Abstract analytic number theory"
+        }, 
+        {
+            "def": "Abstract differential geometry: a form of differential geometry without the notion of smoothness from calculus. Instead it is built using sheaf theory and sheaf cohomology.", 
+            "link": "/wiki/Abstract_differential_geometry", 
+            "name": "Abstract differential geometry"
+        }, 
+        {
+            "def": "Abstract harmonic analysis: a modern branch of harmonic analysis that extends upon the generalized Fourier transforms that can be defined on locally compact groups.", 
+            "link": "/wiki/Abstract_harmonic_analysis", 
+            "name": "Abstract harmonic analysis"
+        }, 
+        {
+            "def": "Additive combinatorics: the part of arithmetic combinatorics devoted to the operations of addition and subtraction.", 
+            "link": "/wiki/Additive_combinatorics", 
+            "name": "Additive combinatorics"
+        }, 
+        {
+            "def": "Additive number theory: a part of number theory that studies subsets of integers and their behaviour under addition.", 
+            "link": "/wiki/Additive_number_theory", 
+            "name": "Additive number theory"
+        }, 
+        {
+            "def": "Affine geometry: a branch of geometry that is centered on the study of geometric properties that remain unchanged by affine transformations. It can be described as a generalization of Euclidean geometry.", 
+            "link": "/wiki/Affine_geometry", 
+            "name": "Affine geometry"
+        }, 
+        {
+            "def": "Affine geometry of curves: the study of curves in affine space.", 
+            "link": "/wiki/Affine_geometry_of_curves", 
+            "name": "Affine geometry of curves"
+        }, 
+        {
+            "def": "Affine differential geometry: a type of differential geometry dedicated to differential invariants under volume-preserving affine transformations.", 
+            "link": "/wiki/Affine_differential_geometry", 
+            "name": "Affine differential geometry"
+        }, 
+        {
+            "def": "Ahlfors theory: a part of complex analysis being the geometric counterpart of Nevanlinna theory. It was invented by Lars Ahlfors", 
+            "link": "/wiki/Ahlfors_theory", 
+            "name": "Ahlfors theory"
+        }, 
+        {
+            "def": "Algebra: a major part of pure mathematics centered on operations and relations. Beginning with elementary algebra, it introduces the concept of variables and how these can be manipulated towards problem solving; known as equation solving. Generalizations of operations and relations defined on sets have led to the idea of an algebraic structure which are studied in abstract algebra. Other branches of algebra include universal algebra, linear algebra and multilinear algebra.", 
+            "link": "/wiki/Algebra", 
+            "name": "Algebra"
+        }, 
+        {
+            "def": "Algebraic analysis: motivated by systems of linear partial differential equations, it is a branch of algebraic geometry and algebraic topology that uses methods from sheaf theory and complex analysis, to study the properties and generalizations of functions. It was started by Mikio Sato.", 
+            "link": "/wiki/Algebraic_analysis", 
+            "name": "Algebraic analysis"
+        }, 
+        {
+            "def": "Algebraic combinatorics: an area that employs methods of abstract algebra to problems of combinatorics. It also refers to the application of methods from combinatorics to problems in abstract algebra.", 
+            "link": "/wiki/Algebraic_combinatorics", 
+            "name": "Algebraic combinatorics"
+        }, 
+        {
+            "def": "Algebraic computation: see symbolic computation.", 
+            "link": "/wiki/Algebraic_computation", 
+            "name": "Algebraic computation"
+        }, 
+        {
+            "def": "Algebraic geometry: a branch that combines techniques from abstract algebra with the language and problems of geometry. Fundamentally, it studies algebraic varieties.", 
+            "link": "/wiki/Algebraic_geometry", 
+            "name": "Algebraic geometry"
+        }, 
+        {
+            "def": "Algebraic graph theory: a branch of graph theory in which methods are taken from algebra and employed to problems about graphs. The methods are commonly taken from group theory and linear algebra.", 
+            "link": "/wiki/Algebraic_graph_theory", 
+            "name": "Algebraic graph theory"
+        }, 
+        {
+            "def": "Algebraic K-theory: an important part of homological algebra concerned with defining and applying a certain sequence of functors from rings to abelian groups.", 
+            "link": "/wiki/Algebraic_K-theory", 
+            "name": "Algebraic K-theory"
+        }, 
+        {
+            "def": "Algebraic number theory: a part of algebraic geometry devoted to the study of the points of the algebraic varieties whose coordinates belong to an algebraic number field. It is a major branch of number theory and is also said to study algebraic structures related to algebraic integers.", 
+            "link": "/wiki/Algebraic_number_theory", 
+            "name": "Algebraic number theory"
+        }, 
+        {
+            "def": "Algebraic statistics: the use of algebra to advance statistics, although the term is sometimes restricted to label the use of algebraic geometry and commutative algebra in statistics.", 
+            "link": "/wiki/Algebraic_statistics", 
+            "name": "Algebraic statistics"
+        }, 
+        {
+            "def": "Algebraic topology: a branch that uses tools from abstract algebra for topology to study topological spaces.", 
+            "link": "/wiki/Algebraic_topology", 
+            "name": "Algebraic topology"
+        }, 
+        {
+            "def": "Algorithmic number theory: also known as computational number theory, it is the study of algorithms for performing number theoretic computations.", 
+            "link": "/wiki/Algorithmic_number_theory", 
+            "name": "Algorithmic number theory"
+        }, 
+        {
+            "def": "Anabelian geometry: an area of study based on the theory proposed by Alexander Grothendieck in the 1980s that describes the way a geometric object of an algebraic variety (such as an algebraic fundamental group) can be mapped into another object, without it being an abelian group.", 
+            "link": "/wiki/Anabelian_geometry", 
+            "name": "Anabelian geometry"
+        }, 
+        {
+            "def": "Analysis: a rigorous branch of pure mathematics that had its beginnings in the formulation of infinitesimal calculus. (Then it was known as infinitesimal analysis.) The classical forms of analysis are real analysis and its extension complex analysis, whilst more modern forms are those such as functional analysis.", 
+            "link": "/wiki/Mathematical_analysis", 
+            "name": "Analysis"
+        }, 
+        {
+            "def": "Analytic combinatorics: part of enumerative combinatorics where methods of complex analysis are applied to generating functions.", 
+            "link": "/wiki/Analytic_combinatorics", 
+            "name": "Analytic combinatorics"
+        }, 
+        {
+            "def": "Analytic geometry: usually this refer to the study of geometry using a coordinate system (also known as Cartesian geometry). Alternatively it can refer to the geometry of analytic varieties. In this respect it is essentially equivalent to real and complex algebraic geometry.", 
+            "link": "/wiki/Analytic_geometry", 
+            "name": "Analytic geometry"
+        }, 
+        {
+            "def": "Analytic number theory: part of number theory using methods of analysis (as opposed to algebraic number theory)", 
+            "link": "/wiki/Analytic_number_theory", 
+            "name": "Analytic number theory"
+        }, 
+        {
+            "def": "Applied mathematics: a combination of various parts of mathematics that concern a variety of mathematical methods that can be applied to practical and theoretical problems. Typically the methods used are for science, engineering, finance, economics and logistics.", 
+            "link": "/wiki/Applied_mathematics", 
+            "name": "Applied mathematics"
+        }, 
+        {
+            "def": "Approximation theory: part of analysis that studies how well functions can be approximated by simpler ones (such as polynomials or trigonometric polynomials)", 
+            "link": "/wiki/Approximation_theory", 
+            "name": "Approximation theory"
+        }, 
+        {
+            "def": "Arakelov geometry: also known as Arakelov theory", 
+            "link": "/wiki/Arakelov_geometry", 
+            "name": "Arakelov geometry"
+        }, 
+        {
+            "def": "Arakelov theory: an approach to Diophantine geometry used to study Diophantine equations in higher dimensions (using techniques from algebraic geometry). It is named after Suren Arakelov.", 
+            "link": "/wiki/Arakelov_theory", 
+            "name": "Arakelov theory"
+        }, 
+        {
+            "def": "Arithmetic: to most people this refers to the branch known as elementary arithmetic dedicated to the usage of addition, subtraction, multiplication and division. However arithmetic also includes higher arithmetic referring to advanced results from number theory.", 
+            "link": "/wiki/Arithmetic", 
+            "name": "Arithmetic"
+        }, 
+        {
+            "def": "Arithmetic algebraic geometry: see arithmetic geometry", 
+            "link": "/wiki/Arithmetic_algebraic_geometry", 
+            "name": "Arithmetic algebraic geometry"
+        }, 
+        {
+            "def": "Arithmetic combinatorics: the study of the estimates from combinatorics that are associated with arithmetic operations such as addition, subtraction, multiplication and division.", 
+            "link": "/wiki/Arithmetic_combinatorics", 
+            "name": "Arithmetic combinatorics"
+        }, 
+        {
+            "def": "Arithmetic geometry: the study of schemes of finite type over the spectrum of the ring of integers", 
+            "link": "/wiki/Arithmetic_geometry", 
+            "name": "Arithmetic geometry"
+        }, 
+        {
+            "def": "Arithmetic topology: a combination of algebraic number theory and topology studying analogies between prime ideals and knots", 
+            "link": "/wiki/Arithmetic_topology", 
+            "name": "Arithmetic topology"
+        }, 
+        {
+            "def": "Arithmetical algebraic geometry: an alternative name for arithmetic algebraic geometry", 
+            "link": "/wiki/Arithmetical_algebraic_geometry", 
+            "name": "Arithmetical algebraic geometry"
+        }, 
+        {
+            "def": "Asymptotic theory: the study of asymptotic expansions", 
+            "link": "/wiki/Asymptotic_theory", 
+            "name": "Asymptotic theory"
+        }, 
+        {
+            "def": "Auslander\u2013Reiten theory: the study of the representation theory of Artinian rings", 
+            "link": "/wiki/Auslander%E2%80%93Reiten_theory", 
+            "name": "Auslander\u2013Reiten theory"
+        }, 
+        {
+            "def": "Axiomatic geometry: see synthetic geometry.", 
+            "link": null, 
+            "name": "Axiomatic geometry"
+        }, 
+        {
+            "def": "Axiomatic set theory: the study of systems of axioms in a context relevant to set theory and mathematical logic.", 
+            "link": "/wiki/Axiomatic_set_theory", 
+            "name": "Axiomatic set theory"
+        }, 
+        {
+            "def": "Bifurcation theory: the study of changes in the qualitative or topological structure of a given family. It is a part of dynamical systems theory", 
+            "link": "/wiki/Bifurcation_theory", 
+            "name": "Bifurcation theory"
+        }, 
+        {
+            "def": "Birational geometry: a part of algebraic geometry that deals with the geometry (of an algebraic variety) that is dependent only on its function field.", 
+            "link": "/wiki/Birational_geometry", 
+            "name": "Birational geometry"
+        }, 
+        {
+            "def": "Bolyai-Lobachevskian geometry: see hyperbolic geometry.", 
+            "link": null, 
+            "name": "Bolyai-Lobachevskian geometry"
+        }, 
+        {
+            "def": "Cartesian geometry: see analytic geometry", 
+            "link": "/wiki/Cartesian_geometry", 
+            "name": "Cartesian geometry"
+        }, 
+        {
+            "def": "Calculus: a branch usually associated with limits, functions, derivatives, integrals and infinite series. It forms the basis of classical analysis, and historically was called the calculus of infinitesimals or infinitesimal calculus. Now it can refer to a system of calculation guided by symbolic manipulation.", 
+            "link": "/wiki/Calculus", 
+            "name": "Calculus"
+        }, 
+        {
+            "def": "Calculus of infinitesimals: also known as infinitesimal calculus. It is a branch of calculus built upon the concepts of infinitesimals.", 
+            "link": "/wiki/Infinitesimal_calculus", 
+            "name": "Calculus of infinitesimals"
+        }, 
+        {
+            "def": "Calculus of moving surfaces: an extension of the theory of tensor calculus to include deforming manifolds.", 
+            "link": "/wiki/Calculus_of_moving_surfaces", 
+            "name": "Calculus of moving surfaces"
+        }, 
+        {
+            "def": "Calculus of variations: the field dedicated to maximizing or minimizing functionals. It used to be called functional calculus.", 
+            "link": "/wiki/Calculus_of_variations", 
+            "name": "Calculus of variations"
+        }, 
+        {
+            "def": "Catastrophe theory: a branch of bifurcation theory from dynamical systems theory, and also a special case of the more general singularity theory from geometry. It analyses the germs of the catastrophe geometries.", 
+            "link": "/wiki/Catastrophe_theory", 
+            "name": "Catastrophe theory"
+        }, 
+        {
+            "def": "Categorical logic: a branch of category theory adjacent to the mathematical logic. It is based on type theory for intuitionistic logics.", 
+            "link": "/wiki/Categorical_logic", 
+            "name": "Categorical logic"
+        }, 
+        {
+            "def": "Category theory: the study of the properties of particular mathematical concepts by formalising them as collections of objects and arrows.", 
+            "link": "/wiki/Category_theory", 
+            "name": "Category theory"
+        }, 
+        {
+            "def": "Chaos theory: the study of the behaviour of dynamical systems that are highly sensitive to their initial conditions.", 
+            "link": "/wiki/Chaos_theory", 
+            "name": "Chaos theory"
+        }, 
+        {
+            "def": "Character theory: a branch of group theory that studies the characters of group representations or modular representations.", 
+            "link": "/wiki/Character_theory", 
+            "name": "Character theory"
+        }, 
+        {
+            "def": "Class field theory: a branch of algebraic number theory that studies abelian extensions of number fields.", 
+            "link": "/wiki/Class_field_theory", 
+            "name": "Class field theory"
+        }, 
+        {
+            "def": "Classical differential geometry: also known as Euclidean differential geometry. see Euclidean differential geometry.", 
+            "link": "/wiki/Differential_geometry", 
+            "name": "Classical differential geometry"
+        }, 
+        {
+            "def": "Classical analysis: usually refers to the more traditional topics of analysis such as real analysis and complex analysis. It includes any work that does not use techniques from functional analysis and is sometimes called hard analysis. However it may also refer to mathematical analysis done according to the principles of classical mathematics.", 
+            "link": "/wiki/Classical_analysis", 
+            "name": "Classical analysis"
+        }, 
+        {
+            "def": "Classical Euclidean geometry: see Euclidean geometry", 
+            "link": "/wiki/Euclidean_geometry", 
+            "name": "Classical Euclidean geometry"
+        }, 
+        {
+            "def": "Classical geometry: may refer to solid geometry or classical Euclidean geometry. See geometry", 
+            "link": null, 
+            "name": "Classical geometry"
+        }, 
+        {
+            "def": "Classical invariant theory: the form of invariant theory that deals with describing polynomial functions that are invariant under transformations from a given linear group.", 
+            "link": "/wiki/Invariant_theory", 
+            "name": "Classical invariant theory"
+        }, 
+        {
+            "def": "Classical mathematics: the standard approach to mathematics based on classical logic and ZFC set theory.", 
+            "link": "/wiki/Classical_mathematics", 
+            "name": "Classical mathematics"
+        }, 
+        {
+            "def": "Clifford analysis: the study of Dirac operators and Dirac type operators from geometry and analysis using clifford algebras.", 
+            "link": "/wiki/Clifford_analysis", 
+            "name": "Clifford analysis"
+        }, 
+        {
+            "def": "Clifford theory is a branch of representation theory spawned from Cliffords theorem.", 
+            "link": "/wiki/Clifford_theory", 
+            "name": "Clifford theory"
+        }, 
+        {
+            "def": "Combinatorial commutative algebra: a discipline viewed as the intersection between commutative algebra and combinatorics. It frequently employs methods from one to address problems arising in the other. Polyhedral geometry also plays a significant role.", 
+            "link": "/wiki/Combinatorial_commutative_algebra", 
+            "name": "Combinatorial commutative algebra"
+        }, 
+        {
+            "def": "Combinatorial design theory: a part of combinatorial mathematics that deals with the existence and construction of systems of fintie sets whose intersections have certain properties.", 
+            "link": "/wiki/Combinatorial_design_theory", 
+            "name": "Combinatorial design theory"
+        }, 
+        {
+            "def": "Combinatorial geometry: see discrete geometry", 
+            "link": "/wiki/Combinatorial_geometry", 
+            "name": "Combinatorial geometry"
+        }, 
+        {
+            "def": "Combinatorial group theory: the theory of free groups and the presentation of a group. It is closely related to geometric group theory and is applied in geometric topology.", 
+            "link": "/wiki/Combinatorial_group_theory", 
+            "name": "Combinatorial group theory"
+        }, 
+        {
+            "def": "Combinatorial set theory: also known as Infinitary combinatorics. see infinitary combinatorics", 
+            "link": "/wiki/Combinatorial_set_theory", 
+            "name": "Combinatorial set theory"
+        }, 
+        {
+            "def": "Combinatorial topology: an old name for algebraic topology, when topological invariants of spaces were regarded as derived from combinatorial decompositions.", 
+            "link": "/wiki/Combinatorial_topology", 
+            "name": "Combinatorial topology"
+        }, 
+        {
+            "def": "Combinatorics: a branch of discrete mathematics concerned with countable structures. Branches of it include enumerative combinatorics, combinatorial design theory, matroid theory, extremal combinatorics and algebraic combinatorics, as well as many more.", 
+            "link": "/wiki/Combinatorics", 
+            "name": "Combinatorics"
+        }, 
+        {
+            "def": "Commutative algebra: a branch of abstract algebra studying commutative rings.", 
+            "link": "/wiki/Commutative_algebra", 
+            "name": "Commutative algebra"
+        }, 
+        {
+            "def": "Complex algebraic geometry: the mainstream of algebraic geometry devoted to the study of the complex points of algebraic varieties.", 
+            "link": "/wiki/Complex_algebraic_geometry", 
+            "name": "Complex algebraic geometry"
+        }, 
+        {
+            "def": "Complex analysis: a part of analysis that deals with functions of a complex variable.", 
+            "link": "/wiki/Complex_analysis", 
+            "name": "Complex analysis"
+        }, 
+        {
+            "def": "Complex analytic dynamics: a subdivision of complex dynamics being the study of the dynamic systems defined by analytic functions.", 
+            "link": "/wiki/Complex_analytic_dynamics", 
+            "name": "Complex analytic dynamics"
+        }, 
+        {
+            "def": "Complex analytic geometry: the application of complex numbers to plane geometry.", 
+            "link": "/wiki/Complex_analytic_geometry", 
+            "name": "Complex analytic geometry"
+        }, 
+        {
+            "def": "Complex differential geometry: a branch of differential geometry that studies complex manifolds.", 
+            "link": "/wiki/Differential_geometry", 
+            "name": "Complex differential geometry"
+        }, 
+        {
+            "def": "Complex dynamics: the study of dynamical systems defined by iterated functions on complex number spaces.", 
+            "link": "/wiki/Complex_dynamics", 
+            "name": "Complex dynamics"
+        }, 
+        {
+            "def": "Complex geometry: the study of complex manifolds and functions of complex variables. It includes complex algebraic geometry and complex analytic geometry.", 
+            "link": "/wiki/Complex_geometry", 
+            "name": "Complex geometry"
+        }, 
+        {
+            "def": "Complexity theory: the study of complex systems with the inclusion of the theory of complex systems.", 
+            "link": "/wiki/Complexity_theory_(disambiguation)", 
+            "name": "Complexity theory"
+        }, 
+        {
+            "def": "Computable analysis: the study of which parts of real analysis and functional analysis can be carried out in a computable manner. It is closely related to constructive analysis.", 
+            "link": "/wiki/Computable_analysis", 
+            "name": "Computable analysis"
+        }, 
+        {
+            "def": "Computable model theory: a branch of model theory dealing with the relevant questions computability.", 
+            "link": "/wiki/Computable_model_theory", 
+            "name": "Computable model theory"
+        }, 
+        {
+            "def": "Computability theory: a branch of mathematical logic originating in the 1930s with the study of computable functions and Turing degrees, but now includes the study of generalized computability and definability. It overlaps with proof theory and effective descriptive set theory.", 
+            "link": "/wiki/Computability_theory", 
+            "name": "Computability theory"
+        }, 
+        {
+            "def": "Computational complexity theory: a branch of mathematics and theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other.", 
+            "link": "/wiki/Computational_complexity_theory", 
+            "name": "Computational complexity theory"
+        }, 
+        {
+            "def": "Computational group theory: the study of groups by means of computers.", 
+            "link": "/wiki/Computational_group_theory", 
+            "name": "Computational group theory"
+        }, 
+        {
+            "def": "Computational mathematics: the mathematical research in areas of science where computing plays an essential role.", 
+            "link": "/wiki/Computational_mathematics", 
+            "name": "Computational mathematics"
+        }, 
+        {
+            "def": "Computational number theory: also known as algorithmic number theory, it is the study of algorithms for performing number theoretic computations.", 
+            "link": "/wiki/Computational_number_theory", 
+            "name": "Computational number theory"
+        }, 
+        {
+            "def": "Computer algebra: see symbolic computation", 
+            "link": "/wiki/Computer_algebra", 
+            "name": "Computer algebra"
+        }, 
+        {
+            "def": "Conformal geometry: the study of conformal transformations on a space.", 
+            "link": "/wiki/Conformal_geometry", 
+            "name": "Conformal geometry"
+        }, 
+        {
+            "def": "Constructive analysis: mathematical analysis done according to the principles of constructive mathematics. This differs from classical analysis.", 
+            "link": "/wiki/Constructive_analysis", 
+            "name": "Constructive analysis"
+        }, 
+        {
+            "def": "Constructive function theory: a branch of analysis that is closely related to approximation theory, studying the connection between the smoothness of a function and its degree of approximation", 
+            "link": "/wiki/Constructive_function_theory", 
+            "name": "Constructive function theory"
+        }, 
+        {
+            "def": "Constructive mathematics: mathematics which tends to use intuitionistic logic. Essentially that is classical logic but without the assumption that the law of the excluded middle is an axiom.", 
+            "link": "/wiki/Constructive_mathematics", 
+            "name": "Constructive mathematics"
+        }, 
+        {
+            "def": "Constructive quantum field theory: a branch of mathematical physics that is devoted to showing that quantum theory is mathematically compatible with special relativity.", 
+            "link": "/wiki/Constructive_quantum_field_theory", 
+            "name": "Constructive quantum field theory"
+        }, 
+        {
+            "def": "Contact geometry: a branch of differential geometry and topology, closely related to and considered the odd-dimensional counterpart of symplectic geometry. It is the study of a geometric structure called a contact structure on a differentiable manifold.", 
+            "link": "/wiki/Contact_geometry", 
+            "name": "Contact geometry"
+        }, 
+        {
+            "def": "Convex analysis: the study of properties of convex functions and convex sets.", 
+            "link": "/wiki/Convex_analysis", 
+            "name": "Convex analysis"
+        }, 
+        {
+            "def": "Convex geometry: part of geometry devoted to the study of convex sets.", 
+            "link": "/wiki/Convex_geometry", 
+            "name": "Convex geometry"
+        }, 
+        {
+            "def": "Coordinate geometry: see analytic geometry", 
+            "link": "/wiki/Coordinate_geometry", 
+            "name": "Coordinate geometry"
+        }, 
+        {
+            "def": "CR geometry: a branch of differential geometry, being the study of CR manifolds.", 
+            "link": "/wiki/CR_geometry", 
+            "name": "CR geometry"
+        }, 
+        {
+            "def": "Descriptive set theory: a part of mathematical logic, more specifically a part of set theory dedicated to the study of Polish spaces.", 
+            "link": "/wiki/Descriptive_set_theory", 
+            "name": "Descriptive set theory"
+        }, 
+        {
+            "def": "Differential algebraic geometry: the adaption of methods and concepts from algebraic geometry to systems of algebraic differential equations.", 
+            "link": "/wiki/Differential_algebraic_geometry", 
+            "name": "Differential algebraic geometry"
+        }, 
+        {
+            "def": "Differential calculus: a subfield of calculus concerned with derivatives or the rates that quantities change. It is one of two traditional divisions of calculus, the other being integral calculus.", 
+            "link": "/wiki/Differential_calculus", 
+            "name": "Differential calculus"
+        }, 
+        {
+            "def": "Differential Galois theory: the study of the Galois groups of differential fields.", 
+            "link": "/wiki/Differential_Galois_theory", 
+            "name": "Differential Galois theory"
+        }, 
+        {
+            "def": "Differential geometry: a form of geometry that uses techniques from integral and differential calculus as well as linear and multilinear algebra to study problems in geometry. Classically, these were problems of Euclidean geometry, although now it has been expanded. It is generally concerned with geometric structures on differentiable manifolds. It is closely related to differential topology.", 
+            "link": "/wiki/Differential_geometry", 
+            "name": "Differential geometry"
+        }, 
+        {
+            "def": "Differential geometry of curves: the study of smooth curves in Euclidean space by using techniques from differential geometry", 
+            "link": "/wiki/Differential_geometry_of_curves", 
+            "name": "Differential geometry of curves"
+        }, 
+        {
+            "def": "Differential geometry of surfaces: the study of smooth surfaces with various additional structures using the techniques of differential geometry.", 
+            "link": "/wiki/Differential_geometry_of_surfaces", 
+            "name": "Differential geometry of surfaces"
+        }, 
+        {
+            "def": "Differential topology: a branch of topology that deals with differentiable functions on differentiable manifolds.", 
+            "link": "/wiki/Differential_topology", 
+            "name": "Differential topology"
+        }, 
+        {
+            "def": "Diophantine geometry: in general the study of algebraic varieties over fields that are finitely generated over their prime fields.", 
+            "link": "/wiki/Diophantine_geometry", 
+            "name": "Diophantine geometry"
+        }, 
+        {
+            "def": "Discrete Morse theory: a combinatorial adaption of Morse theory.", 
+            "link": "/wiki/Discrete_Morse_theory", 
+            "name": "Discrete Morse theory"
+        }, 
+        {
+            "def": "Donaldson theory: the study of smooth 4-manifolds using gauge theory.", 
+            "link": "/wiki/Donaldson_theory", 
+            "name": "Donaldson theory"
+        }, 
+        {
+            "def": "Econometrics: the application of mathematical and statistical methods to economic data.", 
+            "link": "/wiki/Econometrics", 
+            "name": "Econometrics"
+        }, 
+        {
+            "def": "Effective descriptive set theory: a branch of descriptive set theory dealing with set of real numbers that have lightface definitions. It uses aspects of computability theory.", 
+            "link": "/wiki/Effective_descriptive_set_theory", 
+            "name": "Effective descriptive set theory"
+        }, 
+        {
+            "def": "Elementary algebra: a fundamental form of algebra extending on elementary arithmetic to include the concept of variables.", 
+            "link": "/wiki/Elementary_algebra", 
+            "name": "Elementary algebra"
+        }, 
+        {
+            "def": "Elementary arithmetic: the simplified portion of arithmetic considered necessary for primary education. It includes the usage addition, subtraction, multiplication and division of the natural numbers. It also includes the concept of fractions and negative numbers.", 
+            "link": "/wiki/Elementary_arithmetic", 
+            "name": "Elementary arithmetic"
+        }, 
+        {
+            "def": "Elementary mathematics: parts of mathematics frequently taught at the primary and secondary school levels. This includes elementary arithmetic, geometry, probability and statistics, elementary algebra and trigonometry. (calculus is not usually considered a part)", 
+            "link": "/wiki/Elementary_mathematics", 
+            "name": "Elementary mathematics"
+        }, 
+        {
+            "def": "Elementary group theory: the study of the basics of group theory", 
+            "link": "/wiki/Elementary_group_theory", 
+            "name": "Elementary group theory"
+        }, 
+        {
+            "def": "Elimination theory: the classical name for algorithmic approaches to eliminating between polynomials of several variables. It is a part of commutative algebra and algebraic geometry.", 
+            "link": "/wiki/Elimination_theory", 
+            "name": "Elimination theory"
+        }, 
+        {
+            "def": "Elliptic geometry: a type of non-Euclidean geometry (it violates Euclid's parallel postulate) and is based on spherical geometry. It is constructed in elliptic space.", 
+            "link": "/wiki/Elliptic_geometry", 
+            "name": "Elliptic geometry"
+        }, 
+        {
+            "def": "Enumerative combinatorics: an area of combinatorics that deals with the number of ways that certain patterns can be formed.", 
+            "link": "/wiki/Enumerative_combinatorics", 
+            "name": "Enumerative combinatorics"
+        }, 
+        {
+            "def": "Enumerative geometry: a branch of algebraic geometry concerned with counting the number of solutions to geometric questions. This is usually done by means of intersection theory.", 
+            "link": "/wiki/Enumerative_geometry", 
+            "name": "Enumerative geometry"
+        }, 
+        {
+            "def": "Ergodic Ramsey theory: a branch where problems are motivated by additive combinatorics and solved using ergodic theory.", 
+            "link": "/wiki/Ergodic_Ramsey_theory", 
+            "name": "Ergodic Ramsey theory"
+        }, 
+        {
+            "def": "Ergodic theory: the study of dynamical systems with an invariant measure, and related problems.", 
+            "link": "/wiki/Ergodic_theory", 
+            "name": "Ergodic theory"
+        }, 
+        {
+            "def": "Euclidean differential geometry: also known as classical differential geometry. See differential geometry.", 
+            "link": "/wiki/Differential_geometry", 
+            "name": "Euclidean differential geometry"
+        }, 
+        {
+            "def": "Extremal combinatorics: a branch of combinatorics, it is the study of the possible sizes of a collection of finite objects given certain restrictions.", 
+            "link": "/wiki/Extremal_combinatorics", 
+            "name": "Extremal combinatorics"
+        }, 
+        {
+            "def": "Field theory: branch of abstract algebra studying fields.", 
+            "link": "/wiki/Field_theory_(mathematics)", 
+            "name": "Field theory"
+        }, 
+        {
+            "def": "Finsler geometry: a branch of differential geometry whose main object of study is the Finsler manifold (a generalisation of a Riemannian manifold).", 
+            "link": "/wiki/Finsler_geometry", 
+            "name": "Finsler geometry"
+        }, 
+        {
+            "def": "Fractional calculus: a branch of analysis that studies the possibility of taking real or complex powers of the differentiation operator.", 
+            "link": "/wiki/Fractional_calculus", 
+            "name": "Fractional calculus"
+        }, 
+        {
+            "def": "Fractional dynamics: investigates the behaviour of objects and systems that are described by differentiation and integration of fractional orders using methods of fractional calculus.", 
+            "link": "/wiki/Fractional_dynamics", 
+            "name": "Fractional dynamics"
+        }, 
+        {
+            "def": "Fredholm theory: part of spectral theory studying integral equations.", 
+            "link": "/wiki/Fredholm_theory", 
+            "name": "Fredholm theory"
+        }, 
+        {
+            "def": "Function theory: part of analysis devoted to properties of functions, especially functions of a complex variable (see complex analysis).", 
+            "link": null, 
+            "name": "Function theory"
+        }, 
+        {
+            "def": "Functional calculus: historically the term was used synonymously with calculus of variations, but now refers to a branch of functional analysis connected with spectral theory", 
+            "link": "/wiki/Functional_calculus", 
+            "name": "Functional calculus"
+        }, 
+        {
+            "def": "Fuzzy mathematics: a branch of mathematics based on fuzzy set theory and fuzzy logic.", 
+            "link": "/wiki/Fuzzy_mathematics", 
+            "name": "Fuzzy mathematics"
+        }, 
+        {
+            "def": "Fuzzy set theory: a form of set theory that studies fuzzy sets, that is sets that have degrees of membership.", 
+            "link": "/wiki/Fuzzy_set_theory", 
+            "name": "Fuzzy set theory"
+        }, 
+        {
+            "def": "Galois cohomology: an application of homological algebra, it is the study of group cohomology of Galois modules.", 
+            "link": "/wiki/Galois_cohomology", 
+            "name": "Galois cohomology"
+        }, 
+        {
+            "def": "Galois theory: named after \u00c9variste Galois, it is a branch of abstract algebra providing a connection between field theory and group theory.", 
+            "link": "/wiki/Galois_theory", 
+            "name": "Galois theory"
+        }, 
+        {
+            "def": "Galois geometry: a branch of finite geometry concerned with algebraic and analytic geometry over a Galois field.", 
+            "link": "/wiki/Galois_geometry", 
+            "name": "Galois geometry"
+        }, 
+        {
+            "def": "General topology: also known as point-set topology, it is a branch of topology studying the properties of topological spaces and structures defined on them. It differs from other branches of topology as the topological spaces do not have to be similar to manifolds.", 
+            "link": "/wiki/General_topology", 
+            "name": "General topology"
+        }, 
+        {
+            "def": "Generalized trigonometry: developments of trigonometric methods from the application to real numbers of Euclidean geometry to any geometry or space. This includes spherical trigonometry, hyperbolic trigonometry, gyrotrigonometry, rational trigonometry, universal hyperbolic trigonometry, fuzzy qualitative trigonometry, operator trigonometry and lattice trigonometry.", 
+            "link": "/wiki/Generalized_trigonometry", 
+            "name": "Generalized trigonometry"
+        }, 
+        {
+            "def": "Geometric algebra: an alternative approach to classical, computational and relativistic geometry. It shows a natural correspondence between geometric entities and elements of algebra.", 
+            "link": "/wiki/Geometric_algebra", 
+            "name": "Geometric algebra"
+        }, 
+        {
+            "def": "Geometric analysis: a discipline that uses methods from differential geometry to study partial differential equations as well as the applications to geometry.", 
+            "link": "/wiki/Geometric_analysis", 
+            "name": "Geometric analysis"
+        }, 
+        {
+            "def": "Geometric function theory: the study of geometric properties of analytic functions.", 
+            "link": "/wiki/Geometric_function_theory", 
+            "name": "Geometric function theory"
+        }, 
+        {
+            "def": "Geometric topology: a branch of topology studying manifolds and mappings between them; in particular the embedding of one manifold into another.", 
+            "link": "/wiki/Geometric_topology", 
+            "name": "Geometric topology"
+        }, 
+        {
+            "def": "Geometry: a branch of mathematics concerned with shape and the properties of space. Classically it arose as what is now known as solid geometry; this was concerning practical knowledge of length, area and volume. It was then put into an axiomatic form by Euclid, giving rise to what is now known as classical Euclidean geometry. The use of coordinates by Ren\u00e9 Descartes gave rise to Cartesian geometry enabling a more analytical approach to geometric entities. Since then many other branches have appeared including projective geometry, differential geometry, non-Euclidean geometry, Fractal geometry and algebraic geometry. Geometry also gave rise to the modern discipline of topology.", 
+            "link": "/wiki/Geometry", 
+            "name": "Geometry"
+        }, 
+        {
+            "def": "Geometry of numbers: initiated by Hermann Minkowski, it is a branch of number theory studying convex bodies and integer vectors.", 
+            "link": "/wiki/Geometry_of_numbers", 
+            "name": "Geometry of numbers"
+        }, 
+        {
+            "def": "Global analysis: the study of differential equations on manifolds and the relationship between differential equations and topology.", 
+            "link": "/wiki/Global_analysis", 
+            "name": "Global analysis"
+        }, 
+        {
+            "def": "Graph theory: a branch of discrete mathematics devoted to the study of graphs. It has many applications in physical, biological and social systems.", 
+            "link": "/wiki/Graph_theory", 
+            "name": "Graph theory"
+        }, 
+        {
+            "def": "Group-character theory: the part of character theory dedicated to the study of characters of group representations.", 
+            "link": "/wiki/Character_theory", 
+            "name": "Group-character theory"
+        }, 
+        {
+            "def": "Gyrotrigonometry: a form of trigonometry used in gyrovector space for hyperbolic geometry. (An analogy of the vector space in Euclidean geometry.)", 
+            "link": "/wiki/Gyrotrigonometry", 
+            "name": "Gyrotrigonometry"
+        }, 
+        {
+            "def": "Hard analysis: see classical analysis", 
+            "link": "/wiki/Hard_analysis", 
+            "name": "Hard analysis"
+        }, 
+        {
+            "def": "Harmonic analysis: part of analysis concerned with the representations of functions in terms of waves. It generalizes the notions of Fourier series and Fourier transforms from the Fourier analysis.", 
+            "link": "/wiki/Harmonic_analysis", 
+            "name": "Harmonic analysis"
+        }, 
+        {
+            "def": "Holomorphic functional calculus: a branch of functional calculus starting with holomorphic functions.", 
+            "link": "/wiki/Holomorphic_functional_calculus", 
+            "name": "Holomorphic functional calculus"
+        }, 
+        {
+            "def": "Homological algebra: the study of homology in general algebraic settings.", 
+            "link": "/wiki/Homological_algebra", 
+            "name": "Homological algebra"
+        }, 
+        {
+            "def": "Hyperbolic geometry: also known as Lobachevskian geometry or Bolyai-Lobachevskian geometry. It is a non-Euclidean geometry looking at hyperbolic space.", 
+            "link": "/wiki/Hyperbolic_geometry", 
+            "name": "Hyperbolic geometry"
+        }, 
+        {
+            "def": "hyperbolic trigonometry: the study of hyperbolic triangles in hyperbolic geometry, or hyperbolic functions in Euclidean geometry. Other forms include gyrotrigonometry and universal hyperbolic trigonometry.", 
+            "link": "/wiki/Hyperbolic_geometry", 
+            "name": "hyperbolic trigonometry"
+        }, 
+        {
+            "def": "Ideal theory: once the precursor name for what is now known as commutative algebra; it is the theory of ideals in commutative rings.", 
+            "link": "/wiki/Ideal_theory", 
+            "name": "Ideal theory"
+        }, 
+        {
+            "def": "Incidence geometry: the study of relations of incidence between various geometric objects, like curves and lines.", 
+            "link": "/wiki/Incidence_geometry", 
+            "name": "Incidence geometry"
+        }, 
+        {
+            "def": "Inconsistent mathematics: see paraconsistent mathematics.", 
+            "link": "/wiki/Inconsistent_mathematics", 
+            "name": "Inconsistent mathematics"
+        }, 
+        {
+            "def": "Infinitary combinatorics: an expansion of ideas in combinatorics to account for infinite sets.", 
+            "link": "/wiki/Infinitary_combinatorics", 
+            "name": "Infinitary combinatorics"
+        }, 
+        {
+            "def": "Infinitesimal analysis: once a synonym for infinitesimal calculus", 
+            "link": "/wiki/Infinitesimal_calculus", 
+            "name": "Infinitesimal analysis"
+        }, 
+        {
+            "def": "Infinitesimal calculus: see calculus of infinitesimals", 
+            "link": "/wiki/Infinitesimal_calculus", 
+            "name": "Infinitesimal calculus"
+        }, 
+        {
+            "def": "Intersection theory: a branch of algebraic geometry and algebraic topology", 
+            "link": "/wiki/Intersection_theory", 
+            "name": "Intersection theory"
+        }, 
+        {
+            "def": "Invariant theory: studies how group actions on algebraic varieties affect functions.", 
+            "link": "/wiki/Invariant_theory", 
+            "name": "Invariant theory"
+        }, 
+        {
+            "def": "Inversive geometry: the study of invariants preserved by a type of transformation known as inversion", 
+            "link": "/wiki/Inversive_geometry", 
+            "name": "Inversive geometry"
+        }, 
+        {
+            "def": "Inversive plane geometry: inversive geometry that is limited to two dimensions", 
+            "link": "/wiki/Inversive_geometry", 
+            "name": "Inversive plane geometry"
+        }, 
+        {
+            "def": "K-theory: originated as the study of a ring generated by vector bundles over a topological space or scheme. In algebraic topology it is an extraordinary cohomology theory known as topological K-theory. In algebra and algebraic geometry it is referred to as algebraic K-theory. In physics, K-theory has appeared in type II string theory. (In particular twisted K-theory.)", 
+            "link": "/wiki/K-theory", 
+            "name": "K-theory"
+        }, 
+        {
+            "def": "K\u00e4hler geometry: a branch of differential geometry, more specifically a union of Riemannian geometry, complex differential geometry and symplectic geometry. It is the study of K\u00e4hler manifolds. (named after Erich K\u00e4hler)", 
+            "link": "/wiki/K%C3%A4hler_manifold", 
+            "name": "K\u00e4hler geometry"
+        }, 
+        {
+            "def": "Knot theory: part of topology dealing with knots", 
+            "link": "/wiki/Knot_theory", 
+            "name": "Knot theory"
+        }, 
+        {
+            "def": "Large deviations theory: part of probability theory studying events of small probability (tail events).", 
+            "link": "/wiki/Large_deviations_theory", 
+            "name": "Large deviations theory"
+        }, 
+        {
+            "def": "Large sample theory: also known as asymptotic theory", 
+            "link": "/wiki/Large_sample_theory", 
+            "name": "Large sample theory"
+        }, 
+        {
+            "def": "Lattice theory: the study of lattices, being important in order theory and universal algebra", 
+            "link": "/wiki/Lattice_theory", 
+            "name": "Lattice theory"
+        }, 
+        {
+            "def": "Linear algebra \u2013 a branch of algebra studying linear spaces and linear maps. It has applications in fields such as abstract algebra and functional analysis; it can be represented in analytic geometry and it is generalized in operator theory and in module theory. Sometimes matrix theory is considered a branch, although linear algebra is restricted to only finite dimensions. Extensions of the methods used belong to multilinear algebra.", 
+            "link": "/wiki/Linear_algebra", 
+            "name": "Linear algebra"
+        }, 
+        {
+            "def": "Local algebra: a term sometimes applied to the theory of local rings.", 
+            "link": "/wiki/Local_algebra", 
+            "name": "Local algebra"
+        }, 
+        {
+            "def": "Local arithmetic dynamics: also known as p-adic dynamics or nonarchimedean dynamics.", 
+            "link": "/w/index.php?title=P-adic_dynamics&action=edit&redlink=1", 
+            "name": "Local arithmetic dynamics"
+        }, 
+        {
+            "def": "Mathematical physics: a part of mathematics that develops mathematical methods motivated by problems in physics.", 
+            "link": "/wiki/Mathematical_physics", 
+            "name": "Mathematical physics"
+        }, 
+        {
+            "def": "Mathematical sciences: refers to academic disciplines that are mathematical in nature, but are not considered proper subfields of mathematics. Examples include statistics, cryptography, game theory and actuarial science.", 
+            "link": "/wiki/Mathematical_sciences", 
+            "name": "Mathematical sciences"
+        }, 
+        {
+            "def": "Modern algebra: see abstract algebra", 
+            "link": "/wiki/Abstract_algebra", 
+            "name": "Modern algebra"
+        }, 
+        {
+            "def": "Modern algebraic geometry: the form of algebraic geometry given by Alexander Grothendieck and Jean-Pierre Serre drawing on sheaf theory.", 
+            "link": "/wiki/Scheme_(mathematics)", 
+            "name": "Modern algebraic geometry"
+        }, 
+        {
+            "def": "Modern invariant theory: the form of invariant theory that analyses the decomposition of representations into irreducibles.", 
+            "link": "/wiki/Invariant_theory", 
+            "name": "Modern invariant theory"
+        }, 
+        {
+            "def": "Morse theory: a part of differential topology, it analyzes the topological space of a manifold by studying differentiable functions on that manifold.", 
+            "link": "/wiki/Morse_theory", 
+            "name": "Morse theory"
+        }, 
+        {
+            "def": "Multilinear algebra: an extension of linear algebra building upon concepts of p-vectors and multivectors with Grassmann algebra.", 
+            "link": "/wiki/Multilinear_algebra", 
+            "name": "Multilinear algebra"
+        }, 
+        {
+            "def": "Multiplicative number theory: a subfield of analytic number theory that deals with prime numbers, factorization and divisors.", 
+            "link": "/wiki/Multiplicative_number_theory", 
+            "name": "Multiplicative number theory"
+        }, 
+        {
+            "def": "Neutral geometry: see absolute geometry", 
+            "link": "/wiki/Neutral_geometry", 
+            "name": "Neutral geometry"
+        }, 
+        {
+            "def": "Nevanlinna theory: part of complex analysis studying the value distribution of meromorphic functions. It is named after Rolf Nevanlinna", 
+            "link": "/wiki/Nevanlinna_theory", 
+            "name": "Nevanlinna theory"
+        }, 
+        {
+            "def": "Nielsen theory: an area of mathematical research with its origins in fixed point topology, developed by Jakob Nielsen", 
+            "link": "/wiki/Nielsen_theory", 
+            "name": "Nielsen theory"
+        }, 
+        {
+            "def": "Nonarchimedean dynamics: also known as p-adic analysis or local arithmetic dynamics", 
+            "link": "/wiki/Arithmetic_dynamics", 
+            "name": "Nonarchimedean dynamics"
+        }, 
+        {
+            "def": "Noncommutative algebraic geometry: a direction in noncommutative geometry studying the geometric properties of formal duals of non-commutative algebraic objects.", 
+            "link": "/wiki/Noncommutative_algebraic_geometry", 
+            "name": "Noncommutative algebraic geometry"
+        }, 
+        {
+            "def": "Noncommutative harmonic analysis: see representation theory", 
+            "link": "/wiki/Noncommutative_harmonic_analysis", 
+            "name": "Noncommutative harmonic analysis"
+        }, 
+        {
+            "def": "Number theory: a branch of pure mathematics primarily devoted to the study of the integers. Originally it was known as arithmetic or higher arithmetic.", 
+            "link": "/wiki/Number_theory", 
+            "name": "Number theory"
+        }, 
+        {
+            "def": "Operad theory: a type of abstract algebra concerned with prototypical algebras.", 
+            "link": "/wiki/Operad_theory", 
+            "name": "Operad theory"
+        }, 
+        {
+            "def": "Operator theory: part of functional analysis studying operators.", 
+            "link": "/wiki/Operator_theory", 
+            "name": "Operator theory"
+        }, 
+        {
+            "def": "Optimal control theory: a generalization of the calculus of variations.", 
+            "link": "/wiki/Optimal_control_theory", 
+            "name": "Optimal control theory"
+        }, 
+        {
+            "def": "Order theory: a branch that investigates the intuitive notion of order using binary relations.", 
+            "link": "/wiki/Order_theory", 
+            "name": "Order theory"
+        }, 
+        {
+            "def": "Ordered geometry: a form of geometry omitting the notion of measurement but featuring the concept of intermediacy. It is a fundamental geometry forming a common framework for affine geometry, Euclidean geometry, absolute geometry and hyperbolic geometry.", 
+            "link": "/wiki/Ordered_geometry", 
+            "name": "Ordered geometry"
+        }, 
+        {
+            "def": "p-adic analysis: a branch of number theory that deals with the analysis of functions of p-adic numbers.", 
+            "link": "/wiki/P-adic_analysis", 
+            "name": "p-adic analysis"
+        }, 
+        {
+            "def": "p-adic dynamics: an application of p-adic analysis looking at p-adic differential equations.", 
+            "link": "/wiki/P-adic_analysis", 
+            "name": "p-adic dynamics"
+        }, 
+        {
+            "def": "Paraconsistent mathematics: sometimes called inconsistent mathematics, it is an attempt to develop the classical infrastructure of mathematics based on a foundation of paraconsistent logic instead of classical logic.", 
+            "link": "/wiki/Paraconsistent_mathematics", 
+            "name": "Paraconsistent mathematics"
+        }, 
+        {
+            "def": "Point-set topology: see general topology", 
+            "link": "/wiki/Point-set_topology", 
+            "name": "Point-set topology"
+        }, 
+        {
+            "def": "Polyhedral combinatorics: a branch within combinatorics and discrete geometry that studies the problems of describing convex polytopes.", 
+            "link": "/wiki/Polyhedral_combinatorics", 
+            "name": "Polyhedral combinatorics"
+        }, 
+        {
+            "def": "Projective geometry: a form of geometry that studies geometric properties that are invariant under a projective transformation.", 
+            "link": "/wiki/Projective_geometry", 
+            "name": "Projective geometry"
+        }, 
+        {
+            "def": "Pseudo-Riemannian geometry: generalizes Riemannian geometry to the study of pseudo-Riemannian manifolds.", 
+            "link": "/wiki/Pseudo-Riemannian_geometry", 
+            "name": "Pseudo-Riemannian geometry"
+        }, 
+        {
+            "def": "Pure mathematics: the part of mathematics that studies entirely abstract concepts.", 
+            "link": "/wiki/Pure_mathematics", 
+            "name": "Pure mathematics"
+        }, 
+        {
+            "def": "Quantum calculus: a form of calculus without the notion of limits. There are 2 forms known as q-calculus and h-calculus", 
+            "link": "/wiki/Quantum_calculus", 
+            "name": "Quantum calculus"
+        }, 
+        {
+            "def": "Quantum geometry: the generalization of concepts of geometry used to describe the physical phenomena of quantum physics", 
+            "link": "/wiki/Quantum_geometry", 
+            "name": "Quantum geometry"
+        }, 
+        {
+            "def": "Ramsey theory: the study of the conditions in which order must appear. It is named after Frank P. Ramsey.", 
+            "link": "/wiki/Ramsey_theory", 
+            "name": "Ramsey theory"
+        }, 
+        {
+            "def": "Rational trigonometry: a reformulation of trigonometry in terms of spread and quadrance instead of angle and length.", 
+            "link": "/wiki/Rational_trigonometry", 
+            "name": "Rational trigonometry"
+        }, 
+        {
+            "def": "Real algebra: the study of the part of algebra relevant to real algebraic geometry.", 
+            "link": "/wiki/Real_algebraic_geometry", 
+            "name": "Real algebra"
+        }, 
+        {
+            "def": "Real algebraic geometry: the part of algebraic geometry that studies real points of the algebraic varieties.", 
+            "link": "/wiki/Real_algebraic_geometry", 
+            "name": "Real algebraic geometry"
+        }, 
+        {
+            "def": "Real analysis: a branch of mathematical analysis; in particular hard analysis, that is the study of real numbers and functions of Real values. It provides a rigorous formulation of the calculus of real numbers in terms of continuity and smoothness, whilst the theory is extended to the complex numbers in complex analysis.", 
+            "link": "/wiki/Real_analysis", 
+            "name": "Real analysis"
+        }, 
+        {
+            "def": "Recreational mathematics: the area dedicated to mathematical puzzles and mathematical games.", 
+            "link": "/wiki/Recreational_mathematics", 
+            "name": "Recreational mathematics"
+        }, 
+        {
+            "def": "Recursion theory: see computability theory", 
+            "link": "/wiki/Recursion_theory", 
+            "name": "Recursion theory"
+        }, 
+        {
+            "def": "Representation theory: a subfield of abstract algebra; it studies algebraic structures by representing their elements as linear transformations of vector spaces. It also studies modules over these algebraic structures, providing a way of reducing problems in abstract algebra to problems in linear algebra.", 
+            "link": "/wiki/Representation_theory", 
+            "name": "Representation theory"
+        }, 
+        {
+            "def": "Ribbon theory: a branch of topology studying ribbons.", 
+            "link": "/wiki/Ribbon_theory", 
+            "name": "Ribbon theory"
+        }, 
+        {
+            "def": "Riemannian geometry: a branch of differential geometry that is more specifically, the study of Riemannian manifolds. It is named after Bernhard Riemann and it features many generalizations of concepts from Euclidean geometry, analysis and calculus.", 
+            "link": "/wiki/Riemannian_geometry", 
+            "name": "Riemannian geometry"
+        }, 
+        {
+            "def": "Rough set theory: the a form of set theory based on rough sets.", 
+            "link": "/wiki/Rough_set", 
+            "name": "Rough set theory"
+        }, 
+        {
+            "def": "Scheme theory: the study of schemes introduced by Alexander Grothendieck. It allows the use of sheaf theory to study algebraic varieties and is considered the central part of modern algebraic geometry.", 
+            "link": "/wiki/Scheme_(mathematics)", 
+            "name": "Scheme theory"
+        }, 
+        {
+            "def": "Semialgebraic geometry: a part of algebraic geometry; more specifically a branch of real algebraic geometry that studies semialgebraic sets.", 
+            "link": "/wiki/Real_algebraic_geometry", 
+            "name": "Semialgebraic geometry"
+        }, 
+        {
+            "def": "Single operator theory: deals with the properties and classifications of single operators.", 
+            "link": "/wiki/Operator_theory", 
+            "name": "Single operator theory"
+        }, 
+        {
+            "def": "Singularity theory: a branch, notably of geometry; that studies the failure of manifold structure.", 
+            "link": "/wiki/Singularity_theory", 
+            "name": "Singularity theory"
+        }, 
+        {
+            "def": "Smooth infinitesimal analysis: a rigorous reformation of infinitesimal calculus employing methods of category theory. As a theory, it is a subset of synthetic differential geometry.", 
+            "link": "/wiki/Smooth_infinitesimal_analysis", 
+            "name": "Smooth infinitesimal analysis"
+        }, 
+        {
+            "def": "Spectral geometry: a field that concerns the relationships between geometric structures of manifolds and spectra of canonically defined differential operators.", 
+            "link": "/wiki/Spectral_geometry", 
+            "name": "Spectral geometry"
+        }, 
+        {
+            "def": "Spectral graph theory: the study of properties of a graph using methods from matrix theory.", 
+            "link": "/wiki/Spectral_graph_theory", 
+            "name": "Spectral graph theory"
+        }, 
+        {
+            "def": "Spectral theory: part of operator theory extending the concepts of eigenvalues and eigenvectors from linear algebra and matrix theory.", 
+            "link": "/wiki/Spectral_theory", 
+            "name": "Spectral theory"
+        }, 
+        {
+            "def": "Spectral theory of ordinary differential equations: part of spectral theory concerned with the spectrum and eigenfunction expansion associated with linear ordinary differential equations.", 
+            "link": "/wiki/Spectral_theory_of_ordinary_differential_equations", 
+            "name": "Spectral theory of ordinary differential equations"
+        }, 
+        {
+            "def": "Spectrum continuation analysis: generalizes the concept of a Fourier series to non-periodic functions.", 
+            "link": "/wiki/Spectrum_continuation_analysis", 
+            "name": "Spectrum continuation analysis"
+        }, 
+        {
+            "def": "Spherical geometry: a branch of non-Euclidean geometry, studying the 2-dimensional surface of a sphere.", 
+            "link": "/wiki/Spherical_geometry", 
+            "name": "Spherical geometry"
+        }, 
+        {
+            "def": "Spherical trigonometry: a branch of spherical geometry that studies polygons on the surface of a sphere. Usually the polygons are triangles.", 
+            "link": "/wiki/Spherical_trigonometry", 
+            "name": "Spherical trigonometry"
+        }, 
+        {
+            "def": "Statistics: although the term may refer to the more general study of statistics, the term is used in mathematics to refer to the mathematical study of statistics and related fields. This includes probability theory.", 
+            "link": "/wiki/Mathematical_statistics", 
+            "name": "Statistics"
+        }, 
+        {
+            "def": "Stochastic geometry: the study of random patterns of points", 
+            "link": "/wiki/Stochastic_geometry", 
+            "name": "Stochastic geometry"
+        }, 
+        {
+            "def": "Surgery theory: a part of geometric topology referring to methods used to produce one manifold from another (in a controlled way.)", 
+            "link": "/wiki/Surgery_theory", 
+            "name": "Surgery theory"
+        }, 
+        {
+            "def": "Symbolic computation: also known as algebraic computation and computer algebra. It refers to the techniques used to manipulate mathematical expressions and equations in symbolic form as opposed to manipulating them by the numerical quantities represented by them.", 
+            "link": "/wiki/Symbolic_computation", 
+            "name": "Symbolic computation"
+        }, 
+        {
+            "def": "Symplectic geometry: a branch of differential geometry and topology whose main object of study is the symplectic manifold.", 
+            "link": "/wiki/Symplectic_geometry", 
+            "name": "Symplectic geometry"
+        }, 
+        {
+            "def": "Synthetic differential geometry: a reformulation of differential geometry in the language of topos theory and in the context of an intuitionistic logic.", 
+            "link": "/wiki/Synthetic_differential_geometry", 
+            "name": "Synthetic differential geometry"
+        }, 
+        {
+            "def": "Synthetic geometry: also known as axiomatic geometry, it is a branch of geometry that uses axioms and logical arguments to draw conclusions as opposed to analytic and algebraic methods.", 
+            "link": "/wiki/Synthetic_geometry", 
+            "name": "Synthetic geometry"
+        }, 
+        {
+            "def": "Systolic geometry: a branch of differential geometry studying systolic invariants of manifolds and polyhedra.", 
+            "link": "/wiki/Systolic_geometry", 
+            "name": "Systolic geometry"
+        }, 
+        {
+            "def": "Systolic hyperbolic geometry: the study of systoles in hyperbolic geometry.", 
+            "link": "/wiki/Systolic_geometry", 
+            "name": "Systolic hyperbolic geometry"
+        }, 
+        {
+            "def": "Tensor analysis: the study of tensors, which play a role in subjects such as differential geometry, mathematical physics, algebraic topology, multilinear algebra, homological algebra and representation theory.", 
+            "link": "/wiki/Tensor_analysis", 
+            "name": "Tensor analysis"
+        }, 
+        {
+            "def": "Tensor calculus: an older term for tensor analysis.", 
+            "link": "/wiki/Tensor_calculus", 
+            "name": "Tensor calculus"
+        }, 
+        {
+            "def": "Tensor theory: an alternative name for tensor analysis.", 
+            "link": "/wiki/Tensor", 
+            "name": "Tensor theory"
+        }, 
+        {
+            "def": "Theoretical physics: a branch primarily of the science physics that uses mathematical models and abstraction of physics to rationalize and predict phenomena.", 
+            "link": "/wiki/Theoretical_physics", 
+            "name": "Theoretical physics"
+        }, 
+        {
+            "def": "Topological combinatorics: the application of methods from algebraic topology to solve problems in combinatorics.", 
+            "link": "/wiki/Topological_combinatorics", 
+            "name": "Topological combinatorics"
+        }, 
+        {
+            "def": "Transcendental number theory: a branch of number theory that revolves around the transcendental numbers.", 
+            "link": "/wiki/Transcendental_number_theory", 
+            "name": "Transcendental number theory"
+        }, 
+        {
+            "def": "Trigonometry: the study of triangles and the relationships between the length of their sides, and the angles between them. It is essential to many parts of applied mathematics.", 
+            "link": "/wiki/Trigonometry", 
+            "name": "Trigonometry"
+        }, 
+        {
+            "def": "Tropical analysis: see idempotent analysis", 
+            "link": "/w/index.php?title=Tropical_analysis&action=edit&redlink=1", 
+            "name": "Tropical analysis"
+        }, 
+        {
+            "def": "Twisted K-theory: a variation on K-theory, spanning abstract algebra, algebraic topology and operator theory.", 
+            "link": "/wiki/Twisted_K-theory", 
+            "name": "Twisted K-theory"
+        }, 
+        {
+            "def": "Umbral calculus: the study of Sheffer sequences", 
+            "link": "/wiki/Umbral_calculus", 
+            "name": "Umbral calculus"
+        }, 
+        {
+            "def": "Uncertainty theory: a new branch of mathematics based on normality, monotonicity, self-duality, countable subadditivity, and product measure axioms.", 
+            "link": "/wiki/Uncertainty_theory", 
+            "name": "Uncertainty theory"
+        }, 
+        {
+            "def": "Universal algebra: a field studying the formalization of algebraic structures itself.", 
+            "link": "/wiki/Universal_algebra", 
+            "name": "Universal algebra"
+        }, 
+        {
+            "def": "Universal hyperbolic trigonometry: an approach to hyperbolic trigonometry based on rational geometry.", 
+            "link": "/wiki/Rational_trigonometry", 
+            "name": "Universal hyperbolic trigonometry"
+        }, 
+        {
+            "def": "Vector algebra: a part of linear algebra concerned with the operations of vector addition and scalar multiplication, although it may also refer to vector operations of vector calculus, including the dot and cross product. In this case it can be contrasted with geometric algebra which generalizes into higher dimensions.", 
+            "link": null, 
+            "name": "Vector algebra"
+        }, 
+        {
+            "def": "Vector analysis: also known as vector calculus, see vector calculus.", 
+            "link": "/wiki/Vector_analysis", 
+            "name": "Vector analysis"
+        }, 
+        {
+            "def": "Vector calculus: a branch of multivariable calculus concerned with differentiation and integration of vector fields. Primarily it is concerned with 3-dimensional Euclidean space.", 
+            "link": "/wiki/Vector_calculus", 
+            "name": "Vector calculus"
+        }
+    ]
+}

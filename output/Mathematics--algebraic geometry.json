@@ -1,0 +1,1036 @@
+{
+    "c2": "Mathematics", 
+    "c3": "algebraic geometry", 
+    "words": [
+        {
+            "def": "A generic point. For example, the point associated to the zero ideal for any integral affine scheme.", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        \u03b7\n      \n    \n    {\\displaystyle \\eta }\n  \n"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If X is a projective scheme with Serre's twisting sheaf \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(1)}\n  \n and if F is an \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}}\n  \n-module, then \n  \n    \n      \n        F\n        (\n        n\n        )\n        =\n        F\n        \n          \u2297\n          \n            \n              \n                \n                  O\n                \n              \n              \n                X\n              \n            \n          \n        \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        n\n        )\n        .\n      \n    \n    {\\displaystyle F(n)=F\\otimes _{{\\mathcal {O}}_{X}}{\\mathcal {O}}_{X}(n).}\n  \n", 
+            "link": null, 
+            "name": "F(n), F(D), FZ"
+        }, 
+        {
+            "def": "The complete linear system of a Weil divisor D on a normal complete variety X over an algebraically closed field k; that is, \n  \n    \n      \n        \n          |\n        \n        D\n        \n          |\n        \n        =\n        \n          P\n        \n        (\n        \u0393\n        (\n        X\n        ,\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        D\n        )\n        )\n        )\n      \n    \n    {\\displaystyle |D|=\\mathbf {P} (\\Gamma (X,{\\mathcal {O}}_{X}(D)))}\n  \n. There is a bijection between the set of k-rational points of |D| and the set of effective Weil divisors on X that are linearly equivalent to D.[1] The same definition is used if D is a Cartier divisor on a complete variety over k.", 
+            "link": null, 
+            "name": "|D|"
+        }, 
+        {
+            "def": "The quotient stack of, say, an algebraic space X by the action of a group scheme G.", 
+            "link": null, 
+            "name": "[X/G]"
+        }, 
+        {
+            "def": "The GIT quotient of a scheme X by the action of a group scheme G.", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        X\n        \n          /\n        \n        \n        \n          /\n        \n        G\n      \n    \n    {\\displaystyle X/\\!/G}\n  \n"
+        }, 
+        {
+            "def": "An ambiguous notation. It usually means an n-th tensor power of L but can also mean the self-intersection number of L. If \n  \n    \n      \n        L\n        =\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n      \n    \n    {\\displaystyle L={\\mathcal {O}}_{X}}\n  \n, the structure sheaf on X, then it means the direct sum of n copies of \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}}\n  \n.", 
+            "link": null, 
+            "name": "Ln"
+        }, 
+        {
+            "def": "The tautological line bundle. It is the dual of Serre's twisting sheaf \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(1)}\n  \n.", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        \u2212\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(-1)}\n  \n"
+        }, 
+        {
+            "def": "Serre's twisting sheaf. It is the dual of the tautological line bundle \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        \u2212\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(-1)}\n  \n. It is also called the hyperplane bundle.", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(1)}\n  \n"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If D is an effective Cartier divisor on X, then it is the inverse of the ideal sheaf of D.", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        D\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(D)}\n  \n"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0\n  \n    \n      \n        \n          \u03a9\n          \n            X\n          \n          \n            1\n          \n        \n      \n    \n    {\\displaystyle \\Omega _{X}^{1}}\n  \n is the sheaf of K\u00e4hler differentials on X.", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        \n          \u03a9\n          \n            X\n          \n          \n            p\n          \n        \n      \n    \n    {\\displaystyle \\Omega _{X}^{p}}\n  \n"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If p is 1, this is the sheaf of logarithmic K\u00e4hler differentials on X along D (roughly differential forms with simple poles along a divisor D.)", 
+            "link": null, 
+            "name": "\n  \n    \n      \n        \n          \u03a9\n          \n            X\n          \n          \n            p\n          \n        \n        (\n        log\n        \u2061\n        D\n        )\n      \n    \n    {\\displaystyle \\Omega _{X}^{p}(\\log D)}\n  \n"
+        }, 
+        {
+            "def": "Unfortunately, the notation is ambiguous. Its traditional meaning is the projectivization of a finite-dimensional k-vector space V; i.e.,\n\n\n  \n    \n      \n        \n          P\n        \n        (\n        V\n        )\n        =\n        Proj\n        \u2061\n        (\n        k\n        [\n        V\n        ]\n        )\n        =\n        Proj\n        \u2061\n        (\n        Sym\n        \u2061\n        (\n        \n          V\n          \n            \u2217\n          \n        \n        )\n        )\n      \n    \n    {\\displaystyle \\mathbf {P} (V)=\\operatorname {Proj} (k[V])=\\operatorname {Proj} (\\operatorname {Sym} (V^{*}))}\n  \n\n\n(the Proj of the ring of polynomial functions k[V]) and its k-points correspond to lines in V. In contrast, Hartshorne and EGA write P(V) for the Proj of the symmetric algebra of V.", 
+            "link": null, 
+            "name": "P(V)"
+        }, 
+        {
+            "def": "A normal variety is \n  \n    \n      \n        \n          Q\n        \n      \n    \n    {\\displaystyle \\mathbb {Q} }\n  \n-factorial if every \n  \n    \n      \n        \n          Q\n        \n      \n    \n    {\\displaystyle \\mathbb {Q} }\n  \n-Weil divisor is \n  \n    \n      \n        \n          Q\n        \n      \n    \n    {\\displaystyle \\mathbb {Q} }\n  \n-Cartier.", 
+            "link": null, 
+            "name": "Q-factorial"
+        }, 
+        {
+            "def": "The set of all prime ideals in a ring R with Zariski topology; it is called the prime spectrum of R.", 
+            "link": null, 
+            "name": "Spec(R)"
+        }, 
+        {
+            "def": "The relative Spec of the OX-algebra F. It is also denoted by Spec(F) or simply Spec(F).", 
+            "link": null, 
+            "name": "SpecX(F)"
+        }, 
+        {
+            "def": "The set of all valuations for a ring R with a certain weak topology; it is called the Berkovich spectrum of R.", 
+            "link": null, 
+            "name": "Specan(R)"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An abelian variety is a complete group variety. For example, consider the complex variety \n  \n    \n      \n        \n          \n            C\n          \n          \n            n\n          \n        \n        \n          /\n        \n        \n          \n            Z\n          \n          \n            2\n            n\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {C} ^{n}/\\mathbb {Z} ^{2n}}\n  \n or an elliptic curve \n  \n    \n      \n        E\n      \n    \n    {\\displaystyle E}\n  \n over a finite field \n  \n    \n      \n        \n          \n            F\n          \n          \n            q\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {F} _{q}}\n  \n.", 
+            "link": null, 
+            "name": "abelian"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If D is an effective Cartier divisor on an algebraic variety X, both admitting dualizing sheaves \n  \n    \n      \n        \n          \u03c9\n          \n            D\n          \n        \n        ,\n        \n          \u03c9\n          \n            X\n          \n        \n      \n    \n    {\\displaystyle \\omega _{D},\\omega _{X}}\n  \n, then the adjunction formula says:\n\n\n  \n    \n      \n        \n          \u03c9\n          \n            D\n          \n        \n        =\n        (\n        \n          \u03c9\n          \n            X\n          \n        \n        \u2297\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        D\n        )\n        )\n        \n          \n            |\n          \n          \n            D\n          \n        \n      \n    \n    {\\displaystyle \\omega _{D}=(\\omega _{X}\\otimes {\\mathcal {O}}_{X}(D))|_{D}}\n  \n.\n\n", 
+            "link": null, 
+            "name": "adjunction formula"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Affine space is roughly a vector space where one has forgotten which point is the origin", 
+            "link": null, 
+            "name": "affine"
+        }, 
+        {
+            "def": "Algebraic geometry is a branch of mathematics that studies solutions to algebraic equations.", 
+            "link": null, 
+            "name": "algebraic geometry"
+        }, 
+        {
+            "def": "One goal is to prove the Riemann hypothesis.[2] See also the field with one element and Pe\u00f1a, Javier L\u00f3pez; Lorscheid, Oliver (2009-08-31). \"Mapping F_1-land:An overview of geometries over the field with one element\". arXiv:0909.0069.\u00a0 as well as [3][4] .", 
+            "link": null, 
+            "name": "algebraic geometry over the field with one element"
+        }, 
+        {
+            "def": "An algebraic group is an algebraic variety that is also a group in such a way the group operations are morphisms of varieties.", 
+            "link": null, 
+            "name": "algebraic group"
+        }, 
+        {
+            "def": "A separated scheme of finite type over a field. For example, an algebraic variety is a reduced irreducible algebraic scheme.", 
+            "link": null, 
+            "name": "algebraic scheme"
+        }, 
+        {
+            "def": "An algebraic set over a field k is a reduced separated scheme of finite type over \n  \n    \n      \n        Spec\n        \u2061\n        (\n        k\n        )\n      \n    \n    {\\displaystyle \\operatorname {Spec} (k)}\n  \n. An irreducible algebraic set is called an algebraic variety.", 
+            "link": null, 
+            "name": "algebraic set"
+        }, 
+        {
+            "def": "An algebraic space is a quotient of a scheme by the \u00e9tale equivalence relation.", 
+            "link": null, 
+            "name": "algebraic space"
+        }, 
+        {
+            "def": "An algebraic variety over a field k is an integral separated scheme of finite type over \n  \n    \n      \n        Spec\n        \u2061\n        (\n        k\n        )\n      \n    \n    {\\displaystyle \\operatorname {Spec} (k)}\n  \n. Note, not assuming k is algebraically closed causes some pathology; for example, \n  \n    \n      \n        Spec\n        \u2061\n        \n          C\n        \n        \n          \u00d7\n          \n            \n              R\n            \n          \n        \n        Spec\n        \u2061\n        \n          C\n        \n      \n    \n    {\\displaystyle \\operatorname {Spec} \\mathbb {C} \\times _{\\mathbb {R} }\\operatorname {Spec} \\mathbb {C} }\n  \n is not a variety since the coordinate ring \n  \n    \n      \n        \n          C\n        \n        \n          \u2297\n          \n            \n              R\n            \n          \n        \n        \n          C\n        \n      \n    \n    {\\displaystyle \\mathbb {C} \\otimes _{\\mathbb {R} }\\mathbb {C} }\n  \n is not an integral domain.", 
+            "link": null, 
+            "name": "algebraic variety"
+        }, 
+        {
+            "def": "A locally free sheaf of a finite rank.", 
+            "link": null, 
+            "name": "algebraic vector bundle"
+        }, 
+        {
+            "def": "A line bundle on a projective variety is ample if some tensor power of it is very ample.", 
+            "link": null, 
+            "name": "ample"
+        }, 
+        {
+            "def": "Algebraic geometry over the compactification of Spec of the ring of rational integers \u2124.. See Arakelov geometry.[5]", 
+            "link": null, 
+            "name": "Arakelov geometry"
+        }, 
+        {
+            "def": "The arithmetic genus of a projective variety X of dimension r is \n  \n    \n      \n        (\n        \u2212\n        1\n        \n          )\n          \n            r\n          \n        \n        (\n        \u03c7\n        (\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        )\n        \u2212\n        1\n        )\n      \n    \n    {\\displaystyle (-1)^{r}(\\chi ({\\mathcal {O}}_{X})-1)}\n  \n.", 
+            "link": null, 
+            "name": "arithmetic genus"
+        }, 
+        {
+            "def": "Another term for an algebraic stack.", 
+            "link": null, 
+            "name": "Artin stack"
+        }, 
+        {
+            "def": "0-dimensional and Noetherian. The definition applies both to a scheme and a ring.", 
+            "link": null, 
+            "name": "artinian"
+        }, 
+        {
+            "def": "The weighted Euler characteristic of a (nice) stack X with respect to the Behrend function is the degree of the virtual fundamental class of X.", 
+            "link": null, 
+            "name": "Behrend function"
+        }, 
+        {
+            "def": "Behrend's trace formula generalizes Grothendieck's trace formula; both formulas compute the trace of the Frobenius on l-adic cohomology.", 
+            "link": null, 
+            "name": "Behrend's trace formula"
+        }, 
+        {
+            "def": "A big line bundle L on X of dimension n is a line bundle such that \n  \n    \n      \n        \n          \n            lim\u2006sup\n            \n              l\n              \u2192\n              \u221e\n            \n          \n          dim\n          \u2061\n          \u0393\n          (\n          X\n          ,\n          \n            L\n            \n              l\n            \n          \n          )\n          \n            /\n          \n          \n            l\n            \n              n\n            \n          \n          >\n          0\n        \n      \n    \n    {\\displaystyle \\displaystyle \\limsup _{l\\to \\infty }\\operatorname {dim} \\Gamma (X,L^{l})/l^{n}>0}\n  \n.", 
+            "link": null, 
+            "name": "big"
+        }, 
+        {
+            "def": "A birational morphism between schemes is a morphism that becomes an isomorphism after restricted to some open dense subset. One of the most common examples of a birational map is the map induced by a blowup.", 
+            "link": null, 
+            "name": "birational morphism"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The Calabi\u2013Yau metric is a K\u00e4hler metric whose Ricci curvature is zero.", 
+            "link": null, 
+            "name": "Calabi\u2013Yau"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The canonical sheaf on a normal variety X of dimension n is \n  \n    \n      \n        \n          \u03c9\n          \n            X\n          \n        \n        =\n        \n          i\n          \n            \u2217\n          \n        \n        \n          \u03a9\n          \n            U\n          \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\omega _{X}=i_{*}\\Omega _{U}^{n}}\n  \n where i is the inclusion of the smooth locus U and \n  \n    \n      \n        \n          \u03a9\n          \n            U\n          \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\Omega _{U}^{n}}\n  \n is the sheaf of differential forms on U of degree n. If the base field has characteristic zero instead of normality, then one replaces i by a resolution of singularities.", 
+            "link": null, 
+            "name": "canonical"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The canonical model is the Proj of a canonical ring (assuming the ring is finitely generated.)", 
+            "link": null, 
+            "name": "canonical model"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An effective Cartier divisor D on a scheme X over S is a closed subscheme of X that is flat over S and whose ideal sheaf is invertible (locally free of rank one).", 
+            "link": null, 
+            "name": "Cartier"
+        }, 
+        {
+            "def": "The Castelnuovo\u2013Mumford regularity of a coherent sheaf F on a projective space \n  \n    \n      \n        f\n        :\n        \n          \n            P\n          \n          \n            S\n          \n          \n            n\n          \n        \n        \u2192\n        S\n      \n    \n    {\\displaystyle f:\\mathbf {P} _{S}^{n}\\to S}\n  \n over a scheme S is the smallest integer r such that\n\n\n  \n    \n      \n        \n          R\n          \n            i\n          \n        \n        \n          f\n          \n            \u2217\n          \n        \n        F\n        (\n        r\n        \u2212\n        i\n        )\n        =\n        0\n      \n    \n    {\\displaystyle R^{i}f_{*}F(r-i)=0}\n  \n\n\nfor all i > 0.", 
+            "link": null, 
+            "name": "Castelnuovo\u2013Mumford regularity"
+        }, 
+        {
+            "def": "A scheme is catenary, if all chains between two irreducible closed subschemes have the same length. Examples include virtually everything, e.g. varieties over a field, and it is hard to construct examples that are not catenary.", 
+            "link": null, 
+            "name": "catenary"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A special fiber.", 
+            "link": null, 
+            "name": "central fiber"
+        }, 
+        {
+            "def": "The k-th Chow group \n  \n    \n      \n        \n          A\n          \n            k\n          \n        \n        (\n        X\n        )\n      \n    \n    {\\displaystyle A_{k}(X)}\n  \n of a smooth variety X is the free abelian group generated by closed subvarieties of dimension k (group of k-cycles) modulo rational equivalences.", 
+            "link": null, 
+            "name": "Chow group"
+        }, 
+        {
+            "def": "An analog of a classifying space for torsors in algebraic geometry; see classifying stack.", 
+            "link": null, 
+            "name": "classifying stack"
+        }, 
+        {
+            "def": "Closed subschemes of a scheme X are defined to be those occurring in the following construction. Let J be a quasi-coherent sheaf of \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}}\n  \n-ideals. The support of the quotient sheaf \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        \n          /\n        \n        J\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}/J}\n  \n is a closed subset Z of X and \n  \n    \n      \n        (\n        Z\n        ,\n        (\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        \n          /\n        \n        J\n        )\n        \n          \n            |\n          \n          \n            Z\n          \n        \n        )\n      \n    \n    {\\displaystyle (Z,({\\mathcal {O}}_{X}/J)|_{Z})}\n  \n is a scheme called the closed subscheme defined by the quasi-coherent sheaf of ideals J.[6] The reason the definition of closed subschemes relies on such a construction is that, unlike open subsets, a closed subset of a scheme does not have a unique structure as a subscheme.", 
+            "link": null, 
+            "name": "closed"
+        }, 
+        {
+            "def": "A scheme is called Cohen-Macaulay if all local rings are Cohen-Macaulay. For example, regular schemes, and Spec k[x,y]/(xy) are Cohen\u2013Macaulay, but  is not.", 
+            "link": null, 
+            "name": "Cohen\u2013Macaulay"
+        }, 
+        {
+            "def": "A coherent sheaf on a Noetherian scheme X is a quasi-coherent sheaf that is finitely generated as OX-module.", 
+            "link": null, 
+            "name": "coherent sheaf"
+        }, 
+        {
+            "def": "An algebraic curve of degree two.", 
+            "link": null, 
+            "name": "conic"
+        }, 
+        {
+            "def": "The scheme is connected as a topological space. Since the connected components refine the irreducible components any irreducible scheme is connected but not vice versa. An affine scheme Spec(R) is connected iff the ring R possesses no idempotents other than 0 and 1; such a ring is also called a connected ring. Examples of connected schemes include affine space, projective space, and an example of a scheme that is not connected is Spec(k[x]\u00d7k[x])", 
+            "link": null, 
+            "name": "connected"
+        }, 
+        {
+            "def": "See for example Nagata's compactification theorem.", 
+            "link": null, 
+            "name": "compactification"
+        }, 
+        {
+            "def": "A generalization of a homogeneous coordinate ring. See Cox ring.", 
+            "link": null, 
+            "name": "Cox ring"
+        }, 
+        {
+            "def": "A crepant morphism \n  \n    \n      \n        f\n        :\n        X\n        \u2192\n        Y\n      \n    \n    {\\displaystyle f:X\\to Y}\n  \n between normal varieties is a morphism such that \n  \n    \n      \n        \n          f\n          \n            \u2217\n          \n        \n        \n          \u03c9\n          \n            Y\n          \n        \n        =\n        \n          \u03c9\n          \n            X\n          \n        \n      \n    \n    {\\displaystyle f^{*}\\omega _{Y}=\\omega _{X}}\n  \n.", 
+            "link": null, 
+            "name": "crepant"
+        }, 
+        {
+            "def": "An algebraic variety of dimension one.", 
+            "link": null, 
+            "name": "curve"
+        }, 
+        {
+            "def": "Let \n  \n    \n      \n        S\n        \u2192\n        \n          S\n          \u2032\n        \n      \n    \n    {\\displaystyle S\\to S'}\n  \n be a morphism of schemes and X an S-scheme. Then a deformation X' of X is an S'-scheme together with a pullback square in which X is the pullback of X' (typically X' is assumed to be flat).", 
+            "link": null, 
+            "name": "deformation"
+        }, 
+        {
+            "def": "Given a vector-bundle map \n  \n    \n      \n        f\n        :\n        E\n        \u2192\n        F\n      \n    \n    {\\displaystyle f:E\\to F}\n  \n over a variety X (that is, a scheme X-morphism between the total spaces of the bundles), the degeneracy locus is the (scheme-theoretic) locus\n\n\n  \n    \n      \n        \n          X\n          \n            k\n          \n        \n        (\n        f\n        )\n        =\n        {\n        x\n        \u2208\n        X\n        \n          |\n        \n        rk\n        \u2061\n        (\n        f\n        (\n        x\n        )\n        )\n        \u2264\n        k\n        }\n      \n    \n    {\\displaystyle X_{k}(f)=\\{x\\in X|\\operatorname {rk} (f(x))\\leq k\\}}\n  \n.\n\n", 
+            "link": null, 
+            "name": "degeneracy locus"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A scheme X is said to degenerate to a scheme \n  \n    \n      \n        \n          X\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle X_{0}}\n  \n (called the limit of X) if there is a scheme \n  \n    \n      \n        \u03c0\n        :\n        Y\n        \u2192\n        \n          \n            A\n          \n          \n            1\n          \n        \n      \n    \n    {\\displaystyle \\pi :Y\\to \\mathbf {A} ^{1}}\n  \n with generic fiber X and special fiber \n  \n    \n      \n        \n          X\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle X_{0}}\n  \n.", 
+            "link": null, 
+            "name": "degeneration"
+        }, 
+        {
+            "def": "The dimension, by definition the maximal length of a chain of irreducible closed subschemes, is a global property. It can be seen locally if a scheme is irreducible. It depends only on the topology, not on the structure sheaf. See also Global dimension. Examples: equidimensional schemes in dimension 0: Artinian schemes, 1: algebraic curves, 2: algebraic surfaces.", 
+            "link": null, 
+            "name": "dimension"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The degree of a line bundle L on a complete variety is an integer d such that \n  \n    \n      \n        \u03c7\n        (\n        \n          L\n          \n            \u2297\n            m\n          \n        \n        )\n        =\n        \n          \n            d\n            \n              n\n              !\n            \n          \n        \n        \n          m\n          \n            n\n          \n        \n        +\n        O\n        (\n        \n          m\n          \n            n\n            \u2212\n            1\n          \n        \n        )\n      \n    \n    {\\displaystyle \\chi (L^{\\otimes m})={d \\over n!}m^{n}+O(m^{n-1})}\n  \n.", 
+            "link": null, 
+            "name": "degree"
+        }, 
+        {
+            "def": "An approach to algebraic geometry using (commutative) ring spectra instead of commutative rings; see derived algebraic geometry.", 
+            "link": null, 
+            "name": "derived algebraic geometry"
+        }, 
+        {
+            "def": "A divisorial sheaf on a normal variety is a reflexive sheaf of the form OX(D) for some Weil divisor D.", 
+            "link": null, 
+            "name": "divisorial"
+        }, 
+        {
+            "def": "A morphism f\u00a0: X \u2192 Y is called dominant, if the image f(X) is dense. A morphism of affine schemes Spec A \u2192 Spec B is dense if and only if the kernel of the corresponding map B \u2192 A is contained in the nilradical of B.", 
+            "link": null, 
+            "name": "dominant"
+        }, 
+        {
+            "def": "See Coherent duality.", 
+            "link": null, 
+            "name": "dualizing complex"
+        }, 
+        {
+            "def": "A coherent sheaf \n  \n    \n      \n        \n          \u03c9\n          \n            X\n          \n        \n      \n    \n    {\\displaystyle \\omega _{X}}\n  \n on X such that Serre duality", 
+            "link": null, 
+            "name": "dualizing sheaf"
+        }, 
+        {
+            "def": "\n\n\n\n\nThe title page of \u00c9l\u00e9ments de g\u00e9om\u00e9trie alg\u00e9brique, one of the standard references in algebraic geometry.\n\n\nThe EGA was an incomplete attempt to lay a foundation of algebraic geometry based on the notion of scheme, a generalization of an algebraic variety. S\u00e9minaire de g\u00e9om\u00e9trie alg\u00e9brique picks up where the EGA left off. Today it is one of the standard references in algebraic geometry.\n", 
+            "link": null, 
+            "name": "\u00c9l\u00e9ments de g\u00e9om\u00e9trie alg\u00e9brique"
+        }, 
+        {
+            "def": "An elliptic curve is a smooth projective curve of genus one.", 
+            "link": null, 
+            "name": "elliptic curve"
+        }, 
+        {
+            "def": "Localization of a finite type scheme.", 
+            "link": null, 
+            "name": "essentially of finite type"
+        }, 
+        {
+            "def": "A morphism f\u00a0: Y \u2192 X is \u00e9tale if it is flat and unramified. There are several other equivalent definitions. In the case of smooth varieties \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n and \n  \n    \n      \n        Y\n      \n    \n    {\\displaystyle Y}\n  \n over an algebraically closed field, \u00e9tale morphisms are precisely those inducing an isomorphism of tangent spaces \n  \n    \n      \n        d\n        f\n        :\n        \n          T\n          \n            y\n          \n        \n        Y\n        \u2192\n        \n          T\n          \n            f\n            (\n            y\n            )\n          \n        \n        X\n      \n    \n    {\\displaystyle df:T_{y}Y\\rightarrow T_{f(y)}X}\n  \n, which coincides with the usual notion of \u00e9tale map in differential geometry.\n\u00c9tale morphisms form a very important class of morphisms; they are used to build the so-called \u00e9tale topology and consequently the \u00e9tale cohomology, which is nowadays one of the cornerstones of algebraic geometry.\n", 
+            "link": null, 
+            "name": "\u00e9tale"
+        }, 
+        {
+            "def": "The exact sequence of sheaves:\n\n\n  \n    \n      \n        0\n        \u2192\n        \n          \n            \n              O\n            \n          \n          \n            \n              \n                P\n              \n              \n                n\n              \n            \n          \n        \n        \u2192\n        \n          \n            \n              O\n            \n          \n          \n            \n              \n                P\n              \n              \n                n\n              \n            \n          \n        \n        (\n        1\n        \n          )\n          \n            \u2295\n            (\n            n\n            +\n            1\n            )\n          \n        \n        \u2192\n        T\n        \n          \n            P\n          \n          \n            n\n          \n        \n        \u2192\n        0\n        ,\n      \n    \n    {\\displaystyle 0\\to {\\mathcal {O}}_{\\mathbf {P} ^{n}}\\to {\\mathcal {O}}_{\\mathbf {P} ^{n}}(1)^{\\oplus (n+1)}\\to T\\mathbf {P} ^{n}\\to 0,}\n  \n\n\nwhere Pn is the projective space over a field and the last nonzero term is the tangent sheaf, is called the Euler sequence.\n", 
+            "link": null, 
+            "name": "Euler sequence"
+        }, 
+        {
+            "def": "See Chapter II of http://www.math.ubc.ca/~behrend/cet.pdf", 
+            "link": null, 
+            "name": "equivariant intersection theory"
+        }, 
+        {
+            "def": "Related to Frobenius morphism.[7]", 
+            "link": null, 
+            "name": "F-regular"
+        }, 
+        {
+            "def": "A Fano variety is a smooth projective variety X whose anticanonical sheaf \n  \n    \n      \n        \n          \u03c9\n          \n            X\n          \n          \n            \u2212\n            1\n          \n        \n      \n    \n    {\\displaystyle \\omega _{X}^{-1}}\n  \n is ample.", 
+            "link": null, 
+            "name": "Fano"
+        }, 
+        {
+            "def": "Given \n  \n    \n      \n        f\n        :\n        X\n        \u2192\n        Y\n      \n    \n    {\\displaystyle f:X\\to Y}\n  \n between schemes, the fiber of f over y is, as a set, the pre-image \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        (\n        y\n        )\n        =\n        {\n        x\n        \u2208\n        X\n        \n          |\n        \n        f\n        (\n        x\n        )\n        =\n        y\n        }\n      \n    \n    {\\displaystyle f^{-1}(y)=\\{x\\in X|f(x)=y\\}}\n  \n; it has the natural structure of a scheme over the residue field of y as the fiber product \n  \n    \n      \n        X\n        \n          \u00d7\n          \n            Y\n          \n        \n        {\n        y\n        }\n      \n    \n    {\\displaystyle X\\times _{Y}\\{y\\}}\n  \n, where \n  \n    \n      \n        {\n        y\n        }\n      \n    \n    {\\displaystyle \\{y\\}}\n  \n has the natural structure of a scheme over Y as Spec of the residue field of y.", 
+            "link": null, 
+            "name": "fiber"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0Another term for the \"pullback\" in the category theory.", 
+            "link": null, 
+            "name": "fiber product"
+        }, 
+        {
+            "def": "One of Grothendieck's fundamental ideas is to emphasize relative notions, i.e. conditions on morphisms rather than conditions on schemes themselves. The category of schemes has a final object, the spectrum of the ring \n  \n    \n      \n        \n          Z\n        \n      \n    \n    {\\displaystyle \\mathbb {Z} }\n  \n of integers; so that any scheme \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n is over \n  \n    \n      \n        \n          \n            Spec\n          \n        \n        (\n        \n          Z\n        \n        )\n      \n    \n    {\\displaystyle {\\textrm {Spec}}(\\mathbb {Z} )}\n  \n, and in a unique way.", 
+            "link": null, 
+            "name": "final"
+        }, 
+        {
+            "def": "The morphism f\u00a0: Y \u2192 X is finite if \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n may be covered by affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        B\n      \n    \n    {\\displaystyle {\\text{Spec }}B}\n  \n such that each \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        (\n        \n          Spec\u00a0\n        \n        B\n        )\n      \n    \n    {\\displaystyle f^{-1}({\\text{Spec }}B)}\n  \n is affine \u2014 say of the form \n  \n    \n      \n        \n          Spec\u00a0\n        \n        A\n      \n    \n    {\\displaystyle {\\text{Spec }}A}\n  \n \u2014 and furthermore \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is finitely generated as a \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n-module. See finite morphism. Finite morphisms are quasi-finite, but not all morphisms having finite fibers are quasi-finite, and morphisms of finite type are usually not quasi-finite.", 
+            "link": null, 
+            "name": "finite"
+        }, 
+        {
+            "def": "The morphism f\u00a0: Y \u2192 X is locally of finite type if \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n may be covered by affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        B\n      \n    \n    {\\displaystyle {\\text{Spec }}B}\n  \n such that each inverse image \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        (\n        \n          Spec\u00a0\n        \n        B\n        )\n      \n    \n    {\\displaystyle f^{-1}({\\text{Spec }}B)}\n  \n is covered by affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        A\n      \n    \n    {\\displaystyle {\\text{Spec }}A}\n  \n where each \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is finitely generated as a \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n-algebra. The morphism f\u00a0: Y \u2192 X is of finite type if \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n may be covered by affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        B\n      \n    \n    {\\displaystyle {\\text{Spec }}B}\n  \n such that each inverse image \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        (\n        \n          Spec\u00a0\n        \n        B\n        )\n      \n    \n    {\\displaystyle f^{-1}({\\text{Spec }}B)}\n  \n is covered by finitely many affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        A\n      \n    \n    {\\displaystyle {\\text{Spec }}A}\n  \n where each \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is finitely generated as a \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n-algebra.", 
+            "link": null, 
+            "name": "finite type (locally)"
+        }, 
+        {
+            "def": "The morphism f\u00a0: Y \u2192 X has finite fibers if the fiber over each point \n  \n    \n      \n        x\n        \u2208\n        X\n      \n    \n    {\\displaystyle x\\in X}\n  \n is a finite set. A morphism is quasi-finite if it is of finite type and has finite fibers.", 
+            "link": null, 
+            "name": "finite fibers"
+        }, 
+        {
+            "def": "If y is a point of Y, then the morphism f is of finite presentation at y (or finitely presented at y) if there is an open affine subset U of f(y) and an open affine neighbourhood V of y such that f(V)\u00a0\u2286\u00a0U and \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            Y\n          \n        \n        (\n        V\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{Y}(V)}\n  \n is a finitely presented algebra over \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        U\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(U)}\n  \n. The morphism f is locally of finite presentation if it is finitely presented at all points of Y. If X is locally Noetherian, then f is locally of finite presentation if, and only if, it is locally of finite type.[8] The morphism f\u00a0: Y \u2192 X is of finite presentation (or Y is finitely presented over X) if it is locally of finite presentation, quasi-compact, and quasi-separated. If X is locally Noetherian, then f is of finite presentation if, and only if, it is of finite type.[9]", 
+            "link": null, 
+            "name": "finite presentation"
+        }, 
+        {
+            "def": "The flag variety parametrizes a flag of vector spaces.", 
+            "link": null, 
+            "name": "flag variety"
+        }, 
+        {
+            "def": "A morphism \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n is flat if it gives rise to a flat map on stalks. When viewing a morphism f\u00a0: Y \u2192 X as a family of schemes parametrized by the points of \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n, the geometric meaning of flatness could roughly be described by saying that the fibers \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        (\n        x\n        )\n      \n    \n    {\\displaystyle f^{-1}(x)}\n  \n do not vary too wildly.", 
+            "link": null, 
+            "name": "flat"
+        }, 
+        {
+            "def": "See formal scheme.", 
+            "link": null, 
+            "name": "formal"
+        }, 
+        {
+            "def": "Given a curve C, a divisor D on it and a vector subspace \n  \n    \n      \n        V\n        \u2282\n        \n          H\n          \n            0\n          \n        \n        (\n        C\n        ,\n        \n          \n            O\n          \n        \n        (\n        D\n        )\n        )\n      \n    \n    {\\displaystyle V\\subset H^{0}(C,{\\mathcal {O}}(D))}\n  \n, one says the linear system \n  \n    \n      \n        \n          P\n        \n        (\n        V\n        )\n      \n    \n    {\\displaystyle \\mathbb {P} (V)}\n  \n is a grd if V has dimension r+1 and D has degree d. One says C has a grd if there is such a linear system.", 
+            "link": null, 
+            "name": "grd."
+        }, 
+        {
+            "def": "The Gabriel\u2013Rosenberg reconstruction theorem states a scheme X can be recovered from the category of quasi-coherent sheaves on X.[10] The theorem is a starting point for noncommutative algebraic geometry since, taking the theorem as an axiom, defining a noncommutative scheme amounts to defining the category of quasi-coherent sheaves on it. See also http://mathoverflow.net/questions/16257/how-to-unify-various-reconstruction-theorems-gabriel-rosenberg-tannaka-balmers", 
+            "link": null, 
+            "name": "Gabriel\u2013Rosenberg reconstruction theorem"
+        }, 
+        {
+            "def": "A principal G-bundle.", 
+            "link": null, 
+            "name": "G-bundle"
+        }, 
+        {
+            "def": "A dense point.", 
+            "link": null, 
+            "name": "generic point"
+        }, 
+        {
+            "def": "See #arithmetic genus, #geometric genus.", 
+            "link": null, 
+            "name": "genus"
+        }, 
+        {
+            "def": "The genus formula for a nodal curve in the projective plane says the genus of the curve is given as\n\n\n  \n    \n      \n        g\n        =\n        (\n        d\n        \u2212\n        1\n        )\n        (\n        d\n        \u2212\n        2\n        )\n        \n          /\n        \n        2\n        \u2212\n        \u03b4\n      \n    \n    {\\displaystyle g=(d-1)(d-2)/2-\\delta }\n  \n\n\nwhere d is the degree of the curve and \u03b4 is the number of nodes (which is zero if the curve is smooth).", 
+            "link": null, 
+            "name": "genus formula"
+        }, 
+        {
+            "def": "The geometric genus of a smooth projective variety X of dimension n is\n\n\n  \n    \n      \n        dim\n        \u2061\n        \u0393\n        (\n        X\n        ,\n        \n          \u03a9\n          \n            X\n          \n          \n            n\n          \n        \n        )\n        =\n        dim\n        \u2061\n        \n          H\n          \n            n\n          \n        \n        \u2061\n        (\n        X\n        ,\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        )\n      \n    \n    {\\displaystyle \\dim \\Gamma (X,\\Omega _{X}^{n})=\\dim \\operatorname {H} ^{n}(X,{\\mathcal {O}}_{X})}\n  \n\n\n(where the equality is Serre's duality theorem.)", 
+            "link": null, 
+            "name": "geometric genus"
+        }, 
+        {
+            "def": "The prime spectrum of an algebraically closed field.", 
+            "link": null, 
+            "name": "geometric point"
+        }, 
+        {
+            "def": "A property of a scheme X over a field k is \"geometric\" if it holds for \n  \n    \n      \n        \n          X\n          \n            E\n          \n        \n        =\n        X\n        \n          \u00d7\n          \n            Spec\n            \u2061\n            k\n          \n        \n        \n          Spec\n          \u2061\n          E\n        \n      \n    \n    {\\displaystyle X_{E}=X\\times _{\\operatorname {Spec} k}{\\operatorname {Spec} E}}\n  \n for any field extension \n  \n    \n      \n        E\n        \n          /\n        \n        k\n      \n    \n    {\\displaystyle E/k}\n  \n.", 
+            "link": null, 
+            "name": "geometric property"
+        }, 
+        {
+            "def": "The geometric quotient of a scheme X with the action of a group scheme G is a good quotient such that the fibers are orbits.", 
+            "link": null, 
+            "name": "geometric quotient"
+        }, 
+        {
+            "def": "The GIT quotient \n  \n    \n      \n        X\n        \n          /\n        \n        \n        \n          /\n        \n        G\n      \n    \n    {\\displaystyle X/\\!/G}\n  \n is \n  \n    \n      \n        Spec\n        \u2061\n        (\n        \n          A\n          \n            G\n          \n        \n        )\n      \n    \n    {\\displaystyle \\operatorname {Spec} (A^{G})}\n  \n when \n  \n    \n      \n        X\n        =\n        Spec\n        \u2061\n        A\n      \n    \n    {\\displaystyle X=\\operatorname {Spec} A}\n  \n and \n  \n    \n      \n        Proj\n        \u2061\n        (\n        \n          A\n          \n            G\n          \n        \n        )\n      \n    \n    {\\displaystyle \\operatorname {Proj} (A^{G})}\n  \n when \n  \n    \n      \n        X\n        =\n        Proj\n        \u2061\n        A\n      \n    \n    {\\displaystyle X=\\operatorname {Proj} A}\n  \n.", 
+            "link": null, 
+            "name": "GIT quotient"
+        }, 
+        {
+            "def": "The good quotient of a scheme X with the action of a group scheme G is an invariant morphism \n  \n    \n      \n        f\n        :\n        X\n        \u2192\n        Y\n      \n    \n    {\\displaystyle f:X\\to Y}\n  \n such that \n  \n    \n      \n        (\n        \n          f\n          \n            \u2217\n          \n        \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        \n          )\n          \n            G\n          \n        \n        =\n        \n          \n            \n              O\n            \n          \n          \n            Y\n          \n        \n        .\n      \n    \n    {\\displaystyle (f_{*}{\\mathcal {O}}_{X})^{G}={\\mathcal {O}}_{Y}.}\n  \n", 
+            "link": null, 
+            "name": "good quotient"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A Gorenstein scheme is a locally Noetherian scheme whose local rings are Gorenstein rings.", 
+            "link": null, 
+            "name": "Gorenstein"
+        }, 
+        {
+            "def": "The Grauert\u2013Riemenschneider vanishing theorem extends the Kodaira vanishing theorem to higher direct image sheaves; see also http://arxiv.org/abs/1404.1827", 
+            "link": null, 
+            "name": "Grauert\u2013Riemenschneider vanishing theorem"
+        }, 
+        {
+            "def": "The Grothendieck ring of varieties is the free abelian group generated by isomorphism classes of varieties with the relation:", 
+            "link": null, 
+            "name": "Grothendieck ring of varieties"
+        }, 
+        {
+            "def": "Grothendieck's vanishing theorem concerns local cohomology.", 
+            "link": null, 
+            "name": "Grothendieck's vanishing theorem"
+        }, 
+        {
+            "def": "A group scheme is a scheme whose sets of points have the structures of a group.", 
+            "link": null, 
+            "name": "group scheme"
+        }, 
+        {
+            "def": "An old term for a \"smooth\" algebraic group.", 
+            "link": null, 
+            "name": "group variety"
+        }, 
+        {
+            "def": "The Hilbert polynomial of a projective scheme X over a field is the Euler characteristic \n  \n    \n      \n        \u03c7\n        (\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        s\n        )\n        )\n      \n    \n    {\\displaystyle \\chi ({\\mathcal {O}}_{X}(s))}\n  \n.", 
+            "link": null, 
+            "name": "Hilbert polynomial"
+        }, 
+        {
+            "def": "The Hodge bundle on the moduli space of curves (of fixed genus) is roughly a vector bundle whose fiber over a curve C is the vector space \n  \n    \n      \n        \u0393\n        (\n        C\n        ,\n        \n          \u03c9\n          \n            C\n          \n        \n        )\n      \n    \n    {\\displaystyle \\Gamma (C,\\omega _{C})}\n  \n.", 
+            "link": null, 
+            "name": "Hodge bundle"
+        }, 
+        {
+            "def": "A curve is hyperelliptic if it has a g12 (i.e., there is a linear system of dimension 1 and degree 2.)", 
+            "link": null, 
+            "name": "hyperelliptic"
+        }, 
+        {
+            "def": "Another term for Serre's twisting sheaf \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(1)}\n  \n. It is the dual of the tautological line bundle (whence the term).", 
+            "link": null, 
+            "name": "hyperplane bundle"
+        }, 
+        {
+            "def": "If f\u00a0: Y \u2192 X is any morphism of schemes, the scheme-theoretic image of f is the unique closed subscheme i\u00a0: Z \u2192 X which satisfies the following universal property:\n\nf factors through i,\nif j\u00a0: Z\u2032 \u2192 X is any closed subscheme of X such that f factors through j, then i also factors through j.[11][12]\n\nThis notion is distinct from that of the usual set-theoretic image of f, f(Y). For example, the underlying space of Z always contains (but is not necessarily equal to) the Zariski closure of f(Y) in X, so if Y is any open (and not closed) subscheme of X and f is the inclusion map, then Z is different from f(Y). When Y is reduced, then Z is the Zariski closure of f(Y) endowed with the structure of reduced closed subscheme. But in general, unless f is quasi-compact, the construction of Z is not local on X.", 
+            "link": null, 
+            "name": "image"
+        }, 
+        {
+            "def": "Immersions f\u00a0: Y \u2192 X are maps that factor through isomorphisms with subschemes. Specifically, an open immersion factors through an isomorphism with an open subscheme and a closed immersion factors through an isomorphism with a closed subscheme.[13] Equivalently, f is a closed immersion if, and only if, it induces a homeomorphism from the underlying topological space of Y to a closed subset of the underlying topological space of X, and if the morphism \n  \n    \n      \n        \n          f\n          \n            \u266f\n          \n        \n        :\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        \u2192\n        \n          f\n          \n            \u2217\n          \n        \n        \n          \n            \n              O\n            \n          \n          \n            Y\n          \n        \n      \n    \n    {\\displaystyle f^{\\sharp }:{\\mathcal {O}}_{X}\\to f_{*}{\\mathcal {O}}_{Y}}\n  \n is surjective.[14] A composition of immersions is again an immersion.[15] Some authors, such as Hartshorne in his book Algebraic Geometry and Q. Liu in his book Algebraic Geometry and Arithmetic Curves, define immersions as the composite of an open immersion followed by a closed immersion. These immersions are immersions in the sense above, but the converse is false. Furthermore, under this definition, the composite of two immersions is not necessarily an immersion. However, the two definitions are equivalent when f is quasi-compact.[16] Note that an open immersion is completely described by its image in the sense of topological spaces, while a closed immersion is not: \n  \n    \n      \n        Spec\n        \u2061\n        A\n        \n          /\n        \n        I\n      \n    \n    {\\displaystyle \\operatorname {Spec} A/I}\n  \n and \n  \n    \n      \n        Spec\n        \u2061\n        A\n        \n          /\n        \n        J\n      \n    \n    {\\displaystyle \\operatorname {Spec} A/J}\n  \n may be homeomorphic but not isomorphic. This happens, for example, if I is the radical of J but J is not a radical ideal. When specifying a closed subset of a scheme without mentioning the scheme structure, usually the so-called reduced scheme structure is meant, that is, the scheme structure corresponding to the unique radical ideal consisting of all functions vanishing on that closed subset.", 
+            "link": null, 
+            "name": "immersion"
+        }, 
+        {
+            "def": "An ind-scheme is an inductive limit of closed immersions of schemes.", 
+            "link": null, 
+            "name": "ind-scheme"
+        }, 
+        {
+            "def": "A locally free sheaf of a rank one. Equivalently, it is a torsor for the multiplicative group \n  \n    \n      \n        \n          \n            G\n          \n          \n            m\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {G} _{m}}\n  \n (i.e., line bundle).", 
+            "link": null, 
+            "name": "invertible sheaf"
+        }, 
+        {
+            "def": "A scheme that is both reduced and irreducible is called integral. For locally Noetherian schemes, to be integral is equivalent to being a connected scheme that is covered by the spectra of integral domains. (Strictly speaking, this is not a local property, because the disjoint union of two integral schemes is not integral. However, for irreducible schemes, it is a local property.) For example, the scheme Spec k[t]/f, f irreducible polynomial is integral, while Spec A\u00d7B. (A, B \u2260 0) is not.", 
+            "link": null, 
+            "name": "integral"
+        }, 
+        {
+            "def": "A scheme X is said to be irreducible when (as a topological space) it is not the union of two closed subsets except if one is equal to X. Using the correspondence of prime ideals and points in an affine scheme, this means X is irreducible iff X is connected and the rings Ai all have exactly one minimal prime ideal. (Rings possessing exactly one minimal prime ideal are therefore also called irreducible.) Any noetherian scheme can be written uniquely as the union of finitely many maximal irreducible non-empty closed subsets, called its irreducible components. Affine space and projective space are irreducible, while Spec k[x,y]/(xy) =  is not.", 
+            "link": null, 
+            "name": "irreducible"
+        }, 
+        {
+            "def": "The Jacobian variety of a projective curve X is the degree zero part of the Picard variety \n  \n    \n      \n        Pic\n        \u2061\n        (\n        X\n        )\n      \n    \n    {\\displaystyle \\operatorname {Pic} (X)}\n  \n.", 
+            "link": null, 
+            "name": "Jacobian variety"
+        }, 
+        {
+            "def": "The Kempf vanishing theorem concerns the vanishing of higher cohomology of a flag variety.", 
+            "link": null, 
+            "name": "Kempf vanishing theorem"
+        }, 
+        {
+            "def": "Abbreviation for \"kawamata log terminal\"", 
+            "link": null, 
+            "name": "klt"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0The Kodaira dimension (also called the Iitaka dimension) of a semi-ample line bundle L is the dimension of Proj of the section ring of L.", 
+            "link": null, 
+            "name": "Kodaira dimension"
+        }, 
+        {
+            "def": "See the Kodaira vanishing theorem.", 
+            "link": null, 
+            "name": "Kodaira vanishing theorem"
+        }, 
+        {
+            "def": "See Kuranishi structure.", 
+            "link": null, 
+            "name": "Kuranishi map"
+        }, 
+        {
+            "def": "See Lelong number.", 
+            "link": null, 
+            "name": "Lelong number"
+        }, 
+        {
+            "def": "see http://math.stanford.edu/~conrad/248BPage/handouts/level.pdf", 
+            "link": null, 
+            "name": "level structure"
+        }, 
+        {
+            "def": "Another term for the structure of an equivariant sheaf/vector bundle.", 
+            "link": null, 
+            "name": "linearlization"
+        }, 
+        {
+            "def": "Most important properties of schemes are local in nature, i.e. a scheme X has a certain property P if and only if for any cover of X by open subschemes Xi, i.e. X=\n  \n    \n      \n        \u222a\n      \n    \n    {\\displaystyle \\cup }\n  \n Xi, every Xi has the property P. It is usually the case that is enough to check one cover, not all possible ones. One also says that a certain property is Zariski-local, if one needs to distinguish between the Zariski topology and other possible topologies, like the \u00e9tale topology. Consider a scheme X and a cover by affine open subschemes Spec Ai. Using the dictionary between (commutative) rings and affine schemes local properties are thus properties of the rings Ai. A property P is local in the above sense, iff the corresponding property of rings is stable under localization. For example, we can speak of locally Noetherian schemes, namely those which are covered by the spectra of Noetherian rings. The fact that localizations of a Noetherian ring are still noetherian then means that the property of a scheme of being locally Noetherian is local in the above sense (whence the name). Another example: if a ring is reduced (i.e., has no non-zero nilpotent elements), then so are its localizations. An example for a non-local property is separatedness (see below for the definition). Any affine scheme is separated, therefore any scheme is locally separated. However, the affine pieces may glue together pathologically to yield a non-separated scheme. The following is a (non-exhaustive) list of local properties of rings, which are applied to schemes. Let X = \n  \n    \n      \n        \u222a\n      \n    \n    {\\displaystyle \\cup }\n  \n Spec Ai be a covering of a scheme by open affine subschemes. For definiteness, let k denote a field in the following. Most of the examples also work with the integers Z as a base, though, or even more general bases. Connected, irreducible, reduced, integral, normal, regular, Cohen-Macaulay, locally noetherian, dimension, catenary,", 
+            "link": null, 
+            "name": "local"
+        }, 
+        {
+            "def": "The local rings are complete intersection rings. See also: regular embedding.", 
+            "link": null, 
+            "name": "local complete intersection"
+        }, 
+        {
+            "def": "The local uniformization is a method of constructing a weaker form of resolution of singularities by means of valuation rings.", 
+            "link": null, 
+            "name": "local uniformization"
+        }, 
+        {
+            "def": "The local rings are unique factorization domains.", 
+            "link": null, 
+            "name": "locally factorial"
+        }, 
+        {
+            "def": "The morphism f\u00a0: Y \u2192 X is locally of finite type if \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n may be covered by affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        B\n      \n    \n    {\\displaystyle {\\text{Spec }}B}\n  \n such that each inverse image \n  \n    \n      \n        \n          f\n          \n            \u2212\n            1\n          \n        \n        (\n        \n          Spec\u00a0\n        \n        B\n        )\n      \n    \n    {\\displaystyle f^{-1}({\\text{Spec }}B)}\n  \n is covered by affine open sets \n  \n    \n      \n        \n          Spec\u00a0\n        \n        A\n      \n    \n    {\\displaystyle {\\text{Spec }}A}\n  \n where each \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is finitely generated as a \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n-algebra.", 
+            "link": null, 
+            "name": "locally of finite type"
+        }, 
+        {
+            "def": "The Ai are Noetherian rings. If in addition a finite number of such affine spectra covers X, the scheme is called noetherian. While it is true that the spectrum of a noetherian ring is a noetherian topological space, the converse is false. For example, most schemes in finite-dimensional algebraic geometry are locally Noetherian, but \n  \n    \n      \n        G\n        \n          L\n          \n            \u221e\n          \n        \n        =\n        \u222a\n        G\n        \n          L\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle GL_{\\infty }=\\cup GL_{n}}\n  \n is not.", 
+            "link": null, 
+            "name": "locally Noetherian"
+        }, 
+        {
+            "def": "See log structure. The notion is due to Fontaine-Illusie and Kato.", 
+            "link": null, 
+            "name": "log structure"
+        }, 
+        {
+            "def": "See loop group (the linked article does not discuss a loop group in algebraic geometry; for now see also ind-scheme).", 
+            "link": null, 
+            "name": "loop group"
+        }, 
+        {
+            "def": "See for example moduli space.\n\n\n\nWhile much of the early work on moduli, especially since [Mum65], put the emphasis on the construction of fine or coarse moduli spaces, recently the emphasis shifted towards the study of the families of varieties, that is towards moduli functors and moduli stacks. The main task is to understand what kind of objects form \u201cnice\u201d families. Once a good concept of \u201cnice families\u201d is established, the existence of a coarse moduli space should be nearly automatic. The coarse moduli space is not the fundamental object any longer, rather it is only a convenient way to keep track of certain information that is only latent in the moduli functor or moduli stack.\n\n\nKoll\u00e1r, J\u00e1nos, Chapter 1, \"Book on Moduli of Surfaces\".\n", 
+            "link": null, 
+            "name": "moduli"
+        }, 
+        {
+            "def": "The minimal model program is a research program aiming to do birational classification of algebraic varieties of dimension greater than 2.", 
+            "link": null, 
+            "name": "Mori's minimal model program"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A morphism of algebraic varieties is given locally by polynomials.", 
+            "link": null, 
+            "name": "morphism"
+        }, 
+        {
+            "def": "See nef line bundle.", 
+            "link": null, 
+            "name": "nef"
+        }, 
+        {
+            "def": "An archaic term for \"smooth\" as in a smooth variety.", 
+            "link": null, 
+            "name": "nonsingular"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0An integral scheme is called normal, if the local rings are integrally closed domains. For example, all regular schemes are normal, while singular curves are not.", 
+            "link": null, 
+            "name": "normal"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If X is a closed subscheme of a scheme Y with ideal sheaf I, then the normal sheaf to X is \n  \n    \n      \n        (\n        I\n        \n          /\n        \n        \n          I\n          \n            2\n          \n        \n        \n          )\n          \n            \u2217\n          \n        \n        =\n        \n          \n            H\n          \n        \n        o\n        \n          m\n          \n            \n              \n                \n                  O\n                \n              \n              \n                Y\n              \n            \n          \n        \n        (\n        I\n        \n          /\n        \n        \n          I\n          \n            2\n          \n        \n        ,\n        \n          \n            \n              O\n            \n          \n          \n            Y\n          \n        \n        )\n      \n    \n    {\\displaystyle (I/I^{2})^{*}={\\mathcal {H}}om_{{\\mathcal {O}}_{Y}}(I/I^{2},{\\mathcal {O}}_{Y})}\n  \n. If the embedded of X into Y is regular, it is locally free and is called the normal bundle.", 
+            "link": null, 
+            "name": "normal"
+        }, 
+        {
+            "def": "See normal crossings.", 
+            "link": null, 
+            "name": "normal crossings"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A morphism f\u00a0: Y \u2192 X of schemes is called open (closed), if the underlying map of topological spaces is open (closed, respectively), i.e. if open subschemes of Y are mapped to open subschemes of X (and similarly for closed). For example, finitely presented flat morphisms are open and proper maps are closed.", 
+            "link": null, 
+            "name": "open"
+        }, 
+        {
+            "def": "Nowadays an orbifold is often defined as a Deligne\u2013Mumford stack over the category of differentiable manifolds.[17]", 
+            "link": null, 
+            "name": "orbifold"
+        }, 
+        {
+            "def": "See p-divisible group (roughly an analog of torsion points of an abelian variety).", 
+            "link": null, 
+            "name": "p-divisible group"
+        }, 
+        {
+            "def": "A linear system of dimension one.", 
+            "link": null, 
+            "name": "pencil"
+        }, 
+        {
+            "def": "The Picard group of X is the group of the isomorphism classes of line bundles on X, the multiplication being the tensor product.", 
+            "link": null, 
+            "name": "Picard group"
+        }, 
+        {
+            "def": "The Pl\u00fccker embedding is the closed embedding of the Grassmannian variety into a projective space.", 
+            "link": null, 
+            "name": "Pl\u00fccker embedding"
+        }, 
+        {
+            "def": "The n-th plurigenus of a smooth projective variety is \n  \n    \n      \n        dim\n        \u2061\n        \u0393\n        (\n        X\n        ,\n        \n          \u03c9\n          \n            X\n          \n          \n            \u2297\n            n\n          \n        \n        )\n      \n    \n    {\\displaystyle \\dim \\Gamma (X,\\omega _{X}^{\\otimes n})}\n  \n. See also Hodge number.", 
+            "link": null, 
+            "name": "plurigenus"
+        }, 
+        {
+            "def": "See Poincar\u00e9 residue.", 
+            "link": null, 
+            "name": "Poincar\u00e9 residue map"
+        }, 
+        {
+            "def": "A scheme \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n is a locally ringed space, so a fortiori a topological space, but the meanings of point of \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n are threefold:\n\na point \n  \n    \n      \n        P\n      \n    \n    {\\displaystyle P}\n  \n of the underlying topological space;\na \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n-valued point of \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n is a morphism from \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n to \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n, for any scheme \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n;\na geometric point, where \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n is defined over (is equipped with a morphism to) \n  \n    \n      \n        \n          \n            Spec\n          \n        \n        (\n        K\n        )\n      \n    \n    {\\displaystyle {\\textrm {Spec}}(K)}\n  \n, where \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n is a field, is a morphism from \n  \n    \n      \n        \n          \n            Spec\n          \n        \n        (\n        \n          \n            K\n            \u00af\n          \n        \n        )\n      \n    \n    {\\displaystyle {\\textrm {Spec}}({\\overline {K}})}\n  \n to \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n where \n  \n    \n      \n        \n          \n            K\n            \u00af\n          \n        \n      \n    \n    {\\displaystyle {\\overline {K}}}\n  \n is an algebraic closure of \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n.\n\nGeometric points are what in the most classical cases, for example algebraic varieties that are complex manifolds, would be the ordinary-sense points. The points \n  \n    \n      \n        P\n      \n    \n    {\\displaystyle P}\n  \n of the underlying space include analogues of the generic points (in the sense of Zariski, not that of Andr\u00e9 Weil), which specialise to ordinary-sense points. The \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n-valued points are thought of, via Yoneda's lemma, as a way of identifying \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n with the representable functor \n  \n    \n      \n        \n          h\n          \n            S\n          \n        \n      \n    \n    {\\displaystyle h_{S}}\n  \n it sets up. Historically there was a process by which projective geometry added more points (e.g. complex points, line at infinity) to simplify the geometry by refining the basic objects. The \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n-valued points were a massive further step. As part of the predominating Grothendieck approach, there are three corresponding notions of fiber of a morphism: the first being the simple inverse image of a point. The other two are formed by creating fiber products of two morphisms. For example, a geometric fiber of a morphism \n  \n    \n      \n        \n          S\n          \n            \u2032\n          \n        \n        \u2192\n        S\n      \n    \n    {\\displaystyle S^{\\prime }\\to S}\n  \n is thought of as\n\n\n  \n    \n      \n        \n          S\n          \n            \u2032\n          \n        \n        \n          \u00d7\n          \n            S\n          \n        \n        \n          \n            Spec\n          \n        \n        (\n        \n          \n            K\n            \u00af\n          \n        \n        )\n      \n    \n    {\\displaystyle S^{\\prime }\\times _{S}{\\textrm {Spec}}({\\overline {K}})}\n  \n.\n\nThis makes the extension from affine schemes, where it is just the tensor product of R-algebras, to all schemes of the fiber product operation a significant (if technically anodyne) result.", 
+            "link": null, 
+            "name": "point"
+        }, 
+        {
+            "def": "an embedding into a projective space", 
+            "link": null, 
+            "name": "polarization"
+        }, 
+        {
+            "def": "See Proj construction.", 
+            "link": null, 
+            "name": "Proj"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A projective variety is a closed subvariety of a projective space.", 
+            "link": null, 
+            "name": "projective"
+        }, 
+        {
+            "def": "If E is a locally free sheaf on a scheme X, the projective bundle P(E) of E is the global Proj of the symmetric algebra of the dual of E:\n\n\n  \n    \n      \n        \n          P\n        \n        (\n        E\n        )\n        =\n        \n          P\n          r\n          o\n          j\n        \n        (\n        \n          Sym\n          \n            \n              \n                \n                  O\n                \n              \n              \n                X\n              \n            \n          \n        \n        \u2061\n        (\n        \n          E\n          \n            \u2228\n          \n        \n        )\n        )\n        .\n      \n    \n    {\\displaystyle \\mathbf {P} (E)=\\mathbf {Proj} (\\operatorname {Sym} _{{\\mathcal {O}}_{X}}(E^{\\vee })).}\n  \n\n\nNote this definition is standard nowadays (e.g., Fulton's Intersection theory) but differs from EGA and Hartshorne (they don't take a dual).", 
+            "link": null, 
+            "name": "projective bundle"
+        }, 
+        {
+            "def": "See #normal.", 
+            "link": null, 
+            "name": "projectively normal"
+        }, 
+        {
+            "def": "A morphism is proper if it is separated, universally closed (i.e. such that fiber products with it are closed maps), and of finite type. Projective morphisms are proper; but the converse is not in general true. See also complete variety. A deep property of proper morphisms is the existence of a Stein factorization, namely the existence of an intermediate scheme such that a morphism can be expressed as one with connected fibres, followed by a finite morphism.", 
+            "link": null, 
+            "name": "proper"
+        }, 
+        {
+            "def": "Let P be a property of a scheme that is stable under base change (finite-type, proper, smooth, \u00e9tale, etc.). Then a representable morphism \n  \n    \n      \n        f\n        :\n        F\n        \u2192\n        G\n      \n    \n    {\\displaystyle f:F\\to G}\n  \n is said to have propert P if, for any \n  \n    \n      \n        B\n        \u2192\n        G\n      \n    \n    {\\displaystyle B\\to G}\n  \n with B a scheme, the base change \n  \n    \n      \n        F\n        \n          \u00d7\n          \n            G\n          \n        \n        B\n        \u2192\n        B\n      \n    \n    {\\displaystyle F\\times _{G}B\\to B}\n  \n has property P.", 
+            "link": null, 
+            "name": "property P"
+        }, 
+        {
+            "def": "A scheme has pure dimension d if each irreducible component has dimension d.", 
+            "link": null, 
+            "name": "pure dimension"
+        }, 
+        {
+            "def": "A quasi-coherent sheaf on a Noetheiran scheme X is a sheaf of OX-modules that is locally given by modules.", 
+            "link": null, 
+            "name": "quasi-coherent"
+        }, 
+        {
+            "def": "A morphism f\u00a0: Y \u2192 X is called quasi-compact, if for some (equivalently: every) open affine cover of X by some Ui = Spec Bi, the preimages f\u22121(Ui) are quasi-compact.", 
+            "link": null, 
+            "name": "quasi-compact"
+        }, 
+        {
+            "def": "The morphism f\u00a0: Y \u2192 X has finite fibers if the fiber over each point \n  \n    \n      \n        x\n        \u2208\n        X\n      \n    \n    {\\displaystyle x\\in X}\n  \n is a finite set. A morphism is quasi-finite if it is of finite type and has finite fibers.", 
+            "link": null, 
+            "name": "quasi-finite"
+        }, 
+        {
+            "def": "A quasi-projective variety is a locally closed subvariety of a projective space.", 
+            "link": null, 
+            "name": "quasi-projective"
+        }, 
+        {
+            "def": "A morphism f\u00a0: Y \u2192 X is called quasi-separated or (Y is quasi-separated over X) if the diagonal morphism Y \u2192 Y \u00d7XY is quasi-compact. A scheme Y is called quasi-separated if Y is quasi-separated over Spec(Z).[20]", 
+            "link": null, 
+            "name": "quasi-separated"
+        }, 
+        {
+            "def": "A Quot scheme parametrizes quotients of locally free sheaves on a projective scheme.", 
+            "link": null, 
+            "name": "Quot scheme"
+        }, 
+        {
+            "def": "Usually denoted by [X/G], a quotient stack generalizes a quotient of a scheme or variety.", 
+            "link": null, 
+            "name": "quotient stack"
+        }, 
+        {
+            "def": "A variety is rational if it is birational to a projective space; the notion applies in particular to curves and surfaces; see rational curve and rational surface.", 
+            "link": null, 
+            "name": "rational"
+        }, 
+        {
+            "def": "An element in the function field \n  \n    \n      \n        k\n        (\n        X\n        )\n        =\n        \n          \n            \n              lim\n              \n                \n              \n            \n            \u2192\n          \n          \n            \n          \n        \n        \u2061\n        k\n        [\n        U\n        ]\n      \n    \n    {\\displaystyle k(X)=\\varinjlim k[U]}\n  \n where the limit runs over all coordinates rings of open subsets U of an (irreducible) algebraic variety X. See also function field (scheme theory).", 
+            "link": null, 
+            "name": "rational function"
+        }, 
+        {
+            "def": "A rational normal curve is the image of\n\n\n  \n    \n      \n        \n          \n            P\n          \n          \n            1\n          \n        \n        \u2192\n        \n          \n            P\n          \n          \n            d\n          \n        \n        ,\n        \n        (\n        s\n        :\n        t\n        )\n        \u21a6\n        (\n        \n          s\n          \n            d\n          \n        \n        :\n        \n          s\n          \n            d\n            \u2212\n            1\n          \n        \n        t\n        :\n        \u22ef\n        :\n        \n          t\n          \n            d\n          \n        \n        )\n      \n    \n    {\\displaystyle \\mathbf {P} ^{1}\\to \\mathbf {P} ^{d},\\,(s:t)\\mapsto (s^{d}:s^{d-1}t:\\cdots :t^{d})}\n  \n.\n\nIf d = 3, it is also called the twisted cubic.", 
+            "link": null, 
+            "name": "rational normal curve"
+        }, 
+        {
+            "def": "A variety X over a field of characteristic zero has rational singularities if there is a resolution of singularities \n  \n    \n      \n        f\n        :\n        \n          X\n          \u2032\n        \n        \u2192\n        X\n      \n    \n    {\\displaystyle f:X'\\to X}\n  \n such that \n  \n    \n      \n        \n          f\n          \n            \u2217\n          \n        \n        (\n        \n          \n            \n              O\n            \n          \n          \n            \n              X\n              \u2032\n            \n          \n        \n        )\n        =\n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n      \n    \n    {\\displaystyle f_{*}({\\mathcal {O}}_{X'})={\\mathcal {O}}_{X}}\n  \n and \n  \n    \n      \n        \n          R\n          \n            i\n          \n        \n        \n          f\n          \n            \u2217\n          \n        \n        (\n        \n          \n            \n              O\n            \n          \n          \n            \n              X\n              \u2032\n            \n          \n        \n        )\n        =\n        0\n        ,\n        \n        i\n        \u2265\n        1\n      \n    \n    {\\displaystyle R^{i}f_{*}({\\mathcal {O}}_{X'})=0,\\,i\\geq 1}\n  \n.", 
+            "link": null, 
+            "name": "rational singularities"
+        }, 
+        {
+            "def": "The local rings are reduced rings. Equivalently, none of its rings of sections \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        U\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(U)}\n  \n (U any open subset of X) has any nonzero nilpotent element. Any variety is reduced (by definition) while Spec k[x]/(x2) is not.", 
+            "link": null, 
+            "name": "reduced"
+        }, 
+        {
+            "def": "A coherent sheaf is reflexive if the canonical map to the second dual is an isomorphism.", 
+            "link": null, 
+            "name": "reflexive sheaf"
+        }, 
+        {
+            "def": "A regular scheme is a scheme where the local rings are regular local rings. For example, smooth varieties over a field are regular, while Spec k[x,y]/(x2+x3-y2)= is not.", 
+            "link": null, 
+            "name": "regular"
+        }, 
+        {
+            "def": "A closed immersion \n  \n    \n      \n        i\n        :\n        X\n        \u21aa\n        Y\n      \n    \n    {\\displaystyle i:X\\hookrightarrow Y}\n  \n is a regular embedding if each point of X has an affine neighborhood in Y so that the ideal of X there is generated by a regular sequence. If i is a regular embedding, then the conormal sheaf of i, that is, \n  \n    \n      \n        \n          \n            I\n          \n        \n        \n          /\n        \n        \n          \n            \n              I\n            \n          \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {I}}/{\\mathcal {I}}^{2}}\n  \n when \n  \n    \n      \n        \n          \n            I\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {I}}}\n  \n is the ideal sheaf of X, is locally free.", 
+            "link": null, 
+            "name": "regular embedding"
+        }, 
+        {
+            "def": "A morphism from an algebraic variety to the affine line.", 
+            "link": null, 
+            "name": "regular function"
+        }, 
+        {
+            "def": "A morphism \n  \n    \n      \n        F\n        \u2192\n        G\n      \n    \n    {\\displaystyle F\\to G}\n  \n of stacks such that, for any morphism \n  \n    \n      \n        B\n        \u2192\n        G\n      \n    \n    {\\displaystyle B\\to G}\n  \n from a scheme B, the base change \n  \n    \n      \n        F\n        \n          \u00d7\n          \n            G\n          \n        \n        B\n      \n    \n    {\\displaystyle F\\times _{G}B}\n  \n is a scheme. (Some authors impose algebraic space conditions.)", 
+            "link": null, 
+            "name": "representable morphism"
+        }, 
+        {
+            "def": "A resolution of singularities of a scheme X is a proper birational morphism \n  \n    \n      \n        \u03c0\n        :\n        Z\n        \u2192\n        X\n      \n    \n    {\\displaystyle \\pi :Z\\to X}\n  \n such that Z is smooth.", 
+            "link": null, 
+            "name": "resolution of singularities"
+        }, 
+        {
+            "def": "Given a finite separable morphism \n  \n    \n      \n        \u03c0\n        :\n        X\n        \u2192\n        Y\n      \n    \n    {\\displaystyle \\pi :X\\to Y}\n  \n between smooth projective curves, if \n  \n    \n      \n        \u03c0\n      \n    \n    {\\displaystyle \\pi }\n  \n is tamely ramified (no wild ramification); for example, over a field of characteristic zero, then the Riemann\u2013Hurwitz formula relates the degree of \u03c0, the genuses of X, Y and the ramification indices:\n\n\n  \n    \n      \n        2\n        g\n        (\n        X\n        )\n        \u2212\n        2\n        =\n        deg\n        \u2061\n        (\n        \u03c0\n        )\n        (\n        2\n        g\n        (\n        Y\n        )\n        \u2212\n        2\n        )\n        +\n        \n          \u2211\n          \n            y\n            \u2208\n            Y\n          \n        \n        (\n        \n          e\n          \n            y\n          \n        \n        \u2212\n        1\n        )\n      \n    \n    {\\displaystyle 2g(X)-2=\\operatorname {deg} (\\pi )(2g(Y)-2)+\\sum _{y\\in Y}(e_{y}-1)}\n  \n.\n\nNowadays, the formula is viewed as a consequence of the more general formula (which is valid even if \u03c0 is not tame):\n\n\n  \n    \n      \n        \n          K\n          \n            X\n          \n        \n        \u223c\n        \n          \u03c0\n          \n            \u2217\n          \n        \n        \n          K\n          \n            Y\n          \n        \n        +\n        R\n      \n    \n    {\\displaystyle K_{X}\\sim \\pi ^{*}K_{Y}+R}\n  \n\n\nwhere \n  \n    \n      \n        \u223c\n      \n    \n    {\\displaystyle \\sim }\n  \n means a linear equivalence and \n  \n    \n      \n        R\n        =\n        \n          \u2211\n          \n            P\n            \u2208\n            X\n          \n        \n        \n          length\n          \n            \n              \n                \n                  O\n                \n              \n              \n                P\n              \n            \n          \n        \n        \u2061\n        (\n        \n          \u03a9\n          \n            X\n            \n              /\n            \n            Y\n          \n        \n        )\n        P\n      \n    \n    {\\displaystyle R=\\sum _{P\\in X}\\operatorname {length} _{{\\mathcal {O}}_{P}}(\\Omega _{X/Y})P}\n  \n is the divisor of the relative cotangent sheaf \n  \n    \n      \n        \n          \u03a9\n          \n            X\n            \n              /\n            \n            Y\n          \n        \n      \n    \n    {\\displaystyle \\Omega _{X/Y}}\n  \n (called the different).", 
+            "link": null, 
+            "name": "Riemann\u2013Hurwitz formula"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If L is a line bundle of degree d on a smooth projective curve of genus g, then the Riemann\u2013Roch formula computes the Euler characteristic of L:\n\n\n\n\n  \n    \n      \n        \u03c7\n        (\n        L\n        )\n        =\n        d\n        \u2212\n        g\n        +\n        1\n      \n    \n    {\\displaystyle \\chi (L)=d-g+1}\n  \n.\n\n\nFor example, the formula implies the degree of the canonical divisor K is 2g - 2.\n\n", 
+            "link": null, 
+            "name": "Riemann\u2013Roch formula"
+        }, 
+        {
+            "def": "Every infinitesimal deformation is trivial. For example, the projective space is rigid since \n  \n    \n      \n        \n          H\n          \n            1\n          \n        \n        \u2061\n        (\n        \n          \n            P\n          \n          \n            n\n          \n        \n        ,\n        \n          T\n          \n            \n              \n                P\n              \n              \n                n\n              \n            \n          \n        \n        )\n        =\n        0\n      \n    \n    {\\displaystyle \\operatorname {H} ^{1}(\\mathbf {P} ^{n},T_{\\mathbf {P} ^{n}})=0}\n  \n (and using the Kodaira\u2013Spencer map).", 
+            "link": null, 
+            "name": "rigid"
+        }, 
+        {
+            "def": "A heuristic term, roughly equivalent to \"killing automorphisms\". For example, one might say \"we introduce level structures to rigidify the geometric situation.\"", 
+            "link": null, 
+            "name": "rigidify"
+        }, 
+        {
+            "def": "\n\n\n\nOn Grothendieck\u2019s own view there should be almost no history of schemes, but only a history of the resistance to them: ... There is no serious historical question of how Grothendieck found his definition of schemes. It was in the air. Serre has well said that no one invented schemes (conversation 1995). The question is, what made Grothendieck believe he should use this definition to simplify an 80 page paper by Serre into some 1000 pages of \u00c9l\u00e9ments de g\u00e9om\u00e9trie alg\u00e9brique?\n\n\n[1]\nA scheme is a locally ringed space that is locally a prime spectrum of a commutative ring.\n", 
+            "link": null, 
+            "name": "scheme"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A Schubert cell is a B-orbit on the Grassmannian \n  \n    \n      \n        Gr\n        \u2061\n        (\n        d\n        ,\n        n\n        )\n      \n    \n    {\\displaystyle \\operatorname {Gr} (d,n)}\n  \n where B is the standard Borel; i.e., the group of upper triangular matrices.", 
+            "link": null, 
+            "name": "Schubert"
+        }, 
+        {
+            "def": "The section ring or the ring of sections of a line bundle L on a scheme X is the graded ring \n  \n    \n      \n        \n          \u2295\n          \n            0\n          \n          \n            \u221e\n          \n        \n        \u0393\n        (\n        X\n        ,\n        \n          L\n          \n            n\n          \n        \n        )\n      \n    \n    {\\displaystyle \\oplus _{0}^{\\infty }\\Gamma (X,L^{n})}\n  \n.", 
+            "link": null, 
+            "name": "section ring"
+        }, 
+        {
+            "def": "See Serre's conditions on normality. See also http://mathoverflow.net/questions/22228/what-is-serres-condition-s-n-for-sheaves", 
+            "link": null, 
+            "name": "Serre's conditions Sn"
+        }, 
+        {
+            "def": "See #dualizing sheaf", 
+            "link": null, 
+            "name": "Serre duality"
+        }, 
+        {
+            "def": "A separated morphism is a morphism \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n such that the fiber product of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n with itself along \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n has its diagonal as a closed subscheme \u2014 in other words, the diagonal map is a closed immersion.\nAs a consequence, a scheme \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n is separated when the diagonal of \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n within the scheme product of \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n with itself is a closed immersion. Emphasizing the relative point of view, one might equivalently define a scheme to be separated if the unique morphism \n  \n    \n      \n        X\n        \u2192\n        \n          \n            Spec\n          \n        \n        (\n        \n          Z\n        \n        )\n      \n    \n    {\\displaystyle X\\rightarrow {\\textrm {Spec}}(\\mathbb {Z} )}\n  \n is separated.\nNotice that a topological space Y is Hausdorff iff the diagonal embedding\n\n\n  \n    \n      \n        Y\n        \n          \n            \n              \n                \u27f6\n              \n              \n                \u0394\n              \n            \n          \n        \n        Y\n        \u00d7\n        Y\n      \n    \n    {\\displaystyle Y{\\stackrel {\\Delta }{\\longrightarrow }}Y\\times Y}\n  \n\n\nis closed. In algebraic geometry, the above formulation is used because a scheme which is a Hausdorff space is necessarily empty or zero-dimensional. The difference between the topological and algebro-geometric context comes from the topological structure of the fiber product (in the category of schemes) \n  \n    \n      \n        X\n        \n          \u00d7\n          \n            \n              \n                Spec\n              \n            \n            (\n            \n              Z\n            \n            )\n          \n        \n        X\n      \n    \n    {\\displaystyle X\\times _{{\\textrm {Spec}}(\\mathbb {Z} )}X}\n  \n, which is different from the product of topological spaces.\nAny affine scheme Spec A is separated, because the diagonal corresponds to the surjective map of rings (hence is a closed immersion of schemes):\n\n\n  \n    \n      \n        A\n        \n          \u2297\n          \n            \n              Z\n            \n          \n        \n        A\n        \u2192\n        A\n        ,\n        a\n        \u2297\n        \n          a\n          \u2032\n        \n        \u21a6\n        a\n        \u22c5\n        \n          a\n          \u2032\n        \n      \n    \n    {\\displaystyle A\\otimes _{\\mathbb {Z} }A\\rightarrow A,a\\otimes a'\\mapsto a\\cdot a'}\n  \n.\n\n", 
+            "link": null, 
+            "name": "separated"
+        }, 
+        {
+            "def": "A sheaf with a set of global sections that span the stalk of the sheaf at every point. See Sheaf generated by global sections.", 
+            "link": null, 
+            "name": "sheaf generated by global sections"
+        }, 
+        {
+            "def": "The term \"simple point\" is an old term for a \"smooth point\".", 
+            "link": null, 
+            "name": "simple"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0", 
+            "link": null, 
+            "name": "smooth"
+        }, 
+        {
+            "def": "A divisor D on a smooth curve C is special if \n  \n    \n      \n        \n          h\n          \n            0\n          \n        \n        (\n        \n          \n            O\n          \n        \n        (\n        K\n        \u2212\n        D\n        )\n        )\n      \n    \n    {\\displaystyle h^{0}({\\mathcal {O}}(K-D))}\n  \n, which is called the index of speciality, is positive.", 
+            "link": null, 
+            "name": "special"
+        }, 
+        {
+            "def": "A spherical variety is a normal G-variety (G connected reductive) with an open dense orbit by a Borel subgroup of G.", 
+            "link": null, 
+            "name": "spherical variety"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0A stable curve is a curve with some \"mild\" singularity, used to construct a good-behaving moduli space of curves.", 
+            "link": null, 
+            "name": "stable"
+        }, 
+        {
+            "def": "A stack parametrizes sets of points together with automorphisms.", 
+            "link": null, 
+            "name": "stack"
+        }, 
+        {
+            "def": "A subscheme, without qualifier, of X is a closed subscheme of an open subscheme of X.", 
+            "link": null, 
+            "name": "subscheme"
+        }, 
+        {
+            "def": "An algebraic variety of dimension two.", 
+            "link": null, 
+            "name": "surface"
+        }, 
+        {
+            "def": "An analog of a symmetric space. See symmetric variety.", 
+            "link": null, 
+            "name": "symmetric variety"
+        }, 
+        {
+            "def": "See Zariski tangent space.", 
+            "link": null, 
+            "name": "tangent space"
+        }, 
+        {
+            "def": "The tautological line bundle of a projective scheme X is the dual of Serre's twisting sheaf \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(1)}\n  \n; that is, \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n          \n        \n        (\n        \u2212\n        1\n        )\n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X}(-1)}\n  \n.", 
+            "link": null, 
+            "name": "tautological line bundle"
+        }, 
+        {
+            "def": "See Zariski's main theorem, theorem on formal functions, cohomology base change theorem, Category:Theorems in algebraic geometry.", 
+            "link": null, 
+            "name": "theorem"
+        }, 
+        {
+            "def": "An old term for a toric variety", 
+            "link": null, 
+            "name": "torus embedding"
+        }, 
+        {
+            "def": "A toric variety is a normal variety with the action of a torus such that the torus has an open dense orbit.", 
+            "link": null, 
+            "name": "toric variety"
+        }, 
+        {
+            "def": "A kind of a piecewise-linear algebraic geometry. See tropical geometry.", 
+            "link": null, 
+            "name": "tropical geometry"
+        }, 
+        {
+            "def": "A torus is a product of finitely many multiplicative groups \n  \n    \n      \n        \n          \n            G\n          \n          \n            m\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {G} _{m}}\n  \n.", 
+            "link": null, 
+            "name": "torus"
+        }, 
+        {
+            "def": "1.\u00a0\u00a0If a moduli functor F is represented by some scheme or algebraic space M, then a universal object is an element of F(M) that corresponds to the identity morphism M \u2192 M (which is an M-point of M). If the values of F are isomorphism classes of curves with extra structure, say, then a universal object is called a universal curve. A tautological bundle would be another example of a universal object.", 
+            "link": null, 
+            "name": "universal"
+        }, 
+        {
+            "def": "A morphism has some property universally if all base changes of the morphism have this property. Examples include universally catenary, universally injective.", 
+            "link": null, 
+            "name": "universally"
+        }, 
+        {
+            "def": "For a point \n  \n    \n      \n        y\n      \n    \n    {\\displaystyle y}\n  \n in \n  \n    \n      \n        Y\n      \n    \n    {\\displaystyle Y}\n  \n, consider the corresponding morphism of local rings\n\n\n  \n    \n      \n        \n          f\n          \n            #\n          \n        \n        :\n        \n          \n            \n              O\n            \n          \n          \n            X\n            ,\n            f\n            (\n            y\n            )\n          \n        \n        \u2192\n        \n          \n            \n              O\n            \n          \n          \n            Y\n            ,\n            y\n          \n        \n      \n    \n    {\\displaystyle f^{\\#}\\colon {\\mathcal {O}}_{X,f(y)}\\to {\\mathcal {O}}_{Y,y}}\n  \n.\n\nLet \n  \n    \n      \n        \n          \n            m\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {m}}}\n  \n be the maximal ideal of \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n            ,\n            f\n            (\n            y\n            )\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X,f(y)}}\n  \n, and let\n\n\n  \n    \n      \n        \n          \n            n\n          \n        \n        =\n        \n          f\n          \n            #\n          \n        \n        (\n        \n          \n            m\n          \n        \n        )\n        \n          \n            \n              O\n            \n          \n          \n            Y\n            ,\n            y\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {n}}=f^{\\#}({\\mathfrak {m}}){\\mathcal {O}}_{Y,y}}\n  \n\n\nbe the ideal generated by the image of \n  \n    \n      \n        \n          \n            m\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {m}}}\n  \n in \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            Y\n            ,\n            y\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{Y,y}}\n  \n. The morphism \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n is unramified (resp. G-unramified) if it is locally of finite type (resp. locally of finite presentation) and if for all \n  \n    \n      \n        y\n      \n    \n    {\\displaystyle y}\n  \n in \n  \n    \n      \n        Y\n      \n    \n    {\\displaystyle Y}\n  \n, \n  \n    \n      \n        \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {n}}}\n  \n is the maximal ideal of \n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            Y\n            ,\n            y\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{Y,y}}\n  \n and the induced map\n\n\n  \n    \n      \n        \n          \n            \n              O\n            \n          \n          \n            X\n            ,\n            f\n            (\n            y\n            )\n          \n        \n        \n          /\n        \n        \n          \n            m\n          \n        \n        \u2192\n        \n          \n            \n              O\n            \n          \n          \n            Y\n            ,\n            y\n          \n        \n        \n          /\n        \n        \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {O}}_{X,f(y)}/{\\mathfrak {m}}\\to {\\mathcal {O}}_{Y,y}/{\\mathfrak {n}}}\n  \n\n\nis a finite separable field extension.[21] This is the geometric version (and generalization) of an unramified field extension in algebraic number theory.", 
+            "link": null, 
+            "name": "unramified"
+        }, 
+        {
+            "def": "a synonym with \"algebraic variety\".", 
+            "link": null, 
+            "name": "variety"
+        }, 
+        {
+            "def": "A line bundle L on a variety X is very ample if X can be embedded into a projective space so that L is the restriction of Serre's twisting sheaf O(1) on the projective space.", 
+            "link": null, 
+            "name": "very ample"
+        }, 
+        {
+            "def": "a scheme is weakly normal if any finite birational morphism to it is an isomorphism.", 
+            "link": null, 
+            "name": "weakly normal"
+        }, 
+        {
+            "def": "Another but more standard term for a \"codimension-one cycle\"; see divisor.", 
+            "link": null, 
+            "name": "Weil divisor"
+        }, 
+        {
+            "def": "See Weil reciprocity.", 
+            "link": null, 
+            "name": "Weil reciprocity"
+        }, 
+        {
+            "def": "A Zariski\u2013Riemann space is a locally ringed space whose points are valuation rings.", 
+            "link": null, 
+            "name": "Zariski\u2013Riemann space"
+        }
+    ]
+}

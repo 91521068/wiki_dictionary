@@ -1,0 +1,6031 @@
+{
+    "c2": "Mathematics", 
+    "c3": "algorithms and data structures", 
+    "words": [
+        {
+            "def": "absolute performance guarantee", 
+            "link": "/wiki/Absolute_performance_guarantee", 
+            "name": "absolute performance guarantee"
+        }, 
+        {
+            "def": "abstract data type (ADT)", 
+            "link": "/wiki/Abstract_data_type", 
+            "name": "abstract data type (ADT)"
+        }, 
+        {
+            "def": "(a,b)-tree", 
+            "link": "/wiki/(a,b)-tree", 
+            "name": "(a,b)-tree"
+        }, 
+        {
+            "def": "accepting state", 
+            "link": "/wiki/Accepting_state", 
+            "name": "accepting state"
+        }, 
+        {
+            "def": "Ackermann's function", 
+            "link": "/wiki/Ackermann%27s_function", 
+            "name": "Ackermann's function"
+        }, 
+        {
+            "def": "active data structure", 
+            "link": "/wiki/Active_data_structure", 
+            "name": "active data structure"
+        }, 
+        {
+            "def": "acyclic directed graph", 
+            "link": "/wiki/Acyclic_directed_graph", 
+            "name": "acyclic directed graph"
+        }, 
+        {
+            "def": "adaptive heap sort", 
+            "link": "/wiki/Adaptive_heap_sort", 
+            "name": "adaptive heap sort"
+        }, 
+        {
+            "def": "adaptive Huffman coding", 
+            "link": "/wiki/Adaptive_Huffman_coding", 
+            "name": "adaptive Huffman coding"
+        }, 
+        {
+            "def": "adaptive k-d tree", 
+            "link": "/wiki/Adaptive_k-d_tree", 
+            "name": "adaptive k-d tree"
+        }, 
+        {
+            "def": "adaptive sort", 
+            "link": "/wiki/Adaptive_sort", 
+            "name": "adaptive sort"
+        }, 
+        {
+            "def": "address-calculation sort", 
+            "link": "/wiki/Address-calculation_sort", 
+            "name": "address-calculation sort"
+        }, 
+        {
+            "def": "adjacency-list representation", 
+            "link": "/wiki/Adjacency-list_representation", 
+            "name": "adjacency-list representation"
+        }, 
+        {
+            "def": "adjacency-matrix representation", 
+            "link": "/wiki/Adjacency-matrix_representation", 
+            "name": "adjacency-matrix representation"
+        }, 
+        {
+            "def": "adversary", 
+            "link": "/wiki/Adversary_(online_algorithm)", 
+            "name": "adversary"
+        }, 
+        {
+            "def": "algorithm", 
+            "link": "/wiki/Algorithm", 
+            "name": "algorithm"
+        }, 
+        {
+            "def": "algorithm BSTW", 
+            "link": "/wiki/Algorithm_BSTW", 
+            "name": "algorithm BSTW"
+        }, 
+        {
+            "def": "algorithm FGK", 
+            "link": "/wiki/Algorithm_FGK", 
+            "name": "algorithm FGK"
+        }, 
+        {
+            "def": "algorithmic efficiency", 
+            "link": "/wiki/Algorithmic_efficiency", 
+            "name": "algorithmic efficiency"
+        }, 
+        {
+            "def": "algorithmically solvable", 
+            "link": "/wiki/Algorithmically_solvable", 
+            "name": "algorithmically solvable"
+        }, 
+        {
+            "def": "algorithm V", 
+            "link": "/wiki/Algorithm_V", 
+            "name": "algorithm V"
+        }, 
+        {
+            "def": "all pairs shortest path", 
+            "link": "/wiki/All_pairs_shortest_path", 
+            "name": "all pairs shortest path"
+        }, 
+        {
+            "def": "alphabet", 
+            "link": "/wiki/Alphabet_(computer_science)", 
+            "name": "alphabet"
+        }, 
+        {
+            "def": "Alpha Skip Search algorithm", 
+            "link": "/w/index.php?title=Alpha_Skip_Search_algorithm&action=edit&redlink=1", 
+            "name": "Alpha Skip Search algorithm"
+        }, 
+        {
+            "def": "alternating path", 
+            "link": "/w/index.php?title=Alternating_path&action=edit&redlink=1", 
+            "name": "alternating path"
+        }, 
+        {
+            "def": "alternating Turing machine", 
+            "link": "/wiki/Alternating_Turing_machine", 
+            "name": "alternating Turing machine"
+        }, 
+        {
+            "def": "alternation", 
+            "link": "/wiki/Alternation_(complexity)", 
+            "name": "alternation"
+        }, 
+        {
+            "def": "American flag sort", 
+            "link": "/wiki/American_flag_sort", 
+            "name": "American flag sort"
+        }, 
+        {
+            "def": "amortized cost", 
+            "link": "/wiki/Amortized_cost", 
+            "name": "amortized cost"
+        }, 
+        {
+            "def": "ancestor", 
+            "link": "/wiki/Ancestor", 
+            "name": "ancestor"
+        }, 
+        {
+            "def": "ANSI", 
+            "link": "/wiki/American_National_Standards_Institute", 
+            "name": "ANSI"
+        }, 
+        {
+            "def": "antichain", 
+            "link": "/wiki/Antichain", 
+            "name": "antichain"
+        }, 
+        {
+            "def": "antisymmetric relation", 
+            "link": "/wiki/Antisymmetric_relation", 
+            "name": "antisymmetric relation"
+        }, 
+        {
+            "def": "Apostolico\u2013Crochemore", 
+            "link": "/w/index.php?title=Apostolico%E2%80%93Crochemore&action=edit&redlink=1", 
+            "name": "Apostolico\u2013Crochemore"
+        }, 
+        {
+            "def": "Apostolico\u2013Giancarlo algorithm", 
+            "link": "/wiki/Apostolico%E2%80%93Giancarlo_algorithm", 
+            "name": "Apostolico\u2013Giancarlo algorithm"
+        }, 
+        {
+            "def": "approximate string matching", 
+            "link": "/wiki/Approximate_string_matching", 
+            "name": "approximate string matching"
+        }, 
+        {
+            "def": "approximation algorithm", 
+            "link": "/wiki/Approximation_algorithm", 
+            "name": "approximation algorithm"
+        }, 
+        {
+            "def": "arborescence", 
+            "link": "/wiki/Arborescence_(graph_theory)", 
+            "name": "arborescence"
+        }, 
+        {
+            "def": "arithmetic coding", 
+            "link": "/wiki/Arithmetic_coding", 
+            "name": "arithmetic coding"
+        }, 
+        {
+            "def": "array", 
+            "link": "/wiki/Array_data_structure", 
+            "name": "array"
+        }, 
+        {
+            "def": "array index", 
+            "link": "/wiki/Array_index", 
+            "name": "array index"
+        }, 
+        {
+            "def": "array merging", 
+            "link": "/wiki/Array_merging", 
+            "name": "array merging"
+        }, 
+        {
+            "def": "array search", 
+            "link": "/wiki/Array_search", 
+            "name": "array search"
+        }, 
+        {
+            "def": "articulation point", 
+            "link": "/wiki/Articulation_point", 
+            "name": "articulation point"
+        }, 
+        {
+            "def": "A* search algorithm", 
+            "link": "/wiki/A*_search_algorithm", 
+            "name": "A* search algorithm"
+        }, 
+        {
+            "def": "assignment problem", 
+            "link": "/wiki/Assignment_problem", 
+            "name": "assignment problem"
+        }, 
+        {
+            "def": "association list", 
+            "link": "/wiki/Association_list", 
+            "name": "association list"
+        }, 
+        {
+            "def": "associative", 
+            "link": "/wiki/Associative", 
+            "name": "associative"
+        }, 
+        {
+            "def": "associative array", 
+            "link": "/wiki/Associative_array", 
+            "name": "associative array"
+        }, 
+        {
+            "def": "asymptotically tight bound", 
+            "link": "/wiki/Asymptotically_tight_bound", 
+            "name": "asymptotically tight bound"
+        }, 
+        {
+            "def": "asymptotic bound", 
+            "link": "/wiki/Asymptotic_bound", 
+            "name": "asymptotic bound"
+        }, 
+        {
+            "def": "asymptotic lower bound", 
+            "link": "/wiki/Asymptotic_lower_bound", 
+            "name": "asymptotic lower bound"
+        }, 
+        {
+            "def": "asymptotic space complexity", 
+            "link": "/wiki/Asymptotic_space_complexity", 
+            "name": "asymptotic space complexity"
+        }, 
+        {
+            "def": "asymptotic time complexity", 
+            "link": "/wiki/Asymptotic_time_complexity", 
+            "name": "asymptotic time complexity"
+        }, 
+        {
+            "def": "asymptotic upper bound", 
+            "link": "/wiki/Asymptotic_upper_bound", 
+            "name": "asymptotic upper bound"
+        }, 
+        {
+            "def": "augmenting path", 
+            "link": "/wiki/Augmenting_path", 
+            "name": "augmenting path"
+        }, 
+        {
+            "def": "automaton", 
+            "link": "/wiki/Automata_theory", 
+            "name": "automaton"
+        }, 
+        {
+            "def": "average case", 
+            "link": "/wiki/Average_case", 
+            "name": "average case"
+        }, 
+        {
+            "def": "average-case cost", 
+            "link": "/wiki/Average-case_cost", 
+            "name": "average-case cost"
+        }, 
+        {
+            "def": "AVL tree", 
+            "link": "/wiki/AVL_tree", 
+            "name": "AVL tree"
+        }, 
+        {
+            "def": "axiomatic semantics", 
+            "link": "/wiki/Axiomatic_semantics", 
+            "name": "axiomatic semantics"
+        }, 
+        {
+            "def": "backtracking", 
+            "link": "/wiki/Backtracking", 
+            "name": "backtracking"
+        }, 
+        {
+            "def": "Baillie-PSW primality test", 
+            "link": "/wiki/Baillie-PSW_primality_test", 
+            "name": "Baillie-PSW primality test"
+        }, 
+        {
+            "def": "balanced binary search tree", 
+            "link": "/wiki/Balanced_binary_search_tree", 
+            "name": "balanced binary search tree"
+        }, 
+        {
+            "def": "balanced binary tree", 
+            "link": "/wiki/Balanced_binary_tree", 
+            "name": "balanced binary tree"
+        }, 
+        {
+            "def": "balanced k-way merge sort", 
+            "link": "/wiki/Balanced_k-way_merge_sort", 
+            "name": "balanced k-way merge sort"
+        }, 
+        {
+            "def": "balanced merge sort", 
+            "link": "/wiki/Balanced_merge_sort", 
+            "name": "balanced merge sort"
+        }, 
+        {
+            "def": "balanced multiway merge", 
+            "link": "/w/index.php?title=Balanced_multiway_merge&action=edit&redlink=1", 
+            "name": "balanced multiway merge"
+        }, 
+        {
+            "def": "balanced multiway tree", 
+            "link": "/w/index.php?title=Balanced_multiway_tree&action=edit&redlink=1", 
+            "name": "balanced multiway tree"
+        }, 
+        {
+            "def": "balanced quicksort", 
+            "link": "/wiki/Balanced_quicksort", 
+            "name": "balanced quicksort"
+        }, 
+        {
+            "def": "balanced tree", 
+            "link": "/wiki/Self-balancing_binary_search_tree", 
+            "name": "balanced tree"
+        }, 
+        {
+            "def": "balanced two-way merge sort", 
+            "link": "/w/index.php?title=Balanced_two-way_merge_sort&action=edit&redlink=1", 
+            "name": "balanced two-way merge sort"
+        }, 
+        {
+            "def": "BANG file", 
+            "link": "/wiki/BANG_file", 
+            "name": "BANG file"
+        }, 
+        {
+            "def": "Batcher sort", 
+            "link": "/wiki/Batcher_sort", 
+            "name": "Batcher sort"
+        }, 
+        {
+            "def": "Baum Welch algorithm", 
+            "link": "/wiki/Baum_Welch_algorithm", 
+            "name": "Baum Welch algorithm"
+        }, 
+        {
+            "def": "BB \u03b1 tree", 
+            "link": "/w/index.php?title=BB_alpha_tree&action=edit&redlink=1", 
+            "name": "BB \u03b1 tree"
+        }, 
+        {
+            "def": "BD-tree", 
+            "link": "/w/index.php?title=BD-tree&action=edit&redlink=1", 
+            "name": "BD-tree"
+        }, 
+        {
+            "def": "Bellman\u2013Ford algorithm", 
+            "link": "/wiki/Bellman%E2%80%93Ford_algorithm", 
+            "name": "Bellman\u2013Ford algorithm"
+        }, 
+        {
+            "def": "Benford's law", 
+            "link": "/wiki/Benford%27s_law", 
+            "name": "Benford's law"
+        }, 
+        {
+            "def": "best case", 
+            "link": "/wiki/Best_case", 
+            "name": "best case"
+        }, 
+        {
+            "def": "best-case cost", 
+            "link": "/wiki/Best-case_cost", 
+            "name": "best-case cost"
+        }, 
+        {
+            "def": "best-first search", 
+            "link": "/wiki/Best-first_search", 
+            "name": "best-first search"
+        }, 
+        {
+            "def": "biconnected component", 
+            "link": "/wiki/Biconnected_component", 
+            "name": "biconnected component"
+        }, 
+        {
+            "def": "biconnected graph", 
+            "link": "/wiki/Biconnected_graph", 
+            "name": "biconnected graph"
+        }, 
+        {
+            "def": "bidirectional bubble sort", 
+            "link": "/wiki/Bidirectional_bubble_sort", 
+            "name": "bidirectional bubble sort"
+        }, 
+        {
+            "def": "big-O notation", 
+            "link": "/wiki/Big-O_notation", 
+            "name": "big-O notation"
+        }, 
+        {
+            "def": "binary function", 
+            "link": "/wiki/Binary_function", 
+            "name": "binary function"
+        }, 
+        {
+            "def": "binary GCD algorithm", 
+            "link": "/wiki/Binary_GCD_algorithm", 
+            "name": "binary GCD algorithm"
+        }, 
+        {
+            "def": "binary heap", 
+            "link": "/wiki/Binary_heap", 
+            "name": "binary heap"
+        }, 
+        {
+            "def": "binary insertion sort", 
+            "link": "/wiki/Binary_insertion_sort", 
+            "name": "binary insertion sort"
+        }, 
+        {
+            "def": "binary knapsack problem", 
+            "link": "/wiki/Binary_knapsack_problem", 
+            "name": "binary knapsack problem"
+        }, 
+        {
+            "def": "binary priority queue", 
+            "link": "/w/index.php?title=Binary_priority_queue&action=edit&redlink=1", 
+            "name": "binary priority queue"
+        }, 
+        {
+            "def": "binary relation", 
+            "link": "/wiki/Binary_relation", 
+            "name": "binary relation"
+        }, 
+        {
+            "def": "binary search", 
+            "link": "/wiki/Binary_search", 
+            "name": "binary search"
+        }, 
+        {
+            "def": "binary search tree", 
+            "link": "/wiki/Binary_search_tree", 
+            "name": "binary search tree"
+        }, 
+        {
+            "def": "binary tree", 
+            "link": "/wiki/Binary_tree", 
+            "name": "binary tree"
+        }, 
+        {
+            "def": "binary tree representation of trees", 
+            "link": "/w/index.php?title=Binary_tree_representation_of_trees&action=edit&redlink=1", 
+            "name": "binary tree representation of trees"
+        }, 
+        {
+            "def": "bingo sort", 
+            "link": "/wiki/Bingo_sort", 
+            "name": "bingo sort"
+        }, 
+        {
+            "def": "binomial heap", 
+            "link": "/wiki/Binomial_heap", 
+            "name": "binomial heap"
+        }, 
+        {
+            "def": "binomial tree", 
+            "link": "/wiki/Binomial_tree", 
+            "name": "binomial tree"
+        }, 
+        {
+            "def": "bin packing problem", 
+            "link": "/wiki/Bin_packing_problem", 
+            "name": "bin packing problem"
+        }, 
+        {
+            "def": "bin sort", 
+            "link": "/wiki/Bin_sort", 
+            "name": "bin sort"
+        }, 
+        {
+            "def": "bintree", 
+            "link": "/wiki/Binary_tree", 
+            "name": "bintree"
+        }, 
+        {
+            "def": "bipartite graph", 
+            "link": "/wiki/Bipartite_graph", 
+            "name": "bipartite graph"
+        }, 
+        {
+            "def": "bipartite matching", 
+            "link": "/wiki/Bipartite_matching", 
+            "name": "bipartite matching"
+        }, 
+        {
+            "def": "bisector", 
+            "link": "/wiki/Bisection_method", 
+            "name": "bisector"
+        }, 
+        {
+            "def": "bitonic sort", 
+            "link": "/wiki/Bitonic_sort", 
+            "name": "bitonic sort"
+        }, 
+        {
+            "def": "bit vector", 
+            "link": "/wiki/Bit_vector", 
+            "name": "bit vector"
+        }, 
+        {
+            "def": "Bk tree", 
+            "link": "/wiki/Bk_tree", 
+            "name": "Bk tree"
+        }, 
+        {
+            "def": "block", 
+            "link": "/wiki/Block_(programming)", 
+            "name": "block"
+        }, 
+        {
+            "def": "block addressing index", 
+            "link": "/w/index.php?title=Block_addressing_index&action=edit&redlink=1", 
+            "name": "block addressing index"
+        }, 
+        {
+            "def": "blocking flow", 
+            "link": "/wiki/Blocking_flow", 
+            "name": "blocking flow"
+        }, 
+        {
+            "def": "block search", 
+            "link": "/wiki/Block_search", 
+            "name": "block search"
+        }, 
+        {
+            "def": "Bloom filter", 
+            "link": "/wiki/Bloom_filter", 
+            "name": "Bloom filter"
+        }, 
+        {
+            "def": "blossom (graph theory)", 
+            "link": "/wiki/Blossom_(graph_theory)", 
+            "name": "blossom (graph theory)"
+        }, 
+        {
+            "def": "bogosort", 
+            "link": "/wiki/Bogosort", 
+            "name": "bogosort"
+        }, 
+        {
+            "def": "boogol", 
+            "link": "/w/index.php?title=Boogol&action=edit&redlink=1", 
+            "name": "boogol"
+        }, 
+        {
+            "def": "boolean", 
+            "link": "/wiki/Boolean_datatype", 
+            "name": "boolean"
+        }, 
+        {
+            "def": "boolean expression", 
+            "link": "/wiki/Boolean_expression", 
+            "name": "boolean expression"
+        }, 
+        {
+            "def": "boolean function", 
+            "link": "/wiki/Boolean_function", 
+            "name": "boolean function"
+        }, 
+        {
+            "def": "bottleneck traveling salesman", 
+            "link": "/wiki/Bottleneck_traveling_salesman", 
+            "name": "bottleneck traveling salesman"
+        }, 
+        {
+            "def": "bottom-up tree automaton", 
+            "link": "/wiki/Bottom-up_tree_automaton", 
+            "name": "bottom-up tree automaton"
+        }, 
+        {
+            "def": "boundary-based representation", 
+            "link": "/w/index.php?title=Boundary-based_representation&action=edit&redlink=1", 
+            "name": "boundary-based representation"
+        }, 
+        {
+            "def": "bounded error probability in polynomial time", 
+            "link": "/wiki/Bounded_error_probability_in_polynomial_time", 
+            "name": "bounded error probability in polynomial time"
+        }, 
+        {
+            "def": "bounded queue", 
+            "link": "/wiki/Bounded_queue", 
+            "name": "bounded queue"
+        }, 
+        {
+            "def": "bounded stack", 
+            "link": "/wiki/Bounded_stack", 
+            "name": "bounded stack"
+        }, 
+        {
+            "def": "Bounding volume hierarchy, also referred to as bounding volume tree (BV-tree, BVT)", 
+            "link": "/wiki/Bounding_volume_hierarchy", 
+            "name": "Bounding volume hierarchy, also referred to as bounding volume tree (BV-tree, BVT)"
+        }, 
+        {
+            "def": "Boyer\u2013Moore string search algorithm", 
+            "link": "/wiki/Boyer%E2%80%93Moore_string_search_algorithm", 
+            "name": "Boyer\u2013Moore string search algorithm"
+        }, 
+        {
+            "def": "Boyer\u2013Moore\u2013Horspool algorithm", 
+            "link": "/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm", 
+            "name": "Boyer\u2013Moore\u2013Horspool algorithm"
+        }, 
+        {
+            "def": "bozo sort", 
+            "link": "/wiki/Bozo_sort", 
+            "name": "bozo sort"
+        }, 
+        {
+            "def": "B+ tree", 
+            "link": "/wiki/B%2B_tree", 
+            "name": "B+ tree"
+        }, 
+        {
+            "def": "BPP (complexity)", 
+            "link": "/wiki/BPP_(complexity)", 
+            "name": "BPP (complexity)"
+        }, 
+        {
+            "def": "Bradford's law", 
+            "link": "/wiki/Bradford%27s_law", 
+            "name": "Bradford's law"
+        }, 
+        {
+            "def": "branch (as in control flow)", 
+            "link": "/wiki/Branch_(computer_science)", 
+            "name": "branch (as in control flow)"
+        }, 
+        {
+            "def": "branch (as in revision control)", 
+            "link": "/wiki/Branching_(software)", 
+            "name": "branch (as in revision control)"
+        }, 
+        {
+            "def": "branch and bound", 
+            "link": "/wiki/Branch_and_bound", 
+            "name": "branch and bound"
+        }, 
+        {
+            "def": "breadth-first search", 
+            "link": "/wiki/Breadth-first_search", 
+            "name": "breadth-first search"
+        }, 
+        {
+            "def": "Bresenham's algorithm", 
+            "link": "/wiki/Bresenham%27s_algorithm", 
+            "name": "Bresenham's algorithm"
+        }, 
+        {
+            "def": "brick sort", 
+            "link": "/wiki/Brick_sort", 
+            "name": "brick sort"
+        }, 
+        {
+            "def": "bridge", 
+            "link": "/wiki/Bridge_(graph_theory)", 
+            "name": "bridge"
+        }, 
+        {
+            "def": "British Museum algorithm", 
+            "link": "/wiki/British_Museum_algorithm", 
+            "name": "British Museum algorithm"
+        }, 
+        {
+            "def": "brute force attack", 
+            "link": "/wiki/Brute_force_attack", 
+            "name": "brute force attack"
+        }, 
+        {
+            "def": "brute force search", 
+            "link": "/wiki/Brute_force_search", 
+            "name": "brute force search"
+        }, 
+        {
+            "def": "brute force string search", 
+            "link": "/wiki/Brute_force_string_search", 
+            "name": "brute force string search"
+        }, 
+        {
+            "def": "brute force string search with mismatches", 
+            "link": "/w/index.php?title=Brute_force_string_search_with_mismatches&action=edit&redlink=1", 
+            "name": "brute force string search with mismatches"
+        }, 
+        {
+            "def": "BSP-tree", 
+            "link": "/wiki/BSP-tree", 
+            "name": "BSP-tree"
+        }, 
+        {
+            "def": "B*-tree", 
+            "link": "/wiki/B*-tree", 
+            "name": "B*-tree"
+        }, 
+        {
+            "def": "B-tree", 
+            "link": "/wiki/B-tree", 
+            "name": "B-tree"
+        }, 
+        {
+            "def": "bubble sort", 
+            "link": "/wiki/Bubble_sort", 
+            "name": "bubble sort"
+        }, 
+        {
+            "def": "bucket", 
+            "link": "/wiki/Bucket_(computing)", 
+            "name": "bucket"
+        }, 
+        {
+            "def": "bucket array", 
+            "link": "/wiki/Bucket_array", 
+            "name": "bucket array"
+        }, 
+        {
+            "def": "bucketing method", 
+            "link": "/wiki/Bucketing_method", 
+            "name": "bucketing method"
+        }, 
+        {
+            "def": "bucket sort", 
+            "link": "/wiki/Bucket_sort", 
+            "name": "bucket sort"
+        }, 
+        {
+            "def": "bucket trie", 
+            "link": "/wiki/Bucket_trie", 
+            "name": "bucket trie"
+        }, 
+        {
+            "def": "buddy system", 
+            "link": "/wiki/Buddy_memory_allocation", 
+            "name": "buddy system"
+        }, 
+        {
+            "def": "buddy tree", 
+            "link": "/w/index.php?title=Buddy_tree&action=edit&redlink=1", 
+            "name": "buddy tree"
+        }, 
+        {
+            "def": "build-heap", 
+            "link": "/w/index.php?title=Build-heap&action=edit&redlink=1", 
+            "name": "build-heap"
+        }, 
+        {
+            "def": "Burrows\u2013Wheeler transform (BWT)", 
+            "link": "/wiki/Burrows%E2%80%93Wheeler_transform", 
+            "name": "Burrows\u2013Wheeler transform (BWT)"
+        }, 
+        {
+            "def": "busy beaver", 
+            "link": "/wiki/Busy_beaver", 
+            "name": "busy beaver"
+        }, 
+        {
+            "def": "Byzantine generals", 
+            "link": "/wiki/Byzantine_generals", 
+            "name": "Byzantine generals"
+        }, 
+        {
+            "def": "cactus stack", 
+            "link": "/wiki/Cactus_stack", 
+            "name": "cactus stack"
+        }, 
+        {
+            "def": "Calculus of Communicating Systems (CCS)", 
+            "link": "/wiki/Calculus_of_Communicating_Systems", 
+            "name": "Calculus of Communicating Systems (CCS)"
+        }, 
+        {
+            "def": "calendar queue", 
+            "link": "/wiki/Calendar_queue", 
+            "name": "calendar queue"
+        }, 
+        {
+            "def": "candidate consistency testing", 
+            "link": "/w/index.php?title=Candidate_consistency_testing&action=edit&redlink=1", 
+            "name": "candidate consistency testing"
+        }, 
+        {
+            "def": "candidate verification", 
+            "link": "/w/index.php?title=Candidate_verification&action=edit&redlink=1", 
+            "name": "candidate verification"
+        }, 
+        {
+            "def": "canonical complexity class", 
+            "link": "/wiki/Canonical_complexity_class", 
+            "name": "canonical complexity class"
+        }, 
+        {
+            "def": "capacitated facility location", 
+            "link": "/wiki/Capacitated_facility_location", 
+            "name": "capacitated facility location"
+        }, 
+        {
+            "def": "capacity", 
+            "link": "/wiki/Membership_function_(mathematics)", 
+            "name": "capacity"
+        }, 
+        {
+            "def": "capacity constraint", 
+            "link": "/w/index.php?title=Capacity_constraint&action=edit&redlink=1", 
+            "name": "capacity constraint"
+        }, 
+        {
+            "def": "cartesian tree", 
+            "link": "/wiki/Cartesian_tree", 
+            "name": "cartesian tree"
+        }, 
+        {
+            "def": "cascade merge sort", 
+            "link": "/wiki/Cascade_merge_sort", 
+            "name": "cascade merge sort"
+        }, 
+        {
+            "def": "caverphone", 
+            "link": "/wiki/Caverphone", 
+            "name": "caverphone"
+        }, 
+        {
+            "def": "Cayley\u2013Purser algorithm", 
+            "link": "/wiki/Cayley%E2%80%93Purser_algorithm", 
+            "name": "Cayley\u2013Purser algorithm"
+        }, 
+        {
+            "def": "C curve", 
+            "link": "/wiki/C_curve", 
+            "name": "C curve"
+        }, 
+        {
+            "def": "cell probe model", 
+            "link": "/w/index.php?title=Cell_probe_model&action=edit&redlink=1", 
+            "name": "cell probe model"
+        }, 
+        {
+            "def": "cell tree", 
+            "link": "/w/index.php?title=Cell_tree&action=edit&redlink=1", 
+            "name": "cell tree"
+        }, 
+        {
+            "def": "cellular automaton", 
+            "link": "/wiki/Cellular_automaton", 
+            "name": "cellular automaton"
+        }, 
+        {
+            "def": "centroid", 
+            "link": "/wiki/Centroid", 
+            "name": "centroid"
+        }, 
+        {
+            "def": "certificate", 
+            "link": "/wiki/Public_key_certificate", 
+            "name": "certificate"
+        }, 
+        {
+            "def": "chain (order theory)", 
+            "link": "/wiki/Chain_(order_theory)", 
+            "name": "chain (order theory)"
+        }, 
+        {
+            "def": "chaining (algorithm)", 
+            "link": "/w/index.php?title=Chaining_(algorithm)&action=edit&redlink=1", 
+            "name": "chaining (algorithm)"
+        }, 
+        {
+            "def": "child", 
+            "link": "/wiki/Child_node", 
+            "name": "child"
+        }, 
+        {
+            "def": "Chinese postman problem", 
+            "link": "/wiki/Chinese_postman_problem", 
+            "name": "Chinese postman problem"
+        }, 
+        {
+            "def": "Chinese remainder theorem", 
+            "link": "/wiki/Chinese_remainder_theorem", 
+            "name": "Chinese remainder theorem"
+        }, 
+        {
+            "def": "Christofides algorithm", 
+            "link": "/wiki/Christofides_algorithm", 
+            "name": "Christofides algorithm"
+        }, 
+        {
+            "def": "Christofides heuristic", 
+            "link": "/wiki/Christofides_heuristic", 
+            "name": "Christofides heuristic"
+        }, 
+        {
+            "def": "chromatic index", 
+            "link": "/wiki/Chromatic_index", 
+            "name": "chromatic index"
+        }, 
+        {
+            "def": "chromatic number", 
+            "link": "/wiki/Chromatic_number", 
+            "name": "chromatic number"
+        }, 
+        {
+            "def": "Church\u2013Turing thesis", 
+            "link": "/wiki/Church%E2%80%93Turing_thesis", 
+            "name": "Church\u2013Turing thesis"
+        }, 
+        {
+            "def": "circuit", 
+            "link": "/wiki/Digital_circuit", 
+            "name": "circuit"
+        }, 
+        {
+            "def": "circuit complexity", 
+            "link": "/wiki/Circuit_complexity", 
+            "name": "circuit complexity"
+        }, 
+        {
+            "def": "circuit value problem", 
+            "link": "/wiki/Circuit_value_problem", 
+            "name": "circuit value problem"
+        }, 
+        {
+            "def": "circular list", 
+            "link": "/wiki/Circular_list", 
+            "name": "circular list"
+        }, 
+        {
+            "def": "circular queue", 
+            "link": "/wiki/Circular_queue", 
+            "name": "circular queue"
+        }, 
+        {
+            "def": "clique", 
+            "link": "/wiki/Clique_(graph_theory)", 
+            "name": "clique"
+        }, 
+        {
+            "def": "clique problem", 
+            "link": "/wiki/Clique_problem", 
+            "name": "clique problem"
+        }, 
+        {
+            "def": "clustering (see hash table)", 
+            "link": "/wiki/Hash_table", 
+            "name": "clustering (see hash table)"
+        }, 
+        {
+            "def": "clustering free", 
+            "link": "/w/index.php?title=Clustering_free&action=edit&redlink=1", 
+            "name": "clustering free"
+        }, 
+        {
+            "def": "coalesced hashing", 
+            "link": "/wiki/Coalesced_hashing", 
+            "name": "coalesced hashing"
+        }, 
+        {
+            "def": "coarsening", 
+            "link": "/w/index.php?title=Coarsening&action=edit&redlink=1", 
+            "name": "coarsening"
+        }, 
+        {
+            "def": "cocktail shaker sort", 
+            "link": "/wiki/Cocktail_shaker_sort", 
+            "name": "cocktail shaker sort"
+        }, 
+        {
+            "def": "codeword", 
+            "link": "/wiki/Codeword", 
+            "name": "codeword"
+        }, 
+        {
+            "def": "coding tree", 
+            "link": "/wiki/Coding_tree", 
+            "name": "coding tree"
+        }, 
+        {
+            "def": "collective recursion", 
+            "link": "/w/index.php?title=Collective_recursion&action=edit&redlink=1", 
+            "name": "collective recursion"
+        }, 
+        {
+            "def": "collision", 
+            "link": "/wiki/Hash_collision", 
+            "name": "collision"
+        }, 
+        {
+            "def": "collision resolution scheme", 
+            "link": "/wiki/Collision_resolution_scheme", 
+            "name": "collision resolution scheme"
+        }, 
+        {
+            "def": "Colussi", 
+            "link": "/w/index.php?title=Colussi&action=edit&redlink=1", 
+            "name": "Colussi"
+        }, 
+        {
+            "def": "combination", 
+            "link": "/wiki/Combination", 
+            "name": "combination"
+        }, 
+        {
+            "def": "comb sort", 
+            "link": "/wiki/Comb_sort", 
+            "name": "comb sort"
+        }, 
+        {
+            "def": "Communicating Sequential Processes", 
+            "link": "/wiki/Communicating_Sequential_Processes", 
+            "name": "Communicating Sequential Processes"
+        }, 
+        {
+            "def": "commutative", 
+            "link": "/wiki/Commutative", 
+            "name": "commutative"
+        }, 
+        {
+            "def": "compact DAWG", 
+            "link": "/wiki/Compact_DAWG", 
+            "name": "compact DAWG"
+        }, 
+        {
+            "def": "compact trie", 
+            "link": "/w/index.php?title=Compact_trie&action=edit&redlink=1", 
+            "name": "compact trie"
+        }, 
+        {
+            "def": "comparison sort", 
+            "link": "/wiki/Comparison_sort", 
+            "name": "comparison sort"
+        }, 
+        {
+            "def": "competitive analysis", 
+            "link": "/wiki/Competitive_analysis_(online_algorithm)", 
+            "name": "competitive analysis"
+        }, 
+        {
+            "def": "competitive ratio", 
+            "link": "/wiki/Competitive_ratio", 
+            "name": "competitive ratio"
+        }, 
+        {
+            "def": "complement", 
+            "link": "/wiki/Complement_(disambiguation)#Mathematics_and_physics", 
+            "name": "complement"
+        }, 
+        {
+            "def": "complete binary tree", 
+            "link": "/wiki/Complete_binary_tree", 
+            "name": "complete binary tree"
+        }, 
+        {
+            "def": "complete graph", 
+            "link": "/wiki/Complete_graph", 
+            "name": "complete graph"
+        }, 
+        {
+            "def": "completely connected graph", 
+            "link": "/w/index.php?title=Completely_connected_graph&action=edit&redlink=1", 
+            "name": "completely connected graph"
+        }, 
+        {
+            "def": "complete tree", 
+            "link": "/w/index.php?title=Complete_tree&action=edit&redlink=1", 
+            "name": "complete tree"
+        }, 
+        {
+            "def": "complexity", 
+            "link": "/wiki/Complexity", 
+            "name": "complexity"
+        }, 
+        {
+            "def": "complexity class", 
+            "link": "/wiki/Complexity_class", 
+            "name": "complexity class"
+        }, 
+        {
+            "def": "computable", 
+            "link": "/wiki/Computable", 
+            "name": "computable"
+        }, 
+        {
+            "def": "concave function", 
+            "link": "/wiki/Concave_function", 
+            "name": "concave function"
+        }, 
+        {
+            "def": "concurrent flow", 
+            "link": "/wiki/Concurrent_flow", 
+            "name": "concurrent flow"
+        }, 
+        {
+            "def": "concurrent read, concurrent write", 
+            "link": "/wiki/Concurrent_read,_concurrent_write", 
+            "name": "concurrent read, concurrent write"
+        }, 
+        {
+            "def": "concurrent read, exclusive write", 
+            "link": "/wiki/Concurrent_read,_exclusive_write", 
+            "name": "concurrent read, exclusive write"
+        }, 
+        {
+            "def": "configuration", 
+            "link": "/wiki/Computer_configuration", 
+            "name": "configuration"
+        }, 
+        {
+            "def": "confluently persistent data structure", 
+            "link": "/wiki/Confluently_persistent_data_structure", 
+            "name": "confluently persistent data structure"
+        }, 
+        {
+            "def": "conjunction", 
+            "link": "/wiki/Logical_conjunction", 
+            "name": "conjunction"
+        }, 
+        {
+            "def": "connected components", 
+            "link": "/wiki/Connected_component_(graph_theory)", 
+            "name": "connected components"
+        }, 
+        {
+            "def": "connected graph", 
+            "link": "/wiki/Connected_graph", 
+            "name": "connected graph"
+        }, 
+        {
+            "def": "co-NP", 
+            "link": "/wiki/Co-NP", 
+            "name": "co-NP"
+        }, 
+        {
+            "def": "constant function", 
+            "link": "/wiki/Constant_function", 
+            "name": "constant function"
+        }, 
+        {
+            "def": "continuous knapsack problem", 
+            "link": "/wiki/Continuous_knapsack_problem", 
+            "name": "continuous knapsack problem"
+        }, 
+        {
+            "def": "Cook reduction", 
+            "link": "/wiki/Cook_reduction", 
+            "name": "Cook reduction"
+        }, 
+        {
+            "def": "Cook's theorem", 
+            "link": "/wiki/Cook%27s_theorem", 
+            "name": "Cook's theorem"
+        }, 
+        {
+            "def": "counting sort", 
+            "link": "/wiki/Counting_sort", 
+            "name": "counting sort"
+        }, 
+        {
+            "def": "covering", 
+            "link": "/wiki/Cover_(set_theory)", 
+            "name": "covering"
+        }, 
+        {
+            "def": "CRCW", 
+            "link": "/wiki/CRCW", 
+            "name": "CRCW"
+        }, 
+        {
+            "def": "Crew (algorithm)", 
+            "link": "/w/index.php?title=Crew_(algorithm)&action=edit&redlink=1", 
+            "name": "Crew (algorithm)"
+        }, 
+        {
+            "def": "critical path problem", 
+            "link": "/w/index.php?title=Critical_path_problem&action=edit&redlink=1", 
+            "name": "critical path problem"
+        }, 
+        {
+            "def": "CSP (communicating sequential processes)", 
+            "link": "/wiki/Communicating_sequential_processes", 
+            "name": "CSP (communicating sequential processes)"
+        }, 
+        {
+            "def": "CSP (constraint satisfaction problem)", 
+            "link": "/wiki/Constraint_satisfaction_problem", 
+            "name": "CSP (constraint satisfaction problem)"
+        }, 
+        {
+            "def": "cuckoo hashing", 
+            "link": "/wiki/Cuckoo_hashing", 
+            "name": "cuckoo hashing"
+        }, 
+        {
+            "def": "cut (graph theory)", 
+            "link": "/wiki/Cut_(graph_theory)", 
+            "name": "cut (graph theory)"
+        }, 
+        {
+            "def": "cut (logic programming)", 
+            "link": "/wiki/Cut_(logic_programming)", 
+            "name": "cut (logic programming)"
+        }, 
+        {
+            "def": "cutting plane", 
+            "link": "/wiki/Cutting_plane", 
+            "name": "cutting plane"
+        }, 
+        {
+            "def": "cutting stock problem", 
+            "link": "/wiki/Cutting_stock_problem", 
+            "name": "cutting stock problem"
+        }, 
+        {
+            "def": "cutting theorem", 
+            "link": "/w/index.php?title=Cutting_theorem&action=edit&redlink=1", 
+            "name": "cutting theorem"
+        }, 
+        {
+            "def": "cut vertex", 
+            "link": "/wiki/Cut_vertex", 
+            "name": "cut vertex"
+        }, 
+        {
+            "def": "cycle sort", 
+            "link": "/wiki/Cycle_sort", 
+            "name": "cycle sort"
+        }, 
+        {
+            "def": "cyclic redundancy check (CRC)", 
+            "link": "/wiki/Cyclic_redundancy_check", 
+            "name": "cyclic redundancy check (CRC)"
+        }, 
+        {
+            "def": "D-adjacent", 
+            "link": "/w/index.php?title=D-adjacent&action=edit&redlink=1", 
+            "name": "D-adjacent"
+        }, 
+        {
+            "def": "DAG shortest paths", 
+            "link": "/wiki/DAG_shortest_paths", 
+            "name": "DAG shortest paths"
+        }, 
+        {
+            "def": "Damerau\u2013Levenshtein distance", 
+            "link": "/wiki/Damerau%E2%80%93Levenshtein_distance", 
+            "name": "Damerau\u2013Levenshtein distance"
+        }, 
+        {
+            "def": "data structure", 
+            "link": "/wiki/Data_structure", 
+            "name": "data structure"
+        }, 
+        {
+            "def": "decidable", 
+            "link": "/wiki/Decidability_(logic)", 
+            "name": "decidable"
+        }, 
+        {
+            "def": "decidable language", 
+            "link": "/wiki/Decidable_language", 
+            "name": "decidable language"
+        }, 
+        {
+            "def": "decimation", 
+            "link": "/wiki/Decimation_(signal_processing)", 
+            "name": "decimation"
+        }, 
+        {
+            "def": "decision problem", 
+            "link": "/wiki/Decision_problem", 
+            "name": "decision problem"
+        }, 
+        {
+            "def": "decision tree", 
+            "link": "/wiki/Decision_tree", 
+            "name": "decision tree"
+        }, 
+        {
+            "def": "decomposable searching problem", 
+            "link": "/w/index.php?title=Decomposable_searching_problem&action=edit&redlink=1", 
+            "name": "decomposable searching problem"
+        }, 
+        {
+            "def": "degree", 
+            "link": "/wiki/Degree_(disambiguation)#In_mathematics", 
+            "name": "degree"
+        }, 
+        {
+            "def": "dense graph", 
+            "link": "/wiki/Dense_graph", 
+            "name": "dense graph"
+        }, 
+        {
+            "def": "depoissonization", 
+            "link": "/w/index.php?title=Depoissonization&action=edit&redlink=1", 
+            "name": "depoissonization"
+        }, 
+        {
+            "def": "depth", 
+            "link": "/wiki/Depth-limited_search", 
+            "name": "depth"
+        }, 
+        {
+            "def": "depth-first search (DFS)", 
+            "link": "/wiki/Depth-first_search", 
+            "name": "depth-first search (DFS)"
+        }, 
+        {
+            "def": "deque", 
+            "link": "/wiki/Deque", 
+            "name": "deque"
+        }, 
+        {
+            "def": "derangement", 
+            "link": "/wiki/Derangement", 
+            "name": "derangement"
+        }, 
+        {
+            "def": "descendant (see tree structure)", 
+            "link": "/wiki/Tree_structure", 
+            "name": "descendant (see tree structure)"
+        }, 
+        {
+            "def": "deterministic", 
+            "link": "/wiki/Deterministic_algorithm", 
+            "name": "deterministic"
+        }, 
+        {
+            "def": "deterministic algorithm", 
+            "link": "/wiki/Deterministic_algorithm", 
+            "name": "deterministic algorithm"
+        }, 
+        {
+            "def": "deterministic finite automata string search", 
+            "link": "/wiki/Deterministic_finite_automata_string_search", 
+            "name": "deterministic finite automata string search"
+        }, 
+        {
+            "def": "deterministic finite automaton (DFA)", 
+            "link": "/wiki/Deterministic_finite_automaton", 
+            "name": "deterministic finite automaton (DFA)"
+        }, 
+        {
+            "def": "deterministic finite state machine", 
+            "link": "/wiki/Deterministic_finite_state_machine", 
+            "name": "deterministic finite state machine"
+        }, 
+        {
+            "def": "deterministic finite tree automaton", 
+            "link": "/wiki/Deterministic_finite_tree_automaton", 
+            "name": "deterministic finite tree automaton"
+        }, 
+        {
+            "def": "deterministic pushdown automaton (DPDA)", 
+            "link": "/wiki/Deterministic_pushdown_automaton", 
+            "name": "deterministic pushdown automaton (DPDA)"
+        }, 
+        {
+            "def": "deterministic tree automaton", 
+            "link": "/wiki/Deterministic_tree_automaton", 
+            "name": "deterministic tree automaton"
+        }, 
+        {
+            "def": "Deutsch\u2013Jozsa algorithm", 
+            "link": "/wiki/Deutsch%E2%80%93Jozsa_algorithm", 
+            "name": "Deutsch\u2013Jozsa algorithm"
+        }, 
+        {
+            "def": "DFS forest", 
+            "link": "/w/index.php?title=DFS_forest&action=edit&redlink=1", 
+            "name": "DFS forest"
+        }, 
+        {
+            "def": "DFTA", 
+            "link": "/wiki/DFTA", 
+            "name": "DFTA"
+        }, 
+        {
+            "def": "diagonalization argument", 
+            "link": "/wiki/Diagonalization_argument", 
+            "name": "diagonalization argument"
+        }, 
+        {
+            "def": "diameter", 
+            "link": "/wiki/Diameter", 
+            "name": "diameter"
+        }, 
+        {
+            "def": "dichotomic search", 
+            "link": "/wiki/Dichotomic_search", 
+            "name": "dichotomic search"
+        }, 
+        {
+            "def": "dictionary", 
+            "link": "/wiki/Dictionary", 
+            "name": "dictionary"
+        }, 
+        {
+            "def": "diet (see discrete interval encoding tree below)", 
+            "link": null, 
+            "name": "diet (see discrete interval encoding tree below)"
+        }, 
+        {
+            "def": "difference (set theory)", 
+            "link": "/wiki/Difference_(set_theory)", 
+            "name": "difference (set theory)"
+        }, 
+        {
+            "def": "digital search tree", 
+            "link": "/w/index.php?title=Digital_search_tree&action=edit&redlink=1", 
+            "name": "digital search tree"
+        }, 
+        {
+            "def": "digital tree", 
+            "link": "/wiki/Digital_tree", 
+            "name": "digital tree"
+        }, 
+        {
+            "def": "digraph", 
+            "link": "/wiki/Directed_graph", 
+            "name": "digraph"
+        }, 
+        {
+            "def": "Dijkstra's algorithm", 
+            "link": "/wiki/Dijkstra%27s_algorithm", 
+            "name": "Dijkstra's algorithm"
+        }, 
+        {
+            "def": "diminishing increment sort", 
+            "link": "/w/index.php?title=Diminishing_increment_sort&action=edit&redlink=1", 
+            "name": "diminishing increment sort"
+        }, 
+        {
+            "def": "dining philosophers", 
+            "link": "/wiki/Dining_philosophers", 
+            "name": "dining philosophers"
+        }, 
+        {
+            "def": "direct chaining hashing", 
+            "link": "/w/index.php?title=Direct_chaining_hashing&action=edit&redlink=1", 
+            "name": "direct chaining hashing"
+        }, 
+        {
+            "def": "directed acyclic graph (DAG)", 
+            "link": "/wiki/Directed_acyclic_graph", 
+            "name": "directed acyclic graph (DAG)"
+        }, 
+        {
+            "def": "directed acyclic word graph (DAWG)", 
+            "link": "/wiki/Directed_acyclic_word_graph_(disambiguation)", 
+            "name": "directed acyclic word graph (DAWG)"
+        }, 
+        {
+            "def": "directed graph", 
+            "link": "/wiki/Directed_graph", 
+            "name": "directed graph"
+        }, 
+        {
+            "def": "discrete interval encoding tree", 
+            "link": "/w/index.php?title=Discrete_interval_encoding_tree&action=edit&redlink=1", 
+            "name": "discrete interval encoding tree"
+        }, 
+        {
+            "def": "discrete p-center", 
+            "link": "/w/index.php?title=Discrete_p-center&action=edit&redlink=1", 
+            "name": "discrete p-center"
+        }, 
+        {
+            "def": "disjoint set", 
+            "link": "/wiki/Disjoint_set", 
+            "name": "disjoint set"
+        }, 
+        {
+            "def": "disjunction", 
+            "link": "/wiki/Disjunction", 
+            "name": "disjunction"
+        }, 
+        {
+            "def": "distributed algorithm", 
+            "link": "/wiki/Distributed_algorithm", 
+            "name": "distributed algorithm"
+        }, 
+        {
+            "def": "distributional complexity", 
+            "link": "/w/index.php?title=Distributional_complexity&action=edit&redlink=1", 
+            "name": "distributional complexity"
+        }, 
+        {
+            "def": "distribution sort", 
+            "link": "/wiki/Distribution_sort", 
+            "name": "distribution sort"
+        }, 
+        {
+            "def": "divide and conquer algorithm", 
+            "link": "/wiki/Divide_and_conquer_algorithm", 
+            "name": "divide and conquer algorithm"
+        }, 
+        {
+            "def": "divide and marriage before conquest", 
+            "link": "/wiki/Divide_and_marriage_before_conquest", 
+            "name": "divide and marriage before conquest"
+        }, 
+        {
+            "def": "division method", 
+            "link": "/w/index.php?title=Division_method&action=edit&redlink=1", 
+            "name": "division method"
+        }, 
+        {
+            "def": "Data domain", 
+            "link": "/wiki/Data_domain", 
+            "name": "Data domain"
+        }, 
+        {
+            "def": "don't care", 
+            "link": "/wiki/Don%27t_care", 
+            "name": "don't care"
+        }, 
+        {
+            "def": "Doomsday rule", 
+            "link": "/wiki/Doomsday_rule", 
+            "name": "Doomsday rule"
+        }, 
+        {
+            "def": "double-direction bubble sort", 
+            "link": "/w/index.php?title=Double-direction_bubble_sort&action=edit&redlink=1", 
+            "name": "double-direction bubble sort"
+        }, 
+        {
+            "def": "double-ended priority queue", 
+            "link": "/wiki/Double-ended_priority_queue", 
+            "name": "double-ended priority queue"
+        }, 
+        {
+            "def": "double hashing", 
+            "link": "/wiki/Double_hashing", 
+            "name": "double hashing"
+        }, 
+        {
+            "def": "double left rotation", 
+            "link": "/w/index.php?title=Double_left_rotation&action=edit&redlink=1", 
+            "name": "double left rotation"
+        }, 
+        {
+            "def": "Double Metaphone", 
+            "link": "/wiki/Double_Metaphone", 
+            "name": "Double Metaphone"
+        }, 
+        {
+            "def": "double right rotation", 
+            "link": "/w/index.php?title=Double_right_rotation&action=edit&redlink=1", 
+            "name": "double right rotation"
+        }, 
+        {
+            "def": "doubly chained tree", 
+            "link": "/wiki/Doubly_chained_tree", 
+            "name": "doubly chained tree"
+        }, 
+        {
+            "def": "doubly ended queue", 
+            "link": "/wiki/Doubly_ended_queue", 
+            "name": "doubly ended queue"
+        }, 
+        {
+            "def": "doubly linked list", 
+            "link": "/wiki/Doubly_linked_list", 
+            "name": "doubly linked list"
+        }, 
+        {
+            "def": "Dragon curve", 
+            "link": "/wiki/Dragon_curve", 
+            "name": "Dragon curve"
+        }, 
+        {
+            "def": "dual graph", 
+            "link": "/wiki/Dual_graph", 
+            "name": "dual graph"
+        }, 
+        {
+            "def": "dual linear program", 
+            "link": "/wiki/Dual_linear_program", 
+            "name": "dual linear program"
+        }, 
+        {
+            "def": "Dutch national flag", 
+            "link": "/wiki/Dutch_national_flag", 
+            "name": "Dutch national flag"
+        }, 
+        {
+            "def": "dyadic tree", 
+            "link": "/wiki/Dyadic_tree", 
+            "name": "dyadic tree"
+        }, 
+        {
+            "def": "dynamic array", 
+            "link": "/wiki/Dynamic_array", 
+            "name": "dynamic array"
+        }, 
+        {
+            "def": "dynamic data structure", 
+            "link": "/w/index.php?title=Dynamic_data_structure&action=edit&redlink=1", 
+            "name": "dynamic data structure"
+        }, 
+        {
+            "def": "dynamic hashing", 
+            "link": "/w/index.php?title=Dynamic_hashing&action=edit&redlink=1", 
+            "name": "dynamic hashing"
+        }, 
+        {
+            "def": "dynamic programming", 
+            "link": "/wiki/Dynamic_programming", 
+            "name": "dynamic programming"
+        }, 
+        {
+            "def": "dynamization transformation", 
+            "link": "/wiki/Dynamization_transformation", 
+            "name": "dynamization transformation"
+        }, 
+        {
+            "def": "edge", 
+            "link": "/wiki/Glossary_of_graph_theory#Basics", 
+            "name": "edge"
+        }, 
+        {
+            "def": "edge coloring", 
+            "link": "/wiki/Edge_coloring", 
+            "name": "edge coloring"
+        }, 
+        {
+            "def": "edge connectivity", 
+            "link": "/wiki/Edge_connectivity", 
+            "name": "edge connectivity"
+        }, 
+        {
+            "def": "edge crossing", 
+            "link": "/wiki/Edge_crossing", 
+            "name": "edge crossing"
+        }, 
+        {
+            "def": "edge-weighted graph", 
+            "link": "/wiki/Edge-weighted_graph", 
+            "name": "edge-weighted graph"
+        }, 
+        {
+            "def": "edit distance", 
+            "link": "/wiki/Edit_distance", 
+            "name": "edit distance"
+        }, 
+        {
+            "def": "edit operation", 
+            "link": "/w/index.php?title=Edit_operation&action=edit&redlink=1", 
+            "name": "edit operation"
+        }, 
+        {
+            "def": "edit script", 
+            "link": "/w/index.php?title=Edit_script&action=edit&redlink=1", 
+            "name": "edit script"
+        }, 
+        {
+            "def": "8 queens", 
+            "link": "/wiki/8_queens", 
+            "name": "8 queens"
+        }, 
+        {
+            "def": "elastic-bucket trie", 
+            "link": "/w/index.php?title=Elastic-bucket_trie&action=edit&redlink=1", 
+            "name": "elastic-bucket trie"
+        }, 
+        {
+            "def": "element uniqueness", 
+            "link": "/wiki/Element_uniqueness", 
+            "name": "element uniqueness"
+        }, 
+        {
+            "def": "end-of-string", 
+            "link": "/w/index.php?title=End-of-string&action=edit&redlink=1", 
+            "name": "end-of-string"
+        }, 
+        {
+            "def": "enfilade", 
+            "link": "/wiki/Enfilade", 
+            "name": "enfilade"
+        }, 
+        {
+            "def": "epidemic algorithm", 
+            "link": "/w/index.php?title=Epidemic_algorithm&action=edit&redlink=1", 
+            "name": "epidemic algorithm"
+        }, 
+        {
+            "def": "Euclidean algorithm", 
+            "link": "/wiki/Euclidean_algorithm", 
+            "name": "Euclidean algorithm"
+        }, 
+        {
+            "def": "Euclidean distance", 
+            "link": "/wiki/Euclidean_distance", 
+            "name": "Euclidean distance"
+        }, 
+        {
+            "def": "Euclidean Steiner tree", 
+            "link": "/wiki/Euclidean_Steiner_tree", 
+            "name": "Euclidean Steiner tree"
+        }, 
+        {
+            "def": "Euclidean traveling salesman problem", 
+            "link": "/wiki/Euclidean_traveling_salesman_problem", 
+            "name": "Euclidean traveling salesman problem"
+        }, 
+        {
+            "def": "Euclid's algorithm", 
+            "link": "/wiki/Euclid%27s_algorithm", 
+            "name": "Euclid's algorithm"
+        }, 
+        {
+            "def": "Euler cycle", 
+            "link": "/wiki/Euler_cycle", 
+            "name": "Euler cycle"
+        }, 
+        {
+            "def": "Eulerian graph", 
+            "link": "/wiki/Eulerian_graph", 
+            "name": "Eulerian graph"
+        }, 
+        {
+            "def": "Eulerian path", 
+            "link": "/wiki/Eulerian_path", 
+            "name": "Eulerian path"
+        }, 
+        {
+            "def": "exact string matching", 
+            "link": "/wiki/Exact_string_matching", 
+            "name": "exact string matching"
+        }, 
+        {
+            "def": "EXCELL (extendible cell)", 
+            "link": "/w/index.php?title=Extendible_cell&action=edit&redlink=1", 
+            "name": "EXCELL (extendible cell)"
+        }, 
+        {
+            "def": "exchange sort", 
+            "link": "/wiki/Exchange_sort", 
+            "name": "exchange sort"
+        }, 
+        {
+            "def": "exclusive or", 
+            "link": "/wiki/Exclusive_or", 
+            "name": "exclusive or"
+        }, 
+        {
+            "def": "exclusive read, concurrent write (ERCW)", 
+            "link": "/wiki/Exclusive_read,_concurrent_write", 
+            "name": "exclusive read, concurrent write (ERCW)"
+        }, 
+        {
+            "def": "exclusive read, exclusive write (EREW)", 
+            "link": "/wiki/Exclusive_read,_exclusive_write", 
+            "name": "exclusive read, exclusive write (EREW)"
+        }, 
+        {
+            "def": "exhaustive search", 
+            "link": "/wiki/Exhaustive_search", 
+            "name": "exhaustive search"
+        }, 
+        {
+            "def": "existential state", 
+            "link": "/wiki/Existential_state", 
+            "name": "existential state"
+        }, 
+        {
+            "def": "expandable hashing", 
+            "link": "/w/index.php?title=Expandable_hashing&action=edit&redlink=1", 
+            "name": "expandable hashing"
+        }, 
+        {
+            "def": "expander graph", 
+            "link": "/wiki/Expander_graph", 
+            "name": "expander graph"
+        }, 
+        {
+            "def": "exponential", 
+            "link": "/wiki/Exponential_(disambiguation)", 
+            "name": "exponential"
+        }, 
+        {
+            "def": "extended binary tree", 
+            "link": "/wiki/Extended_binary_tree", 
+            "name": "extended binary tree"
+        }, 
+        {
+            "def": "extended Euclidean algorithm", 
+            "link": "/wiki/Extended_Euclidean_algorithm", 
+            "name": "extended Euclidean algorithm"
+        }, 
+        {
+            "def": "extended k-d tree", 
+            "link": "/wiki/Extended_k-d_tree", 
+            "name": "extended k-d tree"
+        }, 
+        {
+            "def": "extendible hashing", 
+            "link": "/wiki/Extendible_hashing", 
+            "name": "extendible hashing"
+        }, 
+        {
+            "def": "external index", 
+            "link": "/w/index.php?title=External_index&action=edit&redlink=1", 
+            "name": "external index"
+        }, 
+        {
+            "def": "external memory algorithm", 
+            "link": "/wiki/External_memory_algorithm", 
+            "name": "external memory algorithm"
+        }, 
+        {
+            "def": "external memory data structure", 
+            "link": "/w/index.php?title=External_memory_data_structure&action=edit&redlink=1", 
+            "name": "external memory data structure"
+        }, 
+        {
+            "def": "external merge", 
+            "link": "/wiki/External_merge", 
+            "name": "external merge"
+        }, 
+        {
+            "def": "external merge sort", 
+            "link": "/w/index.php?title=External_merge_sort&action=edit&redlink=1", 
+            "name": "external merge sort"
+        }, 
+        {
+            "def": "external node", 
+            "link": "/wiki/External_node", 
+            "name": "external node"
+        }, 
+        {
+            "def": "external quicksort", 
+            "link": "/wiki/External_quicksort", 
+            "name": "external quicksort"
+        }, 
+        {
+            "def": "external radix sort", 
+            "link": "/w/index.php?title=External_radix_sort&action=edit&redlink=1", 
+            "name": "external radix sort"
+        }, 
+        {
+            "def": "external sort", 
+            "link": "/wiki/External_sort", 
+            "name": "external sort"
+        }, 
+        {
+            "def": "extrapolation search", 
+            "link": "/wiki/Extrapolation_search", 
+            "name": "extrapolation search"
+        }, 
+        {
+            "def": "extremal", 
+            "link": "/wiki/Extremal", 
+            "name": "extremal"
+        }, 
+        {
+            "def": "extreme point", 
+            "link": "/wiki/Extreme_point", 
+            "name": "extreme point"
+        }, 
+        {
+            "def": "facility location", 
+            "link": "/wiki/Facility_location", 
+            "name": "facility location"
+        }, 
+        {
+            "def": "factor (see substring)", 
+            "link": "/wiki/Substring", 
+            "name": "factor (see substring)"
+        }, 
+        {
+            "def": "factorial", 
+            "link": "/wiki/Factorial", 
+            "name": "factorial"
+        }, 
+        {
+            "def": "fast fourier transform (FFT)", 
+            "link": "/wiki/Fast_fourier_transform", 
+            "name": "fast fourier transform (FFT)"
+        }, 
+        {
+            "def": "fathoming", 
+            "link": "/w/index.php?title=Fathoming&action=edit&redlink=1", 
+            "name": "fathoming"
+        }, 
+        {
+            "def": "feasible region", 
+            "link": "/wiki/Feasible_region", 
+            "name": "feasible region"
+        }, 
+        {
+            "def": "feasible solution", 
+            "link": "/wiki/Feasible_solution", 
+            "name": "feasible solution"
+        }, 
+        {
+            "def": "feedback edge set", 
+            "link": "/wiki/Feedback_edge_set", 
+            "name": "feedback edge set"
+        }, 
+        {
+            "def": "feedback vertex set", 
+            "link": "/wiki/Feedback_vertex_set", 
+            "name": "feedback vertex set"
+        }, 
+        {
+            "def": "Ferguson\u2013Forcade algorithm", 
+            "link": "/wiki/Ferguson%E2%80%93Forcade_algorithm", 
+            "name": "Ferguson\u2013Forcade algorithm"
+        }, 
+        {
+            "def": "Fibonacci number", 
+            "link": "/wiki/Fibonacci_number", 
+            "name": "Fibonacci number"
+        }, 
+        {
+            "def": "Fibonacci search", 
+            "link": "/wiki/Fibonacci_search", 
+            "name": "Fibonacci search"
+        }, 
+        {
+            "def": "Fibonacci tree", 
+            "link": "/wiki/Fibonacci_tree", 
+            "name": "Fibonacci tree"
+        }, 
+        {
+            "def": "Fibonacci heap", 
+            "link": "/wiki/Fibonacci_heap", 
+            "name": "Fibonacci heap"
+        }, 
+        {
+            "def": "filial-heir chain", 
+            "link": "/w/index.php?title=Filial-heir_chain&action=edit&redlink=1", 
+            "name": "filial-heir chain"
+        }, 
+        {
+            "def": "Find", 
+            "link": "/wiki/Find", 
+            "name": "Find"
+        }, 
+        {
+            "def": "find kth least element", 
+            "link": "/w/index.php?title=Find_kth_least_element&action=edit&redlink=1", 
+            "name": "find kth least element"
+        }, 
+        {
+            "def": "finitary tree", 
+            "link": "/w/index.php?title=Finitary_tree&action=edit&redlink=1", 
+            "name": "finitary tree"
+        }, 
+        {
+            "def": "finite Fourier transform (discrete Fourier transform)", 
+            "link": "/wiki/Discrete_Fourier_transform", 
+            "name": "finite Fourier transform (discrete Fourier transform)"
+        }, 
+        {
+            "def": "finite state automaton", 
+            "link": "/wiki/Finite_state_automaton", 
+            "name": "finite state automaton"
+        }, 
+        {
+            "def": "finite state machine", 
+            "link": "/wiki/Finite_state_machine", 
+            "name": "finite state machine"
+        }, 
+        {
+            "def": "finite state machine minimization", 
+            "link": "/wiki/Finite_state_machine_minimization", 
+            "name": "finite state machine minimization"
+        }, 
+        {
+            "def": "finite state transducer", 
+            "link": "/wiki/Finite_state_transducer", 
+            "name": "finite state transducer"
+        }, 
+        {
+            "def": "first child-next sibling binary tree", 
+            "link": "/wiki/First_child-next_sibling_binary_tree", 
+            "name": "first child-next sibling binary tree"
+        }, 
+        {
+            "def": "first come, first served", 
+            "link": "/wiki/First_come,_first_served", 
+            "name": "first come, first served"
+        }, 
+        {
+            "def": "first-in, first-out (FIFO)", 
+            "link": "/wiki/FIFO_(computing_and_electronics)", 
+            "name": "first-in, first-out (FIFO)"
+        }, 
+        {
+            "def": "fixed-grid method", 
+            "link": "/w/index.php?title=Fixed-grid_method&action=edit&redlink=1", 
+            "name": "fixed-grid method"
+        }, 
+        {
+            "def": "flash sort", 
+            "link": "/w/index.php?title=Flash_sort&action=edit&redlink=1", 
+            "name": "flash sort"
+        }, 
+        {
+            "def": "flow", 
+            "link": "/wiki/Flow_(mathematics)", 
+            "name": "flow"
+        }, 
+        {
+            "def": "flow conservation", 
+            "link": "/wiki/Flow_conservation", 
+            "name": "flow conservation"
+        }, 
+        {
+            "def": "flow function", 
+            "link": "/wiki/Flow_function", 
+            "name": "flow function"
+        }, 
+        {
+            "def": "flow network", 
+            "link": "/wiki/Flow_network", 
+            "name": "flow network"
+        }, 
+        {
+            "def": "Floyd\u2013Warshall algorithm", 
+            "link": "/wiki/Floyd%E2%80%93Warshall_algorithm", 
+            "name": "Floyd\u2013Warshall algorithm"
+        }, 
+        {
+            "def": "Ford\u2013Bellman algorithm", 
+            "link": "/wiki/Bellman%E2%80%93Ford_algorithm", 
+            "name": "Ford\u2013Bellman algorithm"
+        }, 
+        {
+            "def": "Ford\u2013Fulkerson algorithm", 
+            "link": "/wiki/Ford%E2%80%93Fulkerson_algorithm", 
+            "name": "Ford\u2013Fulkerson algorithm"
+        }, 
+        {
+            "def": "forest", 
+            "link": "/wiki/Forest_(graph_theory)", 
+            "name": "forest"
+        }, 
+        {
+            "def": "forest editing problem", 
+            "link": "/w/index.php?title=Forest_editing_problem&action=edit&redlink=1", 
+            "name": "forest editing problem"
+        }, 
+        {
+            "def": "formal language", 
+            "link": "/wiki/Formal_language", 
+            "name": "formal language"
+        }, 
+        {
+            "def": "formal methods", 
+            "link": "/wiki/Formal_methods", 
+            "name": "formal methods"
+        }, 
+        {
+            "def": "formal verification", 
+            "link": "/wiki/Formal_verification", 
+            "name": "formal verification"
+        }, 
+        {
+            "def": "forward index", 
+            "link": "/wiki/Forward_index", 
+            "name": "forward index"
+        }, 
+        {
+            "def": "fractal", 
+            "link": "/wiki/Fractal", 
+            "name": "fractal"
+        }, 
+        {
+            "def": "fractional knapsack problem", 
+            "link": "/wiki/Fractional_knapsack_problem", 
+            "name": "fractional knapsack problem"
+        }, 
+        {
+            "def": "fractional solution", 
+            "link": "/w/index.php?title=Fractional_solution&action=edit&redlink=1", 
+            "name": "fractional solution"
+        }, 
+        {
+            "def": "free edge", 
+            "link": "/w/index.php?title=Free_edge&action=edit&redlink=1", 
+            "name": "free edge"
+        }, 
+        {
+            "def": "free list", 
+            "link": "/wiki/Free_list", 
+            "name": "free list"
+        }, 
+        {
+            "def": "free tree", 
+            "link": "/wiki/Free_tree", 
+            "name": "free tree"
+        }, 
+        {
+            "def": "free vertex", 
+            "link": "/w/index.php?title=Free_vertex&action=edit&redlink=1", 
+            "name": "free vertex"
+        }, 
+        {
+            "def": "frequency count heuristic", 
+            "link": "/w/index.php?title=Frequency_count_heuristic&action=edit&redlink=1", 
+            "name": "frequency count heuristic"
+        }, 
+        {
+            "def": "full array", 
+            "link": "/w/index.php?title=Full_array&action=edit&redlink=1", 
+            "name": "full array"
+        }, 
+        {
+            "def": "full binary tree", 
+            "link": "/wiki/Full_binary_tree", 
+            "name": "full binary tree"
+        }, 
+        {
+            "def": "full inverted index", 
+            "link": "/wiki/Full_inverted_index", 
+            "name": "full inverted index"
+        }, 
+        {
+            "def": "fully dynamic graph problem", 
+            "link": "/w/index.php?title=Fully_dynamic_graph_problem&action=edit&redlink=1", 
+            "name": "fully dynamic graph problem"
+        }, 
+        {
+            "def": "fully persistent data structure", 
+            "link": "/wiki/Fully_persistent_data_structure", 
+            "name": "fully persistent data structure"
+        }, 
+        {
+            "def": "fully polynomial approximation scheme", 
+            "link": "/wiki/Fully_polynomial_approximation_scheme", 
+            "name": "fully polynomial approximation scheme"
+        }, 
+        {
+            "def": "function (programming)", 
+            "link": "/wiki/Function_(programming)", 
+            "name": "function (programming)"
+        }, 
+        {
+            "def": "function (mathematics)", 
+            "link": "/wiki/Function_(mathematics)", 
+            "name": "function (mathematics)"
+        }, 
+        {
+            "def": "functional data structure", 
+            "link": "/wiki/Functional_data_structure", 
+            "name": "functional data structure"
+        }, 
+        {
+            "def": "Galil\u2013Giancarlo", 
+            "link": "/w/index.php?title=Galil%E2%80%93Giancarlo&action=edit&redlink=1", 
+            "name": "Galil\u2013Giancarlo"
+        }, 
+        {
+            "def": "Galil\u2013Seiferas", 
+            "link": "/w/index.php?title=Galil%E2%80%93Seiferas&action=edit&redlink=1", 
+            "name": "Galil\u2013Seiferas"
+        }, 
+        {
+            "def": "gamma function", 
+            "link": "/wiki/Gamma_function", 
+            "name": "gamma function"
+        }, 
+        {
+            "def": "GBD-tree", 
+            "link": "/w/index.php?title=GBD-tree&action=edit&redlink=1", 
+            "name": "GBD-tree"
+        }, 
+        {
+            "def": "geometric optimization problem", 
+            "link": "/w/index.php?title=Geometric_optimization_problem&action=edit&redlink=1", 
+            "name": "geometric optimization problem"
+        }, 
+        {
+            "def": "global optimum", 
+            "link": "/wiki/Global_optimum", 
+            "name": "global optimum"
+        }, 
+        {
+            "def": "gnome sort", 
+            "link": "/wiki/Gnome_sort", 
+            "name": "gnome sort"
+        }, 
+        {
+            "def": "goobi", 
+            "link": "/wiki/Goobi", 
+            "name": "goobi"
+        }, 
+        {
+            "def": "graph", 
+            "link": "/wiki/Graph_(data_structure)", 
+            "name": "graph"
+        }, 
+        {
+            "def": "graph coloring", 
+            "link": "/wiki/Graph_coloring", 
+            "name": "graph coloring"
+        }, 
+        {
+            "def": "graph concentration", 
+            "link": "/w/index.php?title=Graph_concentration&action=edit&redlink=1", 
+            "name": "graph concentration"
+        }, 
+        {
+            "def": "graph drawing", 
+            "link": "/wiki/Graph_drawing", 
+            "name": "graph drawing"
+        }, 
+        {
+            "def": "graph isomorphism", 
+            "link": "/wiki/Graph_isomorphism", 
+            "name": "graph isomorphism"
+        }, 
+        {
+            "def": "graph partition", 
+            "link": "/wiki/Graph_partition", 
+            "name": "graph partition"
+        }, 
+        {
+            "def": "Gray code", 
+            "link": "/wiki/Gray_code", 
+            "name": "Gray code"
+        }, 
+        {
+            "def": "greatest common divisor (GCD)", 
+            "link": "/wiki/Greatest_common_divisor", 
+            "name": "greatest common divisor (GCD)"
+        }, 
+        {
+            "def": "greedy algorithm", 
+            "link": "/wiki/Greedy_algorithm", 
+            "name": "greedy algorithm"
+        }, 
+        {
+            "def": "greedy heuristic", 
+            "link": "/wiki/Greedy_heuristic", 
+            "name": "greedy heuristic"
+        }, 
+        {
+            "def": "grid drawing", 
+            "link": "/w/index.php?title=Grid_drawing&action=edit&redlink=1", 
+            "name": "grid drawing"
+        }, 
+        {
+            "def": "grid file", 
+            "link": "/wiki/Grid_file", 
+            "name": "grid file"
+        }, 
+        {
+            "def": "Grover's algorithm", 
+            "link": "/wiki/Grover%27s_algorithm", 
+            "name": "Grover's algorithm"
+        }, 
+        {
+            "def": "halting problem", 
+            "link": "/wiki/Halting_problem", 
+            "name": "halting problem"
+        }, 
+        {
+            "def": "Hamiltonian cycle", 
+            "link": "/wiki/Hamiltonian_cycle", 
+            "name": "Hamiltonian cycle"
+        }, 
+        {
+            "def": "Hamiltonian path", 
+            "link": "/wiki/Hamiltonian_path", 
+            "name": "Hamiltonian path"
+        }, 
+        {
+            "def": "Hamming distance", 
+            "link": "/wiki/Hamming_distance", 
+            "name": "Hamming distance"
+        }, 
+        {
+            "def": "Harter\u2013Highway dragon", 
+            "link": "/wiki/Dragon_curve", 
+            "name": "Harter\u2013Highway dragon"
+        }, 
+        {
+            "def": "hash function", 
+            "link": "/wiki/Hash_function", 
+            "name": "hash function"
+        }, 
+        {
+            "def": "hash heap", 
+            "link": "/w/index.php?title=Hash_heap&action=edit&redlink=1", 
+            "name": "hash heap"
+        }, 
+        {
+            "def": "hash table", 
+            "link": "/wiki/Hash_table", 
+            "name": "hash table"
+        }, 
+        {
+            "def": "hash table delete", 
+            "link": "/w/index.php?title=Hash_table_delete&action=edit&redlink=1", 
+            "name": "hash table delete"
+        }, 
+        {
+            "def": "Hausdorff distance", 
+            "link": "/wiki/Hausdorff_distance", 
+            "name": "Hausdorff distance"
+        }, 
+        {
+            "def": "hB-tree", 
+            "link": "/w/index.php?title=HB-tree&action=edit&redlink=1", 
+            "name": "hB-tree"
+        }, 
+        {
+            "def": "head", 
+            "link": null, 
+            "name": "head"
+        }, 
+        {
+            "def": "heap", 
+            "link": "/wiki/Heap_(data_structure)", 
+            "name": "heap"
+        }, 
+        {
+            "def": "heapify", 
+            "link": "/wiki/Heapify", 
+            "name": "heapify"
+        }, 
+        {
+            "def": "heap property", 
+            "link": "/wiki/Heap_property", 
+            "name": "heap property"
+        }, 
+        {
+            "def": "heapsort", 
+            "link": "/wiki/Heapsort", 
+            "name": "heapsort"
+        }, 
+        {
+            "def": "heaviest common subsequence", 
+            "link": "/w/index.php?title=Heaviest_common_subsequence&action=edit&redlink=1", 
+            "name": "heaviest common subsequence"
+        }, 
+        {
+            "def": "height", 
+            "link": "/wiki/Height", 
+            "name": "height"
+        }, 
+        {
+            "def": "height-balanced binary search tree", 
+            "link": "/wiki/Height-balanced_binary_search_tree", 
+            "name": "height-balanced binary search tree"
+        }, 
+        {
+            "def": "height-balanced tree", 
+            "link": "/wiki/Height-balanced_tree", 
+            "name": "height-balanced tree"
+        }, 
+        {
+            "def": "heuristic", 
+            "link": "/wiki/Heuristic", 
+            "name": "heuristic"
+        }, 
+        {
+            "def": "hidden Markov model", 
+            "link": "/wiki/Hidden_Markov_model", 
+            "name": "hidden Markov model"
+        }, 
+        {
+            "def": "highest common factor", 
+            "link": "/wiki/Highest_common_factor", 
+            "name": "highest common factor"
+        }, 
+        {
+            "def": "Hilbert curve", 
+            "link": "/wiki/Hilbert_curve", 
+            "name": "Hilbert curve"
+        }, 
+        {
+            "def": "histogram sort", 
+            "link": "/wiki/Histogram_sort", 
+            "name": "histogram sort"
+        }, 
+        {
+            "def": "homeomorphic", 
+            "link": "/wiki/Homeomorphic", 
+            "name": "homeomorphic"
+        }, 
+        {
+            "def": "horizontal visibility map", 
+            "link": "/w/index.php?title=Horizontal_visibility_map&action=edit&redlink=1", 
+            "name": "horizontal visibility map"
+        }, 
+        {
+            "def": "Huffman encoding", 
+            "link": "/wiki/Huffman_encoding", 
+            "name": "Huffman encoding"
+        }, 
+        {
+            "def": "Hungarian algorithm", 
+            "link": "/wiki/Hungarian_algorithm", 
+            "name": "Hungarian algorithm"
+        }, 
+        {
+            "def": "hybrid algorithm", 
+            "link": "/wiki/Hybrid_algorithm", 
+            "name": "hybrid algorithm"
+        }, 
+        {
+            "def": "hyperedge", 
+            "link": "/wiki/Hyperedge", 
+            "name": "hyperedge"
+        }, 
+        {
+            "def": "hypergraph", 
+            "link": "/wiki/Hypergraph", 
+            "name": "hypergraph"
+        }, 
+        {
+            "def": "Identity function", 
+            "link": "/wiki/Identity_function", 
+            "name": "Identity function"
+        }, 
+        {
+            "def": "ideal merge", 
+            "link": "/w/index.php?title=Ideal_merge&action=edit&redlink=1", 
+            "name": "ideal merge"
+        }, 
+        {
+            "def": "implication", 
+            "link": "/wiki/Material_conditional", 
+            "name": "implication"
+        }, 
+        {
+            "def": "implies", 
+            "link": "/wiki/Implies_operator", 
+            "name": "implies"
+        }, 
+        {
+            "def": "in-branching", 
+            "link": "/w/index.php?title=In-branching&action=edit&redlink=1", 
+            "name": "in-branching"
+        }, 
+        {
+            "def": "inclusion-exclusion principle", 
+            "link": "/wiki/Inclusion-exclusion_principle", 
+            "name": "inclusion-exclusion principle"
+        }, 
+        {
+            "def": "inclusive or", 
+            "link": "/wiki/Inclusive_or", 
+            "name": "inclusive or"
+        }, 
+        {
+            "def": "incompressible string", 
+            "link": "/wiki/Incompressible_string", 
+            "name": "incompressible string"
+        }, 
+        {
+            "def": "incremental algorithm", 
+            "link": "/w/index.php?title=Incremental_algorithm&action=edit&redlink=1", 
+            "name": "incremental algorithm"
+        }, 
+        {
+            "def": "in-degree", 
+            "link": "/wiki/In-degree", 
+            "name": "in-degree"
+        }, 
+        {
+            "def": "independent set (graph theory)", 
+            "link": "/wiki/Independent_set_(graph_theory)", 
+            "name": "independent set (graph theory)"
+        }, 
+        {
+            "def": "index file", 
+            "link": "/wiki/Index_file", 
+            "name": "index file"
+        }, 
+        {
+            "def": "information theoretic bound", 
+            "link": "/w/index.php?title=Information_theoretic_bound&action=edit&redlink=1", 
+            "name": "information theoretic bound"
+        }, 
+        {
+            "def": "in-order traversal", 
+            "link": "/wiki/In-order_traversal", 
+            "name": "in-order traversal"
+        }, 
+        {
+            "def": "in-place sort", 
+            "link": "/wiki/In-place_sort", 
+            "name": "in-place sort"
+        }, 
+        {
+            "def": "insertion sort", 
+            "link": "/wiki/Insertion_sort", 
+            "name": "insertion sort"
+        }, 
+        {
+            "def": "instantaneous description", 
+            "link": "/w/index.php?title=Instantaneous_description&action=edit&redlink=1", 
+            "name": "instantaneous description"
+        }, 
+        {
+            "def": "integer linear program", 
+            "link": "/wiki/Integer_linear_program", 
+            "name": "integer linear program"
+        }, 
+        {
+            "def": "integer multi-commodity flow", 
+            "link": "/w/index.php?title=Integer_multi-commodity_flow&action=edit&redlink=1", 
+            "name": "integer multi-commodity flow"
+        }, 
+        {
+            "def": "integer polyhedron", 
+            "link": "/w/index.php?title=Integer_polyhedron&action=edit&redlink=1", 
+            "name": "integer polyhedron"
+        }, 
+        {
+            "def": "interactive proof system", 
+            "link": "/wiki/Interactive_proof_system", 
+            "name": "interactive proof system"
+        }, 
+        {
+            "def": "Interface_(computing)", 
+            "link": "/wiki/Interface_(computing)", 
+            "name": "Interface_(computing)"
+        }, 
+        {
+            "def": "interior-based representation", 
+            "link": "/w/index.php?title=Interior-based_representation&action=edit&redlink=1", 
+            "name": "interior-based representation"
+        }, 
+        {
+            "def": "internal node", 
+            "link": "/wiki/Internal_node", 
+            "name": "internal node"
+        }, 
+        {
+            "def": "internal sort", 
+            "link": "/wiki/Internal_sort", 
+            "name": "internal sort"
+        }, 
+        {
+            "def": "interpolation search", 
+            "link": "/wiki/Interpolation_search", 
+            "name": "interpolation search"
+        }, 
+        {
+            "def": "interpolation-sequential search", 
+            "link": "/w/index.php?title=Interpolation-sequential_search&action=edit&redlink=1", 
+            "name": "interpolation-sequential search"
+        }, 
+        {
+            "def": "interpolation sort", 
+            "link": "/w/index.php?title=Interpolation_sort&action=edit&redlink=1", 
+            "name": "interpolation sort"
+        }, 
+        {
+            "def": "intersection (set theory)", 
+            "link": "/wiki/Intersection_(set_theory)", 
+            "name": "intersection (set theory)"
+        }, 
+        {
+            "def": "interval tree", 
+            "link": "/wiki/Interval_tree", 
+            "name": "interval tree"
+        }, 
+        {
+            "def": "intractable", 
+            "link": "/wiki/Intractability_(complexity)", 
+            "name": "intractable"
+        }, 
+        {
+            "def": "introsort", 
+            "link": "/wiki/Introsort", 
+            "name": "introsort"
+        }, 
+        {
+            "def": "introspective sort", 
+            "link": "/wiki/Introspective_sort", 
+            "name": "introspective sort"
+        }, 
+        {
+            "def": "inverse Ackermann function", 
+            "link": "/wiki/Inverse_Ackermann_function", 
+            "name": "inverse Ackermann function"
+        }, 
+        {
+            "def": "inverted file index", 
+            "link": "/wiki/Inverted_file_index", 
+            "name": "inverted file index"
+        }, 
+        {
+            "def": "inverted index", 
+            "link": "/wiki/Inverted_index", 
+            "name": "inverted index"
+        }, 
+        {
+            "def": "irreflexive", 
+            "link": "/wiki/Irreflexive", 
+            "name": "irreflexive"
+        }, 
+        {
+            "def": "isomorphic", 
+            "link": "/wiki/Isomorphic", 
+            "name": "isomorphic"
+        }, 
+        {
+            "def": "iteration", 
+            "link": "/wiki/Iteration", 
+            "name": "iteration"
+        }, 
+        {
+            "def": "Jaro\u2013Winkler distance", 
+            "link": "/wiki/Jaro%E2%80%93Winkler_distance", 
+            "name": "Jaro\u2013Winkler distance"
+        }, 
+        {
+            "def": "Johnson's algorithm", 
+            "link": "/wiki/Johnson%27s_algorithm", 
+            "name": "Johnson's algorithm"
+        }, 
+        {
+            "def": "Johnson\u2013Trotter algorithm", 
+            "link": "/wiki/Steinhaus%E2%80%93Johnson%E2%80%93Trotter_algorithm", 
+            "name": "Johnson\u2013Trotter algorithm"
+        }, 
+        {
+            "def": "J sort", 
+            "link": "/w/index.php?title=J_sort&action=edit&redlink=1", 
+            "name": "J sort"
+        }, 
+        {
+            "def": "JSort", 
+            "link": "/w/index.php?title=JSort&action=edit&redlink=1", 
+            "name": "JSort"
+        }, 
+        {
+            "def": "jump list", 
+            "link": "/wiki/Jump_list", 
+            "name": "jump list"
+        }, 
+        {
+            "def": "jump search", 
+            "link": "/wiki/Jump_search", 
+            "name": "jump search"
+        }, 
+        {
+            "def": "Karmarkar's algorithm", 
+            "link": "/wiki/Karmarkar%27s_algorithm", 
+            "name": "Karmarkar's algorithm"
+        }, 
+        {
+            "def": "Karnaugh map", 
+            "link": "/wiki/Karnaugh_map", 
+            "name": "Karnaugh map"
+        }, 
+        {
+            "def": "Karp\u2013Rabin string search algorithm", 
+            "link": "/wiki/Rabin%E2%80%93Karp_string_search_algorithm", 
+            "name": "Karp\u2013Rabin string search algorithm"
+        }, 
+        {
+            "def": "Karp reduction", 
+            "link": "/wiki/Karp_reduction", 
+            "name": "Karp reduction"
+        }, 
+        {
+            "def": "k-ary heap", 
+            "link": "/w/index.php?title=K-ary_heap&action=edit&redlink=1", 
+            "name": "k-ary heap"
+        }, 
+        {
+            "def": "k-ary Huffman encoding", 
+            "link": "/wiki/K-ary_Huffman_encoding", 
+            "name": "k-ary Huffman encoding"
+        }, 
+        {
+            "def": "k-ary tree", 
+            "link": "/wiki/K-ary_tree", 
+            "name": "k-ary tree"
+        }, 
+        {
+            "def": "k-clustering", 
+            "link": "/w/index.php?title=K-clustering&action=edit&redlink=1", 
+            "name": "k-clustering"
+        }, 
+        {
+            "def": "k-coloring", 
+            "link": "/wiki/K-coloring", 
+            "name": "k-coloring"
+        }, 
+        {
+            "def": "k-connected graph", 
+            "link": "/wiki/K-connected_graph", 
+            "name": "k-connected graph"
+        }, 
+        {
+            "def": "k-d-B-tree", 
+            "link": "/w/index.php?title=K-d-B-tree&action=edit&redlink=1", 
+            "name": "k-d-B-tree"
+        }, 
+        {
+            "def": "k-dimensional", 
+            "link": "/wiki/K-dimensional", 
+            "name": "k-dimensional"
+        }, 
+        {
+            "def": "K-dominant match", 
+            "link": "/w/index.php?title=K-dominant_match&action=edit&redlink=1", 
+            "name": "K-dominant match"
+        }, 
+        {
+            "def": "k-d tree", 
+            "link": "/wiki/K-d_tree", 
+            "name": "k-d tree"
+        }, 
+        {
+            "def": "KmpSkip Search", 
+            "link": "/w/index.php?title=KmpSkip_Search&action=edit&redlink=1", 
+            "name": "KmpSkip Search"
+        }, 
+        {
+            "def": "knapsack problem", 
+            "link": "/wiki/Knapsack_problem", 
+            "name": "knapsack problem"
+        }, 
+        {
+            "def": "knight's tour", 
+            "link": "/wiki/Knight%27s_tour", 
+            "name": "knight's tour"
+        }, 
+        {
+            "def": "Knuth\u2013Morris\u2013Pratt algorithm", 
+            "link": "/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm", 
+            "name": "Knuth\u2013Morris\u2013Pratt algorithm"
+        }, 
+        {
+            "def": "K\u00f6nigsberg bridges problem", 
+            "link": "/wiki/K%C3%B6nigsberg_bridges_problem", 
+            "name": "K\u00f6nigsberg bridges problem"
+        }, 
+        {
+            "def": "Kolmogorov complexity", 
+            "link": "/wiki/Kolmogorov_complexity", 
+            "name": "Kolmogorov complexity"
+        }, 
+        {
+            "def": "Kraft's inequality", 
+            "link": "/wiki/Kraft%27s_inequality", 
+            "name": "Kraft's inequality"
+        }, 
+        {
+            "def": "Kripke structure", 
+            "link": "/wiki/Kripke_structure", 
+            "name": "Kripke structure"
+        }, 
+        {
+            "def": "Kruskal's algorithm", 
+            "link": "/wiki/Kruskal%27s_algorithm", 
+            "name": "Kruskal's algorithm"
+        }, 
+        {
+            "def": "kth order Fibonacci numbers", 
+            "link": "/wiki/Kth_order_Fibonacci_numbers", 
+            "name": "kth order Fibonacci numbers"
+        }, 
+        {
+            "def": "kth shortest path", 
+            "link": "/w/index.php?title=Kth_shortest_path&action=edit&redlink=1", 
+            "name": "kth shortest path"
+        }, 
+        {
+            "def": "kth smallest element", 
+            "link": "/w/index.php?title=Kth_smallest_element&action=edit&redlink=1", 
+            "name": "kth smallest element"
+        }, 
+        {
+            "def": "KV diagram", 
+            "link": "/wiki/KV_diagram", 
+            "name": "KV diagram"
+        }, 
+        {
+            "def": "k-way merge", 
+            "link": "/wiki/K-way_merge", 
+            "name": "k-way merge"
+        }, 
+        {
+            "def": "k-way merge sort", 
+            "link": "/w/index.php?title=K-way_merge_sort&action=edit&redlink=1", 
+            "name": "k-way merge sort"
+        }, 
+        {
+            "def": "k-way tree", 
+            "link": "/wiki/K-way_tree", 
+            "name": "k-way tree"
+        }, 
+        {
+            "def": "labeled graph", 
+            "link": "/wiki/Labeled_graph", 
+            "name": "labeled graph"
+        }, 
+        {
+            "def": "language", 
+            "link": "/wiki/Language", 
+            "name": "language"
+        }, 
+        {
+            "def": "last-in, first-out (LIFO)", 
+            "link": "/wiki/LIFO_(computing)", 
+            "name": "last-in, first-out (LIFO)"
+        }, 
+        {
+            "def": "Las Vegas algorithm", 
+            "link": "/wiki/Las_Vegas_algorithm", 
+            "name": "Las Vegas algorithm"
+        }, 
+        {
+            "def": "lattice (group)", 
+            "link": "/wiki/Lattice_(group)", 
+            "name": "lattice (group)"
+        }, 
+        {
+            "def": "layered graph", 
+            "link": "/w/index.php?title=Layered_graph&action=edit&redlink=1", 
+            "name": "layered graph"
+        }, 
+        {
+            "def": "leaf", 
+            "link": "/wiki/Leaf", 
+            "name": "leaf"
+        }, 
+        {
+            "def": "least common multiple (LCM)", 
+            "link": "/wiki/Least_common_multiple", 
+            "name": "least common multiple (LCM)"
+        }, 
+        {
+            "def": "leftist tree", 
+            "link": "/wiki/Leftist_tree", 
+            "name": "leftist tree"
+        }, 
+        {
+            "def": "left rotation", 
+            "link": "/wiki/Left_rotation", 
+            "name": "left rotation"
+        }, 
+        {
+            "def": "Lempel\u2013Ziv\u2013Welch (LZW)", 
+            "link": "/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch", 
+            "name": "Lempel\u2013Ziv\u2013Welch (LZW)"
+        }, 
+        {
+            "def": "level-order traversal", 
+            "link": "/w/index.php?title=Level-order_traversal&action=edit&redlink=1", 
+            "name": "level-order traversal"
+        }, 
+        {
+            "def": "Levenshtein distance", 
+            "link": "/wiki/Levenshtein_distance", 
+            "name": "Levenshtein distance"
+        }, 
+        {
+            "def": "lexicographical order", 
+            "link": "/wiki/Lexicographical_order", 
+            "name": "lexicographical order"
+        }, 
+        {
+            "def": "linear", 
+            "link": "/wiki/Linear", 
+            "name": "linear"
+        }, 
+        {
+            "def": "linear congruential generator", 
+            "link": "/wiki/Linear_congruential_generator", 
+            "name": "linear congruential generator"
+        }, 
+        {
+            "def": "linear hash", 
+            "link": "/wiki/Linear_hash", 
+            "name": "linear hash"
+        }, 
+        {
+            "def": "linear insertion sort", 
+            "link": "/wiki/Linear_insertion_sort", 
+            "name": "linear insertion sort"
+        }, 
+        {
+            "def": "linear order", 
+            "link": "/wiki/Linear_order", 
+            "name": "linear order"
+        }, 
+        {
+            "def": "linear probing", 
+            "link": "/wiki/Linear_probing", 
+            "name": "linear probing"
+        }, 
+        {
+            "def": "linear probing sort", 
+            "link": "/w/index.php?title=Linear_probing_sort&action=edit&redlink=1", 
+            "name": "linear probing sort"
+        }, 
+        {
+            "def": "linear product", 
+            "link": "/w/index.php?title=Linear_product&action=edit&redlink=1", 
+            "name": "linear product"
+        }, 
+        {
+            "def": "linear program", 
+            "link": "/wiki/Linear_program", 
+            "name": "linear program"
+        }, 
+        {
+            "def": "linear quadtree", 
+            "link": "/w/index.php?title=Linear_quadtree&action=edit&redlink=1", 
+            "name": "linear quadtree"
+        }, 
+        {
+            "def": "linear search", 
+            "link": "/wiki/Linear_search", 
+            "name": "linear search"
+        }, 
+        {
+            "def": "link", 
+            "link": "/wiki/Reference_(computer_science)", 
+            "name": "link"
+        }, 
+        {
+            "def": "linked list", 
+            "link": "/wiki/Linked_list", 
+            "name": "linked list"
+        }, 
+        {
+            "def": "list", 
+            "link": "/wiki/List_(computing)", 
+            "name": "list"
+        }, 
+        {
+            "def": "list contraction", 
+            "link": "/w/index.php?title=List_contraction&action=edit&redlink=1", 
+            "name": "list contraction"
+        }, 
+        {
+            "def": "little-o notation", 
+            "link": "/wiki/Little-o_notation", 
+            "name": "little-o notation"
+        }, 
+        {
+            "def": "Lm distance", 
+            "link": "/wiki/Lm_distance", 
+            "name": "Lm distance"
+        }, 
+        {
+            "def": "load factor (computer science)", 
+            "link": "/wiki/Load_factor_(computer_science)", 
+            "name": "load factor (computer science)"
+        }, 
+        {
+            "def": "local alignment", 
+            "link": "/wiki/Local_alignment", 
+            "name": "local alignment"
+        }, 
+        {
+            "def": "local optimum", 
+            "link": "/wiki/Local_optimum", 
+            "name": "local optimum"
+        }, 
+        {
+            "def": "logarithm, logarithmic scale", 
+            "link": "/wiki/Logarithm", 
+            "name": "logarithm, logarithmic scale"
+        }, 
+        {
+            "def": "longest common subsequence", 
+            "link": "/wiki/Longest_common_subsequence", 
+            "name": "longest common subsequence"
+        }, 
+        {
+            "def": "longest common substring", 
+            "link": "/wiki/Longest_common_substring", 
+            "name": "longest common substring"
+        }, 
+        {
+            "def": "Lotka's law", 
+            "link": "/wiki/Lotka%27s_law", 
+            "name": "Lotka's law"
+        }, 
+        {
+            "def": "lower bound", 
+            "link": "/wiki/Lower_bound", 
+            "name": "lower bound"
+        }, 
+        {
+            "def": "lower triangular matrix", 
+            "link": "/wiki/Lower_triangular_matrix", 
+            "name": "lower triangular matrix"
+        }, 
+        {
+            "def": "lowest common ancestor", 
+            "link": "/wiki/Lowest_common_ancestor", 
+            "name": "lowest common ancestor"
+        }, 
+        {
+            "def": "l-reduction", 
+            "link": "/wiki/L-reduction", 
+            "name": "l-reduction"
+        }, 
+        {
+            "def": "Malhotra\u2013Kumar\u2013Maheshwari blocking flow (ru.)", 
+            "link": "/w/index.php?title=Malhotra%E2%80%93Kumar%E2%80%93Maheshwari_blocking_flow&action=edit&redlink=1", 
+            "name": "Malhotra\u2013Kumar\u2013Maheshwari blocking flow (ru.)"
+        }, 
+        {
+            "def": "Manhattan distance", 
+            "link": "/wiki/Manhattan_distance", 
+            "name": "Manhattan distance"
+        }, 
+        {
+            "def": "many-one reduction", 
+            "link": "/wiki/Many-one_reduction", 
+            "name": "many-one reduction"
+        }, 
+        {
+            "def": "Markov chain", 
+            "link": "/wiki/Markov_chain", 
+            "name": "Markov chain"
+        }, 
+        {
+            "def": "marriage problem (see assignment problem)", 
+            "link": "/wiki/Assignment_problem", 
+            "name": "marriage problem (see assignment problem)"
+        }, 
+        {
+            "def": "Master theorem", 
+            "link": "/wiki/Master_theorem", 
+            "name": "Master theorem"
+        }, 
+        {
+            "def": "matched edge", 
+            "link": "/wiki/Matched_edge", 
+            "name": "matched edge"
+        }, 
+        {
+            "def": "matched vertex", 
+            "link": "/wiki/Matched_vertex", 
+            "name": "matched vertex"
+        }, 
+        {
+            "def": "matching (graph theory)", 
+            "link": "/wiki/Matching_(graph_theory)", 
+            "name": "matching (graph theory)"
+        }, 
+        {
+            "def": "matrix", 
+            "link": "/wiki/Matrix_(math)", 
+            "name": "matrix"
+        }, 
+        {
+            "def": "matrix-chain multiplication problem", 
+            "link": "/w/index.php?title=Matrix-chain_multiplication_problem&action=edit&redlink=1", 
+            "name": "matrix-chain multiplication problem"
+        }, 
+        {
+            "def": "max-heap property", 
+            "link": "/wiki/Max-heap_property", 
+            "name": "max-heap property"
+        }, 
+        {
+            "def": "maximal independent set", 
+            "link": "/wiki/Maximal_independent_set", 
+            "name": "maximal independent set"
+        }, 
+        {
+            "def": "maximally connected component", 
+            "link": "/w/index.php?title=Maximally_connected_component&action=edit&redlink=1", 
+            "name": "maximally connected component"
+        }, 
+        {
+            "def": "Maximal Shift", 
+            "link": "/w/index.php?title=Maximal_Shift&action=edit&redlink=1", 
+            "name": "Maximal Shift"
+        }, 
+        {
+            "def": "maximum bipartite matching", 
+            "link": "/wiki/Maximum_bipartite_matching", 
+            "name": "maximum bipartite matching"
+        }, 
+        {
+            "def": "maximum-flow problem", 
+            "link": "/wiki/Maximum-flow_problem", 
+            "name": "maximum-flow problem"
+        }, 
+        {
+            "def": "MAX-SNP", 
+            "link": "/wiki/MAX-SNP", 
+            "name": "MAX-SNP"
+        }, 
+        {
+            "def": "Mealy machine", 
+            "link": "/wiki/Mealy_machine", 
+            "name": "Mealy machine"
+        }, 
+        {
+            "def": "mean", 
+            "link": "/wiki/Mean", 
+            "name": "mean"
+        }, 
+        {
+            "def": "median", 
+            "link": "/wiki/Median", 
+            "name": "median"
+        }, 
+        {
+            "def": "meld (data structures)", 
+            "link": "/w/index.php?title=Meld_(data_structures)&action=edit&redlink=1", 
+            "name": "meld (data structures)"
+        }, 
+        {
+            "def": "memoization", 
+            "link": "/wiki/Memoization", 
+            "name": "memoization"
+        }, 
+        {
+            "def": "merge algorithm", 
+            "link": "/wiki/Merge_algorithm", 
+            "name": "merge algorithm"
+        }, 
+        {
+            "def": "merge sort", 
+            "link": "/wiki/Merge_sort", 
+            "name": "merge sort"
+        }, 
+        {
+            "def": "meromorphic function", 
+            "link": "/wiki/Meromorphic_function", 
+            "name": "meromorphic function"
+        }, 
+        {
+            "def": "metaheuristic", 
+            "link": "/wiki/Metaheuristic", 
+            "name": "metaheuristic"
+        }, 
+        {
+            "def": "metaphone", 
+            "link": "/wiki/Metaphone", 
+            "name": "metaphone"
+        }, 
+        {
+            "def": "midrange", 
+            "link": "/wiki/Midrange", 
+            "name": "midrange"
+        }, 
+        {
+            "def": "Miller\u2013Rabin primality test", 
+            "link": "/wiki/Miller%E2%80%93Rabin_primality_test", 
+            "name": "Miller\u2013Rabin primality test"
+        }, 
+        {
+            "def": "min-heap property", 
+            "link": "/wiki/Min-heap_property", 
+            "name": "min-heap property"
+        }, 
+        {
+            "def": "minimal perfect hashing", 
+            "link": "/wiki/Minimal_perfect_hashing", 
+            "name": "minimal perfect hashing"
+        }, 
+        {
+            "def": "minimum bounding box (MBB)", 
+            "link": "/wiki/Minimum_bounding_box", 
+            "name": "minimum bounding box (MBB)"
+        }, 
+        {
+            "def": "minimum cut", 
+            "link": "/wiki/Minimum_cut", 
+            "name": "minimum cut"
+        }, 
+        {
+            "def": "minimum path cover", 
+            "link": "/wiki/Minimum_path_cover", 
+            "name": "minimum path cover"
+        }, 
+        {
+            "def": "minimum spanning tree", 
+            "link": "/wiki/Minimum_spanning_tree", 
+            "name": "minimum spanning tree"
+        }, 
+        {
+            "def": "minimum vertex cut", 
+            "link": "/wiki/Minimum_vertex_cut", 
+            "name": "minimum vertex cut"
+        }, 
+        {
+            "def": "mixed integer linear program", 
+            "link": "/w/index.php?title=Mixed_integer_linear_program&action=edit&redlink=1", 
+            "name": "mixed integer linear program"
+        }, 
+        {
+            "def": "mode", 
+            "link": "/wiki/Mode_(statistics)", 
+            "name": "mode"
+        }, 
+        {
+            "def": "model checking", 
+            "link": "/wiki/Model_checking", 
+            "name": "model checking"
+        }, 
+        {
+            "def": "model of computation", 
+            "link": "/wiki/Model_of_computation", 
+            "name": "model of computation"
+        }, 
+        {
+            "def": "moderately exponential", 
+            "link": "/w/index.php?title=Moderately_exponential&action=edit&redlink=1", 
+            "name": "moderately exponential"
+        }, 
+        {
+            "def": "MODIFIND", 
+            "link": "/w/index.php?title=MODIFIND&action=edit&redlink=1", 
+            "name": "MODIFIND"
+        }, 
+        {
+            "def": "monotone priority queue", 
+            "link": "/wiki/Monotone_priority_queue", 
+            "name": "monotone priority queue"
+        }, 
+        {
+            "def": "monotonically decreasing", 
+            "link": "/wiki/Monotonically_decreasing", 
+            "name": "monotonically decreasing"
+        }, 
+        {
+            "def": "monotonically increasing", 
+            "link": "/wiki/Monotonically_increasing", 
+            "name": "monotonically increasing"
+        }, 
+        {
+            "def": "Monte Carlo algorithm", 
+            "link": "/wiki/Monte_Carlo_algorithm", 
+            "name": "Monte Carlo algorithm"
+        }, 
+        {
+            "def": "Moore machine", 
+            "link": "/wiki/Moore_machine", 
+            "name": "Moore machine"
+        }, 
+        {
+            "def": "Morris-Pratt", 
+            "link": "/w/index.php?title=Morris-Pratt&action=edit&redlink=1", 
+            "name": "Morris-Pratt"
+        }, 
+        {
+            "def": "move (finite-state machine transition)", 
+            "link": "/wiki/Finite-state_machine", 
+            "name": "move (finite-state machine transition)"
+        }, 
+        {
+            "def": "move-to-front heuristic", 
+            "link": "/wiki/Move-to-front_heuristic", 
+            "name": "move-to-front heuristic"
+        }, 
+        {
+            "def": "move-to-root heuristic", 
+            "link": "/wiki/Move-to-root_heuristic", 
+            "name": "move-to-root heuristic"
+        }, 
+        {
+            "def": "multi-commodity flow", 
+            "link": "/wiki/Multi-commodity_flow", 
+            "name": "multi-commodity flow"
+        }, 
+        {
+            "def": "multigraph", 
+            "link": "/wiki/Multigraph", 
+            "name": "multigraph"
+        }, 
+        {
+            "def": "multilayer grid file", 
+            "link": "/w/index.php?title=Multilayer_grid_file&action=edit&redlink=1", 
+            "name": "multilayer grid file"
+        }, 
+        {
+            "def": "multiplication method", 
+            "link": "/w/index.php?title=Multiplication_method&action=edit&redlink=1", 
+            "name": "multiplication method"
+        }, 
+        {
+            "def": "multiprefix", 
+            "link": "/w/index.php?title=Multiprefix&action=edit&redlink=1", 
+            "name": "multiprefix"
+        }, 
+        {
+            "def": "multiprocessor model", 
+            "link": "/w/index.php?title=Multiprocessor_model&action=edit&redlink=1", 
+            "name": "multiprocessor model"
+        }, 
+        {
+            "def": "multiset", 
+            "link": "/wiki/Multiset", 
+            "name": "multiset"
+        }, 
+        {
+            "def": "multi suffix tree", 
+            "link": "/w/index.php?title=Multi_suffix_tree&action=edit&redlink=1", 
+            "name": "multi suffix tree"
+        }, 
+        {
+            "def": "multiway decision", 
+            "link": "/w/index.php?title=Multiway_decision&action=edit&redlink=1", 
+            "name": "multiway decision"
+        }, 
+        {
+            "def": "multiway merge", 
+            "link": "/w/index.php?title=Multiway_merge&action=edit&redlink=1", 
+            "name": "multiway merge"
+        }, 
+        {
+            "def": "multiway search tree", 
+            "link": "/w/index.php?title=Multiway_search_tree&action=edit&redlink=1", 
+            "name": "multiway search tree"
+        }, 
+        {
+            "def": "multiway tree", 
+            "link": "/wiki/Multiway_tree", 
+            "name": "multiway tree"
+        }, 
+        {
+            "def": "Munkres' assignment algorithm", 
+            "link": "/wiki/Munkres%27_assignment_algorithm", 
+            "name": "Munkres' assignment algorithm"
+        }, 
+        {
+            "def": "naive string search", 
+            "link": "/wiki/Naive_string_search", 
+            "name": "naive string search"
+        }, 
+        {
+            "def": "nand", 
+            "link": "/wiki/Logical_nand", 
+            "name": "nand"
+        }, 
+        {
+            "def": "n-ary function", 
+            "link": "/wiki/N-ary_function", 
+            "name": "n-ary function"
+        }, 
+        {
+            "def": "NC many-one reducibility", 
+            "link": "/w/index.php?title=NC_many-one_reducibility&action=edit&redlink=1", 
+            "name": "NC many-one reducibility"
+        }, 
+        {
+            "def": "nearest neighbor search", 
+            "link": "/wiki/Nearest_neighbor_search", 
+            "name": "nearest neighbor search"
+        }, 
+        {
+            "def": "negation", 
+            "link": "/wiki/Negation", 
+            "name": "negation"
+        }, 
+        {
+            "def": "network flow (see flow network)", 
+            "link": "/wiki/Flow_network", 
+            "name": "network flow (see flow network)"
+        }, 
+        {
+            "def": "network flow problem", 
+            "link": "/wiki/Network_flow_problem", 
+            "name": "network flow problem"
+        }, 
+        {
+            "def": "next state", 
+            "link": "/w/index.php?title=Next_state&action=edit&redlink=1", 
+            "name": "next state"
+        }, 
+        {
+            "def": "NIST", 
+            "link": "/wiki/NIST", 
+            "name": "NIST"
+        }, 
+        {
+            "def": "node", 
+            "link": "/wiki/Node_(computer_science)", 
+            "name": "node"
+        }, 
+        {
+            "def": "nonbalanced merge", 
+            "link": "/w/index.php?title=Nonbalanced_merge&action=edit&redlink=1", 
+            "name": "nonbalanced merge"
+        }, 
+        {
+            "def": "nonbalanced merge sort", 
+            "link": "/w/index.php?title=Nonbalanced_merge_sort&action=edit&redlink=1", 
+            "name": "nonbalanced merge sort"
+        }, 
+        {
+            "def": "nondeterministic", 
+            "link": "/wiki/Indeterminacy_in_computation_(disambiguation)", 
+            "name": "nondeterministic"
+        }, 
+        {
+            "def": "nondeterministic algorithm", 
+            "link": "/wiki/Nondeterministic_algorithm", 
+            "name": "nondeterministic algorithm"
+        }, 
+        {
+            "def": "nondeterministic finite automaton", 
+            "link": "/wiki/Nondeterministic_finite_automaton", 
+            "name": "nondeterministic finite automaton"
+        }, 
+        {
+            "def": "nondeterministic finite state machine (NFA)", 
+            "link": "/wiki/Nondeterministic_finite_state_machine", 
+            "name": "nondeterministic finite state machine (NFA)"
+        }, 
+        {
+            "def": "nondeterministic finite tree automaton (NFTA)", 
+            "link": "/wiki/Nondeterministic_finite_tree_automaton", 
+            "name": "nondeterministic finite tree automaton (NFTA)"
+        }, 
+        {
+            "def": "nondeterministic polynomial time", 
+            "link": "/wiki/Nondeterministic_polynomial_time", 
+            "name": "nondeterministic polynomial time"
+        }, 
+        {
+            "def": "nondeterministic tree automaton", 
+            "link": "/wiki/Nondeterministic_tree_automaton", 
+            "name": "nondeterministic tree automaton"
+        }, 
+        {
+            "def": "nondeterministic Turing machine", 
+            "link": "/wiki/Nondeterministic_Turing_machine", 
+            "name": "nondeterministic Turing machine"
+        }, 
+        {
+            "def": "nonterminal node", 
+            "link": "/w/index.php?title=Nonterminal_node&action=edit&redlink=1", 
+            "name": "nonterminal node"
+        }, 
+        {
+            "def": "Not So Naive", 
+            "link": "/w/index.php?title=Not_So_Naive&action=edit&redlink=1", 
+            "name": "Not So Naive"
+        }, 
+        {
+            "def": "NP-complete", 
+            "link": "/wiki/NP-complete", 
+            "name": "NP-complete"
+        }, 
+        {
+            "def": "NP-complete language", 
+            "link": "/wiki/NP-complete_language", 
+            "name": "NP-complete language"
+        }, 
+        {
+            "def": "NP-hard", 
+            "link": "/wiki/NP-hard", 
+            "name": "NP-hard"
+        }, 
+        {
+            "def": "n queens", 
+            "link": "/wiki/N_queens", 
+            "name": "n queens"
+        }, 
+        {
+            "def": "nullary function", 
+            "link": "/wiki/Nullary_function", 
+            "name": "nullary function"
+        }, 
+        {
+            "def": "null tree", 
+            "link": "/wiki/Null_tree", 
+            "name": "null tree"
+        }, 
+        {
+            "def": "NYSIIS", 
+            "link": "/wiki/New_York_State_Identification_and_Intelligence_System", 
+            "name": "NYSIIS"
+        }, 
+        {
+            "def": "objective function", 
+            "link": "/wiki/Objective_function", 
+            "name": "objective function"
+        }, 
+        {
+            "def": "occurrence", 
+            "link": "/wiki/Occurrence", 
+            "name": "occurrence"
+        }, 
+        {
+            "def": "octree", 
+            "link": "/wiki/Octree", 
+            "name": "octree"
+        }, 
+        {
+            "def": "offline algorithm", 
+            "link": "/wiki/Offline_algorithm", 
+            "name": "offline algorithm"
+        }, 
+        {
+            "def": "offset (computer science)", 
+            "link": "/wiki/Offset_(computer_science)", 
+            "name": "offset (computer science)"
+        }, 
+        {
+            "def": "omega", 
+            "link": "/wiki/Omega", 
+            "name": "omega"
+        }, 
+        {
+            "def": "omicron", 
+            "link": "/wiki/Omicron", 
+            "name": "omicron"
+        }, 
+        {
+            "def": "one-based indexing", 
+            "link": "/wiki/One-based_indexing", 
+            "name": "one-based indexing"
+        }, 
+        {
+            "def": "one-dimensional", 
+            "link": "/wiki/One-dimensional", 
+            "name": "one-dimensional"
+        }, 
+        {
+            "def": "online algorithm", 
+            "link": "/wiki/Online_algorithm", 
+            "name": "online algorithm"
+        }, 
+        {
+            "def": "open addressing", 
+            "link": "/wiki/Open_addressing", 
+            "name": "open addressing"
+        }, 
+        {
+            "def": "optimal", 
+            "link": "/wiki/Optimization_(mathematics)", 
+            "name": "optimal"
+        }, 
+        {
+            "def": "optimal cost", 
+            "link": "/w/index.php?title=Optimal_cost&action=edit&redlink=1", 
+            "name": "optimal cost"
+        }, 
+        {
+            "def": "optimal hashing", 
+            "link": "/w/index.php?title=Optimal_hashing&action=edit&redlink=1", 
+            "name": "optimal hashing"
+        }, 
+        {
+            "def": "optimal merge", 
+            "link": "/w/index.php?title=Optimal_merge&action=edit&redlink=1", 
+            "name": "optimal merge"
+        }, 
+        {
+            "def": "optimal mismatch", 
+            "link": "/w/index.php?title=Optimal_mismatch&action=edit&redlink=1", 
+            "name": "optimal mismatch"
+        }, 
+        {
+            "def": "optimal polygon triangulation problem", 
+            "link": "/w/index.php?title=Optimal_polygon_triangulation_problem&action=edit&redlink=1", 
+            "name": "optimal polygon triangulation problem"
+        }, 
+        {
+            "def": "optimal polyphase merge", 
+            "link": "/w/index.php?title=Optimal_polyphase_merge&action=edit&redlink=1", 
+            "name": "optimal polyphase merge"
+        }, 
+        {
+            "def": "optimal polyphase merge sort", 
+            "link": "/w/index.php?title=Optimal_polyphase_merge_sort&action=edit&redlink=1", 
+            "name": "optimal polyphase merge sort"
+        }, 
+        {
+            "def": "optimal solution", 
+            "link": "/wiki/Optimal_solution", 
+            "name": "optimal solution"
+        }, 
+        {
+            "def": "optimal triangulation problem", 
+            "link": "/w/index.php?title=Optimal_triangulation_problem&action=edit&redlink=1", 
+            "name": "optimal triangulation problem"
+        }, 
+        {
+            "def": "optimal value", 
+            "link": "/wiki/Optimal_value", 
+            "name": "optimal value"
+        }, 
+        {
+            "def": "optimization problem", 
+            "link": "/wiki/Optimization_(mathematics)", 
+            "name": "optimization problem"
+        }, 
+        {
+            "def": "oracle set", 
+            "link": "/wiki/Oracle_set", 
+            "name": "oracle set"
+        }, 
+        {
+            "def": "oracle tape", 
+            "link": "/wiki/Oracle_tape", 
+            "name": "oracle tape"
+        }, 
+        {
+            "def": "oracle Turing machine", 
+            "link": "/wiki/Oracle_Turing_machine", 
+            "name": "oracle Turing machine"
+        }, 
+        {
+            "def": "Orders of approximation", 
+            "link": "/wiki/Orders_of_approximation", 
+            "name": "Orders of approximation"
+        }, 
+        {
+            "def": "ordered array", 
+            "link": "/w/index.php?title=Ordered_array&action=edit&redlink=1", 
+            "name": "ordered array"
+        }, 
+        {
+            "def": "ordered binary decision diagram (OBDD)", 
+            "link": "/wiki/Ordered_binary_decision_diagram", 
+            "name": "ordered binary decision diagram (OBDD)"
+        }, 
+        {
+            "def": "ordered linked list", 
+            "link": "/w/index.php?title=Ordered_linked_list&action=edit&redlink=1", 
+            "name": "ordered linked list"
+        }, 
+        {
+            "def": "ordered tree", 
+            "link": "/wiki/Ordered_tree", 
+            "name": "ordered tree"
+        }, 
+        {
+            "def": "order preserving hash", 
+            "link": "/w/index.php?title=Order_preserving_hash&action=edit&redlink=1", 
+            "name": "order preserving hash"
+        }, 
+        {
+            "def": "order preserving minimal perfect hashing", 
+            "link": "/w/index.php?title=Order_preserving_minimal_perfect_hashing&action=edit&redlink=1", 
+            "name": "order preserving minimal perfect hashing"
+        }, 
+        {
+            "def": "oriented acyclic graph", 
+            "link": "/wiki/Oriented_acyclic_graph", 
+            "name": "oriented acyclic graph"
+        }, 
+        {
+            "def": "oriented graph", 
+            "link": "/wiki/Oriented_graph", 
+            "name": "oriented graph"
+        }, 
+        {
+            "def": "oriented tree", 
+            "link": "/wiki/Oriented_tree", 
+            "name": "oriented tree"
+        }, 
+        {
+            "def": "orthogonal drawing", 
+            "link": "/w/index.php?title=Orthogonal_drawing&action=edit&redlink=1", 
+            "name": "orthogonal drawing"
+        }, 
+        {
+            "def": "orthogonal lists", 
+            "link": "/w/index.php?title=Orthogonal_lists&action=edit&redlink=1", 
+            "name": "orthogonal lists"
+        }, 
+        {
+            "def": "orthogonally convex rectilinear polygon", 
+            "link": "/wiki/Orthogonally_convex_rectilinear_polygon", 
+            "name": "orthogonally convex rectilinear polygon"
+        }, 
+        {
+            "def": "oscillating merge sort", 
+            "link": "/wiki/Oscillating_merge_sort", 
+            "name": "oscillating merge sort"
+        }, 
+        {
+            "def": "out-branching", 
+            "link": "/w/index.php?title=Out-branching&action=edit&redlink=1", 
+            "name": "out-branching"
+        }, 
+        {
+            "def": "out-degree", 
+            "link": "/wiki/Out-degree", 
+            "name": "out-degree"
+        }, 
+        {
+            "def": "overlapping subproblems", 
+            "link": "/wiki/Overlapping_subproblems", 
+            "name": "overlapping subproblems"
+        }, 
+        {
+            "def": "packing (see set packing)", 
+            "link": "/wiki/Set_packing", 
+            "name": "packing (see set packing)"
+        }, 
+        {
+            "def": "padding argument", 
+            "link": "/wiki/Padding_argument", 
+            "name": "padding argument"
+        }, 
+        {
+            "def": "pagoda", 
+            "link": "/wiki/Pagoda_(data_structure)", 
+            "name": "pagoda"
+        }, 
+        {
+            "def": "pairing heap", 
+            "link": "/wiki/Pairing_heap", 
+            "name": "pairing heap"
+        }, 
+        {
+            "def": "PAM (point access method)", 
+            "link": "/wiki/Point_access_method", 
+            "name": "PAM (point access method)"
+        }, 
+        {
+            "def": "parallel computation thesis", 
+            "link": "/wiki/Parallel_computation_thesis", 
+            "name": "parallel computation thesis"
+        }, 
+        {
+            "def": "parallel prefix computation", 
+            "link": "/w/index.php?title=Parallel_prefix_computation&action=edit&redlink=1", 
+            "name": "parallel prefix computation"
+        }, 
+        {
+            "def": "Parallel Random Access Machine (PRAM)", 
+            "link": "/wiki/Parallel_Random_Access_Machine", 
+            "name": "Parallel Random Access Machine (PRAM)"
+        }, 
+        {
+            "def": "parametric searching", 
+            "link": "/w/index.php?title=Parametric_searching&action=edit&redlink=1", 
+            "name": "parametric searching"
+        }, 
+        {
+            "def": "parent", 
+            "link": "/wiki/Parent", 
+            "name": "parent"
+        }, 
+        {
+            "def": "partial function", 
+            "link": "/wiki/Partial_function", 
+            "name": "partial function"
+        }, 
+        {
+            "def": "partially decidable problem", 
+            "link": "/w/index.php?title=Partially_decidable_problem&action=edit&redlink=1", 
+            "name": "partially decidable problem"
+        }, 
+        {
+            "def": "partially dynamic graph problem", 
+            "link": "/w/index.php?title=Partially_dynamic_graph_problem&action=edit&redlink=1", 
+            "name": "partially dynamic graph problem"
+        }, 
+        {
+            "def": "partially ordered set", 
+            "link": "/wiki/Partially_ordered_set", 
+            "name": "partially ordered set"
+        }, 
+        {
+            "def": "partially persistent data structure", 
+            "link": "/wiki/Partially_persistent_data_structure", 
+            "name": "partially persistent data structure"
+        }, 
+        {
+            "def": "partial order", 
+            "link": "/wiki/Partial_order", 
+            "name": "partial order"
+        }, 
+        {
+            "def": "partial recursive function", 
+            "link": "/wiki/Partial_recursive_function", 
+            "name": "partial recursive function"
+        }, 
+        {
+            "def": "partition (set theory)", 
+            "link": "/wiki/Partition_(set_theory)", 
+            "name": "partition (set theory)"
+        }, 
+        {
+            "def": "passive data structure", 
+            "link": "/wiki/Passive_data_structure", 
+            "name": "passive data structure"
+        }, 
+        {
+            "def": "patience sorting", 
+            "link": "/wiki/Patience_sorting", 
+            "name": "patience sorting"
+        }, 
+        {
+            "def": "path (graph theory)", 
+            "link": "/wiki/Path_(graph_theory)", 
+            "name": "path (graph theory)"
+        }, 
+        {
+            "def": "path cover", 
+            "link": "/wiki/Path_cover", 
+            "name": "path cover"
+        }, 
+        {
+            "def": "path system problem", 
+            "link": "/w/index.php?title=Path_system_problem&action=edit&redlink=1", 
+            "name": "path system problem"
+        }, 
+        {
+            "def": "Patricia tree", 
+            "link": "/wiki/Patricia_tree", 
+            "name": "Patricia tree"
+        }, 
+        {
+            "def": "pattern", 
+            "link": "/wiki/Pattern", 
+            "name": "pattern"
+        }, 
+        {
+            "def": "pattern element", 
+            "link": "/w/index.php?title=Pattern_element&action=edit&redlink=1", 
+            "name": "pattern element"
+        }, 
+        {
+            "def": "P-complete", 
+            "link": "/wiki/P-complete", 
+            "name": "P-complete"
+        }, 
+        {
+            "def": "Peano curve", 
+            "link": "/wiki/Peano_curve", 
+            "name": "Peano curve"
+        }, 
+        {
+            "def": "Pearson's hash", 
+            "link": "/wiki/Pearson%27s_hash", 
+            "name": "Pearson's hash"
+        }, 
+        {
+            "def": "perfect binary tree", 
+            "link": "/wiki/Perfect_binary_tree", 
+            "name": "perfect binary tree"
+        }, 
+        {
+            "def": "perfect hashing", 
+            "link": "/wiki/Perfect_hashing", 
+            "name": "perfect hashing"
+        }, 
+        {
+            "def": "perfect k-ary tree", 
+            "link": "/w/index.php?title=Perfect_k-ary_tree&action=edit&redlink=1", 
+            "name": "perfect k-ary tree"
+        }, 
+        {
+            "def": "perfect matching", 
+            "link": "/wiki/Perfect_matching", 
+            "name": "perfect matching"
+        }, 
+        {
+            "def": "perfect shuffle", 
+            "link": "/wiki/Shuffling", 
+            "name": "perfect shuffle"
+        }, 
+        {
+            "def": "performance guarantee", 
+            "link": "/w/index.php?title=Performance_guarantee&action=edit&redlink=1", 
+            "name": "performance guarantee"
+        }, 
+        {
+            "def": "performance ratio", 
+            "link": "/w/index.php?title=Performance_ratio&action=edit&redlink=1", 
+            "name": "performance ratio"
+        }, 
+        {
+            "def": "permutation", 
+            "link": "/wiki/Permutation", 
+            "name": "permutation"
+        }, 
+        {
+            "def": "persistent data structure", 
+            "link": "/wiki/Persistent_data_structure", 
+            "name": "persistent data structure"
+        }, 
+        {
+            "def": "phonetic coding", 
+            "link": "/wiki/Phonetic_coding", 
+            "name": "phonetic coding"
+        }, 
+        {
+            "def": "pile (data structure)", 
+            "link": "/wiki/Pile_(data_structure)", 
+            "name": "pile (data structure)"
+        }, 
+        {
+            "def": "pipelined divide and conquer", 
+            "link": "/w/index.php?title=Pipelined_divide_and_conquer&action=edit&redlink=1", 
+            "name": "pipelined divide and conquer"
+        }, 
+        {
+            "def": "planar graph", 
+            "link": "/wiki/Planar_graph", 
+            "name": "planar graph"
+        }, 
+        {
+            "def": "planarization", 
+            "link": "/wiki/Planarization", 
+            "name": "planarization"
+        }, 
+        {
+            "def": "planar straight-line graph", 
+            "link": "/wiki/Planar_straight-line_graph", 
+            "name": "planar straight-line graph"
+        }, 
+        {
+            "def": "PLOP-hashing", 
+            "link": "/w/index.php?title=PLOP-hashing&action=edit&redlink=1", 
+            "name": "PLOP-hashing"
+        }, 
+        {
+            "def": "point access method", 
+            "link": "/wiki/Point_access_method", 
+            "name": "point access method"
+        }, 
+        {
+            "def": "pointer jumping", 
+            "link": "/wiki/Pointer_jumping", 
+            "name": "pointer jumping"
+        }, 
+        {
+            "def": "pointer machine", 
+            "link": "/wiki/Pointer_machine", 
+            "name": "pointer machine"
+        }, 
+        {
+            "def": "poissonization", 
+            "link": "/w/index.php?title=Poissonization&action=edit&redlink=1", 
+            "name": "poissonization"
+        }, 
+        {
+            "def": "polychotomy", 
+            "link": "/wiki/Polychotomy", 
+            "name": "polychotomy"
+        }, 
+        {
+            "def": "polyhedron", 
+            "link": "/wiki/Polyhedron", 
+            "name": "polyhedron"
+        }, 
+        {
+            "def": "polylogarithmic", 
+            "link": "/wiki/Polylogarithmic", 
+            "name": "polylogarithmic"
+        }, 
+        {
+            "def": "polynomial", 
+            "link": "/wiki/Polynomial", 
+            "name": "polynomial"
+        }, 
+        {
+            "def": "polynomial-time approximation scheme (PTAS)", 
+            "link": "/wiki/Polynomial-time_approximation_scheme", 
+            "name": "polynomial-time approximation scheme (PTAS)"
+        }, 
+        {
+            "def": "polynomial hierarchy", 
+            "link": "/wiki/Polynomial_hierarchy", 
+            "name": "polynomial hierarchy"
+        }, 
+        {
+            "def": "polynomial time", 
+            "link": "/wiki/Polynomial_time", 
+            "name": "polynomial time"
+        }, 
+        {
+            "def": "polynomial-time Church\u2013Turing thesis", 
+            "link": "/wiki/Church%E2%80%93Turing_thesis", 
+            "name": "polynomial-time Church\u2013Turing thesis"
+        }, 
+        {
+            "def": "polynomial-time reduction", 
+            "link": "/wiki/Polynomial-time_reduction", 
+            "name": "polynomial-time reduction"
+        }, 
+        {
+            "def": "polyphase merge", 
+            "link": "/w/index.php?title=Polyphase_merge&action=edit&redlink=1", 
+            "name": "polyphase merge"
+        }, 
+        {
+            "def": "polyphase merge sort", 
+            "link": "/wiki/Polyphase_merge_sort", 
+            "name": "polyphase merge sort"
+        }, 
+        {
+            "def": "polytope", 
+            "link": "/wiki/Polytope", 
+            "name": "polytope"
+        }, 
+        {
+            "def": "poset", 
+            "link": "/wiki/Poset", 
+            "name": "poset"
+        }, 
+        {
+            "def": "postfix traversal", 
+            "link": "/wiki/Postfix_traversal", 
+            "name": "postfix traversal"
+        }, 
+        {
+            "def": "Post machine (see Post\u2013Turing machine)", 
+            "link": "/wiki/Post%E2%80%93Turing_machine", 
+            "name": "Post machine (see Post\u2013Turing machine)"
+        }, 
+        {
+            "def": "postman's sort", 
+            "link": "/wiki/Postman%27s_sort", 
+            "name": "postman's sort"
+        }, 
+        {
+            "def": "postorder traversal", 
+            "link": "/wiki/Postorder_traversal", 
+            "name": "postorder traversal"
+        }, 
+        {
+            "def": "Post's correspondence problem", 
+            "link": "/wiki/Post%27s_correspondence_problem", 
+            "name": "Post's correspondence problem"
+        }, 
+        {
+            "def": "potential function (see potential method)", 
+            "link": "/wiki/Potential_method", 
+            "name": "potential function (see potential method)"
+        }, 
+        {
+            "def": "predicate", 
+            "link": "/wiki/Predicate_(computer_programming)", 
+            "name": "predicate"
+        }, 
+        {
+            "def": "prefix", 
+            "link": "/wiki/Prefix_(computer_science)", 
+            "name": "prefix"
+        }, 
+        {
+            "def": "prefix code", 
+            "link": "/wiki/Prefix_code", 
+            "name": "prefix code"
+        }, 
+        {
+            "def": "prefix computation", 
+            "link": "/w/index.php?title=Prefix_computation&action=edit&redlink=1", 
+            "name": "prefix computation"
+        }, 
+        {
+            "def": "prefix sum", 
+            "link": "/wiki/Prefix_sum", 
+            "name": "prefix sum"
+        }, 
+        {
+            "def": "prefix traversal", 
+            "link": "/wiki/Prefix_traversal", 
+            "name": "prefix traversal"
+        }, 
+        {
+            "def": "preorder traversal", 
+            "link": "/wiki/Preorder_traversal", 
+            "name": "preorder traversal"
+        }, 
+        {
+            "def": "primary clustering", 
+            "link": "/wiki/Primary_clustering", 
+            "name": "primary clustering"
+        }, 
+        {
+            "def": "primitive recursive", 
+            "link": "/wiki/Primitive_recursive", 
+            "name": "primitive recursive"
+        }, 
+        {
+            "def": "Prim's algorithm", 
+            "link": "/wiki/Prim%27s_algorithm", 
+            "name": "Prim's algorithm"
+        }, 
+        {
+            "def": "principle of optimality", 
+            "link": "/wiki/Principle_of_optimality", 
+            "name": "principle of optimality"
+        }, 
+        {
+            "def": "priority queue", 
+            "link": "/wiki/Priority_queue", 
+            "name": "priority queue"
+        }, 
+        {
+            "def": "prisoner's dilemma", 
+            "link": "/wiki/Prisoner%27s_dilemma", 
+            "name": "prisoner's dilemma"
+        }, 
+        {
+            "def": "PRNG", 
+            "link": "/wiki/PRNG", 
+            "name": "PRNG"
+        }, 
+        {
+            "def": "probabilistic algorithm", 
+            "link": "/wiki/Probabilistic_algorithm", 
+            "name": "probabilistic algorithm"
+        }, 
+        {
+            "def": "probabilistically checkable proof", 
+            "link": "/wiki/Probabilistically_checkable_proof", 
+            "name": "probabilistically checkable proof"
+        }, 
+        {
+            "def": "probabilistic Turing machine", 
+            "link": "/wiki/Probabilistic_Turing_machine", 
+            "name": "probabilistic Turing machine"
+        }, 
+        {
+            "def": "probe sequence", 
+            "link": "/w/index.php?title=Probe_sequence&action=edit&redlink=1", 
+            "name": "probe sequence"
+        }, 
+        {
+            "def": "Procedure (computer science)", 
+            "link": "/wiki/Procedure_(computer_science)", 
+            "name": "Procedure (computer science)"
+        }, 
+        {
+            "def": "process algebra", 
+            "link": "/wiki/Process_algebra", 
+            "name": "process algebra"
+        }, 
+        {
+            "def": "proper (see proper subset)", 
+            "link": "/wiki/Proper_subset", 
+            "name": "proper (see proper subset)"
+        }, 
+        {
+            "def": "proper binary tree", 
+            "link": "/wiki/Proper_binary_tree", 
+            "name": "proper binary tree"
+        }, 
+        {
+            "def": "proper coloring", 
+            "link": "/wiki/Proper_coloring", 
+            "name": "proper coloring"
+        }, 
+        {
+            "def": "proper subset", 
+            "link": "/wiki/Proper_subset", 
+            "name": "proper subset"
+        }, 
+        {
+            "def": "property list", 
+            "link": "/wiki/Property_list", 
+            "name": "property list"
+        }, 
+        {
+            "def": "prune and search", 
+            "link": "/wiki/Prune_and_search", 
+            "name": "prune and search"
+        }, 
+        {
+            "def": "pseudo-random number generator", 
+            "link": "/wiki/Pseudo-random_number_generator", 
+            "name": "pseudo-random number generator"
+        }, 
+        {
+            "def": "pth order Fibonacci numbers", 
+            "link": "/wiki/Pth_order_Fibonacci_numbers", 
+            "name": "pth order Fibonacci numbers"
+        }, 
+        {
+            "def": "P-tree", 
+            "link": "/wiki/P-tree", 
+            "name": "P-tree"
+        }, 
+        {
+            "def": "purely functional language", 
+            "link": "/wiki/Purely_functional_language", 
+            "name": "purely functional language"
+        }, 
+        {
+            "def": "pushdown automaton (PDA)", 
+            "link": "/wiki/Pushdown_automaton", 
+            "name": "pushdown automaton (PDA)"
+        }, 
+        {
+            "def": "pushdown transducer", 
+            "link": "/wiki/Pushdown_transducer", 
+            "name": "pushdown transducer"
+        }, 
+        {
+            "def": "p-way merge sort", 
+            "link": "/w/index.php?title=P-way_merge_sort&action=edit&redlink=1", 
+            "name": "p-way merge sort"
+        }, 
+        {
+            "def": "qm sort", 
+            "link": "/w/index.php?title=Qm_sort&action=edit&redlink=1", 
+            "name": "qm sort"
+        }, 
+        {
+            "def": "q sort", 
+            "link": "/wiki/Q_sort", 
+            "name": "q sort"
+        }, 
+        {
+            "def": "quadratic probing", 
+            "link": "/wiki/Quadratic_probing", 
+            "name": "quadratic probing"
+        }, 
+        {
+            "def": "quadtree", 
+            "link": "/wiki/Quadtree", 
+            "name": "quadtree"
+        }, 
+        {
+            "def": "quadtree complexity theorem", 
+            "link": "/w/index.php?title=Quadtree_complexity_theorem&action=edit&redlink=1", 
+            "name": "quadtree complexity theorem"
+        }, 
+        {
+            "def": "quad trie", 
+            "link": "/w/index.php?title=Quad_trie&action=edit&redlink=1", 
+            "name": "quad trie"
+        }, 
+        {
+            "def": "quantum computation", 
+            "link": "/wiki/Quantum_computation", 
+            "name": "quantum computation"
+        }, 
+        {
+            "def": "queue", 
+            "link": "/wiki/Queue_(data_structure)", 
+            "name": "queue"
+        }, 
+        {
+            "def": "quicksort", 
+            "link": "/wiki/Quicksort", 
+            "name": "quicksort"
+        }, 
+        {
+            "def": "Rabin\u2013Karp string search algorithm", 
+            "link": "/wiki/Rabin%E2%80%93Karp_string_search_algorithm", 
+            "name": "Rabin\u2013Karp string search algorithm"
+        }, 
+        {
+            "def": "radix quicksort", 
+            "link": "/w/index.php?title=Radix_quicksort&action=edit&redlink=1", 
+            "name": "radix quicksort"
+        }, 
+        {
+            "def": "radix sort", 
+            "link": "/wiki/Radix_sort", 
+            "name": "radix sort"
+        }, 
+        {
+            "def": "ragged matrix", 
+            "link": "/wiki/Ragged_matrix", 
+            "name": "ragged matrix"
+        }, 
+        {
+            "def": "Raita algorithm", 
+            "link": "/wiki/Raita_algorithm", 
+            "name": "Raita algorithm"
+        }, 
+        {
+            "def": "random access machine", 
+            "link": "/wiki/Random_access_machine", 
+            "name": "random access machine"
+        }, 
+        {
+            "def": "random number generation", 
+            "link": "/wiki/Random_number_generation", 
+            "name": "random number generation"
+        }, 
+        {
+            "def": "randomization", 
+            "link": "/wiki/Randomization", 
+            "name": "randomization"
+        }, 
+        {
+            "def": "randomized algorithm", 
+            "link": "/wiki/Randomized_algorithm", 
+            "name": "randomized algorithm"
+        }, 
+        {
+            "def": "randomized binary search tree", 
+            "link": "/wiki/Randomized_binary_search_tree", 
+            "name": "randomized binary search tree"
+        }, 
+        {
+            "def": "randomized complexity", 
+            "link": "/wiki/Randomized_complexity", 
+            "name": "randomized complexity"
+        }, 
+        {
+            "def": "randomized polynomial time", 
+            "link": "/wiki/Randomized_polynomial_time", 
+            "name": "randomized polynomial time"
+        }, 
+        {
+            "def": "randomized rounding", 
+            "link": "/wiki/Randomized_rounding", 
+            "name": "randomized rounding"
+        }, 
+        {
+            "def": "randomized search tree", 
+            "link": "/wiki/Randomized_search_tree", 
+            "name": "randomized search tree"
+        }, 
+        {
+            "def": "Randomized-Select", 
+            "link": "/w/index.php?title=Randomized-Select&action=edit&redlink=1", 
+            "name": "Randomized-Select"
+        }, 
+        {
+            "def": "random number generator", 
+            "link": "/wiki/Random_number_generator", 
+            "name": "random number generator"
+        }, 
+        {
+            "def": "random sampling", 
+            "link": "/wiki/Random_sampling", 
+            "name": "random sampling"
+        }, 
+        {
+            "def": "range (function)", 
+            "link": "/wiki/Range_(function)", 
+            "name": "range (function)"
+        }, 
+        {
+            "def": "range sort", 
+            "link": "/wiki/Range_sort", 
+            "name": "range sort"
+        }, 
+        {
+            "def": "Rank (graph theory)", 
+            "link": "/wiki/Rank_(graph_theory)", 
+            "name": "Rank (graph theory)"
+        }, 
+        {
+            "def": "Ratcliff/Obershelp pattern recognition", 
+            "link": "/w/index.php?title=Ratcliff/Obershelp_pattern_recognition&action=edit&redlink=1", 
+            "name": "Ratcliff/Obershelp pattern recognition"
+        }, 
+        {
+            "def": "reachable", 
+            "link": "/wiki/Reachable", 
+            "name": "reachable"
+        }, 
+        {
+            "def": "rebalance", 
+            "link": "/wiki/Rebalance", 
+            "name": "rebalance"
+        }, 
+        {
+            "def": "recognizer", 
+            "link": "/wiki/Recognizer", 
+            "name": "recognizer"
+        }, 
+        {
+            "def": "rectangular matrix", 
+            "link": "/w/index.php?title=Rectangular_matrix&action=edit&redlink=1", 
+            "name": "rectangular matrix"
+        }, 
+        {
+            "def": "rectilinear", 
+            "link": "https://en.wiktionary.org/wiki/rectilinear", 
+            "name": "rectilinear"
+        }, 
+        {
+            "def": "rectilinear Steiner tree", 
+            "link": "/wiki/Rectilinear_Steiner_tree", 
+            "name": "rectilinear Steiner tree"
+        }, 
+        {
+            "def": "recurrence equations", 
+            "link": "/wiki/Recurrence_equations", 
+            "name": "recurrence equations"
+        }, 
+        {
+            "def": "recurrence relation", 
+            "link": "/wiki/Recurrence_relation", 
+            "name": "recurrence relation"
+        }, 
+        {
+            "def": "recursion", 
+            "link": "/wiki/Recursion", 
+            "name": "recursion"
+        }, 
+        {
+            "def": "recursion termination", 
+            "link": "/wiki/Recursion_termination", 
+            "name": "recursion termination"
+        }, 
+        {
+            "def": "recursion tree", 
+            "link": "/w/index.php?title=Recursion_tree&action=edit&redlink=1", 
+            "name": "recursion tree"
+        }, 
+        {
+            "def": "recursive (computer science)", 
+            "link": "/wiki/Recursive_(computer_science)", 
+            "name": "recursive (computer science)"
+        }, 
+        {
+            "def": "recursive data structure", 
+            "link": "/wiki/Recursive_data_structure", 
+            "name": "recursive data structure"
+        }, 
+        {
+            "def": "recursive doubling", 
+            "link": "/wiki/Recursive_doubling", 
+            "name": "recursive doubling"
+        }, 
+        {
+            "def": "recursive language", 
+            "link": "/wiki/Recursive_language", 
+            "name": "recursive language"
+        }, 
+        {
+            "def": "recursively enumerable language", 
+            "link": "/wiki/Recursively_enumerable_language", 
+            "name": "recursively enumerable language"
+        }, 
+        {
+            "def": "recursively solvable", 
+            "link": "/w/index.php?title=Recursively_solvable&action=edit&redlink=1", 
+            "name": "recursively solvable"
+        }, 
+        {
+            "def": "red-black tree", 
+            "link": "/wiki/Red-black_tree", 
+            "name": "red-black tree"
+        }, 
+        {
+            "def": "reduced basis", 
+            "link": "/w/index.php?title=Reduced_basis&action=edit&redlink=1", 
+            "name": "reduced basis"
+        }, 
+        {
+            "def": "reduced digraph", 
+            "link": "/w/index.php?title=Reduced_digraph&action=edit&redlink=1", 
+            "name": "reduced digraph"
+        }, 
+        {
+            "def": "reduced ordered binary decision diagram (ROBDD)", 
+            "link": "/wiki/Reduced_ordered_binary_decision_diagram", 
+            "name": "reduced ordered binary decision diagram (ROBDD)"
+        }, 
+        {
+            "def": "reduction", 
+            "link": "/wiki/Reduction_(complexity)", 
+            "name": "reduction"
+        }, 
+        {
+            "def": "reflexive relation", 
+            "link": "/wiki/Reflexive_relation", 
+            "name": "reflexive relation"
+        }, 
+        {
+            "def": "regular decomposition", 
+            "link": "/w/index.php?title=Regular_decomposition&action=edit&redlink=1", 
+            "name": "regular decomposition"
+        }, 
+        {
+            "def": "rehashing", 
+            "link": "/wiki/Rehashing", 
+            "name": "rehashing"
+        }, 
+        {
+            "def": "relation (mathematics)", 
+            "link": "/wiki/Relation_(mathematics)", 
+            "name": "relation (mathematics)"
+        }, 
+        {
+            "def": "relational structure", 
+            "link": "/wiki/Relational_structure", 
+            "name": "relational structure"
+        }, 
+        {
+            "def": "relative performance guarantee", 
+            "link": "/wiki/Relative_performance_guarantee", 
+            "name": "relative performance guarantee"
+        }, 
+        {
+            "def": "relaxation", 
+            "link": "/wiki/Relaxation_technique_(mathematics)", 
+            "name": "relaxation"
+        }, 
+        {
+            "def": "relaxed balance", 
+            "link": "/wiki/Relaxed_balance", 
+            "name": "relaxed balance"
+        }, 
+        {
+            "def": "rescalable", 
+            "link": "/w/index.php?title=Rescalable&action=edit&redlink=1", 
+            "name": "rescalable"
+        }, 
+        {
+            "def": "restricted universe sort", 
+            "link": "/w/index.php?title=Restricted_universe_sort&action=edit&redlink=1", 
+            "name": "restricted universe sort"
+        }, 
+        {
+            "def": "result cache", 
+            "link": "/wiki/Result_cache", 
+            "name": "result cache"
+        }, 
+        {
+            "def": "Reverse Colussi", 
+            "link": "/w/index.php?title=Reverse_Colussi&action=edit&redlink=1", 
+            "name": "Reverse Colussi"
+        }, 
+        {
+            "def": "Reverse Factor", 
+            "link": "/w/index.php?title=Reverse_Factor&action=edit&redlink=1", 
+            "name": "Reverse Factor"
+        }, 
+        {
+            "def": "R-file", 
+            "link": "/w/index.php?title=R-file&action=edit&redlink=1", 
+            "name": "R-file"
+        }, 
+        {
+            "def": "Rice's method", 
+            "link": "/wiki/Rice%27s_method", 
+            "name": "Rice's method"
+        }, 
+        {
+            "def": "right rotation", 
+            "link": "/wiki/Right_rotation", 
+            "name": "right rotation"
+        }, 
+        {
+            "def": "right-threaded tree", 
+            "link": "/wiki/Right-threaded_tree", 
+            "name": "right-threaded tree"
+        }, 
+        {
+            "def": "root", 
+            "link": "/wiki/Root", 
+            "name": "root"
+        }, 
+        {
+            "def": "root balance", 
+            "link": "/wiki/Root_balance", 
+            "name": "root balance"
+        }, 
+        {
+            "def": "rooted tree", 
+            "link": "/wiki/Rooted_tree", 
+            "name": "rooted tree"
+        }, 
+        {
+            "def": "rotate left", 
+            "link": "/w/index.php?title=Rotate_left&action=edit&redlink=1", 
+            "name": "rotate left"
+        }, 
+        {
+            "def": "rotate right", 
+            "link": "/w/index.php?title=Rotate_right&action=edit&redlink=1", 
+            "name": "rotate right"
+        }, 
+        {
+            "def": "rotation", 
+            "link": "/wiki/Rotation", 
+            "name": "rotation"
+        }, 
+        {
+            "def": "rough graph", 
+            "link": "/w/index.php?title=Rough_graph&action=edit&redlink=1", 
+            "name": "rough graph"
+        }, 
+        {
+            "def": "R+-tree", 
+            "link": "/wiki/R%2B_tree", 
+            "name": "R+-tree"
+        }, 
+        {
+            "def": "R*-tree", 
+            "link": "/wiki/R*_tree", 
+            "name": "R*-tree"
+        }, 
+        {
+            "def": "R-tree", 
+            "link": "/wiki/R-tree", 
+            "name": "R-tree"
+        }, 
+        {
+            "def": "run time", 
+            "link": "/wiki/Run_time_(program_lifecycle_phase)", 
+            "name": "run time"
+        }, 
+        {
+            "def": "saguaro stack", 
+            "link": "/wiki/Saguaro_stack", 
+            "name": "saguaro stack"
+        }, 
+        {
+            "def": "saturated edge", 
+            "link": "/w/index.php?title=Saturated_edge&action=edit&redlink=1", 
+            "name": "saturated edge"
+        }, 
+        {
+            "def": "SBB tree", 
+            "link": "/wiki/SBB_tree", 
+            "name": "SBB tree"
+        }, 
+        {
+            "def": "scan", 
+            "link": "/wiki/Prefix_sum", 
+            "name": "scan"
+        }, 
+        {
+            "def": "scapegoat tree", 
+            "link": "/wiki/Scapegoat_tree", 
+            "name": "scapegoat tree"
+        }, 
+        {
+            "def": "search algorithm", 
+            "link": "/wiki/Search_algorithm", 
+            "name": "search algorithm"
+        }, 
+        {
+            "def": "search tree", 
+            "link": "/wiki/Search_tree", 
+            "name": "search tree"
+        }, 
+        {
+            "def": "search tree property", 
+            "link": "/wiki/Search_tree_property", 
+            "name": "search tree property"
+        }, 
+        {
+            "def": "secant search", 
+            "link": "/wiki/Secant_search", 
+            "name": "secant search"
+        }, 
+        {
+            "def": "secondary clustering", 
+            "link": "/w/index.php?title=Secondary_clustering&action=edit&redlink=1", 
+            "name": "secondary clustering"
+        }, 
+        {
+            "def": "memory segment", 
+            "link": "/wiki/Memory_segment", 
+            "name": "memory segment"
+        }, 
+        {
+            "def": "Select algorithm", 
+            "link": "/wiki/Select_algorithm", 
+            "name": "Select algorithm"
+        }, 
+        {
+            "def": "select and partition", 
+            "link": "/wiki/Select_and_partition", 
+            "name": "select and partition"
+        }, 
+        {
+            "def": "selection problem", 
+            "link": "/wiki/Selection_problem", 
+            "name": "selection problem"
+        }, 
+        {
+            "def": "selection sort", 
+            "link": "/wiki/Selection_sort", 
+            "name": "selection sort"
+        }, 
+        {
+            "def": "select kth element", 
+            "link": "/wiki/Select_kth_element", 
+            "name": "select kth element"
+        }, 
+        {
+            "def": "select mode", 
+            "link": "/w/index.php?title=Select_mode&action=edit&redlink=1", 
+            "name": "select mode"
+        }, 
+        {
+            "def": "self-loop", 
+            "link": "/wiki/Self-loop", 
+            "name": "self-loop"
+        }, 
+        {
+            "def": "self-organizing heuristic", 
+            "link": "/wiki/Self-organizing_heuristic", 
+            "name": "self-organizing heuristic"
+        }, 
+        {
+            "def": "self-organizing list", 
+            "link": "/wiki/Self-organizing_list", 
+            "name": "self-organizing list"
+        }, 
+        {
+            "def": "self-organizing sequential search", 
+            "link": "/w/index.php?title=Self-organizing_sequential_search&action=edit&redlink=1", 
+            "name": "self-organizing sequential search"
+        }, 
+        {
+            "def": "semidefinite programming", 
+            "link": "/wiki/Semidefinite_programming", 
+            "name": "semidefinite programming"
+        }, 
+        {
+            "def": "separate chaining hashing", 
+            "link": "/w/index.php?title=Separate_chaining_hashing&action=edit&redlink=1", 
+            "name": "separate chaining hashing"
+        }, 
+        {
+            "def": "separation theorem", 
+            "link": "/w/index.php?title=Sepraation_theorem_(disambiguation)&action=edit&redlink=1", 
+            "name": "separation theorem"
+        }, 
+        {
+            "def": "sequential search", 
+            "link": "/wiki/Sequential_search", 
+            "name": "sequential search"
+        }, 
+        {
+            "def": "Set (computer science)", 
+            "link": "/wiki/Set_(computer_science)", 
+            "name": "Set (computer science)"
+        }, 
+        {
+            "def": "set cover", 
+            "link": "/wiki/Set_cover", 
+            "name": "set cover"
+        }, 
+        {
+            "def": "set packing", 
+            "link": "/wiki/Set_packing", 
+            "name": "set packing"
+        }, 
+        {
+            "def": "shadow heap", 
+            "link": "/wiki/Shadow_heap", 
+            "name": "shadow heap"
+        }, 
+        {
+            "def": "shadow merge", 
+            "link": "/w/index.php?title=Shadow_merge&action=edit&redlink=1", 
+            "name": "shadow merge"
+        }, 
+        {
+            "def": "shadow merge insert", 
+            "link": "/w/index.php?title=Shadow_merge_insert&action=edit&redlink=1", 
+            "name": "shadow merge insert"
+        }, 
+        {
+            "def": "shaker sort", 
+            "link": "/wiki/Shaker_sort", 
+            "name": "shaker sort"
+        }, 
+        {
+            "def": "Shannon\u2013Fano coding", 
+            "link": "/wiki/Shannon%E2%80%93Fano_coding", 
+            "name": "Shannon\u2013Fano coding"
+        }, 
+        {
+            "def": "Shared memory (interprocess communication)", 
+            "link": "/wiki/Shared_memory_(interprocess_communication)", 
+            "name": "Shared memory (interprocess communication)"
+        }, 
+        {
+            "def": "Shell sort", 
+            "link": "/wiki/Shell_sort", 
+            "name": "Shell sort"
+        }, 
+        {
+            "def": "Shift-Or", 
+            "link": "/wiki/Shift-Or", 
+            "name": "Shift-Or"
+        }, 
+        {
+            "def": "Shor's algorithm", 
+            "link": "/wiki/Shor%27s_algorithm", 
+            "name": "Shor's algorithm"
+        }, 
+        {
+            "def": "shortcutting", 
+            "link": "/w/index.php?title=Shortcutting&action=edit&redlink=1", 
+            "name": "shortcutting"
+        }, 
+        {
+            "def": "shortest common supersequence", 
+            "link": "/wiki/Shortest_common_supersequence", 
+            "name": "shortest common supersequence"
+        }, 
+        {
+            "def": "shortest common superstring", 
+            "link": "/w/index.php?title=Shortest_common_superstring&action=edit&redlink=1", 
+            "name": "shortest common superstring"
+        }, 
+        {
+            "def": "shortest path", 
+            "link": "/wiki/Shortest_path", 
+            "name": "shortest path"
+        }, 
+        {
+            "def": "shortest spanning tree", 
+            "link": "/wiki/Shortest_spanning_tree", 
+            "name": "shortest spanning tree"
+        }, 
+        {
+            "def": "shuffle", 
+            "link": "/wiki/Shuffle", 
+            "name": "shuffle"
+        }, 
+        {
+            "def": "shuffle sort", 
+            "link": "/wiki/Shuffle_sort", 
+            "name": "shuffle sort"
+        }, 
+        {
+            "def": "sibling", 
+            "link": "/wiki/Sibling", 
+            "name": "sibling"
+        }, 
+        {
+            "def": "Sierpi\u0144ski curve", 
+            "link": "/wiki/Sierpi%C5%84ski_curve", 
+            "name": "Sierpi\u0144ski curve"
+        }, 
+        {
+            "def": "Sierpinski triangle", 
+            "link": "/wiki/Sierpinski_triangle", 
+            "name": "Sierpinski triangle"
+        }, 
+        {
+            "def": "sieve of Eratosthenes", 
+            "link": "/wiki/Sieve_of_Eratosthenes", 
+            "name": "sieve of Eratosthenes"
+        }, 
+        {
+            "def": "sift up", 
+            "link": "/w/index.php?title=Sift_up&action=edit&redlink=1", 
+            "name": "sift up"
+        }, 
+        {
+            "def": "signature", 
+            "link": "/wiki/Signature", 
+            "name": "signature"
+        }, 
+        {
+            "def": "Simon's algorithm", 
+            "link": "/wiki/Simon%27s_algorithm", 
+            "name": "Simon's algorithm"
+        }, 
+        {
+            "def": "simple merge", 
+            "link": "/w/index.php?title=Simple_merge&action=edit&redlink=1", 
+            "name": "simple merge"
+        }, 
+        {
+            "def": "simple path", 
+            "link": "/wiki/Path_(graph_theory)", 
+            "name": "simple path"
+        }, 
+        {
+            "def": "simple uniform hashing", 
+            "link": "/w/index.php?title=Simple_uniform_hashing&action=edit&redlink=1", 
+            "name": "simple uniform hashing"
+        }, 
+        {
+            "def": "simplex communication", 
+            "link": "/wiki/Simplex_communication", 
+            "name": "simplex communication"
+        }, 
+        {
+            "def": "simulated annealing", 
+            "link": "/wiki/Simulated_annealing", 
+            "name": "simulated annealing"
+        }, 
+        {
+            "def": "simulation theorem", 
+            "link": "/w/index.php?title=Simulation_theorem&action=edit&redlink=1", 
+            "name": "simulation theorem"
+        }, 
+        {
+            "def": "single-destination shortest-path problem", 
+            "link": "/wiki/Single-destination_shortest-path_problem", 
+            "name": "single-destination shortest-path problem"
+        }, 
+        {
+            "def": "single-pair shortest-path problem", 
+            "link": "/wiki/Single-pair_shortest-path_problem", 
+            "name": "single-pair shortest-path problem"
+        }, 
+        {
+            "def": "single program multiple data", 
+            "link": "/wiki/Single_program_multiple_data", 
+            "name": "single program multiple data"
+        }, 
+        {
+            "def": "single-source shortest-path problem", 
+            "link": "/wiki/Single-source_shortest-path_problem", 
+            "name": "single-source shortest-path problem"
+        }, 
+        {
+            "def": "singly linked list", 
+            "link": "/wiki/Singly_linked_list", 
+            "name": "singly linked list"
+        }, 
+        {
+            "def": "singularity analysis", 
+            "link": "/w/index.php?title=Singularity_analysis&action=edit&redlink=1", 
+            "name": "singularity analysis"
+        }, 
+        {
+            "def": "sink", 
+            "link": "/wiki/Sink", 
+            "name": "sink"
+        }, 
+        {
+            "def": "sinking sort", 
+            "link": "/wiki/Sinking_sort", 
+            "name": "sinking sort"
+        }, 
+        {
+            "def": "skd-tree", 
+            "link": "/w/index.php?title=Skd-tree&action=edit&redlink=1", 
+            "name": "skd-tree"
+        }, 
+        {
+            "def": "skew symmetry", 
+            "link": "/wiki/Skew_symmetry", 
+            "name": "skew symmetry"
+        }, 
+        {
+            "def": "skip list", 
+            "link": "/wiki/Skip_list", 
+            "name": "skip list"
+        }, 
+        {
+            "def": "skip search", 
+            "link": "/wiki/Skip_search", 
+            "name": "skip search"
+        }, 
+        {
+            "def": "slope selection", 
+            "link": "/wiki/Slope_selection", 
+            "name": "slope selection"
+        }, 
+        {
+            "def": "Smith algorithm", 
+            "link": "/wiki/Smith_algorithm", 
+            "name": "Smith algorithm"
+        }, 
+        {
+            "def": "Smith\u2013Waterman algorithm", 
+            "link": "/wiki/Smith%E2%80%93Waterman_algorithm", 
+            "name": "Smith\u2013Waterman algorithm"
+        }, 
+        {
+            "def": "smoothsort", 
+            "link": "/wiki/Smoothsort", 
+            "name": "smoothsort"
+        }, 
+        {
+            "def": "solvable problem", 
+            "link": "/wiki/Solvable_problem", 
+            "name": "solvable problem"
+        }, 
+        {
+            "def": "sort algorithm", 
+            "link": "/wiki/Sort_algorithm", 
+            "name": "sort algorithm"
+        }, 
+        {
+            "def": "sorted array", 
+            "link": "/wiki/Sorted_array", 
+            "name": "sorted array"
+        }, 
+        {
+            "def": "sorted list", 
+            "link": "/wiki/Sorted_list", 
+            "name": "sorted list"
+        }, 
+        {
+            "def": "sort in place", 
+            "link": "/wiki/Sort_in_place", 
+            "name": "sort in place"
+        }, 
+        {
+            "def": "sort merge", 
+            "link": "/w/index.php?title=Sort_merge&action=edit&redlink=1", 
+            "name": "sort merge"
+        }, 
+        {
+            "def": "soundex", 
+            "link": "/wiki/Soundex", 
+            "name": "soundex"
+        }, 
+        {
+            "def": "space-constructible function", 
+            "link": "/wiki/Space-constructible_function", 
+            "name": "space-constructible function"
+        }, 
+        {
+            "def": "spanning tree", 
+            "link": "/wiki/Spanning_tree_(mathematics)", 
+            "name": "spanning tree"
+        }, 
+        {
+            "def": "sparse graph", 
+            "link": "/wiki/Sparse_graph", 
+            "name": "sparse graph"
+        }, 
+        {
+            "def": "sparse matrix", 
+            "link": "/wiki/Sparse_matrix", 
+            "name": "sparse matrix"
+        }, 
+        {
+            "def": "sparsification", 
+            "link": "/w/index.php?title=Sparsification&action=edit&redlink=1", 
+            "name": "sparsification"
+        }, 
+        {
+            "def": "sparsity", 
+            "link": "/wiki/Sparsity", 
+            "name": "sparsity"
+        }, 
+        {
+            "def": "spatial access method", 
+            "link": "/wiki/Spatial_index", 
+            "name": "spatial access method"
+        }, 
+        {
+            "def": "spectral test", 
+            "link": "/wiki/Spectral_test", 
+            "name": "spectral test"
+        }, 
+        {
+            "def": "splay tree", 
+            "link": "/wiki/Splay_tree", 
+            "name": "splay tree"
+        }, 
+        {
+            "def": "SPMD", 
+            "link": "/wiki/SPMD", 
+            "name": "SPMD"
+        }, 
+        {
+            "def": "square matrix", 
+            "link": "/wiki/Square_matrix", 
+            "name": "square matrix"
+        }, 
+        {
+            "def": "square root", 
+            "link": "/wiki/Square_root", 
+            "name": "square root"
+        }, 
+        {
+            "def": "SST (shortest spanning tree)", 
+            "link": "/wiki/Shortest_spanning_tree", 
+            "name": "SST (shortest spanning tree)"
+        }, 
+        {
+            "def": "stable", 
+            "link": "/wiki/Numerical_stability", 
+            "name": "stable"
+        }, 
+        {
+            "def": "stack (data structure)", 
+            "link": "/wiki/Stack_(data_structure)", 
+            "name": "stack (data structure)"
+        }, 
+        {
+            "def": "stack tree", 
+            "link": "/wiki/Stack_tree", 
+            "name": "stack tree"
+        }, 
+        {
+            "def": "star-shaped polygon", 
+            "link": "/wiki/Star-shaped_polygon", 
+            "name": "star-shaped polygon"
+        }, 
+        {
+            "def": "start state", 
+            "link": "/wiki/Start_state", 
+            "name": "start state"
+        }, 
+        {
+            "def": "state", 
+            "link": "/wiki/State_(computer_science)", 
+            "name": "state"
+        }, 
+        {
+            "def": "state machine", 
+            "link": "/wiki/State_machine", 
+            "name": "state machine"
+        }, 
+        {
+            "def": "state transition", 
+            "link": "/wiki/State_transition", 
+            "name": "state transition"
+        }, 
+        {
+            "def": "static data structure", 
+            "link": "/w/index.php?title=Static_data_structure&action=edit&redlink=1", 
+            "name": "static data structure"
+        }, 
+        {
+            "def": "static Huffman encoding", 
+            "link": "/w/index.php?title=Static_Huffman_encoding&action=edit&redlink=1", 
+            "name": "static Huffman encoding"
+        }, 
+        {
+            "def": "s-t cut", 
+            "link": "/wiki/S-t_cut", 
+            "name": "s-t cut"
+        }, 
+        {
+            "def": "st-digraph", 
+            "link": "/w/index.php?title=St-digraph&action=edit&redlink=1", 
+            "name": "st-digraph"
+        }, 
+        {
+            "def": "Steiner minimum tree", 
+            "link": "/wiki/Steiner_minimum_tree", 
+            "name": "Steiner minimum tree"
+        }, 
+        {
+            "def": "Steiner point", 
+            "link": "/wiki/Steiner_tree_problem", 
+            "name": "Steiner point"
+        }, 
+        {
+            "def": "Steiner ratio", 
+            "link": "/wiki/Steiner_ratio", 
+            "name": "Steiner ratio"
+        }, 
+        {
+            "def": "Steiner tree", 
+            "link": "/wiki/Steiner_tree", 
+            "name": "Steiner tree"
+        }, 
+        {
+            "def": "Steiner vertex", 
+            "link": "/wiki/Steiner_vertex", 
+            "name": "Steiner vertex"
+        }, 
+        {
+            "def": "Steinhaus\u2013Johnson\u2013Trotter algorithm", 
+            "link": "/wiki/Steinhaus%E2%80%93Johnson%E2%80%93Trotter_algorithm", 
+            "name": "Steinhaus\u2013Johnson\u2013Trotter algorithm"
+        }, 
+        {
+            "def": "Stirling's approximation", 
+            "link": "/wiki/Stirling%27s_approximation", 
+            "name": "Stirling's approximation"
+        }, 
+        {
+            "def": "Stirling's formula", 
+            "link": "/wiki/Stirling%27s_formula", 
+            "name": "Stirling's formula"
+        }, 
+        {
+            "def": "stooge sort", 
+            "link": "/wiki/Stooge_sort", 
+            "name": "stooge sort"
+        }, 
+        {
+            "def": "straight-line drawing", 
+            "link": "/w/index.php?title=Straight-line_drawing&action=edit&redlink=1", 
+            "name": "straight-line drawing"
+        }, 
+        {
+            "def": "strand sort", 
+            "link": "/w/index.php?title=Strand_sort&action=edit&redlink=1", 
+            "name": "strand sort"
+        }, 
+        {
+            "def": "strictly decreasing", 
+            "link": "/wiki/Strictly_decreasing", 
+            "name": "strictly decreasing"
+        }, 
+        {
+            "def": "strictly increasing", 
+            "link": "/wiki/Strictly_increasing", 
+            "name": "strictly increasing"
+        }, 
+        {
+            "def": "strictly lower triangular matrix", 
+            "link": "/wiki/Strictly_lower_triangular_matrix", 
+            "name": "strictly lower triangular matrix"
+        }, 
+        {
+            "def": "strictly upper triangular matrix", 
+            "link": "/wiki/Strictly_upper_triangular_matrix", 
+            "name": "strictly upper triangular matrix"
+        }, 
+        {
+            "def": "string", 
+            "link": "/wiki/String_(computer_science)", 
+            "name": "string"
+        }, 
+        {
+            "def": "string editing problem", 
+            "link": "/w/index.php?title=String_editing_problem&action=edit&redlink=1", 
+            "name": "string editing problem"
+        }, 
+        {
+            "def": "string matching", 
+            "link": "/wiki/String_matching", 
+            "name": "string matching"
+        }, 
+        {
+            "def": "string matching on ordered alphabets", 
+            "link": "/w/index.php?title=String_matching_on_ordered_alphabets&action=edit&redlink=1", 
+            "name": "string matching on ordered alphabets"
+        }, 
+        {
+            "def": "string matching with errors", 
+            "link": "/w/index.php?title=String_matching_with_errors&action=edit&redlink=1", 
+            "name": "string matching with errors"
+        }, 
+        {
+            "def": "string matching with mismatches", 
+            "link": "/w/index.php?title=String_matching_with_mismatches&action=edit&redlink=1", 
+            "name": "string matching with mismatches"
+        }, 
+        {
+            "def": "string searching", 
+            "link": "/wiki/String_searching", 
+            "name": "string searching"
+        }, 
+        {
+            "def": "strip packing", 
+            "link": "/w/index.php?title=Strip_packing&action=edit&redlink=1", 
+            "name": "strip packing"
+        }, 
+        {
+            "def": "strongly connected component", 
+            "link": "/wiki/Strongly_connected_component", 
+            "name": "strongly connected component"
+        }, 
+        {
+            "def": "strongly connected graph", 
+            "link": "/wiki/Strongly_connected_graph", 
+            "name": "strongly connected graph"
+        }, 
+        {
+            "def": "strongly NP-hard", 
+            "link": "/wiki/Strongly_NP-hard", 
+            "name": "strongly NP-hard"
+        }, 
+        {
+            "def": "subadditive ergodic theorem", 
+            "link": "/w/index.php?title=Subadditive_ergodic_theorem&action=edit&redlink=1", 
+            "name": "subadditive ergodic theorem"
+        }, 
+        {
+            "def": "subgraph isomorphism", 
+            "link": "/wiki/Subgraph_isomorphism", 
+            "name": "subgraph isomorphism"
+        }, 
+        {
+            "def": "sublinear time algorithm", 
+            "link": "/wiki/Sublinear_time_algorithm", 
+            "name": "sublinear time algorithm"
+        }, 
+        {
+            "def": "subsequence", 
+            "link": "/wiki/Subsequence", 
+            "name": "subsequence"
+        }, 
+        {
+            "def": "subset", 
+            "link": "/wiki/Subset", 
+            "name": "subset"
+        }, 
+        {
+            "def": "substring", 
+            "link": "/wiki/Substring", 
+            "name": "substring"
+        }, 
+        {
+            "def": "subtree", 
+            "link": "/wiki/Subtree", 
+            "name": "subtree"
+        }, 
+        {
+            "def": "suffix", 
+            "link": "/wiki/Suffix_(computer_science)", 
+            "name": "suffix"
+        }, 
+        {
+            "def": "suffix array", 
+            "link": "/wiki/Suffix_array", 
+            "name": "suffix array"
+        }, 
+        {
+            "def": "suffix automaton", 
+            "link": "/wiki/Suffix_automaton", 
+            "name": "suffix automaton"
+        }, 
+        {
+            "def": "suffix tree", 
+            "link": "/wiki/Suffix_tree", 
+            "name": "suffix tree"
+        }, 
+        {
+            "def": "superimposed code", 
+            "link": "/wiki/Superimposed_code", 
+            "name": "superimposed code"
+        }, 
+        {
+            "def": "superset", 
+            "link": "/wiki/Superset", 
+            "name": "superset"
+        }, 
+        {
+            "def": "supersink", 
+            "link": "/wiki/Supersink", 
+            "name": "supersink"
+        }, 
+        {
+            "def": "supersource", 
+            "link": "/wiki/Supersource", 
+            "name": "supersource"
+        }, 
+        {
+            "def": "symmetric relation", 
+            "link": "/wiki/Symmetric_relation", 
+            "name": "symmetric relation"
+        }, 
+        {
+            "def": "symmetrically linked list", 
+            "link": "/wiki/Symmetrically_linked_list", 
+            "name": "symmetrically linked list"
+        }, 
+        {
+            "def": "symmetric binary B-tree", 
+            "link": "/wiki/Symmetric_binary_B-tree", 
+            "name": "symmetric binary B-tree"
+        }, 
+        {
+            "def": "symmetric set difference", 
+            "link": "/wiki/Symmetric_set_difference", 
+            "name": "symmetric set difference"
+        }, 
+        {
+            "def": "symmetry breaking", 
+            "link": "/wiki/Symmetry_breaking", 
+            "name": "symmetry breaking"
+        }, 
+        {
+            "def": "symmetric min max heap", 
+            "link": "/w/index.php?title=Symmetric_min_max_heap&action=edit&redlink=1", 
+            "name": "symmetric min max heap"
+        }, 
+        {
+            "def": "tail", 
+            "link": "/wiki/Tail", 
+            "name": "tail"
+        }, 
+        {
+            "def": "tail recursion", 
+            "link": "/wiki/Tail_recursion", 
+            "name": "tail recursion"
+        }, 
+        {
+            "def": "target", 
+            "link": "/w/index.php?title=Target_(CS)&action=edit&redlink=1", 
+            "name": "target"
+        }, 
+        {
+            "def": "temporal logic", 
+            "link": "/wiki/Temporal_logic", 
+            "name": "temporal logic"
+        }, 
+        {
+            "def": "terminal (see Steiner tree)", 
+            "link": "/wiki/Steiner_tree", 
+            "name": "terminal (see Steiner tree)"
+        }, 
+        {
+            "def": "terminal node", 
+            "link": "/wiki/Leaf_node", 
+            "name": "terminal node"
+        }, 
+        {
+            "def": "ternary search", 
+            "link": "/wiki/Ternary_search", 
+            "name": "ternary search"
+        }, 
+        {
+            "def": "ternary search tree (TST)", 
+            "link": "/wiki/Ternary_search_tree", 
+            "name": "ternary search tree (TST)"
+        }, 
+        {
+            "def": "text searching", 
+            "link": "/wiki/Text_searching", 
+            "name": "text searching"
+        }, 
+        {
+            "def": "theta", 
+            "link": "/wiki/Theta", 
+            "name": "theta"
+        }, 
+        {
+            "def": "threaded binary tree", 
+            "link": "/wiki/Threaded_binary_tree", 
+            "name": "threaded binary tree"
+        }, 
+        {
+            "def": "threaded tree", 
+            "link": "/w/index.php?title=Threaded_tree&action=edit&redlink=1", 
+            "name": "threaded tree"
+        }, 
+        {
+            "def": "three-dimensional", 
+            "link": "/wiki/Three-dimensional_space", 
+            "name": "three-dimensional"
+        }, 
+        {
+            "def": "three-way merge sort", 
+            "link": "/w/index.php?title=Three-way_merge_sort&action=edit&redlink=1", 
+            "name": "three-way merge sort"
+        }, 
+        {
+            "def": "three-way radix quicksort", 
+            "link": "/wiki/Three-way_radix_quicksort", 
+            "name": "three-way radix quicksort"
+        }, 
+        {
+            "def": "time-constructible function", 
+            "link": "/wiki/Time-constructible_function", 
+            "name": "time-constructible function"
+        }, 
+        {
+            "def": "time/space complexity", 
+            "link": "/wiki/Time/space_complexity", 
+            "name": "time/space complexity"
+        }, 
+        {
+            "def": "top-down radix sort", 
+            "link": "/w/index.php?title=Top-down_radix_sort&action=edit&redlink=1", 
+            "name": "top-down radix sort"
+        }, 
+        {
+            "def": "top-down tree automaton", 
+            "link": "/wiki/Top-down_tree_automaton", 
+            "name": "top-down tree automaton"
+        }, 
+        {
+            "def": "top-node", 
+            "link": "/wiki/Top-nodes_algorithm", 
+            "name": "top-node"
+        }, 
+        {
+            "def": "topological order", 
+            "link": "/wiki/Topological_order", 
+            "name": "topological order"
+        }, 
+        {
+            "def": "topological sort", 
+            "link": "/wiki/Topological_sort", 
+            "name": "topological sort"
+        }, 
+        {
+            "def": "topology tree", 
+            "link": "/w/index.php?title=Topology_tree&action=edit&redlink=1", 
+            "name": "topology tree"
+        }, 
+        {
+            "def": "total function", 
+            "link": "/wiki/Total_function", 
+            "name": "total function"
+        }, 
+        {
+            "def": "totally decidable language", 
+            "link": "/w/index.php?title=Totally_decidable_language&action=edit&redlink=1", 
+            "name": "totally decidable language"
+        }, 
+        {
+            "def": "totally decidable problem", 
+            "link": "/w/index.php?title=Totally_decidable_problem&action=edit&redlink=1", 
+            "name": "totally decidable problem"
+        }, 
+        {
+            "def": "totally undecidable problem", 
+            "link": "/w/index.php?title=Totally_undecidable_problem&action=edit&redlink=1", 
+            "name": "totally undecidable problem"
+        }, 
+        {
+            "def": "total order", 
+            "link": "/wiki/Total_order", 
+            "name": "total order"
+        }, 
+        {
+            "def": "tour", 
+            "link": null, 
+            "name": "tour"
+        }, 
+        {
+            "def": "tournament", 
+            "link": "/wiki/Tournament_(graph_theory)", 
+            "name": "tournament"
+        }, 
+        {
+            "def": "towers of Hanoi", 
+            "link": "/wiki/Towers_of_Hanoi", 
+            "name": "towers of Hanoi"
+        }, 
+        {
+            "def": "tractable problem", 
+            "link": "/wiki/Tractable_problem", 
+            "name": "tractable problem"
+        }, 
+        {
+            "def": "transducer", 
+            "link": "/wiki/Transducer", 
+            "name": "transducer"
+        }, 
+        {
+            "def": "transition (see finite-state machine)", 
+            "link": "/wiki/Finite-state_machine", 
+            "name": "transition (see finite-state machine)"
+        }, 
+        {
+            "def": "transition function (of a finite-state machine or Turing machine)", 
+            "link": "/wiki/Finite-state_machine", 
+            "name": "transition function (of a finite-state machine or Turing machine)"
+        }, 
+        {
+            "def": "transitive relation", 
+            "link": "/wiki/Transitive_relation", 
+            "name": "transitive relation"
+        }, 
+        {
+            "def": "transitive closure", 
+            "link": "/wiki/Transitive_closure", 
+            "name": "transitive closure"
+        }, 
+        {
+            "def": "transitive reduction", 
+            "link": "/wiki/Transitive_reduction", 
+            "name": "transitive reduction"
+        }, 
+        {
+            "def": "transpose sequential search", 
+            "link": "/w/index.php?title=Transpose_sequential_search&action=edit&redlink=1", 
+            "name": "transpose sequential search"
+        }, 
+        {
+            "def": "travelling salesman problem (TSP)", 
+            "link": "/wiki/Travelling_salesman_problem", 
+            "name": "travelling salesman problem (TSP)"
+        }, 
+        {
+            "def": "treap", 
+            "link": "/wiki/Treap", 
+            "name": "treap"
+        }, 
+        {
+            "def": "tree", 
+            "link": "/wiki/Tree_data_structure", 
+            "name": "tree"
+        }, 
+        {
+            "def": "tree automaton", 
+            "link": "/wiki/Tree_automaton", 
+            "name": "tree automaton"
+        }, 
+        {
+            "def": "tree contraction", 
+            "link": "/w/index.php?title=Tree_contraction&action=edit&redlink=1", 
+            "name": "tree contraction"
+        }, 
+        {
+            "def": "tree editing problem", 
+            "link": "/w/index.php?title=Tree_editing_problem&action=edit&redlink=1", 
+            "name": "tree editing problem"
+        }, 
+        {
+            "def": "tree sort", 
+            "link": "/wiki/Tree_sort", 
+            "name": "tree sort"
+        }, 
+        {
+            "def": "tree transducer", 
+            "link": "/w/index.php?title=Tree_transducer&action=edit&redlink=1", 
+            "name": "tree transducer"
+        }, 
+        {
+            "def": "tree traversal", 
+            "link": "/wiki/Tree_traversal", 
+            "name": "tree traversal"
+        }, 
+        {
+            "def": "triangle inequality", 
+            "link": "/wiki/Triangle_inequality", 
+            "name": "triangle inequality"
+        }, 
+        {
+            "def": "triconnected graph", 
+            "link": "/w/index.php?title=Triconnected_graph&action=edit&redlink=1", 
+            "name": "triconnected graph"
+        }, 
+        {
+            "def": "trie", 
+            "link": "/wiki/Trie", 
+            "name": "trie"
+        }, 
+        {
+            "def": "trinary function", 
+            "link": "/wiki/Trinary_function", 
+            "name": "trinary function"
+        }, 
+        {
+            "def": "tripartition", 
+            "link": "/w/index.php?title=Tripartition&action=edit&redlink=1", 
+            "name": "tripartition"
+        }, 
+        {
+            "def": "Turbo-BM", 
+            "link": "/w/index.php?title=Turbo-BM&action=edit&redlink=1", 
+            "name": "Turbo-BM"
+        }, 
+        {
+            "def": "Turbo Reverse Factor", 
+            "link": "/w/index.php?title=Turbo_Reverse_Factor&action=edit&redlink=1", 
+            "name": "Turbo Reverse Factor"
+        }, 
+        {
+            "def": "Turing machine", 
+            "link": "/wiki/Turing_machine", 
+            "name": "Turing machine"
+        }, 
+        {
+            "def": "Turing reduction", 
+            "link": "/wiki/Turing_reduction", 
+            "name": "Turing reduction"
+        }, 
+        {
+            "def": "Turing transducer", 
+            "link": "/w/index.php?title=Turing_transducer&action=edit&redlink=1", 
+            "name": "Turing transducer"
+        }, 
+        {
+            "def": "twin grid file", 
+            "link": "/w/index.php?title=Twin_grid_file&action=edit&redlink=1", 
+            "name": "twin grid file"
+        }, 
+        {
+            "def": "two-dimensional", 
+            "link": "/wiki/Two-dimensional", 
+            "name": "two-dimensional"
+        }, 
+        {
+            "def": "two-level grid file", 
+            "link": "/w/index.php?title=Two-level_grid_file&action=edit&redlink=1", 
+            "name": "two-level grid file"
+        }, 
+        {
+            "def": "2-3-4 tree", 
+            "link": "/wiki/2-3-4_tree", 
+            "name": "2-3-4 tree"
+        }, 
+        {
+            "def": "2-3 tree", 
+            "link": "/wiki/2-3_tree", 
+            "name": "2-3 tree"
+        }, 
+        {
+            "def": "Two Way algorithm", 
+            "link": "/w/index.php?title=Two_Way_algorithm&action=edit&redlink=1", 
+            "name": "Two Way algorithm"
+        }, 
+        {
+            "def": "two-way linked list", 
+            "link": "/wiki/Two-way_linked_list", 
+            "name": "two-way linked list"
+        }, 
+        {
+            "def": "two-way merge sort", 
+            "link": "/w/index.php?title=Two-way_merge_sort&action=edit&redlink=1", 
+            "name": "two-way merge sort"
+        }, 
+        {
+            "def": "unary function", 
+            "link": "/wiki/Unary_function", 
+            "name": "unary function"
+        }, 
+        {
+            "def": "unbounded knapsack problem (UKP)", 
+            "link": "/wiki/Unbounded_knapsack_problem", 
+            "name": "unbounded knapsack problem (UKP)"
+        }, 
+        {
+            "def": "uncomputable function", 
+            "link": "/wiki/Uncomputable_function", 
+            "name": "uncomputable function"
+        }, 
+        {
+            "def": "uncomputable problem", 
+            "link": "/wiki/Uncomputable_problem", 
+            "name": "uncomputable problem"
+        }, 
+        {
+            "def": "undecidable language", 
+            "link": "/wiki/Undecidable_language", 
+            "name": "undecidable language"
+        }, 
+        {
+            "def": "undecidable problem", 
+            "link": "/wiki/Undecidable_problem", 
+            "name": "undecidable problem"
+        }, 
+        {
+            "def": "undirected graph", 
+            "link": "/wiki/Undirected_graph", 
+            "name": "undirected graph"
+        }, 
+        {
+            "def": "uniform circuit complexity", 
+            "link": "/wiki/Uniform_circuit_complexity", 
+            "name": "uniform circuit complexity"
+        }, 
+        {
+            "def": "uniform circuit family", 
+            "link": "/wiki/Uniform_circuit_family", 
+            "name": "uniform circuit family"
+        }, 
+        {
+            "def": "uniform hashing", 
+            "link": "/w/index.php?title=Uniform_hashing&action=edit&redlink=1", 
+            "name": "uniform hashing"
+        }, 
+        {
+            "def": "uniform matrix", 
+            "link": "/w/index.php?title=Uniform_matrix&action=edit&redlink=1", 
+            "name": "uniform matrix"
+        }, 
+        {
+            "def": "union", 
+            "link": "/wiki/Union_(computer_science)", 
+            "name": "union"
+        }, 
+        {
+            "def": "union of automata", 
+            "link": "/w/index.php?title=Union_of_automata&action=edit&redlink=1", 
+            "name": "union of automata"
+        }, 
+        {
+            "def": "universal hashing", 
+            "link": "/wiki/Universal_hashing", 
+            "name": "universal hashing"
+        }, 
+        {
+            "def": "universal state", 
+            "link": "/wiki/Universal_state_(Turing)", 
+            "name": "universal state"
+        }, 
+        {
+            "def": "universal Turing machine", 
+            "link": "/wiki/Universal_Turing_machine", 
+            "name": "universal Turing machine"
+        }, 
+        {
+            "def": "universe", 
+            "link": "/wiki/Universe", 
+            "name": "universe"
+        }, 
+        {
+            "def": "unsolvable problem", 
+            "link": "/wiki/Unsolvable_problem", 
+            "name": "unsolvable problem"
+        }, 
+        {
+            "def": "unsorted list", 
+            "link": "/wiki/Unsorted_list", 
+            "name": "unsorted list"
+        }, 
+        {
+            "def": "upper triangular matrix", 
+            "link": "/wiki/Upper_triangular_matrix", 
+            "name": "upper triangular matrix"
+        }, 
+        {
+            "def": "van Emde Boas priority queue", 
+            "link": "/wiki/Van_Emde_Boas_tree", 
+            "name": "van Emde Boas priority queue"
+        }, 
+        {
+            "def": "vehicle routing problem", 
+            "link": "/wiki/Vehicle_routing_problem", 
+            "name": "vehicle routing problem"
+        }, 
+        {
+            "def": "Veitch diagram", 
+            "link": "/wiki/Veitch_diagram", 
+            "name": "Veitch diagram"
+        }, 
+        {
+            "def": "Venn diagram", 
+            "link": "/wiki/Venn_diagram", 
+            "name": "Venn diagram"
+        }, 
+        {
+            "def": "vertex", 
+            "link": "/wiki/Vertex_(graph_theory)", 
+            "name": "vertex"
+        }, 
+        {
+            "def": "vertex coloring", 
+            "link": "/wiki/Vertex_coloring", 
+            "name": "vertex coloring"
+        }, 
+        {
+            "def": "vertex connectivity", 
+            "link": "/wiki/Vertex_connectivity", 
+            "name": "vertex connectivity"
+        }, 
+        {
+            "def": "vertex cover", 
+            "link": "/wiki/Vertex_cover", 
+            "name": "vertex cover"
+        }, 
+        {
+            "def": "vertical visibility map", 
+            "link": "/w/index.php?title=Vertical_visibility_map&action=edit&redlink=1", 
+            "name": "vertical visibility map"
+        }, 
+        {
+            "def": "virtual hashing", 
+            "link": "/w/index.php?title=Virtual_hashing&action=edit&redlink=1", 
+            "name": "virtual hashing"
+        }, 
+        {
+            "def": "visibility map", 
+            "link": "/w/index.php?title=Visibility_map&action=edit&redlink=1", 
+            "name": "visibility map"
+        }, 
+        {
+            "def": "visible (geometry)", 
+            "link": "/wiki/Visible_(geometry)", 
+            "name": "visible (geometry)"
+        }, 
+        {
+            "def": "Viterbi algorithm", 
+            "link": "/wiki/Viterbi_algorithm", 
+            "name": "Viterbi algorithm"
+        }, 
+        {
+            "def": "VP-tree", 
+            "link": "/wiki/VP-tree", 
+            "name": "VP-tree"
+        }, 
+        {
+            "def": "VRP (vehicle routing problem)", 
+            "link": "/wiki/Vehicle_routing_problem", 
+            "name": "VRP (vehicle routing problem)"
+        }, 
+        {
+            "def": "walk", 
+            "link": "/wiki/Glossary_of_graph_theory#Walks", 
+            "name": "walk"
+        }, 
+        {
+            "def": "weak cluster", 
+            "link": "/w/index.php?title=Weak_cluster&action=edit&redlink=1", 
+            "name": "weak cluster"
+        }, 
+        {
+            "def": "weak-heap", 
+            "link": "/w/index.php?title=Weak-heap&action=edit&redlink=1", 
+            "name": "weak-heap"
+        }, 
+        {
+            "def": "weak-heap sort", 
+            "link": "/w/index.php?title=Weak-heap_sort&action=edit&redlink=1", 
+            "name": "weak-heap sort"
+        }, 
+        {
+            "def": "weight-balanced tree", 
+            "link": "/wiki/Weight-balanced_tree", 
+            "name": "weight-balanced tree"
+        }, 
+        {
+            "def": "weighted, directed graph", 
+            "link": "/wiki/Weighted,_directed_graph", 
+            "name": "weighted, directed graph"
+        }, 
+        {
+            "def": "weighted graph", 
+            "link": "/wiki/Weighted_graph", 
+            "name": "weighted graph"
+        }, 
+        {
+            "def": "window", 
+            "link": null, 
+            "name": "window"
+        }, 
+        {
+            "def": "witness", 
+            "link": null, 
+            "name": "witness"
+        }, 
+        {
+            "def": "work-depth model", 
+            "link": "/wiki/Work-depth_model", 
+            "name": "work-depth model"
+        }, 
+        {
+            "def": "work-efficient", 
+            "link": "/w/index.php?title=Work-efficient&action=edit&redlink=1", 
+            "name": "work-efficient"
+        }, 
+        {
+            "def": "work-preserving", 
+            "link": "/w/index.php?title=Work-preserving&action=edit&redlink=1", 
+            "name": "work-preserving"
+        }, 
+        {
+            "def": "worst case", 
+            "link": "/wiki/Worst_case", 
+            "name": "worst case"
+        }, 
+        {
+            "def": "worst-case cost", 
+            "link": "/wiki/Worst-case_cost", 
+            "name": "worst-case cost"
+        }, 
+        {
+            "def": "worst-case minimum access", 
+            "link": "/w/index.php?title=Worst-case_minimum_access&action=edit&redlink=1", 
+            "name": "worst-case minimum access"
+        }, 
+        {
+            "def": "Yule\u2013Simon distribution", 
+            "link": "/wiki/Yule%E2%80%93Simon_distribution", 
+            "name": "Yule\u2013Simon distribution"
+        }, 
+        {
+            "def": "Zeller's congruence", 
+            "link": "/wiki/Zeller%27s_congruence", 
+            "name": "Zeller's congruence"
+        }, 
+        {
+            "def": "0-ary function", 
+            "link": "/wiki/0-ary_function", 
+            "name": "0-ary function"
+        }, 
+        {
+            "def": "0-based indexing", 
+            "link": "/wiki/0-based_indexing", 
+            "name": "0-based indexing"
+        }, 
+        {
+            "def": "0/1 knapsack problem", 
+            "link": "/wiki/0/1_knapsack_problem", 
+            "name": "0/1 knapsack problem"
+        }, 
+        {
+            "def": "Zhu\u2013Takaoka string matching algorithm", 
+            "link": "/wiki/Zhu%E2%80%93Takaoka_string_matching_algorithm", 
+            "name": "Zhu\u2013Takaoka string matching algorithm"
+        }, 
+        {
+            "def": "Zipfian distribution", 
+            "link": "/wiki/Zipfian_distribution", 
+            "name": "Zipfian distribution"
+        }, 
+        {
+            "def": "Zipf's law", 
+            "link": "/wiki/Zipf%27s_law", 
+            "name": "Zipf's law"
+        }, 
+        {
+            "def": "Zipper (data structure)", 
+            "link": "/wiki/Zipper_(data_structure)", 
+            "name": "Zipper (data structure)"
+        }
+    ]
+}

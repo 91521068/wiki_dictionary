@@ -1,0 +1,91 @@
+{
+    "c2": "Sport", 
+    "c3": "Table tennis", 
+    "words": [
+        {
+            "def": "Antispin \u2013 A smooth rubber with very low surface friction, used to defend against strong spin or to confuse the opponent. This type of rubber is rarely (if at all) seen in modern top-level table tennis, but is popular with amateur and veteran players.", 
+            "link": null, 
+            "name": "Antispin"
+        }, 
+        {
+            "def": "Blade \u2013 The wooden part of the paddle", 
+            "link": null, 
+            "name": "Blade"
+        }, 
+        {
+            "def": "Crossover \u2013 The point where a player has to change from playing a forehand stroke to backhand stroke; often a target for attack, since it is difficult to return balls aimed at this area.", 
+            "link": null, 
+            "name": "Crossover"
+        }, 
+        {
+            "def": "Early \u2013 The rising part of a ball's bounce", 
+            "link": null, 
+            "name": "Early"
+        }, 
+        {
+            "def": "Inverted rubber \u2013 Rubber which contacts the ball with its smooth surface, and is glued to the rest of the bat with its pimpled surface. With a larger contact area this type of rubber generally produces more spin than pimpled rubber, although some rubbers are designed to have the opposite effect (see Antispin above).", 
+            "link": null, 
+            "name": "Inverted rubber"
+        }, 
+        {
+            "def": "Heavy \u2013 Used to describe strong spin", 
+            "link": null, 
+            "name": "Heavy"
+        }, 
+        {
+            "def": "Late \u2013 The falling part of a ball's bounce", 
+            "link": null, 
+            "name": "Late"
+        }, 
+        {
+            "def": "Loop \u2013 A strong topspin stroke that aims to overpower the spin of the oncoming ball (usually backspin)", 
+            "link": null, 
+            "name": "Loop"
+        }, 
+        {
+            "def": "Loose \u2013 A return which is too high, too long, has insufficient spin or a combination of the above. Easy for the opponent to attack or kill (compare tight, below)", 
+            "link": null, 
+            "name": "Loose"
+        }, 
+        {
+            "def": "Multiball \u2013 Training method minimizing wasted time by using many balls which are continuously fed to the player, either by another player or a ball robot", 
+            "link": null, 
+            "name": "Multiball"
+        }, 
+        {
+            "def": "Penhold \u2013 Style of player who grips the paddle in a manner similar to holding a pen", 
+            "link": null, 
+            "name": "Penhold"
+        }, 
+        {
+            "def": "Pimples(Pips) \u2013 Rubber which contacts the ball with its pimpled surface; produces different effects on the spin compared with inverted rubber, due to the reduced contact area and flexibility of the pimples", 
+            "link": null, 
+            "name": "Pimples(Pips)"
+        }, 
+        {
+            "def": "Sandwich rubber \u2013 Inverted rubber, with sponge", 
+            "link": null, 
+            "name": "Sandwich rubber"
+        }, 
+        {
+            "def": "Shakehand \u2013 The most popular table-tennis grip; similar to a tennis grip, with the index finger extended over the paddle head perpendicular to the handle", 
+            "link": null, 
+            "name": "Shakehand"
+        }, 
+        {
+            "def": "Speed glue \u2013 Glue used to attach rubber to the blade; contains a high percentage of volatile solvents, which soak into the sponge of a rubber and increase the speed and spin of a stroke", 
+            "link": null, 
+            "name": "Speed glue"
+        }, 
+        {
+            "def": "Third ball \u2013 The stroke hit by the server after the opponent's return of the serve. Because the serve can be used to make attacking difficult for the opponent, the third ball is frequently the first strong attacking stroke in a table-tennis rally.", 
+            "link": null, 
+            "name": "Third ball"
+        }, 
+        {
+            "def": "Tight \u2013 A return which is difficult for the opponent to attack. Always a low ball, usually in combination with being short, having strong backspin or both[1]", 
+            "link": null, 
+            "name": "Tight"
+        }
+    ]
+}

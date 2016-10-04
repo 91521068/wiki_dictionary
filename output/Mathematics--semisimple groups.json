@@ -1,0 +1,381 @@
+{
+    "c2": "Mathematics", 
+    "c3": "semisimple groups", 
+    "words": [
+        {
+            "def": "Adjoint representation", 
+            "link": "/wiki/Adjoint_representation", 
+            "name": "Adjoint representation"
+        }, 
+        {
+            "def": "Affine Lie algebra", 
+            "link": "/wiki/Affine_Lie_algebra", 
+            "name": "Affine Lie algebra"
+        }, 
+        {
+            "def": "Algebraic group", 
+            "link": "/wiki/Algebraic_group", 
+            "name": "Algebraic group"
+        }, 
+        {
+            "def": "(B, N) pair", 
+            "link": "/wiki/(B,_N)_pair", 
+            "name": "(B, N) pair"
+        }, 
+        {
+            "def": "Borel subgroup", 
+            "link": "/wiki/Borel_subgroup", 
+            "name": "Borel subgroup"
+        }, 
+        {
+            "def": "Borel-Bott-Weil theorem", 
+            "link": "/wiki/Borel-Bott-Weil_theorem", 
+            "name": "Borel-Bott-Weil theorem"
+        }, 
+        {
+            "def": "Bruhat decomposition", 
+            "link": "/wiki/Bruhat_decomposition", 
+            "name": "Bruhat decomposition"
+        }, 
+        {
+            "def": "Cartan decomposition", 
+            "link": "/wiki/Cartan_decomposition", 
+            "name": "Cartan decomposition"
+        }, 
+        {
+            "def": "Cartan matrix", 
+            "link": "/wiki/Cartan_matrix", 
+            "name": "Cartan matrix"
+        }, 
+        {
+            "def": "Cartan subalgebra", 
+            "link": "/wiki/Cartan_subalgebra", 
+            "name": "Cartan subalgebra"
+        }, 
+        {
+            "def": "Cartan subgroup", 
+            "link": "/wiki/Cartan_subgroup", 
+            "name": "Cartan subgroup"
+        }, 
+        {
+            "def": "Casimir invariant", 
+            "link": "/wiki/Casimir_invariant", 
+            "name": "Casimir invariant"
+        }, 
+        {
+            "def": "Clebsch\u2013Gordan coefficients", 
+            "link": "/wiki/Clebsch%E2%80%93Gordan_coefficients", 
+            "name": "Clebsch\u2013Gordan coefficients"
+        }, 
+        {
+            "def": "Compact Lie group", 
+            "link": "/wiki/Compact_Lie_group", 
+            "name": "Compact Lie group"
+        }, 
+        {
+            "def": "Complex reflection group", 
+            "link": "/wiki/Complex_reflection_group", 
+            "name": "Complex reflection group"
+        }, 
+        {
+            "def": "coroot", 
+            "link": "/wiki/Coroot", 
+            "name": "coroot"
+        }, 
+        {
+            "def": "Coxeter group", 
+            "link": "/wiki/Coxeter_group", 
+            "name": "Coxeter group"
+        }, 
+        {
+            "def": "Coxeter number", 
+            "link": "/wiki/Coxeter_number", 
+            "name": "Coxeter number"
+        }, 
+        {
+            "def": "Cuspidal representation", 
+            "link": "/wiki/Cuspidal_representation", 
+            "name": "Cuspidal representation"
+        }, 
+        {
+            "def": "Discrete series", 
+            "link": "/wiki/Discrete_series", 
+            "name": "Discrete series"
+        }, 
+        {
+            "def": "Dominant weight", 
+            "link": null, 
+            "name": "Dominant weight"
+        }, 
+        {
+            "def": "Dynkin diagram", 
+            "link": "/wiki/Dynkin_diagram", 
+            "name": "Dynkin diagram"
+        }, 
+        {
+            "def": "E6 (mathematics)", 
+            "link": "/wiki/E6_(mathematics)", 
+            "name": "E6 (mathematics)"
+        }, 
+        {
+            "def": "E7 (mathematics)", 
+            "link": "/wiki/E7_(mathematics)", 
+            "name": "E7 (mathematics)"
+        }, 
+        {
+            "def": "E7\u00bd (Lie algebra)", 
+            "link": "/wiki/E7%C2%BD_(Lie_algebra)", 
+            "name": "E7\u00bd (Lie algebra)"
+        }, 
+        {
+            "def": "E8 (mathematics)", 
+            "link": "/wiki/E8_(mathematics)", 
+            "name": "E8 (mathematics)"
+        }, 
+        {
+            "def": "En (Lie algebra)", 
+            "link": "/wiki/En_(Lie_algebra)", 
+            "name": "En (Lie algebra)"
+        }, 
+        {
+            "def": "Exceptional Lie algebra", 
+            "link": "/wiki/Exceptional_Lie_algebra", 
+            "name": "Exceptional Lie algebra"
+        }, 
+        {
+            "def": "F4 (mathematics)", 
+            "link": "/wiki/F4_(mathematics)", 
+            "name": "F4 (mathematics)"
+        }, 
+        {
+            "def": "Flag manifold", 
+            "link": "/wiki/Flag_manifold", 
+            "name": "Flag manifold"
+        }, 
+        {
+            "def": "Fundamental representation", 
+            "link": null, 
+            "name": "Fundamental representation"
+        }, 
+        {
+            "def": "Fundamental Weyl chamber", 
+            "link": null, 
+            "name": "Fundamental Weyl chamber"
+        }, 
+        {
+            "def": "G2 (mathematics)", 
+            "link": "/wiki/G2_(mathematics)", 
+            "name": "G2 (mathematics)"
+        }, 
+        {
+            "def": "Generalized Cartan matrix", 
+            "link": "/wiki/Generalized_Cartan_matrix", 
+            "name": "Generalized Cartan matrix"
+        }, 
+        {
+            "def": "Generalized Kac\u2013Moody algebra", 
+            "link": "/wiki/Generalized_Kac%E2%80%93Moody_algebra", 
+            "name": "Generalized Kac\u2013Moody algebra"
+        }, 
+        {
+            "def": "Generalized Verma module", 
+            "link": "/wiki/Generalized_Verma_module", 
+            "name": "Generalized Verma module"
+        }, 
+        {
+            "def": "Harish-Chandra homomorphism", 
+            "link": "/wiki/Harish-Chandra_homomorphism", 
+            "name": "Harish-Chandra homomorphism"
+        }, 
+        {
+            "def": "Highest weight", 
+            "link": "/wiki/Highest_weight", 
+            "name": "Highest weight"
+        }, 
+        {
+            "def": "Highest weight module", 
+            "link": "/wiki/Highest_weight_module", 
+            "name": "Highest weight module"
+        }, 
+        {
+            "def": "Iwasawa decomposition", 
+            "link": "/wiki/Iwasawa_decomposition", 
+            "name": "Iwasawa decomposition"
+        }, 
+        {
+            "def": "Kac\u2013Moody algebra", 
+            "link": "/wiki/Kac%E2%80%93Moody_algebra", 
+            "name": "Kac\u2013Moody algebra"
+        }, 
+        {
+            "def": "Killing form", 
+            "link": "/wiki/Killing_form", 
+            "name": "Killing form"
+        }, 
+        {
+            "def": "Kirillov character formula", 
+            "link": "/wiki/Kirillov_character_formula", 
+            "name": "Kirillov character formula"
+        }, 
+        {
+            "def": "Langlands decomposition", 
+            "link": "/wiki/Langlands_decomposition", 
+            "name": "Langlands decomposition"
+        }, 
+        {
+            "def": "Langlands dual", 
+            "link": "/wiki/Langlands_dual", 
+            "name": "Langlands dual"
+        }, 
+        {
+            "def": "Levi decomposition", 
+            "link": "/wiki/Levi_decomposition", 
+            "name": "Levi decomposition"
+        }, 
+        {
+            "def": "Lie algebra", 
+            "link": "/wiki/Lie_algebra", 
+            "name": "Lie algebra"
+        }, 
+        {
+            "def": "Lowest weight", 
+            "link": null, 
+            "name": "Lowest weight"
+        }, 
+        {
+            "def": "Maximal compact subgroup", 
+            "link": "/wiki/Maximal_compact_subgroup", 
+            "name": "Maximal compact subgroup"
+        }, 
+        {
+            "def": "Maximal torus", 
+            "link": "/wiki/Maximal_torus", 
+            "name": "Maximal torus"
+        }, 
+        {
+            "def": "Nilpotent cone", 
+            "link": "/wiki/Nilpotent_cone", 
+            "name": "Nilpotent cone"
+        }, 
+        {
+            "def": "Parabolic subgroup", 
+            "link": "/wiki/Parabolic_subgroup", 
+            "name": "Parabolic subgroup"
+        }, 
+        {
+            "def": "Peter\u2013Weyl theorem", 
+            "link": "/wiki/Peter%E2%80%93Weyl_theorem", 
+            "name": "Peter\u2013Weyl theorem"
+        }, 
+        {
+            "def": "Positive root", 
+            "link": null, 
+            "name": "Positive root"
+        }, 
+        {
+            "def": "Real form", 
+            "link": "/wiki/Real_form", 
+            "name": "Real form"
+        }, 
+        {
+            "def": "Reductive group", 
+            "link": "/wiki/Reductive_group", 
+            "name": "Reductive group"
+        }, 
+        {
+            "def": "Reflection group", 
+            "link": "/wiki/Reflection_group", 
+            "name": "Reflection group"
+        }, 
+        {
+            "def": "Root datum", 
+            "link": "/wiki/Root_datum", 
+            "name": "Root datum"
+        }, 
+        {
+            "def": "Root system", 
+            "link": "/wiki/Root_system", 
+            "name": "Root system"
+        }, 
+        {
+            "def": "Schur polynomial", 
+            "link": "/wiki/Schur_polynomial", 
+            "name": "Schur polynomial"
+        }, 
+        {
+            "def": "Semisimple Lie algebra", 
+            "link": "/wiki/Semisimple_Lie_algebra", 
+            "name": "Semisimple Lie algebra"
+        }, 
+        {
+            "def": "Semisimple Lie group", 
+            "link": "/wiki/Semisimple_Lie_group", 
+            "name": "Semisimple Lie group"
+        }, 
+        {
+            "def": "Simple Lie algebra", 
+            "link": "/wiki/Simple_Lie_algebra", 
+            "name": "Simple Lie algebra"
+        }, 
+        {
+            "def": "Simple Lie group", 
+            "link": "/wiki/Simple_Lie_group", 
+            "name": "Simple Lie group"
+        }, 
+        {
+            "def": "Simple root", 
+            "link": "/wiki/Simple_root_(root_system)", 
+            "name": "Simple root"
+        }, 
+        {
+            "def": "Simply laced group", 
+            "link": "/wiki/Simply_laced_group", 
+            "name": "Simply laced group"
+        }, 
+        {
+            "def": "Steinberg representation", 
+            "link": "/wiki/Steinberg_representation", 
+            "name": "Steinberg representation"
+        }, 
+        {
+            "def": "Unitarian trick", 
+            "link": "/wiki/Unitarian_trick", 
+            "name": "Unitarian trick"
+        }, 
+        {
+            "def": "Verma module", 
+            "link": "/wiki/Verma_module", 
+            "name": "Verma module"
+        }, 
+        {
+            "def": "Weight (representation theory)", 
+            "link": "/wiki/Weight_(representation_theory)", 
+            "name": "Weight (representation theory)"
+        }, 
+        {
+            "def": "Weight module", 
+            "link": "/wiki/Weight_module", 
+            "name": "Weight module"
+        }, 
+        {
+            "def": "Weight space", 
+            "link": "/wiki/Weight_space", 
+            "name": "Weight space"
+        }, 
+        {
+            "def": "Weyl chamber", 
+            "link": "/wiki/Weyl_chamber", 
+            "name": "Weyl chamber"
+        }, 
+        {
+            "def": "Weyl character formula", 
+            "link": "/wiki/Weyl_character_formula", 
+            "name": "Weyl character formula"
+        }, 
+        {
+            "def": "Weyl group", 
+            "link": "/wiki/Weyl_group", 
+            "name": "Weyl group"
+        }
+    ]
+}

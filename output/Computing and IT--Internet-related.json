@@ -1,0 +1,166 @@
+{
+    "c2": "Computing and IT", 
+    "c3": "Internet-related", 
+    "words": [
+        {
+            "def": "Asymmetric Digital Subscriber Line is a technology for transmitting digital information at a high bandwidth on existing phone lines to homes and businesses. ADSL is asymmetric in the sense that it uses most of the channel to transmit downstream to the user and only a small part to receive information from the user. This means, high download rates and slower upload rates. Generally if you see 2Mb ADSL broadband, it refers to 2 Mbit/s Max d/load rate. The upload rate will probably be around 256 kbit/s Max. (ADSL has a maximum download rate of 8 Mbit/s, ADSL2 is capable of up to 16 Mbit/s and ADSL2+ is rated at 24 Mbit/s maximum.)", 
+            "link": "/wiki/ADSL", 
+            "name": "ADSL"
+        }, 
+        {
+            "def": "writing on or otherwise using online journals known as web logs or blogs", 
+            "link": "/wiki/Blogging", 
+            "name": "blogging"
+        }, 
+        {
+            "def": "Primary competitor to ADSL, uses digital information transmitted over a cable television infrastructure.", 
+            "link": "/wiki/Cable_modem", 
+            "name": "cable modem"
+        }, 
+        {
+            "def": "Cascading Style Sheets; while HTML dictates the content of page, CSS regulates the format, including headers, footers, navigation bars, etc. While all of these elements can be created in HTML, such a method would have to be repeated on every web page. CSS on the other hand, is applied to all pages of a website.", 
+            "link": "/wiki/CSS", 
+            "name": "CSS"
+        }, 
+        {
+            "def": "A bully who harasses his or her victims online through various means such as spamming, defaming or negative impersonation of the victim.", 
+            "link": "/wiki/Cyberbullying", 
+            "name": "cyberbully"
+        }, 
+        {
+            "def": "A method of connection to the internet using existing copper phone lines using a modem on the client's end to send information at a slow speed, normally reaching maximum speed at about 56 kbit/s. This technology uses the voice spectrum of the telephone lines to transmit data using a system of sounds that only the receiving modem or ISP understand.", 
+            "link": "/wiki/Dial-up", 
+            "name": "dial-up"
+        }, 
+        {
+            "def": "someone who searches the Internet for references of themselves", 
+            "link": "/wiki/Egosurfer", 
+            "name": "egosurfer"
+        }, 
+        {
+            "def": "The opposite of \"win\", \"fail\" expresses an ability to incorrectly perform acts ranging from idiotically simple to impossibly difficult, often consisting of an amusing element.", 
+            "link": "/wiki/Epic_fail", 
+            "name": "fail"
+        }, 
+        {
+            "def": "A flamer is someone who makes degrading or insulting remarks on a forum or other Internet message board, the verb of which is \"flame\".", 
+            "link": "/wiki/Flamewar", 
+            "name": "flamer"
+        }, 
+        {
+            "def": "the act of making and adding friends online through social networking sites such as Facebook and MySpace", 
+            "link": "/wiki/Friending", 
+            "name": "friending"
+        }, 
+        {
+            "def": "Protocol to exchange files between two computers.", 
+            "link": "/wiki/FTP", 
+            "name": "FTP"
+        }, 
+        {
+            "def": "A popular mind game, often referred to on public message boards as a way to irritate other users.", 
+            "link": "/wiki/The_Game_(mind_game)", 
+            "name": "the Game"
+        }, 
+        {
+            "def": "searching through the Google search engine", 
+            "link": "/wiki/Googling", 
+            "name": "Googling"
+        }, 
+        {
+            "def": "A player of an online game who harasses other players.", 
+            "link": "/wiki/Griefer", 
+            "name": "griefer"
+        }, 
+        {
+            "def": "HyperText Markup Language, the coding language used to create hypertext documents for the World Wide Web. In HTML, a block of text can be surrounded with tags that indicate how it should appear (for example, in bold face or italics). Also, in HTML a word, a block of text, or an image can be linked to another file on the Web. HTML files are viewed with a World Wide Web browser.", 
+            "link": "/wiki/HTML", 
+            "name": "HTML"
+        }, 
+        {
+            "def": "clueless user; everybody giving a hard time to (computer) administrators", 
+            "link": "/wiki/ID-Ten-T_Error", 
+            "name": "ID-10-T"
+        }, 
+        {
+            "def": "Leet, or \"1337\", (from elite) is someone who is unnaturally adept at a certain trait or ability. Originally used as a slightly infra dig expression in the hacker community. Later usage centered around video games players.", 
+            "link": "/wiki/Leet", 
+            "name": "leet"
+        }, 
+        {
+            "def": "Used as a response on a threaded discussion when the new poster wanted the same information as the previous poster.[1]", 
+            "link": null, 
+            "name": "me too"
+        }, 
+        {
+            "def": "someone who spends a lot of time at the computer, in analogy to a couch potato who spends a lot of time watching TV. Also known as a \"Comp Head\" in relation to a crack cocaine addict, or \"coke head\".", 
+            "link": "/wiki/Mouse_potato", 
+            "name": "mouse potato"
+        }, 
+        {
+            "def": "A new or unexperienced person, someone who does not know the rules of a website, or has only recently joined. A wordplay on newbie.", 
+            "link": "/wiki/Noob", 
+            "name": "noob"
+        }, 
+        {
+            "def": "The act of attempting to obtain private or sensitive information such as user names, passwords and credit card information through the use of fake emails from trustworthy sites.", 
+            "link": "/wiki/Phishing", 
+            "name": "phishing"
+        }, 
+        {
+            "def": "PHP Hypertext Preprocessor, the coding language to create interactive web pages and so forth.", 
+            "link": "/wiki/PHP", 
+            "name": "PHP"
+        }, 
+        {
+            "def": "Protocol to retrieve email.", 
+            "link": "/wiki/POP3", 
+            "name": "POP3"
+        }, 
+        {
+            "def": "A person who scours the Internet for media and posts the findings on the Reddit website. Once posted, other members can upvote or downvote the material based on their evaluation of it.", 
+            "link": "/wiki/Redditor", 
+            "name": "Redditor"
+        }, 
+        {
+            "def": "Protocol to send email.", 
+            "link": "/wiki/SMTP", 
+            "name": "SMTP"
+        }, 
+        {
+            "def": "the act of sending unsolicited email or posting many useless messages in a forum website. (Possibly derived from a Monty Python sketch, in which Vikings repetitively sing about SPAM, annoying the other customers.)[citation needed]", 
+            "link": "/wiki/Spamming", 
+            "name": "spamming"
+        }, 
+        {
+            "def": "someone who searches for information via whatever means needed which would compromise the security of a site. This activity often includes searching trash or refuse disposed in recycle bins from the facility.", 
+            "link": "/wiki/Trashers", 
+            "name": "trashers"
+        }, 
+        {
+            "def": "someone who attempts to gain infamy in chat or on forums by use of but not limited to links to disturbing items, bashing (fighting, put down) with others, copying or mimicking other's real posts into perverted messages.", 
+            "link": "/wiki/Internet_troll", 
+            "name": "troll"
+        }, 
+        {
+            "def": "a small message sent by a user of the website Twitter.", 
+            "link": "/wiki/Twitter", 
+            "name": "tweet"
+        }, 
+        {
+            "def": "The act of removing someone from a list of friends on social networking profiles of Facebook, MySpace or Bebo. It is also the Oxford dictionary's 2009 Word of the Year.", 
+            "link": "/wiki/Unfriend", 
+            "name": "unfriend"
+        }, 
+        {
+            "def": "Similar to \"leet\", \"win\" expresses an ability to perform an otherwise impossible act through pure luck or practice, or an object or statement that constitutes an amusing or amazing element.", 
+            "link": "/wiki/Epic_fail", 
+            "name": "win"
+        }, 
+        {
+            "def": "a person who produces video content for the video-sharing site YouTube.", 
+            "link": null, 
+            "name": "YouTuber"
+        }
+    ]
+}

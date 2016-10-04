@@ -1,0 +1,1896 @@
+{
+    "c2": "Physics", 
+    "c3": "geology", 
+    "words": [
+        {
+            "def": "Abyssal plain - Flat or very gently sloping areas of the deep ocean basin floor.", 
+            "link": "/wiki/Abyssal_plain", 
+            "name": "Abyssal plain"
+        }, 
+        {
+            "def": "Absolute dating - the process of determining a specific date (in years or some other unit of time) for an archaeological, geological or paleontological site or artifact.", 
+            "link": "/wiki/Absolute_dating", 
+            "name": "Absolute dating"
+        }, 
+        {
+            "def": "Accretion - a process by which material is added to a tectonic plate.", 
+            "link": "/wiki/Accretion_(geology)", 
+            "name": "Accretion"
+        }, 
+        {
+            "def": "Achnelith - Small, glassy volcanic bomb, sphere, dumbbell and droplet shapes resulting from very liquid magma.", 
+            "link": "/w/index.php?title=Achnelith&action=edit&redlink=1", 
+            "name": "Achnelith"
+        }, 
+        {
+            "def": "Acid rocks - The groups ultrabasic, basic, intermediate and acid constitute a series with progressively increasing SiO2 content.", 
+            "link": "/w/index.php?title=Acid_rocks&action=edit&redlink=1", 
+            "name": "Acid rocks"
+        }, 
+        {
+            "def": "Aftershock - Small earthquake that follows a main shock.", 
+            "link": "/wiki/Aftershock", 
+            "name": "Aftershock"
+        }, 
+        {
+            "def": "Agglomerate - An indurated rock built of large angular rock fragments embedded in an ashy matrix and resulting from explosive volcanic activity. Occurs typically in volcanic vents.", 
+            "link": "/wiki/Agglomerate", 
+            "name": "Agglomerate"
+        }, 
+        {
+            "def": "Aggregate - A mass consisting of rock or mineral fragments.", 
+            "link": "/w/index.php?title=Aggregate_(geology)&action=edit&redlink=1", 
+            "name": "Aggregate"
+        }, 
+        {
+            "def": "Albite - The end member of the plagioclase group of minerals. Ideally consists of silicate of Sodium and Aluminium, but commonly contains small quantities of potash and lime in addition. Cf Barbierite.", 
+            "link": "/wiki/Albite", 
+            "name": "Albite"
+        }, 
+        {
+            "def": "Alkaline - a highly basic substance that dissolves in water.", 
+            "link": "/wiki/Alkaline", 
+            "name": "Alkaline"
+        }, 
+        {
+            "def": "Alkaline rocks - The alkaline rocks are characterized by a high content of Na2O and K2O relative to the other oxides. They occur throughout the range from ultrabasic to acid, but have their strongest expression in the acid-intermediate part of the range", 
+            "link": "/w/index.php?title=Alkaline_rocks&action=edit&redlink=1", 
+            "name": "Alkaline rocks"
+        }, 
+        {
+            "def": "Allochthonous - Either fossils, sediments, or rocks that were formed elsewhere and later transported into the location where they are presently found. An example is an Allochthon, which is a large block of rock which has been moved from its original site of formation, usually by low angle thrust faulting.", 
+            "link": "/wiki/Allochthonous", 
+            "name": "Allochthonous"
+        }, 
+        {
+            "def": "Alluvial fan - a fan-shaped deposit formed where a fast flowing stream flattens, slows, and spreads typically at the exit of a canyon onto a flatter plain.", 
+            "link": "/wiki/Alluvial_fan", 
+            "name": "Alluvial fan"
+        }, 
+        {
+            "def": "Alluvium - soil or sediments deposited by a river or other running water.", 
+            "link": "/wiki/Alluvium", 
+            "name": "Alluvium"
+        }, 
+        {
+            "def": "Amber - name for fossil resin or tree sap that is appreciated for its colour.", 
+            "link": "/wiki/Amber", 
+            "name": "Amber"
+        }, 
+        {
+            "def": "Amphibole - An important group of dark-coloured, rock-forming silicate minerals, including hornblende, the commonest.", 
+            "link": "/wiki/Amphibole", 
+            "name": "Amphibole"
+        }, 
+        {
+            "def": "Amphibolite - A crystalline, coarse-grained rock, containing amphibole as an essential constituent, together with feldspar and frequently garnet. Like hornblende schist, amphibolite is formed by regional metamorphism of basic igneous rocks, but is not foliated.", 
+            "link": "/wiki/Amphibolite", 
+            "name": "Amphibolite"
+        }, 
+        {
+            "def": "Amygdaloidal - Amygdules or amygdales form when the gas bubbles or vesicles in volcanic lava (or other extrusive igneous rocks) are infilled with a secondary mineral such as calcite, quartz, chlorite or one of the zeolites. Rocks containing amygdules can be described as amygdaloidal.", 
+            "link": "/wiki/Amygdule", 
+            "name": "Amygdaloidal"
+        }, 
+        {
+            "def": "Anatexis - Melting of pre-existing rock. Cf Metatexis, diatexis, syntexis", 
+            "link": "/wiki/Anatexis", 
+            "name": "Anatexis"
+        }, 
+        {
+            "def": "Andalusite - One of several crystalline forms of aluminium silicate; a characteristic product if the contact metamorphism of argillaceous rocks.", 
+            "link": "/wiki/Andalusite", 
+            "name": "Andalusite"
+        }, 
+        {
+            "def": "Andesite - fine-grained igneous rock of intermediate composition. Up to half of the rock is plagioclase feldspar with the rest being ferromagnesian minerals.", 
+            "link": "/wiki/Andesite", 
+            "name": "Andesite"
+        }, 
+        {
+            "def": "Angular unconformity - an unconformity in which younger strata overlie an erosion surface on tilted of folded layered rock.", 
+            "link": "/wiki/Angular_unconformity", 
+            "name": "Angular unconformity"
+        }, 
+        {
+            "def": "Anorthite - The lime rich end of the plagioclase group of minerals; Silicate of calcium and aluminium, occurring in some basic igneous rocks, typically those produced by the contact metamorphism of impure calcareous sediments. Also called Indianite.", 
+            "link": "/wiki/Anorthite", 
+            "name": "Anorthite"
+        }, 
+        {
+            "def": "Anticline - an arched fold in which the layers usually dip away from the axis.", 
+            "link": "/wiki/Anticline", 
+            "name": "Anticline"
+        }, 
+        {
+            "def": "Aphanic - Texture of carbonate sedimentary rocks characterized by individual crystals or clastic grains < 0.01mm.", 
+            "link": "/w/index.php?title=Aphanic&action=edit&redlink=1", 
+            "name": "Aphanic"
+        }, 
+        {
+            "def": "Aphanitic - Said of the texture of igneous rock in which the crystalline components are not distinguishable by the naked eye: Both microcrystalline and cryptocrystalline textures are included.", 
+            "link": "/wiki/Aphanitic", 
+            "name": "Aphanitic"
+        }, 
+        {
+            "def": "Aplogranite - a light-colored rock of granitic texture consisting mainly of alkali feldspar and quartz, with subordinate biotite; muscovite may be present.", 
+            "link": "/w/index.php?title=Aplogranite&action=edit&redlink=1", 
+            "name": "Aplogranite"
+        }, 
+        {
+            "def": "Aquifer - a body of saturated rock or sediment through which water can move readily.", 
+            "link": "/wiki/Aquifer", 
+            "name": "Aquifer"
+        }, 
+        {
+            "def": "Aragonite sea - contains aragonite and high-magnesium calcite as the primary inorganic carbonate precipitates.", 
+            "link": "/wiki/Aragonite_sea", 
+            "name": "Aragonite sea"
+        }, 
+        {
+            "def": "Archean Eon - the oldest eon of the Earth's history.", 
+            "link": "/wiki/Archean_Eon", 
+            "name": "Archean Eon"
+        }, 
+        {
+            "def": "Archipelago - a chain or cluster of islands.", 
+            "link": "/wiki/Archipelago", 
+            "name": "Archipelago"
+        }, 
+        {
+            "def": "Arenaceous - Sediments consisting essentially of sand grains, that is, of quartz and rock fragments down to 0.005mm in size. Conglomerates, sandstones, grits and siltstones fall into this category Particle size 2mm to 1/16mm", 
+            "link": "/wiki/Arenaceous", 
+            "name": "Arenaceous"
+        }, 
+        {
+            "def": "Arenite - a) General term for consolidated sedimentary rock composed of sand sized fragments. b) \u201cclean\u201d sandstone, well sorted, <10% argillaceous matrix. Opposite to Wacke. (Etymology: Arena \u2013 Latin \u2013 sand)", 
+            "link": "/wiki/Arenite", 
+            "name": "Arenite"
+        }, 
+        {
+            "def": "Arenitic - Pertaining to, having quality of, or resembling sandstone.", 
+            "link": "/w/index.php?title=Arenitic&action=edit&redlink=1", 
+            "name": "Arenitic"
+        }, 
+        {
+            "def": "Arkose - An arenaceous sedimentary rock. Like sandstone in its general character, but containing feldspar to at least 10%.Formed by the disintegration of the acid igneous rocks and gneisses.", 
+            "link": "/wiki/Arkose", 
+            "name": "Arkose"
+        }, 
+        {
+            "def": "Argillaceous - Sedimentary rocks of the clay grade, i.e. composed of minute mineral fragments and crystals less than 0.005mm in diameter, also much colloidal material. Apart from finely divided detrital matter, they consist of the so-called clay minerals, such as montmorillonite, kaolinite, gibbsite and diaspore. Siltstones, mudstones, shales, clays etc.", 
+            "link": "/wiki/Argillaceous", 
+            "name": "Argillaceous"
+        }, 
+        {
+            "def": "Ash - fragments less than 2\u00a0mm (0.079 inches) in diameter of pulverized rock, minerals and volcanic glass, created during volcanic eruptions.", 
+            "link": "/wiki/Volcanic_ash", 
+            "name": "Ash"
+        }, 
+        {
+            "def": "Asphalt - sticky, black and highly viscous liquid or semi-solid that is present in most crude petroleums and in some natural deposits.", 
+            "link": "/wiki/Asphalt", 
+            "name": "Asphalt"
+        }, 
+        {
+            "def": "Asthenosphere - a region of the Earth's outer shell beneath the lithosphere. The asthenosphere is of indeterminate thickness and behaves plastically.", 
+            "link": "/wiki/Asthenosphere", 
+            "name": "Asthenosphere"
+        }, 
+        {
+            "def": "Augite - A complex aluminous silicate of calcium, iron and magnesium, crystallising in the monoclinic system, and occurring in many igneous rocks, particularly those of basic composition. It is an essential component of basalt, dolerite and gabbro.", 
+            "link": "/wiki/Augite", 
+            "name": "Augite"
+        }, 
+        {
+            "def": "Aureole - Zone surrounding igneous intrusion in which country rock shows effects of contact metamorphism.", 
+            "link": "/wiki/Aureole", 
+            "name": "Aureole"
+        }, 
+        {
+            "def": "Autochthonous - Fossils, sediments, or rocks that were formed or produced in the location where they are now found. This term is widely applied to a coal or peat that originated at the place where the plants comprising it grew and decayed and to rocks that have not been displaced by overthrust faulting.", 
+            "link": "https://en.wiktionary.org/wiki/autochthonous", 
+            "name": "Autochthonous"
+        }, 
+        {
+            "def": "Banded Iron Formation - distinctive type of rock often found in primordial sedimentary rocks.", 
+            "link": "/wiki/Banded_Iron_Formation", 
+            "name": "Banded Iron Formation"
+        }, 
+        {
+            "def": "Basalt - fine-grained, mafic, igneous rock composed predominantly of ferromagnesian minerals and with lesser amounts of calcium-rich plagioclase feldspar.", 
+            "link": "/wiki/Basalt", 
+            "name": "Basalt"
+        }, 
+        {
+            "def": "Basement rock - the thick foundation of ancient, and oldest metamorphic and igneous rock that forms the crust of continents, often in the form of granite.", 
+            "link": "/wiki/Basement_rock", 
+            "name": "Basement rock"
+        }, 
+        {
+            "def": "Basic rocks - Igneous rock with low silica content (<54%). The groups ultrabasic, basic, intermediate and acid constitute a series with progressively increasing SiO2 content.", 
+            "link": "/w/index.php?title=Basic_rocks&action=edit&redlink=1", 
+            "name": "Basic rocks"
+        }, 
+        {
+            "def": "Basin - rock formation scooped out by water erosion.", 
+            "link": "/wiki/Drainage_basin", 
+            "name": "Basin"
+        }, 
+        {
+            "def": "Basin and Range Province - particular type of topography that covers much of the southwestern United States and northwestern Mexico that is typified by elongate north-south trending arid valleys bounded by mountain ranges which also bound adjacent valleys.", 
+            "link": "/wiki/Basin_and_Range_Province", 
+            "name": "Basin and Range Province"
+        }, 
+        {
+            "def": "Batholith - a large discordant pluton with an outcropping area greater than 100 square kilometers.", 
+            "link": "/wiki/Batholith", 
+            "name": "Batholith"
+        }, 
+        {
+            "def": "Bedrock - native consolidated rock underlying the surface of a terrestrial planet, usually the Earth.", 
+            "link": "/wiki/Bedrock", 
+            "name": "Bedrock"
+        }, 
+        {
+            "def": "Bioerosion - the erosion of hard ocean substrates by living organisms through a number of mechanisms.", 
+            "link": "/wiki/Bioerosion", 
+            "name": "Bioerosion"
+        }, 
+        {
+            "def": "Biostratigraphy - branch of stratigraphy which focuses on correlating and assigning relative ages of rock strata by using the fossil assemblages contained within them.", 
+            "link": "/wiki/Biostratigraphy", 
+            "name": "Biostratigraphy"
+        }, 
+        {
+            "def": "Biostratinomy - study of the processes that take place after an organism dies but before its final burial.", 
+            "link": "/wiki/Biostratinomy", 
+            "name": "Biostratinomy"
+        }, 
+        {
+            "def": "Biotite - A form of black mica widely distributed in igneous rocks (particularly in granites) as lustrous black crystals, with a singularly perfect cleavage. In composition it is a complex silicate, chiefly of iron and magnesium, together with potassium and hydroxyl.", 
+            "link": "/wiki/Biotite", 
+            "name": "Biotite"
+        }, 
+        {
+            "def": "Bioturbation - displacement and mixing of sediment particles by benthic fauna (animals) or flora (plants).", 
+            "link": "/wiki/Bioturbation", 
+            "name": "Bioturbation"
+        }, 
+        {
+            "def": "Blueschist - rock that forms by the metamorphism of basalt and rocks with similar composition at high pressures and low temperatures, approximately corresponding to a depth of 15 to 30 kilometers and 200 to ~500 degrees Celsius.", 
+            "link": "/wiki/Blueschist", 
+            "name": "Blueschist"
+        }, 
+        {
+            "def": "Brackish - water that has more salinity than fresh water, but not as much as seawater.", 
+            "link": "/wiki/Brackish", 
+            "name": "Brackish"
+        }, 
+        {
+            "def": "Breadcrust bomb - Rounded, smooth-surfaced volcanic bomb with cracked surface resembling cracked crust of bread, hence the name.", 
+            "link": "/wiki/Breadcrust_bomb", 
+            "name": "Breadcrust bomb"
+        }, 
+        {
+            "def": "Breccia - A coarse grained clastic rock consisting largely of angular fragments of existing rocks.", 
+            "link": "/wiki/Breccia", 
+            "name": "Breccia"
+        }, 
+        {
+            "def": "Boudin - geological term used for structures formed by extension, where a rigid tabular body such as a bed of sandstone, is stretched and deformed amidst less competent beds. See also Boudinage.", 
+            "link": "/wiki/Boudinage", 
+            "name": "Boudin"
+        }, 
+        {
+            "def": "Bowen's reaction series - the sequence in which minerals crystallize from a cooling basaltic magma.", 
+            "link": "/wiki/Bowen%27s_reaction_series", 
+            "name": "Bowen's reaction series"
+        }, 
+        {
+            "def": "Fold Buckling (geology) - typically, folding is thought to occur by simple buckling of a planar surface and its confining volume. The volume change is accommodated by layer parallel shortening the volume, which grows in thickness.", 
+            "link": "/wiki/Fold_(geology)#Buckling", 
+            "name": "Fold Buckling (geology)"
+        }, 
+        {
+            "def": "Buckling (mechanics) - a failure mode of a rock subjected to high compressive stresses, where the actual compressive stress at the point of failure is less than the ultimate compressive stresses that the material is capable of withstanding.", 
+            "link": "/wiki/Buckling", 
+            "name": "Buckling (mechanics)"
+        }, 
+        {
+            "def": "Calcareous - sediment, sedimentary rock, or soil type which is formed from or contains a high proportion of calcium carbonate in the form of calcite or aragonite.", 
+            "link": "/wiki/Calcareous", 
+            "name": "Calcareous"
+        }, 
+        {
+            "def": "Calcite - The crystalline form of calcium carbonate, showing trigonal symmetry and a great variety of mineral habits. It is one of the commonest of minerals in association with both igneous and sedimentary rocks.", 
+            "link": "/wiki/Calcite", 
+            "name": "Calcite"
+        }, 
+        {
+            "def": "Calcite sea - one in which low-magnesium calcite is the primary inorganic marine calcium carbonate precipitate.", 
+            "link": "/wiki/Calcite_sea", 
+            "name": "Calcite sea"
+        }, 
+        {
+            "def": "Calcrete - a) Conglomerate of surficial sand and gravel cemented by calcium carbonate precipitated from solution. b) A calcareous duricrust.", 
+            "link": "/wiki/Calcrete", 
+            "name": "Calcrete"
+        }, 
+        {
+            "def": "Caldera - volcanic feature formed by the collapse of land following a volcanic eruption.", 
+            "link": "/wiki/Caldera", 
+            "name": "Caldera"
+        }, 
+        {
+            "def": "Cambrian - the first geological period of the Paleozoic Era, lasting from 541.0 \u00b1 1.0 to 485.4 \u00b1 1.9 million years ago (mya) and succeeded by the Ordovician.", 
+            "link": "/wiki/Cambrian", 
+            "name": "Cambrian"
+        }, 
+        {
+            "def": "Carbon film - type of fossil, or preservation.", 
+            "link": "/wiki/Carbon_film", 
+            "name": "Carbon film"
+        }, 
+        {
+            "def": "Carbonate - a salt or ester of carbonic acid.", 
+            "link": "/wiki/Carbonate", 
+            "name": "Carbonate"
+        }, 
+        {
+            "def": "Carbonate hardgrounds - surfaces of synsedimentarily-cemented carbonate layers that have been exposed on the seafloor.", 
+            "link": "/wiki/Carbonate_hardgrounds", 
+            "name": "Carbonate hardgrounds"
+        }, 
+        {
+            "def": "Casting - process which occurs when a liquid fills a cavity and then solidifies. If the cavity originated from decomposition of dead organisms, casting may result in formation of fossils.", 
+            "link": "/wiki/Casting_(geology)", 
+            "name": "Casting"
+        }, 
+        {
+            "def": "Cenozoic Era - the most recent of the eras; followed the Mesozoic Era.", 
+            "link": "/wiki/Cenozoic_Era", 
+            "name": "Cenozoic Era"
+        }, 
+        {
+            "def": "Chalk - soft, white, porous sedimentary rock, a form of limestone composed of calcite coccolith plates.", 
+            "link": "/wiki/Chalk", 
+            "name": "Chalk"
+        }, 
+        {
+            "def": "Chert - fine-grained silica-rich microcrystalline, cryptocrystalline or microfibrous sedimentary rock that may contain small fossils.", 
+            "link": "/wiki/Chert", 
+            "name": "Chert"
+        }, 
+        {
+            "def": "Chlorite group - A group of allied minerals which may be regarded as hydrated silicates of aluminium, iron and magnesium. They crystallise in the monoclinic system and are green in colour. They occur as alteration products of such minerals as biotite and hornblende, and also in schistose rocks.", 
+            "link": "/wiki/Chlorite_group", 
+            "name": "Chlorite group"
+        }, 
+        {
+            "def": "Clast - An individual constituent grain or fragment of a sediment or rock produced by mechanical weathering of a rock mass.", 
+            "link": "/wiki/Clast", 
+            "name": "Clast"
+        }, 
+        {
+            "def": "Clastic rocks - Mechanically redeposited remains of eroded older rocks. Rocks formed of fragments, or clasts, of pre-existing rocks.", 
+            "link": "/wiki/Clastic_rocks", 
+            "name": "Clastic rocks"
+        }, 
+        {
+            "def": "Cleavage - in structural geology and petrology, term describing the tendency of a rock to break along preferred planes of weakness, caused by the development of a planar fabric as a result of deformation.", 
+            "link": "/wiki/Cleavage_(geology)", 
+            "name": "Cleavage"
+        }, 
+        {
+            "def": "Coccolith - individual plates of calcium carbonate formed by coccolithophores (single-celled algae such as Emiliania huxleyi) which are arranged around them in a coccosphere.", 
+            "link": "/wiki/Coccolith", 
+            "name": "Coccolith"
+        }, 
+        {
+            "def": "Coccolithophore - (also called coccolithophorid) - important microfossils: single-celled algae, protists and phytoplankton belonging to the division of haptophytes. They are distinguished by special calcium carbonate plates called coccoliths.", 
+            "link": "/wiki/Coccolithophore", 
+            "name": "Coccolithophore"
+        }, 
+        {
+            "def": "Compactions - process by which a newly deposited sediment progressively loses its original water content due to the effects of loading, this forms part of the process of lithification.", 
+            "link": "/wiki/Compactions", 
+            "name": "Compactions"
+        }, 
+        {
+            "def": "Compression - system of forces that tend to decrease the volume of or shorten rocks.", 
+            "link": "/wiki/Compression_(geology)", 
+            "name": "Compression"
+        }, 
+        {
+            "def": "Conchoidal - Type of fracture that gives smoothly curved surface.", 
+            "link": "/wiki/Conchoidal", 
+            "name": "Conchoidal"
+        }, 
+        {
+            "def": "Concretion - volume of sedimentary rock in which a mineral cement fills the porosity (i.e. the spaces between the sediment grains).", 
+            "link": "/wiki/Concretion", 
+            "name": "Concretion"
+        }, 
+        {
+            "def": "Conglomerate - rock consisting of individual stones that have become cemented together.", 
+            "link": "/wiki/Conglomerate_(geology)", 
+            "name": "Conglomerate"
+        }, 
+        {
+            "def": "Contact metamorphism - Metamorphism due to the local heating of rocks by the intrusion of magma nearby.", 
+            "link": "/wiki/Contact_metamorphism", 
+            "name": "Contact metamorphism"
+        }, 
+        {
+            "def": "Continental crust - layer of granitic, sedimentary, and metamorphic rocks which form the continents and the areas of shallow seabed close to their shores, known as continental shelves.", 
+            "link": "/wiki/Continental_crust", 
+            "name": "Continental crust"
+        }, 
+        {
+            "def": "Continental margin - zone of the ocean floor that separates the thin oceanic crust from thick continental crust.", 
+            "link": "/wiki/Continental_margin", 
+            "name": "Continental margin"
+        }, 
+        {
+            "def": "Continental shelf - extended perimeter of each continent and associated coastal plain, which is covered during interglacial periods such as the current epoch by relatively shallow seas (known as shelf seas) and gulfs.", 
+            "link": "/wiki/Continental_shelf", 
+            "name": "Continental shelf"
+        }, 
+        {
+            "def": "Convergent boundary - boundary between two plates that are moving toward each other.", 
+            "link": "/wiki/Convergent_boundary", 
+            "name": "Convergent boundary"
+        }, 
+        {
+            "def": "Copal - type of resin produced by plant or tree secretions, particularly identified with the forms of aromatic tree resins used by the cultures of pre-Columbian Mesoamerica as a ceremonially burned incense, as well as for a number of other purposes.", 
+            "link": "/wiki/Copal", 
+            "name": "Copal"
+        }, 
+        {
+            "def": "Coprolites - fossil that results when human or animal dung is fossilized.", 
+            "link": "/wiki/Coprolites", 
+            "name": "Coprolites"
+        }, 
+        {
+            "def": "Cordierite - A silicate of aluminium, iron and magnesium with water, which crystallises in the orthorhombic system, occurs mainly in metamorphic rocks.", 
+            "link": "/wiki/Cordierite", 
+            "name": "Cordierite"
+        }, 
+        {
+            "def": "Core - innermost layer(s) of a planet.", 
+            "link": "/wiki/Planetary_core", 
+            "name": "Core"
+        }, 
+        {
+            "def": "Corestone - An ellipsoidal or broadly rectangular joint block of granite formed by subsurface weathering in the same manner as a tor but entirely separated from bedrock.", 
+            "link": "/w/index.php?title=Corestone&action=edit&redlink=1", 
+            "name": "Corestone"
+        }, 
+        {
+            "def": "Craton - old and stable part of the continental crust that has survived the merging and splitting of continents and supercontinents for at least 500 million years.", 
+            "link": "/wiki/Craton", 
+            "name": "Craton"
+        }, 
+        {
+            "def": "Cross-bedding - inclined sedimentary structures in a horizontal unit of rock; such tilted structures indicate the type of depositional environment, not post-depositional deformation.", 
+            "link": "/wiki/Cross-bedding", 
+            "name": "Cross-bedding"
+        }, 
+        {
+            "def": "Crude oil - a liquid mixture of naturally occurring hydrocarbons.", 
+            "link": "/wiki/Crude_oil", 
+            "name": "Crude oil"
+        }, 
+        {
+            "def": "Crust - outermost solid shell of Earth planet, or of any other planet or moon.", 
+            "link": "/wiki/Crust_(geology)", 
+            "name": "Crust"
+        }, 
+        {
+            "def": "Cryptocrystalline -", 
+            "link": "/wiki/Cryptocrystalline", 
+            "name": "Cryptocrystalline"
+        }, 
+        {
+            "def": "Dacite - an igneous, volcanic rock with a high iron content. Extrusive rock of same general composition as andesite, but a less calcic feldspar. Syn. Quartz andesite.", 
+            "link": "/wiki/Dacite", 
+            "name": "Dacite"
+        }, 
+        {
+            "def": "Daughter product - the isotope produced by radioactive decay.", 
+            "link": "/wiki/Daughter_product", 
+            "name": "Daughter product"
+        }, 
+        {
+            "def": "Delta - landform where the mouth of a river flows into an ocean, sea, desert, estuary, lake or another river.", 
+            "link": "/wiki/River_delta", 
+            "name": "Delta"
+        }, 
+        {
+            "def": "Degradation - the lowering of a fluvial surface, such as a stream bed or floodplain, through erosional processes.", 
+            "link": "/wiki/Degradation_(geology)", 
+            "name": "Degradation"
+        }, 
+        {
+            "def": "Dendrites - crystal that develops with a typical multi-branching tree-like form.", 
+            "link": "/wiki/Dendrite_(crystal)", 
+            "name": "Dendrites"
+        }, 
+        {
+            "def": "Deposition - geological process by which material is added to a landform or land mass.", 
+            "link": "/wiki/Deposition_(geology)", 
+            "name": "Deposition"
+        }, 
+        {
+            "def": "Detachment fault - major fault in a mountain belt above which rocks have been intensely folded or faulted.", 
+            "link": "/wiki/Detachment_fault", 
+            "name": "Detachment fault"
+        }, 
+        {
+            "def": "Diagenesis - chemical, physical, or biological change undergone by a sediment after its initial deposition and during and after its lithification, exclusive of surface alteration (weathering) and metamorphism.", 
+            "link": "/wiki/Diagenesis", 
+            "name": "Diagenesis"
+        }, 
+        {
+            "def": "Diamictite - a comprehensive non-generic term for a non-sorted or poorly sorted non-calcareous terrigenous sedimentary rock that contains a wide range of particle sizes such as rock with sand or larger particles in a muddy matrix.", 
+            "link": "/wiki/Diamictite", 
+            "name": "Diamictite"
+        }, 
+        {
+            "def": "Diapir - a type of intrusion in which a more mobile and ductily-deformable material is forced into brittle overlying rocks. A dome or anticlinal fold of the overlaying rocks which has been ruptured by the squeezing out of the plastic core material.", 
+            "link": "/wiki/Diapir", 
+            "name": "Diapir"
+        }, 
+        {
+            "def": "Diatomite - naturally occurring, soft, chalk-like sedimentary rock that is easily crumbled into a fine white to off-white powder.", 
+            "link": "/wiki/Diatomite", 
+            "name": "Diatomite"
+        }, 
+        {
+            "def": "Diopside - a monoclinic pyroxene, ideally consisting of silicate of calcium and magnesium, but commonly containing a variable content of FeSi2O6 in addition, and then strictly known as ferriferous diopside", 
+            "link": "/wiki/Diopside", 
+            "name": "Diopside"
+        }, 
+        {
+            "def": "Diorite - grey to dark grey intermediate intrusive igneous rock composed principally of plagioclase feldspar (typically andesine), biotite, hornblende, and/or pyroxene.", 
+            "link": "/wiki/Diorite", 
+            "name": "Diorite"
+        }, 
+        {
+            "def": "Dike - or dyke - a type of sheet intrusion referring to any geologic body that cuts discordantly across.", 
+            "link": "/wiki/Dike_(geology)", 
+            "name": "Dike"
+        }, 
+        {
+            "def": "Dip slope - geological formation often created by erosion of tilted strata.", 
+            "link": "/wiki/Dip_slope", 
+            "name": "Dip slope"
+        }, 
+        {
+            "def": "Disconformity - a surface that represents missing rock strata but beds above and below that surface are parallel to one another.", 
+            "link": "/wiki/Disconformity", 
+            "name": "Disconformity"
+        }, 
+        {
+            "def": "Divergent plate boundary - boundary separating two plates moving away from each other.", 
+            "link": "/wiki/Divergent_plate_boundary", 
+            "name": "Divergent plate boundary"
+        }, 
+        {
+            "def": "Dolomite - name of a sedimentary carbonate rock and a mineral, both composed of calcium magnesium carbonate CaMg(CO3)2 found in crystals.", 
+            "link": "/wiki/Dolomite", 
+            "name": "Dolomite"
+        }, 
+        {
+            "def": "Dolerite - basic igneous rock of medium grain size, occurring as minor intrusions or in the central parts of thick lava flows. a) A dark-colored, basic, igneous rock, composed essentially of pyroxene and a triclinic feldspar with magnetic iron. Considered by some authors to be equivalent to a coarse-grained basalt. b) A dark, crystalline, igneous rock, chiefly pyroxene with labradorite. c) Coarse-grained basalt. d) Diabase. e) Any dark, igneous rock composed chiefly of silicates of iron and magnesium with some feldspar.", 
+            "link": "/wiki/Dolerite", 
+            "name": "Dolerite"
+        }, 
+        {
+            "def": "Drill core - drill specifically designed to remove a cylinder of material, much like a hole saw.", 
+            "link": "/wiki/Drill_core", 
+            "name": "Drill core"
+        }, 
+        {
+            "def": "Drumlin - an elongated whale-shaped hill formed by glacial action.", 
+            "link": "/wiki/Drumlin", 
+            "name": "Drumlin"
+        }, 
+        {
+            "def": "Dunite - Ultrabasic plutonic rock in which mafic material is almost entirely olivine with accessory Chromite almost always present. Feldspar mainly plagioclase. See Peridotite", 
+            "link": "/wiki/Dunite", 
+            "name": "Dunite"
+        }, 
+        {
+            "def": "Duricrust - General term for hard crust on surface of or layer in upper horizons of a soil in semi-arid climate formed by accumulation of solid minerals deposited by water moving upwards by capillary action and evaporating in the dry season. Cf Hardpan", 
+            "link": "/wiki/Duricrust", 
+            "name": "Duricrust"
+        }, 
+        {
+            "def": "Dyke - or dike - a type of sheet intrusion referring to any geologic body that cuts discordantly across. A form of minor intrusion injected into the crust during its subjection to tension, the dyke being thin with parallel sides, and maintaining a constant direction in some cases for long distances. Some are more resistant to weathering than the surrounding rock and stand up like walls, while others weather faster and form long narrow depressions.", 
+            "link": "/wiki/Dike_(geology)", 
+            "name": "Dyke"
+        }, 
+        {
+            "def": "Eclogite - Generally coarse to medium grained, green (reddish when weathered) pyroxene in which are set red garnets. Pistachio green when fresh, but mottled with red when weathered.", 
+            "link": "/wiki/Eclogite", 
+            "name": "Eclogite"
+        }, 
+        {
+            "def": "Eemian transgression - Late Pleistocene 120 Ka. up to 8m above present", 
+            "link": "/w/index.php?title=Eemian_transgression&action=edit&redlink=1", 
+            "name": "Eemian transgression"
+        }, 
+        {
+            "def": "Eon - the largest unit of geologic time.", 
+            "link": "/wiki/Geological_period", 
+            "name": "Eon"
+        }, 
+        {
+            "def": "Epicenter - point on the Earth's surface that is directly above the hypocenter or focus, the point where an earthquake or other underground explosion originates.", 
+            "link": "/wiki/Epicenter", 
+            "name": "Epicenter"
+        }, 
+        {
+            "def": "Epidiorite - altered gabbroic and doleritic rocks in which the original pyroxene has been replaced by fibrous amphibole. The rock may be regarded as a first step in the conversion by dynamothermal metamorphism of a basic igneous rock into a green schist.", 
+            "link": "/wiki/Epidiorite", 
+            "name": "Epidiorite"
+        }, 
+        {
+            "def": "Epirogenetic - simultaneous rising and falling movements of continents, maintaining isostasy", 
+            "link": "/wiki/Epirogenetic", 
+            "name": "Epirogenetic"
+        }, 
+        {
+            "def": "Epoch - each period of the standard geologic time scale is divided into epochs (e.g., Pleistocene Epoch of the Quaternary Period).", 
+            "link": "/wiki/Epoch_(reference_date)", 
+            "name": "Epoch"
+        }, 
+        {
+            "def": "Erosion - displacement of solids (sediment, soil, rock and other particles) usually by the agents of currents such as, wind, water, or ice by downward or down-slope movement in response to gravity or by living organisms (in the case of bioerosion).", 
+            "link": "/wiki/Erosion", 
+            "name": "Erosion"
+        }, 
+        {
+            "def": "Erratic - piece of rock that deviates from the size and type of rock native to the area in which it rests; stones ranging in size from pebbles to large boulders which were transported by ice, which on melting left them stranded far from their original source; the name \"erratic\" is based on the errant location of these boulders.", 
+            "link": "/wiki/Glacial_erratic", 
+            "name": "Erratic"
+        }, 
+        {
+            "def": "Escarpment - transition zone between different physiogeographic provinces that involves an elevation differential, characterized by a cliff or steep slope.", 
+            "link": "/wiki/Escarpment", 
+            "name": "Escarpment"
+        }, 
+        {
+            "def": "Esker - long, winding ridge of stratified sand and gravel, examples of which occur in glaciated and formerly glaciated regions of Europe and North America. Eskers are frequently several miles in length and, because of their peculiar uniform shape, somewhat resemble railroad embankments.", 
+            "link": "/wiki/Esker", 
+            "name": "Esker"
+        }, 
+        {
+            "def": "Estuary - semi-enclosed coastal body of water with one or more rivers or streams flowing into it, and with a free connection to the open sea.", 
+            "link": "/wiki/Estuary", 
+            "name": "Estuary"
+        }, 
+        {
+            "def": "Eugeosyncline - A geosyncline in which volcanism is associated with clastic sedimentation: The volcanic part of an orthosyncline located away from the craton.", 
+            "link": "/wiki/Eugeosyncline", 
+            "name": "Eugeosyncline"
+        }, 
+        {
+            "def": "Euhedral - rock minerals which are bounded by the crystal faces peculiar to the species; ideomorphic.", 
+            "link": "/wiki/Euhedral", 
+            "name": "Euhedral"
+        }, 
+        {
+            "def": "Eustatic movements - Changes of sea level, constant over wide areas, due to alterations in the volume of the oceans resulting from formation or melting of ice caps.", 
+            "link": "/wiki/Eustatic_movements", 
+            "name": "Eustatic movements"
+        }, 
+        {
+            "def": "Evaporite - water-soluble, mineral sediments that result from the evaporation of bodies of surface water.", 
+            "link": "/wiki/Evaporite", 
+            "name": "Evaporite"
+        }, 
+        {
+            "def": "Exfoliation - the stripping of concentric rock slabs from the outer surface of a rock mass.", 
+            "link": "/wiki/Exfoliation_(geology)", 
+            "name": "Exfoliation"
+        }, 
+        {
+            "def": "Extension - strain involving an increase in length. Extension can cause thinning and faulting.", 
+            "link": "/wiki/Extension_(geology)", 
+            "name": "Extension"
+        }, 
+        {
+            "def": "Extrusive - mode of igneous volcanic rock formation in which hot magma from inside the Earth flows out (extrudes) onto the surface as lava or explodes violently into the atmosphere to fall back as pyroclastics or tuff.", 
+            "link": "/wiki/Extrusive", 
+            "name": "Extrusive"
+        }, 
+        {
+            "def": "Facies - The sum of the lithological and faunal characters of a sediment is its facies. Lithological facies involves composition, grain size, texture, colour, as well as such mass characteristics as current bedding, nature of stratification, ripple marks etc. Similarly metamorphic facies involves the degree of crystallisation and the mineral assemblage in a group of metamorphic rocks.", 
+            "link": "/wiki/Facies", 
+            "name": "Facies"
+        }, 
+        {
+            "def": "Fanning - rock deformation related to shear stress", 
+            "link": "/w/index.php?title=Fan_(deformation)&action=edit&redlink=1", 
+            "name": "Fanning"
+        }, 
+        {
+            "def": "Fault - discrete planar rock fracture, which shows evidence of a displacement (the throw of the fault). A fault is a discrete surface.", 
+            "link": "/wiki/Fault_(geology)", 
+            "name": "Fault"
+        }, 
+        {
+            "def": "Fault zone - zone where exist different discrete fault planes.", 
+            "link": "/wiki/Fault_(geology)", 
+            "name": "Fault zone"
+        }, 
+        {
+            "def": "Feldspars - group of most common minerals of the Earth's crust. All feldspars contain silicon, aluminum, and oxygen and may contain potassium, calcium and sodium.", 
+            "link": "/wiki/Feldspars", 
+            "name": "Feldspars"
+        }, 
+        {
+            "def": "Fels - Massive metamorphic rock lacking schistosity or foliation.", 
+            "link": "/wiki/Fels", 
+            "name": "Fels"
+        }, 
+        {
+            "def": "Felsic - silicate minerals, magmas, and rocks which are enriched in the lighter elements such as silicon, oxygen, aluminium, sodium, and potassium. Light minerals (Quartz & Feldspar) >60% - Acid. [Granite (Rhyolite), Adamellite (Rhyo-dacite), Granodiorite (Dacite)]. Mnemonic adjective for igneous rock having light coloured minerals in its mode. From Feldspar and Silica. Opposite to Mafic.", 
+            "link": "/wiki/Felsic", 
+            "name": "Felsic"
+        }, 
+        {
+            "def": "Ferricrete - conglomerate consisting of surficial sand and gravel cemented into a hard mass by iron oxide derived from oxidation of percolating solution of iron salts. A ferruginous duricrust.", 
+            "link": "/wiki/Ferricrete", 
+            "name": "Ferricrete"
+        }, 
+        {
+            "def": "Ferromagnesian mineral - iron/magnesium bearing mineral, such as augite, hornblende, olivine or biotite.", 
+            "link": "/w/index.php?title=Ferromagnesian_mineral&action=edit&redlink=1", 
+            "name": "Ferromagnesian mineral"
+        }, 
+        {
+            "def": "Fission track dating - a method that uses tracks that are visible under the microscope to date minerals.", 
+            "link": "/wiki/Fission_track_dating", 
+            "name": "Fission track dating"
+        }, 
+        {
+            "def": "Flandrian transgression -", 
+            "link": "/wiki/Flandrian_transgression", 
+            "name": "Flandrian transgression"
+        }, 
+        {
+            "def": "Fold - stack of originally flat and planar surfaces, such as sedimentary strata, are bent or curved as a result of plastic (i.e. permanent) deformation.", 
+            "link": "/wiki/Fold_(geology)", 
+            "name": "Fold"
+        }, 
+        {
+            "def": "Foliation - parallel alignment of textural and structural features of a rock.", 
+            "link": "/wiki/Foliation", 
+            "name": "Foliation"
+        }, 
+        {
+            "def": "Fossil - mineralized or otherwise preserved remains or traces (such as footprints) of animals, plants, and other organisms.", 
+            "link": "/wiki/Fossil", 
+            "name": "Fossil"
+        }, 
+        {
+            "def": "Fracture - general non geological term used to indicate a crack or a discontinuity. Can only be used when no displacement can be distinguished. Vague term to avoid.", 
+            "link": "/wiki/Fracture", 
+            "name": "Fracture"
+        }, 
+        {
+            "def": "Freezing - process whereby a liquid turns to a solid when cold enough.", 
+            "link": "/wiki/Freezing", 
+            "name": "Freezing"
+        }, 
+        {
+            "def": "Gabbro - dark, coarse-grained, intrusive igneous rock chemically equivalent to basalt.", 
+            "link": "/wiki/Gabbro", 
+            "name": "Gabbro"
+        }, 
+        {
+            "def": "Gastroliths - rocks, which are or have been held inside the digestive tract of an animal.", 
+            "link": "/wiki/Gastroliths", 
+            "name": "Gastroliths"
+        }, 
+        {
+            "def": "Geologic maps - special-purpose map made to show geological features.", 
+            "link": "/wiki/Geologic_maps", 
+            "name": "Geologic maps"
+        }, 
+        {
+            "def": "Geosyncline - A mobile down-warping of the crust of the earth, either elongate or basin-like, measured in scores of kilometres, which is subsiding as sedimentary and volcanic rocks accumulate to thicknesses of thousands of metres.", 
+            "link": "/wiki/Geosyncline", 
+            "name": "Geosyncline"
+        }, 
+        {
+            "def": "Glass - hard, brittle, transparent solid, such as used for windows, many bottles, or eyewear, including soda-lime glass, acrylic glass, sugar glass, isinglass (Muscovy-glass), or aluminium oxynitride.", 
+            "link": "/wiki/Glass", 
+            "name": "Glass"
+        }, 
+        {
+            "def": "Glauconite - Hydrated silicate of potassium and iron, a green mineral that forms on submerged banks. Its occurrence in sands and sandstones is considered an indication of accumulation under marine conditions.", 
+            "link": "/wiki/Glauconite", 
+            "name": "Glauconite"
+        }, 
+        {
+            "def": "Gneiss - Coarse-grained, pale-coloured gneissose rock, containing abundant feldspar with quartz, mica, hornblende and garnet.", 
+            "link": "/wiki/Gneiss", 
+            "name": "Gneiss"
+        }, 
+        {
+            "def": "Gondwanaland - the southern part of Pangaea that formed South America, Africa, India, Australia and Antarctica.", 
+            "link": "/wiki/Gondwanaland", 
+            "name": "Gondwanaland"
+        }, 
+        {
+            "def": "Granite - A coarse grained, often porphyritic, intrusive, felsic, igneous rock containing megascopic quartz, averaging 25%, much feldspar (orthoclase, microcline, sodic plagioclase) and mica or other coloured minerals. Rhyolite is the volcanic equivalent", 
+            "link": "/wiki/Granite", 
+            "name": "Granite"
+        }, 
+        {
+            "def": "Granitoid - general term for a granite-like rock, including granite, granodiorite, diorite, monzonite, etc.", 
+            "link": "/wiki/Granitoid", 
+            "name": "Granitoid"
+        }, 
+        {
+            "def": "Granoblastic - An arrangement of mineral grains in a rock of metamorphic origin similar to that of a normal granite, but produced by recrystallisation in the solid and not by crystallisation from a molten condition.", 
+            "link": "/wiki/Granoblastic", 
+            "name": "Granoblastic"
+        }, 
+        {
+            "def": "Granodiorite - intrusive felsic igneous rock similar to granite, but contains more plagioclase than potassium feldspar. Volcanic equivalent Dacite", 
+            "link": "/wiki/Granodiorite", 
+            "name": "Granodiorite"
+        }, 
+        {
+            "def": "Graywacke - variety of sandstone generally characterized by its hardness, dark color, and poorly-sorted, angular grains of quartz, feldspar, and small rock fragments (lithic fragments) set in a compact, clay-fine matrix. From German Grauwacke.", 
+            "link": "/wiki/Graywacke", 
+            "name": "Graywacke"
+        }, 
+        {
+            "def": "Greenstone - An omnibus term lacking precision and applied indiscriminately to basic and intermediate igneous rocks of Lower Palaeozoic age in which much chlorite has been produced at the expense of the original coloured minerals, staining the rocks green.", 
+            "link": "/wiki/Greenstone_belt", 
+            "name": "Greenstone"
+        }, 
+        {
+            "def": "Grus - freshly-eroded and angular grains of quartz and feldspar derived from a granitoid.", 
+            "link": "/wiki/Grus_(geology)", 
+            "name": "Grus"
+        }, 
+        {
+            "def": "Half-life - the time it takes for a given amount of a radioactive isotope to be reduced by one-half.", 
+            "link": "/wiki/Half-life", 
+            "name": "Half-life"
+        }, 
+        {
+            "def": "Hardpan -", 
+            "link": "/wiki/Hardpan", 
+            "name": "Hardpan"
+        }, 
+        {
+            "def": "Hemicrystalline - rocks of igneous origin which contain some interstitial glass, in addition to crystalline minerals.", 
+            "link": "/w/index.php?title=Hemicrystalline&action=edit&redlink=1", 
+            "name": "Hemicrystalline"
+        }, 
+        {
+            "def": "Hinge - zone of maximum curvature of a fold.", 
+            "link": "/wiki/Hinge", 
+            "name": "Hinge"
+        }, 
+        {
+            "def": "Hinge line - a line joining the points of maximum curvature along the hinge of a fold.", 
+            "link": "/wiki/Hinge_line", 
+            "name": "Hinge line"
+        }, 
+        {
+            "def": "Holocrystalline - those igneous rocks in which all the components are crystalline; glass is absent.", 
+            "link": "/wiki/Holocrystalline", 
+            "name": "Holocrystalline"
+        }, 
+        {
+            "def": "Hornblende - an important rock-forming mineral of complex composition, essentially silicate of calcium, magnesium and iron, with smaller amounts of potash, soda and hydroxyl; crystallises in the monoclinic system; occurs as black crystals or grains in many different types of igneous and metamorphic rocks, including hornblende-granite, syenite, diorite, andesite, etc., and hornblende-schist and amphibole.", 
+            "link": "/wiki/Hornblende", 
+            "name": "Hornblende"
+        }, 
+        {
+            "def": "Hornfels - hard, compact, fine textured contact altered argillaceous [from clay] rocks that break into splintery fragments", 
+            "link": "/wiki/Hornfels", 
+            "name": "Hornfels"
+        }, 
+        {
+            "def": "Hot springs - spring that is produced by the emergence of geothermally-heated groundwater from the Earth's crust.", 
+            "link": "/wiki/Hot_springs", 
+            "name": "Hot springs"
+        }, 
+        {
+            "def": "Hydrothermal - Pertaining to heated water. The action of or products of heated water.", 
+            "link": "/wiki/Hydrothermal", 
+            "name": "Hydrothermal"
+        }, 
+        {
+            "def": "Hydrothermal vent - fissure in a planet's surface from which geothermally heated water issues.", 
+            "link": "/wiki/Hydrothermal_vent", 
+            "name": "Hydrothermal vent"
+        }, 
+        {
+            "def": "Hypersaline - saltiness or dissolved salt content of a body of water greater than that of seawater.", 
+            "link": "/wiki/Hypersaline", 
+            "name": "Hypersaline"
+        }, 
+        {
+            "def": "Ichnology - branch of biology that deals with traces of organismal behavior.", 
+            "link": "/wiki/Ichnology", 
+            "name": "Ichnology"
+        }, 
+        {
+            "def": "Idiomorphic (crystals) - Rock minerals which are bounded by the crystal faces peculiar to the species", 
+            "link": "/w/index.php?title=Idiomorphic&action=edit&redlink=1", 
+            "name": "Idiomorphic (crystals)"
+        }, 
+        {
+            "def": "Igneous rock - rocks formed by solidification of cooled magma (molten rock), with or without crystallization, either below the surface as intrusive (plutonic) rocks or on the surface as extrusive (volcanic) rocks.", 
+            "link": "/wiki/Igneous_rock", 
+            "name": "Igneous rock"
+        }, 
+        {
+            "def": "Ignimbrite - Fine-grained to aphanitic, buff to dark brown compact rock with parallel streaks or lenticles of black glass, produced by violently explosive volcanoes.", 
+            "link": "/wiki/Ignimbrite", 
+            "name": "Ignimbrite"
+        }, 
+        {
+            "def": "Ilmenite - An oxide of iron and titanium, crystallising in the trigonal system; a widespread accessory mineral in igneous rocks, especially those of basic composition.", 
+            "link": "/wiki/Ilmenite", 
+            "name": "Ilmenite"
+        }, 
+        {
+            "def": "Indurated - Made hard", 
+            "link": "/wiki/Indurated", 
+            "name": "Indurated"
+        }, 
+        {
+            "def": "Interbedded - beds (layers) of rock lying between or alternating with beds of a different kind of rock.", 
+            "link": "/wiki/Interbedded", 
+            "name": "Interbedded"
+        }, 
+        {
+            "def": "Intrusion - body of igneous rock that has crystallized from molten magma below the surface of the Earth.", 
+            "link": "/wiki/Intrusion", 
+            "name": "Intrusion"
+        }, 
+        {
+            "def": "Island arc - chain of volcanic islands or mountains formed by plate tectonics as an oceanic tectonic plate subducts under another tectonic plate and produces magma.", 
+            "link": "/wiki/Island_arc", 
+            "name": "Island arc"
+        }, 
+        {
+            "def": "Isotope - different forms of an element each having different atomic mass (mass number).", 
+            "link": "/wiki/Isotope", 
+            "name": "Isotope"
+        }, 
+        {
+            "def": "Joint - discrete discontinuity surface without evidence of displacement. See also diaclase or bedding.", 
+            "link": "/wiki/Joint_(geology)", 
+            "name": "Joint"
+        }, 
+        {
+            "def": "Jurassic - major unit of the geologic timescale that extends from about 199.6 \u00b1 0.6 Ma (million years ago) to 145.4 \u00b1 4.0 Ma, the end of the Triassic to the beginning of the Cretaceous.", 
+            "link": "/wiki/Jurassic", 
+            "name": "Jurassic"
+        }, 
+        {
+            "def": "Ka - 1000 years", 
+            "link": null, 
+            "name": "Ka"
+        }, 
+        {
+            "def": "Kame - geological feature, an irregularly shaped hill or mound composed of sand, gravel and till that accumulates in a depression on a retreating glacier, and is then deposited on the land surface with further melting of the glacier.", 
+            "link": "/wiki/Kame", 
+            "name": "Kame"
+        }, 
+        {
+            "def": "Kaolinite - a finely crystalline form of hydrated aluminium silicate occurring as minute monoclinic flaky crystals with a perfect basal cleavage, resulting mainly from the alteration of feldspars under conditions of hydrothermal or pneumatolytic metamorphism.", 
+            "link": "/wiki/Kaolinite", 
+            "name": "Kaolinite"
+        }, 
+        {
+            "def": "Karst - landscape shaped by the dissolution of a layer or layers of soluble bedrock, usually carbonate rock such as limestone or dolomite. Characterised by closed depressions or sinkholes, caves and underground drainage.", 
+            "link": "/wiki/Karst", 
+            "name": "Karst"
+        }, 
+        {
+            "def": "Kettle - fluvioglacial landform occurring as the result of blocks of ice calving from the front of a receding glacier and becoming partially to wholly buried by glacial outwash.", 
+            "link": "/wiki/Kettle_(landform)", 
+            "name": "Kettle"
+        }, 
+        {
+            "def": "Kink - tight curl, twist, or bend in a rock band. See also folding and buckling.", 
+            "link": "https://en.wiktionary.org/wiki/kink", 
+            "name": "Kink"
+        }, 
+        {
+            "def": "Kink band - an asymmetric, linear zone of deformation characterised by a tight curled, twisted, or bended rock band. Kink bands may also occur as conjugated sets.", 
+            "link": "/w/index.php?title=Kink_band&action=edit&redlink=1", 
+            "name": "Kink band"
+        }, 
+        {
+            "def": "Kyanite - A silicate of aluminium which crystallises in the triclinic system. It usually occurs as long-bladed crystals, blue in colour, in metamorphic rocks.", 
+            "link": "/wiki/Kyanite", 
+            "name": "Kyanite"
+        }, 
+        {
+            "def": "Lacuna - A time-stratigraphic unit representing the gap in the stratigraphic record. Specifically the missing interval at an unconformity, representing the interpreted space-time value of both hiatus (period of non-deposition), and degradation vacuity (period of erosion)", 
+            "link": "/w/index.php?title=Lacuna_(geology)&action=edit&redlink=1", 
+            "name": "Lacuna"
+        }, 
+        {
+            "def": "Lamprophyres - Igneous rocks usually occurring as dykes intimately related to larger intrusive bodies; characterised by abnormally high contents of coloured silicates, such as biotite, hornblende and augite, and a correspondingly small amount of feldspar, some being feldspar-free", 
+            "link": "/wiki/Lamprophyres", 
+            "name": "Lamprophyres"
+        }, 
+        {
+            "def": "Lava - molten rock expelled by a volcano during an eruption.", 
+            "link": "/wiki/Lava", 
+            "name": "Lava"
+        }, 
+        {
+            "def": "Leucocratic - A term used to denote a light colour in igneous rocks, due to a high content of felsic minerals, and a correspondingly small amount of dark, heavy silicates.", 
+            "link": "/wiki/Leucocratic", 
+            "name": "Leucocratic"
+        }, 
+        {
+            "def": "Limestone - sedimentary rock composed largely of the mineral calcite (calcium carbonate: CaCO3).", 
+            "link": "/wiki/Limestone", 
+            "name": "Limestone"
+        }, 
+        {
+            "def": "Liquefaction - Soil liquefaction describes the behavior of soils that, when loaded, suddenly suffer a transition from a solid state to a liquefied state, or having the consistency of a heavy liquid.", 
+            "link": "/wiki/Liquefaction", 
+            "name": "Liquefaction"
+        }, 
+        {
+            "def": "Lithic/Lithic fragment - A sand-sized grain that is made up of smaller than sand-sized grains, e.g. a shale fragment or basalt fragment in a sandstone.", 
+            "link": "/wiki/Lithic_fragment_(geology)", 
+            "name": "Lithic/Lithic fragment"
+        }, 
+        {
+            "def": "Lithification - the process in which sediments compact under pressure, expel connate fluids, and gradually become solid rock.", 
+            "link": "/wiki/Lithification", 
+            "name": "Lithification"
+        }, 
+        {
+            "def": "Lithology - a description of the physical characteristics of a rock unit visible at outcrop, in hand or core samples or with low magnification microscopy, such as colour, texture, grain size, or composition.", 
+            "link": "/wiki/Lithology", 
+            "name": "Lithology"
+        }, 
+        {
+            "def": "Loess - fine, silty, pale yellow or buff in color, windblown (eolian) type of unconsolidated deposit.", 
+            "link": "/wiki/Loess", 
+            "name": "Loess"
+        }, 
+        {
+            "def": "Lowland - broad expanse of land with a general low level.", 
+            "link": "/wiki/Lowland", 
+            "name": "Lowland"
+        }, 
+        {
+            "def": "Ma - 1,000,000 years", 
+            "link": "/wiki/Mya_(unit)", 
+            "name": "Ma"
+        }, 
+        {
+            "def": "Mafic - a silicate mineral or rock that is rich in magnesium and iron. A mnemonic term for the ferromagnesian and other non-felsic minerals actually present in an igneous rock rich in dark (ferromagnesian) minerals (>60% by volume). Basic [alkali gabbro (alkali basalt), syeno-gabbro (trachybasalt), gabbro (basalt and dolerite)]", 
+            "link": "/wiki/Mafic", 
+            "name": "Mafic"
+        }, 
+        {
+            "def": "Magma - molten rock that sometimes forms beneath the surface of the earth (or any other terrestrial planet) that often collects in a magma chamber.", 
+            "link": "/wiki/Magma", 
+            "name": "Magma"
+        }, 
+        {
+            "def": "Magnetite - An oxide of iron which crystallises in the cubic system It is attracted by a magnet but does not attract iron itself.", 
+            "link": "/wiki/Magnetite", 
+            "name": "Magnetite"
+        }, 
+        {
+            "def": "Malmesbury group - 830 to 980 Ma basal group of the Western Cape comprising at least eight formations including Tygerberg, Piketberg, Porterville, Berg river, Klipplaat, Moorreesburg, Franschhoek and Bridgetown formations.", 
+            "link": "/w/index.php?title=Malmesbury_group&action=edit&redlink=1", 
+            "name": "Malmesbury group"
+        }, 
+        {
+            "def": "Mantle - highly viscous layer directly under the crust, and above the outer core.", 
+            "link": "/wiki/Mantle_(geology)", 
+            "name": "Mantle"
+        }, 
+        {
+            "def": "Marble - Fine to coarse-grained granoblastic calcium carbonate that effervesces in dilute hydrochloric acid. Often banded with various colours and sometimes veined.", 
+            "link": "/wiki/Marble", 
+            "name": "Marble"
+        }, 
+        {
+            "def": "Marine terrace - narrow flat area often seen at the base of a sea cliff caused by the action of the waves.", 
+            "link": "/wiki/Marine_terrace", 
+            "name": "Marine terrace"
+        }, 
+        {
+            "def": "Marl - calcium carbonate or lime-rich mud or mudstone which contains variable amounts of clays and aragonite.", 
+            "link": "/wiki/Marl", 
+            "name": "Marl"
+        }, 
+        {
+            "def": "M\u00e9lange - large scale breccia formed in the accretionary wedge above a subduction zone.", 
+            "link": "/wiki/M%C3%A9lange", 
+            "name": "M\u00e9lange"
+        }, 
+        {
+            "def": "Melanocratic - A term applied to rocks which are abnormally rich in dark and heavy ferro-magnesium minerals", 
+            "link": "/w/index.php?title=Melanocratic&action=edit&redlink=1", 
+            "name": "Melanocratic"
+        }, 
+        {
+            "def": "Mesocratic - A term applied to igneous rocks which in respect of their content of dark silicates are intermediate between those of leucocratic and melanocratic type, and contain 30 to 60% of dark heavy minerals.", 
+            "link": "/w/index.php?title=Mesocratic&action=edit&redlink=1", 
+            "name": "Mesocratic"
+        }, 
+        {
+            "def": "Mesozoic - The era of geological time including Triassic, Jurassic and Cretaceous ages", 
+            "link": "/wiki/Mesozoic", 
+            "name": "Mesozoic"
+        }, 
+        {
+            "def": "Metamorphism - the solid state recrystallisation of pre-existing rocks due to changes in heat and/or pressure and/or introduction of fluids i.e. without melting.", 
+            "link": "/wiki/Metamorphism", 
+            "name": "Metamorphism"
+        }, 
+        {
+            "def": "Metapelite - A metamorphosed pelite rock", 
+            "link": "/w/index.php?title=Metapelite&action=edit&redlink=1", 
+            "name": "Metapelite"
+        }, 
+        {
+            "def": "Metasilicate - A salt of metasilicic acid H2SiO3.", 
+            "link": null, 
+            "name": "Metasilicate"
+        }, 
+        {
+            "def": "Metatexis - Low grade anatexis: partial or differential melting of rock components with low melting point.", 
+            "link": "/w/index.php?title=Metatexis&action=edit&redlink=1", 
+            "name": "Metatexis"
+        }, 
+        {
+            "def": "Mica - A group of minerals which crystallise in the monoclinic system: They have similar chemical compositions and highly perfect basal cleavage.", 
+            "link": "/wiki/Mica", 
+            "name": "Mica"
+        }, 
+        {
+            "def": "Micropaleontology - branch of paleontology which studies microfossils.", 
+            "link": "/wiki/Micropaleontology", 
+            "name": "Micropaleontology"
+        }, 
+        {
+            "def": "Mid-oceanic ridges - underwater mountain range, typically having a valley known as a rift running along its axis, formed by plate tectonics.", 
+            "link": "/wiki/Mid-oceanic_ridges", 
+            "name": "Mid-oceanic ridges"
+        }, 
+        {
+            "def": "Migmatite - A composite rock composed of igneous or igneous looking and/or metamorphic materials which are generally distinguishable megascopically.", 
+            "link": "/wiki/Migmatite", 
+            "name": "Migmatite"
+        }, 
+        {
+            "def": "Mineralization - hydrothermal deposition of economically important metals in the formation of ore bodies or \"lodes\".", 
+            "link": "/wiki/Mineralization_(geology)", 
+            "name": "Mineralization"
+        }, 
+        {
+            "def": "Miogeosyncline - A geosyncline in which volcanism is not associated with sedimentation. The non-volcanic part of the orthogeosyncline located near the craton.", 
+            "link": "/wiki/Geosyncline#Overview", 
+            "name": "Miogeosyncline"
+        }, 
+        {
+            "def": "Molasse - A partly marine, partly continental or deltaic sedimentary facies consisting of a very thick sequence of soft ungraded cross-bedded fossiliferous conglomerates, sandstones, shales and marls.", 
+            "link": "/wiki/Molasse", 
+            "name": "Molasse"
+        }, 
+        {
+            "def": "Molding - process of manufacturing by shaping pliable raw material using a rigid frame or model called a mold.", 
+            "link": "/wiki/Molding_(process)", 
+            "name": "Molding"
+        }, 
+        {
+            "def": "Monocline - A fold with a single limb which produces a sudden steepening of the dip; the rocks however soon approximate to horizontal on either side of this flexure.", 
+            "link": "/wiki/Monocline", 
+            "name": "Monocline"
+        }, 
+        {
+            "def": "Monoclinic (crystal) - Three crystal axes are of unequal lengths and one intersection oblique (other two perpendicular)", 
+            "link": "/wiki/Monoclinic", 
+            "name": "Monoclinic"
+        }, 
+        {
+            "def": "Moraine - glacially formed accumulation of unconsolidated debris which can occur in currently glaciated and formerly glaciated regions, such as those areas acted upon by a past ice age.", 
+            "link": "/wiki/Moraine", 
+            "name": "Moraine"
+        }, 
+        {
+            "def": "Mullion (geology) - a particular type of reworked boudin (term likely derived from an architectural structure with the same name).", 
+            "link": "/wiki/Mullion_(geology)", 
+            "name": "Mullion (geology)"
+        }, 
+        {
+            "def": "Muscovite - The common or white mica; for the most part an orthosilicate of aluminium and potassium, crystallising in the monoclinic system.", 
+            "link": "/wiki/Muscovite", 
+            "name": "Muscovite"
+        }, 
+        {
+            "def": "Namibian age - 900 to 542 Ma (Neoproterozoic)", 
+            "link": "/w/index.php?title=Namibian_age&action=edit&redlink=1", 
+            "name": "Namibian age"
+        }, 
+        {
+            "def": "Neogene - a geologic period starting 23 million years ago and lasting either until today or ending 2.6 million years ago with the beginning of the Quaternary.", 
+            "link": "/wiki/Neogene", 
+            "name": "Neogene"
+        }, 
+        {
+            "def": "Non-clastic - Chemically/organically deposited rocks. Limestones, chalks, evaporite deposits \u2013 gypsum.", 
+            "link": "/wiki/Sedimentary_rock#Genetic_classification", 
+            "name": "Non-clastic"
+        }, 
+        {
+            "def": "Normal fault - Dip-slip faults can be sub-classified into the types \"reverse\" and \"normal\". A normal fault occurs when the crust is extended. Alternatively such a fault can be called an extensional fault. The hanging wall moves downward, relative to the footwall.", 
+            "link": "/wiki/Normal_fault", 
+            "name": "Normal fault"
+        }, 
+        {
+            "def": "Oligoclase - One of the plagioclase feldspars consisting of the albite and anorthite molecules combined in the proportions 9:1 to 7:3. It is found especially in the more acid igneous rocks.", 
+            "link": "/wiki/Oligoclase", 
+            "name": "Oligoclase"
+        }, 
+        {
+            "def": "Olivine - Orthosilicate of iron and magnesium, crystallising in the orthorhombic system which occur widely in the basic and ultramafic igneous rocks, and includes olivine-gabbro, olivine \u2013dolerite, olivine-basalt, peridotites etc.", 
+            "link": "/wiki/Olivine", 
+            "name": "Olivine"
+        }, 
+        {
+            "def": "Ordovician - The Ordovician is a geologic period and system, the second of six of the Paleozoic Era, and covers the time between 485.4 \u00b1 1.9 to 443.4 \u00b1 1.5 million years ago. It follows the Cambrian Period and is followed by the Silurian Period.", 
+            "link": "/wiki/Ordovician", 
+            "name": "Ordovician"
+        }, 
+        {
+            "def": "Orogenesis - the formation and growth of mountains related to tectonic activity.", 
+            "link": "/wiki/Orogenesis", 
+            "name": "Orogenesis"
+        }, 
+        {
+            "def": "Orogeny - refers to forces and events leading to a large structural deformation of the Earth's lithosphere (crust and uppermost mantle) due to the engagement of tectonic plates and is the primary mechanism by which mountains are built on continents.", 
+            "link": "/wiki/Orogeny", 
+            "name": "Orogeny"
+        }, 
+        {
+            "def": "Orthoclase Silicate of potassium and aluminium. Monoclinic crystal form. Occurs as essential constituent in granitic and syenitic rocks and as accessory in many other rock types.", 
+            "link": "/wiki/Orthoclase", 
+            "name": "Orthoclase"
+        }, 
+        {
+            "def": "Orthogeosyncline - A geosyncline between continental and oceanic cratons containing both volcanic and non-volcanic belts.", 
+            "link": "/wiki/Orthogeosyncline", 
+            "name": "Orthogeosyncline"
+        }, 
+        {
+            "def": "Orthorhombic - Crystal structure with three perpendicular axes all of different lengths.", 
+            "link": "/wiki/Orthorhombic", 
+            "name": "Orthorhombic"
+        }, 
+        {
+            "def": "Orthosilicate - Obsolete classification based on salt of hypothetical orthosilicic acid. Cf Metasilicate", 
+            "link": "/wiki/Orthosilicate", 
+            "name": "Orthosilicate"
+        }, 
+        {
+            "def": "Oxbow lake - a crescent-shaped lake found within a floodplain or fluvial terrace created by the cut-off and abandoned of an active meander loop by the meandering of a river.", 
+            "link": "/wiki/Oxbow_lake", 
+            "name": "Oxbow lake"
+        }, 
+        {
+            "def": "Pahoehoe lava - Vesicular, basaltic lava often with ropy surface texture.", 
+            "link": "/wiki/Pahoehoe", 
+            "name": "Pahoehoe lava"
+        }, 
+        {
+            "def": "Paleocurrent - An indication of the direction of fluid flow (at the time of deposition) found in a rock.", 
+            "link": "/wiki/Paleocurrent", 
+            "name": "Paleocurrent"
+        }, 
+        {
+            "def": "Palaeozoic - the earliest of three geologic eras of the Phanerozoic Eon, spanning from roughly 541 to 252.2 million years ago. It is the longest of the Phanerozoic eras, and is subdivided into six geologic periods (from oldest to least old): the Cambrian, Ordovician, Silurian, Devonian, Carboniferous, and Permian. The Paleozoic comes after the Neoproterozoic Era of the Proterozoic Eon, and is followed by the Mesozoic Era.", 
+            "link": "/wiki/Palaeozoic", 
+            "name": "Palaeozoic"
+        }, 
+        {
+            "def": "Palagonite - an alteration product from the interaction of water with volcanic glass of chemical composition similar to basalt or from the interaction between water and basalt melt.", 
+            "link": "/wiki/Palagonite", 
+            "name": "Palagonite"
+        }, 
+        {
+            "def": "Paralithic - a weathered layer of bedrock.", 
+            "link": "/wiki/Paralithic", 
+            "name": "Paralithic"
+        }, 
+        {
+            "def": "Pegmatite - Exceptionally coarse grained igneous rock.", 
+            "link": "/wiki/Pegmatite", 
+            "name": "Pegmatite"
+        }, 
+        {
+            "def": "Pelite - (Greek Pelos, Clay) - a descriptive name for a clastic rock with a grain size of less than 1/16\u00a0mm (originally sand or silt).", 
+            "link": "/wiki/Pelite", 
+            "name": "Pelite"
+        }, 
+        {
+            "def": "Peridotite - Olive green when fresh, medium brown when weathered, saccharoidal intrusive igneous rock of mainly olivine, sometimes with pyroxene.", 
+            "link": "/wiki/Peridotite", 
+            "name": "Peridotite"
+        }, 
+        {
+            "def": "Petrology - the branch of geology that studies the origin, composition, distribution and structure of rocks.", 
+            "link": "/wiki/Petrology", 
+            "name": "Petrology"
+        }, 
+        {
+            "def": "Phenoclast - large conspicuous fragment in sediment or sedimentary rock composed of various sizes of material.", 
+            "link": "/w/index.php?title=Phenoclast&action=edit&redlink=1", 
+            "name": "Phenoclast"
+        }, 
+        {
+            "def": "Phenocryst - a relatively large crystal in an igneous rock.", 
+            "link": "/wiki/Phenocryst", 
+            "name": "Phenocryst"
+        }, 
+        {
+            "def": "Phyllite - Argillaceous rocks in a condition of metamorphism between slate and mica-schist", 
+            "link": "/wiki/Phyllite", 
+            "name": "Phyllite"
+        }, 
+        {
+            "def": "Piercing point - a feature that is cut by a fault and moved, and reconstruction of that object can show how much a fault has moved.", 
+            "link": "/wiki/Piercing_point", 
+            "name": "Piercing point"
+        }, 
+        {
+            "def": "Pitchstone - Black, opaque volcanic glass that may contain irregular, whitish clusters of minerals. Resembles pitch in appearance.", 
+            "link": "/wiki/Pitchstone", 
+            "name": "Pitchstone"
+        }, 
+        {
+            "def": "Plate tectonics (from the Greek \u03c4\u03ad\u03ba\u03c4\u03c9\u03bd; tekt\u014dn, meaning \"builder\" or \"mason\") describes the large scale motions of Earth's lithosphere.", 
+            "link": "/wiki/Plate_tectonics", 
+            "name": "Plate tectonics"
+        }, 
+        {
+            "def": "Pleistocene - the geological epoch which lasted from about 2,588,000 to 11,700 years ago, spanning the world's recent period of repeated glaciations. The Pleistocene is the first epoch of the Quaternary Period or sixth epoch of the Cenozoic Era", 
+            "link": "/wiki/Pleistocene", 
+            "name": "Pleistocene"
+        }, 
+        {
+            "def": "Pliocene - the period in the geologic timescale that extends from 5.332 million to 2.588[2] million years before present. It is the second and youngest epoch of the Neogene Period in the Cenozoic Era. The Pliocene follows the Miocene Epoch and is followed by the Pleistocene Epoch.", 
+            "link": "/wiki/Pliocene", 
+            "name": "Pliocene"
+        }, 
+        {
+            "def": "Plutonic - Rocks that crystallised at depth within the crust. Slow cooling, coarse grain size and relatively low temperature of final consolidation.", 
+            "link": "/wiki/Plutonic", 
+            "name": "Plutonic"
+        }, 
+        {
+            "def": "Plumose structure - ladder or grid patterns that occur during jointing that resemble plumes, oriented perpendicular to the stress, hence which usually form parallel to the upper and lower surfaces of the constituent rock unit.", 
+            "link": "/wiki/Joint_(geology)#Fractography", 
+            "name": "Plumose structure"
+        }, 
+        {
+            "def": "Pneumatolysis - The destructive after action of the concentrated volatile constituents of a magma, effected after the consolidation of the main body of the magma.", 
+            "link": "/wiki/Pneumatolysis", 
+            "name": "Pneumatolysis"
+        }, 
+        {
+            "def": "Polymictic -", 
+            "link": "/w/index.php?title=Polymictic_(petrology)&action=edit&redlink=1", 
+            "name": "Polymictic"
+        }, 
+        {
+            "def": "Polysynthetic twinning -", 
+            "link": "/w/index.php?title=Polysynthetic_twinning&action=edit&redlink=1", 
+            "name": "Polysynthetic twinning"
+        }, 
+        {
+            "def": "Porphyroblast - a large mineral crystal in a metamorphic rock which has grown within the finer grained groundmass.", 
+            "link": "/wiki/Porphyroblast", 
+            "name": "Porphyroblast"
+        }, 
+        {
+            "def": "Porphyry - Rock that is porphyritic, containing large and small crystals, or, in mining, a specific deposit containing widely disseminated metals, typically copper.", 
+            "link": "/wiki/Porphyry_(geology)", 
+            "name": "Porphyry"
+        }, 
+        {
+            "def": "Precambrian - Earth's history before the Phanerozoic Eon, divided into several eons of the geologic time scale. It spans from the formation of Earth about 4540 Ma (million years ago) to the beginning of the Cambrian Period, about 541.0 \u00b1 1.0 Ma, when macroscopic hard-shelled animals first appeared in abundance.", 
+            "link": "/wiki/Precambrian", 
+            "name": "Precambrian"
+        }, 
+        {
+            "def": "Prograde metamorphism - mineral changes in rocks under increasing pressure and/or temperature conditions", 
+            "link": "/wiki/Prograde_metamorphism", 
+            "name": "Prograde metamorphism"
+        }, 
+        {
+            "def": "Protolith - the source rock from which a metamorphic, or in some rare cases a sedimentary, rock was formed. In most cases the appropriate sedimentary term is \"provenance\" rather than \"protolith\", since the material has been transported.", 
+            "link": "/wiki/Protolith", 
+            "name": "Protolith"
+        }, 
+        {
+            "def": "Psammite - (Greek Psammos, Sand) - a general term for a sandstone, most often used to describe a metamorphosed rock unit with a dominantly sandstone protolith.", 
+            "link": "/wiki/Psammite", 
+            "name": "Psammite"
+        }, 
+        {
+            "def": "Pseudomatrix - weaker material (mainly lithic fragments) that become crushed and become matrix in a rock.", 
+            "link": "/wiki/Pseudomatrix", 
+            "name": "Pseudomatrix"
+        }, 
+        {
+            "def": "Pumice - Light-coloured highly vesicular volcanic rock of very low density.", 
+            "link": "/wiki/Pumice", 
+            "name": "Pumice"
+        }, 
+        {
+            "def": "Pyroclastic flow - a fast-moving current of hot gas and rock (collectively known as tephra), which normally hugs the ground and travels downhill, or spreads laterally under gravity.", 
+            "link": "/wiki/Pyroclastic_flow", 
+            "name": "Pyroclastic flow"
+        }, 
+        {
+            "def": "Pyroclastics - volcanic fragments - Volcanic bomb, Breadcrust bomb, Achnelith.", 
+            "link": "/wiki/Pyroclastics", 
+            "name": "Pyroclastics"
+        }, 
+        {
+            "def": "Pyroxene group - A number of mineral species which although falling into different systems (orthorhombic, monoclinic and triclinic) are closely related in form and structure. They are metasilicates of Calcium, magnesium and iron with manganese, and less often with sodium, potassium, zirconium and fluorine.", 
+            "link": "/wiki/Pyroxene", 
+            "name": "Pyroxene group"
+        }, 
+        {
+            "def": "Pyroxenite - A coarse grained holocrystalline igneous rock, consisting mainly of pyroxenes. It may contain biotite, hornblende or olivine as accessories", 
+            "link": "/wiki/Pyroxenite", 
+            "name": "Pyroxenite"
+        }, 
+        {
+            "def": "Quartzite - Compact, hard, very fine-grained white to creamy white rock, which breaks into sharp angular fragments. Quartzite is always associated with other metamorphic rocks, while cemented sandstone is always associated with other sedimentary rocks.", 
+            "link": "/wiki/Quartzite", 
+            "name": "Quartzite"
+        }, 
+        {
+            "def": "Quaternary - The Quaternary Period is the most recent of the three periods of the Cenozoic Era in the geologic time scale of the ICS. It follows after the Neogene Period, spanning 2.588 \u00b1 0.005 million years ago to the present.", 
+            "link": "/wiki/Quaternary", 
+            "name": "Quaternary"
+        }, 
+        {
+            "def": "Regional metamorphism - Over wide areas resulting from deep burial with consequent rise in temperature and static pressure, usually with the help of folding movements that accompany the formation of mountain ranges", 
+            "link": "/wiki/Regional_metamorphism", 
+            "name": "Regional metamorphism"
+        }, 
+        {
+            "def": "Reticulite - Lightest rock known. A basaltic pumice in which the walls of the vesicles have collapsed, leaving a network of fine, interconnecting glass threads.", 
+            "link": "/wiki/Reticulite", 
+            "name": "Reticulite"
+        }, 
+        {
+            "def": "Retrograde metamorphism - the reconstitution of a rock via revolatisation under decreasing temperatures (and usually pressures), allowing the mineral assemblages formed in prograde metamorphism to revert to those more stable at less extreme conditions.", 
+            "link": "/wiki/Retrograde_metamorphism", 
+            "name": "Retrograde metamorphism"
+        }, 
+        {
+            "def": "Reverse fault - Dip-slip faults can be sub-classified into the types \"reverse\" and \"normal\". A reverse fault (or thrust fault) occurs when the crust is compressed. The hanging wall moves upward, relative to the footwall.", 
+            "link": "/wiki/Reverse_fault", 
+            "name": "Reverse fault"
+        }, 
+        {
+            "def": "Rhyolite - Aphantitic, buff to greyish flow-banded rock, often containing spherulites or phenocrysts of quartz and feldspar.", 
+            "link": "/wiki/Rhyolite", 
+            "name": "Rhyolite"
+        }, 
+        {
+            "def": "Rift -", 
+            "link": "/wiki/Rift", 
+            "name": "Rift"
+        }, 
+        {
+            "def": "Roche moutonn\u00e9e - a elongated post glacier rock shape with smoothed surface on the uphill side and a \"plucked\" surface on the downhill side.", 
+            "link": "/wiki/Roche_moutonn%C3%A9e", 
+            "name": "Roche moutonn\u00e9e"
+        }, 
+        {
+            "def": "Rudaceous - Clastic rocks. Coarse grained sedimentary rocks, conglomerates, breccias. Particle size >2mm", 
+            "link": "/wiki/Rudite", 
+            "name": "Rudaceous"
+        }, 
+        {
+            "def": "Rudite - a general term for sedimentary rocks that are composed of rounded or angular detrital grains, i.e. granules, pebbles, cobbles, and boulders, which are coarser than sand in size.", 
+            "link": "/wiki/Rudite", 
+            "name": "Rudite"
+        }, 
+        {
+            "def": "Saccharoidal - Having a texture similar to that of granulated sugar.", 
+            "link": "https://en.wiktionary.org/wiki/Saccharoidal", 
+            "name": "Saccharoidal"
+        }, 
+        {
+            "def": "Saldanian (orogeny) -", 
+            "link": "/w/index.php?title=Saldanian&action=edit&redlink=1", 
+            "name": "Saldanian (orogeny)"
+        }, 
+        {
+            "def": "Sandstone - Sand (with grains up to 2\u00a0mm in diameter) in which the grains are cemented together by secondary silica or calcite. Maybe loosely cemented and soft or well cemented and hard. Buff to brownish; sometimes reddish, due to presence of iron oxides, or greenish, due to presence of glauconite.", 
+            "link": "/wiki/Sandstone", 
+            "name": "Sandstone"
+        }, 
+        {
+            "def": "Sanidine - A form of potash feldspar identical in composition with orthoclase but physically different, formed under different conditions and occurring in different rock types. It is the high temperature form of orthoclase, into which it inverts at 900\u00b0C. Occurs in lavas and dyke rocks.", 
+            "link": "/wiki/Sanidine", 
+            "name": "Sanidine"
+        }, 
+        {
+            "def": "Schist - group of medium-grade metamorphic rocks, chiefly notable for the preponderance of lamellar minerals such as micas, chlorite, talc, hornblende, graphite, and others. In the French, schist must be understood as shale.", 
+            "link": "/wiki/Schist", 
+            "name": "Schist"
+        }, 
+        {
+            "def": "Sediment trap - a depression where sediments substantially accumulate over time.", 
+            "link": "/wiki/Sediment_trap_(geology)", 
+            "name": "Sediment trap"
+        }, 
+        {
+            "def": "Sequence (geology) - a sequence of geological events, processes, or rocks, arranged in chronological order.", 
+            "link": "/wiki/Sequence_(geology)", 
+            "name": "Sequence (geology)"
+        }, 
+        {
+            "def": "Sericite - A white potash-mica, like muscovite in chemical composition and general character but occurring as a secondary mineral, often as a decomposition product of orthoclase.", 
+            "link": "/wiki/Sericite", 
+            "name": "Sericite"
+        }, 
+        {
+            "def": "Shale - a fine-grained, clastic sedimentary rock composed of mud that is a mix of flakes of clay minerals and tiny fragments (silt-sized particles) of other minerals, especially quartz and calcite.", 
+            "link": "/wiki/Shale", 
+            "name": "Shale"
+        }, 
+        {
+            "def": "Shear zone - a tabular to sheetlike, planar or curviplanar zone composed of rocks that are more highly strained than rocks adjacent to the zone. See also Fault.", 
+            "link": "/wiki/Shear_zone", 
+            "name": "Shear zone"
+        }, 
+        {
+            "def": "Shield - a large area of exposed Precambrian crystalline igneous and high-grade metamorphic rocks that form tectonically stable areas", 
+            "link": "/wiki/Shield_(geology)", 
+            "name": "Shield"
+        }, 
+        {
+            "def": "Silcrete - an indurated soil duricrust formed when surface sand and gravel are cemented by dissolved silica.", 
+            "link": "/wiki/Silcrete", 
+            "name": "Silcrete"
+        }, 
+        {
+            "def": "Silt - granular material of a size somewhere between sand and clay whose mineral origin is quartz and feldspar. Silt may occur as a soil or as suspended sediment (also known as suspended load) in a surface water body. It may also exist as soil deposited at the bottom of a water body.", 
+            "link": "/wiki/Silt", 
+            "name": "Silt"
+        }, 
+        {
+            "def": "Slate - very fine-grained sedimentary rock of the clay or silt grade which as a consequence of regional metamorphism has developed a slaty cleavage.", 
+            "link": "/wiki/Slate", 
+            "name": "Slate"
+        }, 
+        {
+            "def": "Slaty cleavage - The property of splitting easily along regular, closely spaced planes of fissility, produced by pressure in fine grained rocks, the cleavage planes lying in the directions of maximum elongation of the mass.", 
+            "link": "/wiki/Slaty_cleavage", 
+            "name": "Slaty cleavage"
+        }, 
+        {
+            "def": "Slickenside - a smoothly polished surface caused by frictional movement between rocks along the two sides of a fault. This surface is normally striated in the direction of movement.", 
+            "link": "/wiki/Slickenside", 
+            "name": "Slickenside"
+        }, 
+        {
+            "def": "Slump - a form of mass wasting that occurs when a coherent mass of loosely consolidated materials or rock layers moves a short distance down a slope.", 
+            "link": "/wiki/Slump_(geology)", 
+            "name": "Slump"
+        }, 
+        {
+            "def": "Soil liquefaction - process describing the behavior of soils that, when loaded, suddenly suffer a transition from a solid state to a liquefied state, or having the consistency of a heavy liquid.", 
+            "link": "/wiki/Soil_liquefaction", 
+            "name": "Soil liquefaction"
+        }, 
+        {
+            "def": "Sorting - Sorting describes the distribution of grain size of sediments, either in unconsolidated deposits or in sedimentary rocks. Very poorly sorted indicates that the sediment sizes are mixed (large variance); whereas well sorted indicates that the sediment sizes are similar (low variance).", 
+            "link": "/wiki/Sorting_(sediment)", 
+            "name": "Sorting"
+        }, 
+        {
+            "def": "Sphene - Titanite, or sphene, is a calcium titanium nesosilicate mineral.", 
+            "link": "/wiki/Sphene", 
+            "name": "Sphene"
+        }, 
+        {
+            "def": "Staurolite - a red brown to black, mostly opaque, nesosilicate mineral with a white streak.", 
+            "link": "/wiki/Staurolite", 
+            "name": "Staurolite"
+        }, 
+        {
+            "def": "Strain - A change in the volume or shape of a rock mass in response to stress", 
+            "link": "/wiki/Deformation_(mechanics)", 
+            "name": "Strain"
+        }, 
+        {
+            "def": "Stylolite - an irregular discontinuity or non-structural fracture in limestone and other sedimentary rocks. Stylolites result from compaction and pressure solution during diagenesis.", 
+            "link": "/wiki/Stylolite", 
+            "name": "Stylolite"
+        }, 
+        {
+            "def": "Surficial - Of or pertaining to the surface.", 
+            "link": "https://en.wiktionary.org/wiki/Surficial", 
+            "name": "Surficial"
+        }, 
+        {
+            "def": "Syenite - A coarse grained igneous rock of intermediate composition, composed essentially of alkali-feldspar to the extent of at least two thirds of the total, with a variable content of mafic materials, of which common hornblende is characteristic.", 
+            "link": "/wiki/Syenite", 
+            "name": "Syenite"
+        }, 
+        {
+            "def": "Syncline - Geological fold with strata dipping inwards towards fold axis", 
+            "link": "/wiki/Syncline", 
+            "name": "Syncline"
+        }, 
+        {
+            "def": "Syntaxis -", 
+            "link": "/wiki/Syntaxis", 
+            "name": "Syntaxis"
+        }, 
+        {
+            "def": "Table Mountain Group - a group of rock formations within the Cape Supergroup sequence of rocks.", 
+            "link": "/wiki/Table_Mountain_Group", 
+            "name": "Table Mountain Group"
+        }, 
+        {
+            "def": "Talus - Scree is a collection of broken rock fragments at the base of crags, mountain cliffs, volcanoes or valley shoulders that has accumulated through periodic rockfall from adjacent cliff faces. Landforms associated with these materials are often called talus deposits.", 
+            "link": "/wiki/Scree", 
+            "name": "Talus"
+        }, 
+        {
+            "def": "Tectonics - large-scale processes affecting the structure of the earth's crust.", 
+            "link": "/wiki/Tectonics", 
+            "name": "Tectonics"
+        }, 
+        {
+            "def": "Tephra - Tephra is fragmental material produced by a volcanic eruption regardless of composition, fragment size or emplacement mechanism. Once clasts have fallen to the ground they remain as tephra unless hot enough to fuse together into pyroclastic rock or tuff.", 
+            "link": "/wiki/Tephra", 
+            "name": "Tephra"
+        }, 
+        {
+            "def": "Tethys Ocean - (Greek: \u03a4\u03b7\u03b8\u03cd\u03c2) - ocean that existed between the continents of Gondwana and Laurasia during the Mesozoic era before the opening of the Indian Ocean.", 
+            "link": "/wiki/Tethys_Ocean", 
+            "name": "Tethys Ocean"
+        }, 
+        {
+            "def": "Till - Till or glacial till is unsorted glacial sediment. Glacial drift is a general term for the coarsely graded and extremely heterogeneous sediments of glacial origin. Glacial till is that part of glacial drift which was deposited directly by the glacier.", 
+            "link": "/wiki/Till", 
+            "name": "Till"
+        }, 
+        {
+            "def": "Tillite - Till which has been indurated or lithified by subsequent burial into solid rock, is known as the sedimentary rock tillite", 
+            "link": "/wiki/Tillite", 
+            "name": "Tillite"
+        }, 
+        {
+            "def": "Topography - the arrangement of the natural and artificial physical features of an area.", 
+            "link": "/wiki/Topography", 
+            "name": "Topography"
+        }, 
+        {
+            "def": "Tor - a large, free-standing residual mass (rock outcrop) that rises abruptly from the surrounding smooth and gentle slopes of a rounded hill summit or ridge crest.", 
+            "link": "/wiki/Tor_(rock_formation)", 
+            "name": "Tor"
+        }, 
+        {
+            "def": "Trachyte - A fine grained igneous rock type of intermediate composition, in most cases with little or no quartz, consisting largely of alkali-feldspars (sanidene or oligooclase) together with a small amount of coloured silicates such as diopside, horneblende, or mica.", 
+            "link": "/wiki/Trachyte", 
+            "name": "Trachyte"
+        }, 
+        {
+            "def": "Travertine - a terrestrial sedimentary rock, formed by the precipitation of carbonate minerals from solution in ground and surface waters, and/or geothermally heated hot-springs.", 
+            "link": "/wiki/Travertine", 
+            "name": "Travertine"
+        }, 
+        {
+            "def": "Triclinic - In the triclinic system, the crystal is described by vectors of unequal length, and none of the three vectors are orthogonal to another.", 
+            "link": "/wiki/Triclinic", 
+            "name": "Triclinic"
+        }, 
+        {
+            "def": "Tuff - A rock formed of compacted volcanic fragments, some of which can be distinguished by the naked eye. If the fragments are larger than the rock grades into an agglomerate.", 
+            "link": "/wiki/Tuff", 
+            "name": "Tuff"
+        }, 
+        {
+            "def": "Tundra - a vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.", 
+            "link": "/wiki/Tundra", 
+            "name": "Tundra"
+        }, 
+        {
+            "def": "Turbidite - the deposit of a turbidity current.", 
+            "link": "/wiki/Turbidite", 
+            "name": "Turbidite"
+        }, 
+        {
+            "def": "Turbidity current - a current of rapidly moving, sediment-laden water moving down a slope through water, or another fluid. The current moves because it has a higher density than the fluid through which it flows.", 
+            "link": "/wiki/Turbidity_current", 
+            "name": "Turbidity current"
+        }, 
+        {
+            "def": "Ultramafic - Almost feldspar free. Ultrabasic. [dunite, peridotite, pyroxenite]", 
+            "link": "/wiki/Ultramafic", 
+            "name": "Ultramafic"
+        }, 
+        {
+            "def": "Urchin - or sea urchin - small, spiny, globular animal belonging to the class of Echinoidea. Urchins inhabit all oceans. Their shell, or \"test\", is round and spiny, typically from 3 to 10 centimetres (1.2 to 3.9 in) across.", 
+            "link": "/wiki/Sea_urchin", 
+            "name": "Urchin"
+        }, 
+        {
+            "def": "Urgonian - shallow-water carbonate facies deposited along the northern margins of the Tethys Ocean during the Barremian and Aptian", 
+            "link": "/w/index.php?title=Urgonian&action=edit&redlink=1", 
+            "name": "Urgonian"
+        }, 
+        {
+            "def": "Vacuoles - Bubble inclusions within mineral grains (typically monocrystalline quartz), filled with liquid, liquid and gas, or gas alone. They are randomly distributed in contrast to the oriented bubble trains of 'Boehm Lamellae'", 
+            "link": "/wiki/Vacuoles", 
+            "name": "Vacuoles"
+        }, 
+        {
+            "def": "Variscan orogeny - or Hercynian orogeny - is a geologic mountain-building event caused by Late Paleozoic continental collision between Euramerica (Laurussia) and Gondwana to form the supercontinent of Pangaea.", 
+            "link": "/wiki/Variscan_orogeny", 
+            "name": "Variscan orogeny"
+        }, 
+        {
+            "def": "Varve - an annual layer of sediment or sedimentary rock.", 
+            "link": "/wiki/Varve", 
+            "name": "Varve"
+        }, 
+        {
+            "def": "Vein (geology) - Mineral filling of a fracture or other crack within a rock in a sheet-like or tabular shape.", 
+            "link": "/wiki/Vein_(geology)", 
+            "name": "Vein (geology)"
+        }, 
+        {
+            "def": "Vermiculite - a hydrous, silicate mineral that is classified as a phyllosilicate and that expands greatly when heated. Exfoliation occurs when the mineral is heated sufficiently.", 
+            "link": "/wiki/Vermiculite", 
+            "name": "Vermiculite"
+        }, 
+        {
+            "def": "Vergence (geology) - direction of overturning of asymmetric folds - matches direction of thrusting.", 
+            "link": "/wiki/Vergence_(geology)", 
+            "name": "Vergence (geology)"
+        }, 
+        {
+            "def": "Vesiculated -", 
+            "link": "/wiki/Vesicular_texture", 
+            "name": "Vesiculated"
+        }, 
+        {
+            "def": "Vitrinite - a group of macerals, that are the most common component of coal", 
+            "link": "/wiki/Vitrinite", 
+            "name": "Vitrinite"
+        }, 
+        {
+            "def": "Vitrophyre - see Pitchstone", 
+            "link": "/wiki/Vitrophyre", 
+            "name": "Vitrophyre"
+        }, 
+        {
+            "def": "Volcanic - Rocks that have crystallised from magma poured out at the surface or introduced at shallow depth. They have cooled relatively rapidly, grain size of crystals is small, some part of the melt may solidify as glass, volatiles are lost and anhydrous minerals of high temperature of crystallisation are present.", 
+            "link": "/wiki/Volcanic", 
+            "name": "Volcanic"
+        }, 
+        {
+            "def": "Volcanic bomb - Rounded or spindle-shaped rock of mainly basaltic composition ejected during eruptions.", 
+            "link": "/wiki/Volcanic_bomb", 
+            "name": "Volcanic bomb"
+        }, 
+        {
+            "def": "Vug - Small cavity in a rock filled or lined with crystals/minerals that are different from the host rock.", 
+            "link": "/wiki/Vug", 
+            "name": "Vug"
+        }, 
+        {
+            "def": "Wiggle trace - a graph that plots wave amplitudes (recorded by seismic reflection and borehole logging) as a function of time, with the positive peaks shaded in a single dark color.", 
+            "link": "/w/index.php?title=Wiggle_trace&action=edit&redlink=1", 
+            "name": "Wiggle trace"
+        }, 
+        {
+            "def": "Wolframite - (Fe,Mn)WO4 - an iron manganese tungstate mineral.", 
+            "link": "/wiki/Wolframite", 
+            "name": "Wolframite"
+        }, 
+        {
+            "def": "Xenolith - a rock fragment which becomes enveloped in a larger rock during the latter's development and hardening. In geology, the term xenolith is almost exclusively used to describe inclusions in igneous rock during magma emplacement and eruption.", 
+            "link": "/wiki/Xenolith", 
+            "name": "Xenolith"
+        }, 
+        {
+            "def": "Xenotime - a rare earth phosphate mineral, whose major component is yttrium orthophosphate (YPO4).", 
+            "link": "/wiki/Xenotime", 
+            "name": "Xenotime"
+        }, 
+        {
+            "def": "XRD - X-ray diffraction - a method of determining the arrangement of atoms within a crystal, in which a beam of X-rays strikes a crystal and diffracts into many specific directions.", 
+            "link": "/wiki/X-ray_Diffraction", 
+            "name": "XRD"
+        }, 
+        {
+            "def": "XRF - X-ray fluorescence - the emission of characteristic \"secondary\" (or fluorescent) X-rays from a material that has been excited by bombarding with high-energy X-rays or gamma rays. The phenomenon is widely used for elemental analysis and chemical analysis of minerals.", 
+            "link": "/wiki/X-ray_fluorescence", 
+            "name": "XRF"
+        }, 
+        {
+            "def": "Xyloid coal - also known as lignite, often referred to as brown coal, is a soft brown fuel with characteristics that put it somewhere between coal and peat.", 
+            "link": "/wiki/Xyloid_coal", 
+            "name": "Xyloid coal"
+        }, 
+        {
+            "def": "Yellow cake - or Yellowcake (also called urania) - a kind of uranium concentrate powder obtained from leach solutions, in an intermediate step in the processing of uranium ores.", 
+            "link": "/wiki/Yellow_cake", 
+            "name": "Yellow cake"
+        }, 
+        {
+            "def": "Young's modulus - in solid mechanics, Young's modulus, also known as the tensile modulus, is a measure of the stiffness of an isotropic elastic material. It is defined as the ratio of the uniaxial stress over the uniaxial strain in the range of stress in which Hooke's Law holds.", 
+            "link": "/wiki/Young%27s_modulus", 
+            "name": "Young's modulus"
+        }, 
+        {
+            "def": "Ypresian - In the geologic timescale the Ypresian is the oldest age or lowest stratigraphic stage of the Eocene. It spans the time between ~56 Ma and ~49 Ma (million years ago).", 
+            "link": "/wiki/Ypresian", 
+            "name": "Ypresian"
+        }, 
+        {
+            "def": "Zeolite - microporous, aluminosilicate minerals commonly used as adsorbent.", 
+            "link": "/wiki/Zeolite", 
+            "name": "Zeolite"
+        }, 
+        {
+            "def": "Zircon - a zirconium silicate mineral belonging to the group of nesosilicates. Its corresponding chemical formula is ZrSiO4.", 
+            "link": "/wiki/Zircon", 
+            "name": "Zircon"
+        }
+    ]
+}
